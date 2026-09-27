@@ -9,8 +9,8 @@
       202
     ],
     "family_qa_path": "qa/families/corpse-queen-0198-0202.md",
-    "family_qa_sha": "fb506d016902b863286ef630d41425b777dd0743",
-    "status": "pass"
+    "family_qa_sha": "dbcb2114334d4df17f749d84d708a30674be0374",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/200.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0200.md",
-    "blob_sha": "30757a858c04c47a6ae65901f0aa8393964b828b"
+    "blob_sha": "0d3ddd55782cbf348ef988748d3241e0f756009a"
   },
   "qa": {
     "path": "qa/chapter-0200.md",
-    "blob_sha": "aa8c5da3e0cb49d6c5aa5d8351813174ae70a087",
-    "status": "pass"
+    "blob_sha": "d70ce7eeb94dbd4e33f08d9fcd65e8b1b6e7e04a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/203.txt",
     "chinese_sha": "acd7fa44938fcb72c31431a2e4a93b2ec4ad8fc7",
     "english_path": "source/chapters/chapter-201.xhtml",
     "english_sha": "1837e0dd89b14ce0defcd2ab77b7d97cf24971ea",
     "purpose": "both begin Mixed Bath (1), target203"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      198,
+      202
+    ],
+    "manuscript_changed": true,
+    "note": "restored omitted Lich-window age/funeral/Abyss material"
   }
 }

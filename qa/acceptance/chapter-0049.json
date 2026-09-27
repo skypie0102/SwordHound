@@ -2,8 +2,8 @@
   "chapter": 49,
   "title": "The Husband Hunt (4)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_fandom_canonical",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase4",
   "title_family": {
     "name": "The Husband Hunt",
     "range": [
@@ -11,7 +11,7 @@
       51
     ],
     "family_qa_path": "qa/families/husband-hunt-0046-0051.md",
-    "family_qa_sha": "e0cb8241dea5dc85bd60feb72b992993b04c4689",
+    "family_qa_sha": "c68d6387dad0e0024c2d45396b7abd4b28b922cd",
     "status": "pass"
   },
   "evidence": {
@@ -22,9 +22,9 @@
     "draft_path": "manuscript/drafts/chapter-0049.md",
     "draft_sha": "8d6f0d7d9fec645a15ce543f15f62e8685171120",
     "qa_path": "qa/chapter-0049.md",
-    "qa_sha": "afbb2799aac3c017b0fd8f7fe993e06b71b2d044",
+    "qa_sha": "0bdfb9791fe11a07b406b0415a97510f1b9a9d8d",
     "provenance_path": "editorial/provenance/chapter-0049.json",
-    "provenance_sha": "ce2551e42469aa91deaa6b49b73a8d10758b4684"
+    "provenance_sha": "b3fc19ad25b7fd8be9cbaf700df1df285f1c69fa"
   },
   "canonical_checks": [
     "Aiyen",
@@ -39,5 +39,12 @@
     "Recovered English is promoted only for the verified missing connective block at the Chinese raw gap.",
     "The coercive husband-hunt custom is not romanticized or sanitized.",
     "Later Aiyen parentage, marriage, chieftainship, and Night Fox succession are excluded."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_family_revalidation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "family reread reconfirmed the scoped source-gap restoration; no ordinary manuscript correction required"
+  }
 }

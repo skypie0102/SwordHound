@@ -9,8 +9,8 @@
       157
     ],
     "family_qa_path": "qa/families/night-shift-safety-0155-0157.md",
-    "family_qa_sha": "62cf748051afcf6df30bf9b0bef0546443fea7f3",
-    "status": "pass"
+    "family_qa_sha": "64d41f456ca46f47eecc378de37cc60cde331898",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/157.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0157.md",
-    "blob_sha": "0dc5ad3142fe6732d7367eb9f3a7a46d6648b525"
+    "blob_sha": "62a92764f5a52e98cb163e6f409515dc60a39694"
   },
   "qa": {
     "path": "qa/chapter-0157.md",
-    "blob_sha": "c78cd146303698691f030df10811be0256314806",
-    "status": "pass"
+    "blob_sha": "4463c6180eb3442e745ac6a43a3e114caeb5829f",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-26",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/158.txt",
     "chinese_sha": "d0677ff2c2c232ad017287dd0223f04b90a00d3f",
     "english_path": "source/chapters/chapter-157.xhtml",
     "english_sha": "91d67d8d59d68825a4779fe641605572fdff43ab",
     "purpose": "both begin Familiar Face (1), target158"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      155,
+      157
+    ],
+    "manuscript_changed": true,
+    "note": "restored heart-flutter, breastfeeding maternal joke, and heart-stirring Night Hound reaction"
   }
 }

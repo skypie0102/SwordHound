@@ -296,7 +296,7 @@ Dolores interpreted the sigh very differently.
 
 His breath brushed near her ear.
 
-The unfamiliar closeness made her entire body tense.
+The sensation made her whole body itch, and she shivered involuntarily.
 
 And then—
 

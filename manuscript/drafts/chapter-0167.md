@@ -50,7 +50,7 @@ Whiiiiine—
 
 solid aura spun around the blade at impossible speed.
 
-Like countless saw teeth revolving together.
+Like countless logging axes rotating together.
 
 Vikir moved Beelzebub slightly.
 
@@ -140,6 +140,8 @@ every blood vessel—
 
 every channel of mana.
 
+Her blessing dilated his blood vessels.
+
 Blood flowed faster.
 
 Mana flowed faster.
@@ -186,13 +188,13 @@ Dolores experienced the connection very differently.
 
 For a brief moment—
 
-she felt as though her existence and the Night Hound's overlapped.
+she felt as though her body and the Night Hound's body completely merged.
 
-Not physically.
+Not merely physically—
 
-Spiritually.
+but spiritually as well.
 
-A complete emotional resonance.
+A complete resonance of body and soul.
 
 For years—
 

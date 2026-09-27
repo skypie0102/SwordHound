@@ -188,6 +188,8 @@ Her appearance attracted attention at the academy and outside it.
 
 Men found excuses to accompany her volunteer work.
 
+Some did more than recoil or sneer at the sick. They would even secretly send patients away.
+
 Then they met actual suffering.
 
 Disease.

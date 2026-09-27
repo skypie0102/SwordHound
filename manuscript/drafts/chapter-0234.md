@@ -330,7 +330,9 @@ nowhere.
 
 “Training room, then.”
 
-“He works out a lot.”
+“He seems really into training.”
+
+“You can tell just by looking at his body.”
 
 Tudor.
 

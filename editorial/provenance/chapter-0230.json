@@ -9,8 +9,8 @@
       233
     ],
     "family_qa_path": "qa/families/tuition-0225-0233.md",
-    "family_qa_sha": "ef916558f9b418e478b2dbd559f541db34d75238",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "eb414a8af2119b91abf36671340b7d5545d63b9e",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/230.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0230.md",
-    "blob_sha": "d5f9fbea1d835aceefaea5d411d2052e4b0281c4"
+    "blob_sha": "dcb0a517a6ea36b8b6a10b9d735e344563adcf9a"
   },
   "qa": {
     "path": "qa/chapter-0230.md",
-    "blob_sha": "71295fdd0bf0069f0e22a066fee7ad638cb772cd",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "1157a23c0bf0ba5daeeb12c912f2e63aa15ff8ab",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -60,7 +60,7 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/234.txt",
     "chinese_sha": "ed6edd25dd6b29710bed7cce56168a7703b50cee",
@@ -79,5 +79,16 @@
     "result": "rebuilt_and_passed",
     "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
     "family_evidence": "qa/families/tuition-0225-0233.md"
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      225,
+      233
+    ],
+    "manuscript_changed": true,
+    "note": "restored nauseating burn odor and mouth/anus internal-content expulsion"
   }
 }

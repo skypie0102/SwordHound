@@ -365,7 +365,7 @@ Vikir preferred candy.
 
 He stood.
 
-His uncovered skin brushed something soft.
+He was not wearing any clothes, and his naked skin brushed something soft.
 
 A bed.
 

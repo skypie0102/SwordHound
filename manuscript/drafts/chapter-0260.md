@@ -91,7 +91,7 @@ the incomprehensible core of the higher realm.
 
 A place only someone who had truly crossed death could enter.
 
-Vikir had spent one life rejecting emotion.
+Vikir had never truly loved anyone in his life.
 
 That had taken him to the Sixth Fang.
 
@@ -132,8 +132,6 @@ Cane Corso’s dead eyes seemed deeper than darkness.
 [Belief.]
 
 [Common sense.]
-
-[Probability.]
 
 [Causality.]
 

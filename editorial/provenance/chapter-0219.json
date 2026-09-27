@@ -9,8 +9,8 @@
       219
     ],
     "family_qa_path": "qa/families/my-neck-sheath-0216-0219.md",
-    "family_qa_sha": "9f9cb7dbcfc65cbc876ad779f0058df916e80670",
-    "status": "pass"
+    "family_qa_sha": "ea001d4edd1e5a219102623181a71547d23a9f62",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/219.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0219.md",
-    "blob_sha": "d4943fa0ea13391327904fdef174543a0f0e26f4"
+    "blob_sha": "c819383a9f2fca16a9c587f85a524f8274d08768"
   },
   "qa": {
     "path": "qa/chapter-0219.md",
-    "blob_sha": "09196eb18e0db169aefef362f75705e81f201f82",
-    "status": "pass"
+    "blob_sha": "d094df5dad5667462b102864bde33ec1b0d7ed7c",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -65,12 +65,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-19",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/220.txt",
     "chinese_sha": "8f768db48cb1b62930c38bf5f924bb5176a6e63c",
     "english_path": "source/chapters/chapter-218.xhtml",
     "english_sha": "c6a798c3a8fbbda43ac8a729e6215ccf33dfcaf3",
     "purpose": "both begin That Day, Him and Me (1), target220"
+  },
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      216,
+      219
+    ],
+    "manuscript_changed": true,
+    "note": "restored explicit Rosie decapitation thought and near-wetting fear response"
   }
 }

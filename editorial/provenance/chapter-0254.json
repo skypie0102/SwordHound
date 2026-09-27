@@ -9,8 +9,8 @@
       254
     ],
     "family_qa_path": "qa/families/five-stars-0253-0254.md",
-    "family_qa_sha": "5a5057161dfd291cf7215821ea812730e23f376d",
-    "status": "pass"
+    "family_qa_sha": "b3d80f198fd92e55b02205ee9c50a8e6935dc851",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/254.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0254.md",
-    "blob_sha": "2d6f0d3ee372eb7669e308ece3fa5ff1fad4f870"
+    "blob_sha": "9a8533647020238077d477989bbc18429c00a15a"
   },
   "qa": {
     "path": "qa/chapter-0254.md",
-    "blob_sha": "0a6c875507ed532780fbfd35a43e4d25c5e30c9f",
-    "status": "pass"
+    "blob_sha": "333fccc335fa84624b2457823422ab8d50e116d9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -61,12 +61,23 @@
   ],
   "canonical_reference_limit": "Direct Fandom verification remained blocked; established glossary forms were reused and no new wiki-only forms asserted.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/255.txt",
     "chinese_sha": "fea825cdfbeeb3a4af538d6a11c9580cdca47d3e",
     "english_path": "source/chapters/chapter-253.xhtml",
     "english_sha": "a7af09a6ea4662211da44c74dafe6e902dafb0ea",
     "purpose": "target255 begins The Grave of Swords (1)"
+  },
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      253,
+      254
+    ],
+    "manuscript_changed": true,
+    "note": "restored source-explicit secret-assassination terminology for Vikir's capital mission and targets"
   }
 }

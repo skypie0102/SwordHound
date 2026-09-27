@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/393.txt` — `005e4d0ddf132189057ce0b16af57f605eb98b24`
 - English witness: **E391** — `92d20ce231b3746ad0b22a5999134900661e1007`
-- Draft: `manuscript/drafts/chapter-0393.md` — `6fbf2ceee2e9a0396525f57362b6cbb48f1c8c28`
+- Draft: `manuscript/drafts/chapter-0393.md` — `8cfde2bf5fc9af60827ad9e113bc1967171bffca`
 
 ## Checks
 - PASS — Vikir's toxin resistance remains tied to Madam Eight-Legs/accepted venom continuity; no local regeneration drift is promoted.
@@ -16,3 +16,14 @@
 - PASS — Vikir's real negotiation point is uninterrupted Level Ten construction and the blue-sphere timing.
 - PASS — Chapter ends with the claim that the Queen will come save Sakkuth.
 - LIMIT — direct Fandom verification remains unavailable/robots-blocked for unresolved source-local forms; established accepted glossary terminology is reused.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored confirmed **broken ribs and broken collarbone** and the named Level-Nine comparison set: Megidio, Lord Griffin, Aurora, Snow White, and Cinderella.
+
+The complete Worst Torture family was reread after remediation. Shifted mapping remains **390→E388 through 395→E393**; target 396/E394 begins *Dead Man Walking (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Worst Torture family QA.

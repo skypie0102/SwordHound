@@ -7,7 +7,7 @@
 
 - Primary Chinese container: `source/chinese/chapters/054.txt` — `4e16871bc046c162978c419dc585f526b37d2dc4`
 - Recovered English Chapter 54: `source/chapters/chapter-054.xhtml` — `eb3146da8a6b112d89944b9142280e8282c375d2`
-- Corrected draft: `manuscript/drafts/chapter-0054.md` — `a73d3e3b1b8767cf932fd1a98963fbd0abe6aa69`
+- Corrected draft: `manuscript/drafts/chapter-0054.md` — `274fc97929edfe3ea8d48611c9aae775e45a9297`
 - Recovered English Chapter 55: `source/chapters/chapter-055.xhtml` — `b3d243ed6bdbd0268e0281d18589d0b4c308604e`
 
 ## Boundary correction
@@ -34,3 +34,11 @@ The corrected target Chapter 54 now stops at the E54 endpoint. Its missing short
 ## Corpus implication
 
 The old exception record “target 55 Chinese raw genuinely missing; E55 sole text source” is incomplete. There is no standalone `055.txt`, but a substantial portion of target 55 survives appended inside `054.txt`. Target 55 must therefore use **hybrid evidence**: E55 for its missing opening/title boundary and Chinese 054's overlapping target-55 body wherever available.
+
+## Cycle-2 Phase 4 family revalidation / source-note cleanup
+
+**Resolved 2026-09-26.** The narrative remains unchanged and complete. The draft source note was corrected to match the already-established 54/55 overlap: `054.txt` contains target 54 plus most of target 55, with E54 supplying only the short target-54 closing gap.
+
+## Phase-4 decision
+
+**PASS at chapter level after Phase-4 review.** Final acceptance requires the refreshed Chapters 52–54 family QA.

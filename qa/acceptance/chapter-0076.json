@@ -2,8 +2,8 @@
   "chapter": 76,
   "title": "The Hound of the Night (2)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "hybrid_e75_missing_opening_plus_combined_c075_body",
+  "accepted_date": "2026-09-26",
+  "review_mode": "hybrid_e75_missing_opening_plus_combined_c075_body_cycle2_phase4",
   "title_family": {
     "name": "The Hound of the Night",
     "range": [
@@ -11,7 +11,7 @@
       77
     ],
     "family_qa_path": "qa/families/hound-night-0075-0077.md",
-    "family_qa_sha": "ddfa912df3b33b86a1ee67c4315865c7d67bafc5",
+    "family_qa_sha": "8afc4f3deba4a4e81118b3a57bcc06bb810f880d",
     "status": "pass"
   },
   "evidence": {
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-075.xhtml",
     "english_reference_sha": "68c385dab862c292c4fbf2cc571beb1b6483e9c0",
     "draft_path": "manuscript/drafts/chapter-0076.md",
-    "draft_sha": "d25cee273318020cce6b9c999cfdab91447c2795",
+    "draft_sha": "7b450065c476fc46f45385119d2e1e861752181f",
     "qa_path": "qa/chapter-0076.md",
-    "qa_sha": "966144f8bf892fd4e43f450507af2474ab19faa3",
+    "qa_sha": "536b8d5aea1623c88436579fa08273c19a410531",
     "provenance_path": "editorial/provenance/chapter-0076.json",
-    "provenance_sha": "9e927e350e2297b0249b70ce18c5cf14b77a39f6"
+    "provenance_sha": "41504db0949e5fb3d52e67dfc67eca3610411e8b"
   },
   "canonical_checks": [
     "Saint Mecca",
@@ -38,5 +38,12 @@
     "Target76 uses E75 only for the missing opening/context and C075 for surviving body.",
     "Deliberate well contamination is retained only as fictional narrative wrongdoing, without added biological instructions.",
     "Dolores target78 age/profile is chronology-blocked."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored children's terror response, Dolores status, and concrete petitioner details"
+  }
 }

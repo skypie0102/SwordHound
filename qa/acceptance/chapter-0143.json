@@ -2,8 +2,8 @@
   "chapter": 143,
   "title": "Identity of the Villain (3)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Identity of the Villain",
     "range": [
@@ -11,8 +11,8 @@
       143
     ],
     "family_qa_path": "qa/families/identity-villain-0141-0143.md",
-    "family_qa_sha": "705d07610094a35415f6e3600cba69f7583a2836",
-    "status": "pass"
+    "family_qa_sha": "6f952cdc7b0f8782f5dc3012f9fb6be45a091243",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/143.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0143.md",
     "qa_sha": "f8174ccfdc3de5dc7bd93192ec4982d9872dbaac",
     "provenance_path": "editorial/provenance/chapter-0143.json",
-    "provenance_sha": "3246618f58dce7251effb6ce434b1f56c75c3443"
+    "provenance_sha": "65b648541b41b63fc72410e060a0cdf02dc91483"
   },
   "canonical_checks": [
     "Pigi",
@@ -38,5 +38,12 @@
     "Pigi follows established project gender continuity despite isolated raw-layer pronoun noise.",
     "Quilt's later demon/Corpse identity remains spoiler-guarded.",
     "Target143 ends at Quilt being named as Vikir's next assassination target."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

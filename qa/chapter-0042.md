@@ -7,7 +7,7 @@
 
 - Primary Chinese: `source/chinese/chapters/042.txt` — `dfff190d237d8d28eee561048fdf829f686a4bc5`
 - Recovered English reference: `source/chapters/chapter-042.xhtml` — `825f9d72c7ed616bcdf154ce8ae451024ec33681`
-- Draft: `manuscript/drafts/chapter-0042.md` — `a1aa1e637ca4c989bf8af23a27b140dc7ec46617`
+- Draft: `manuscript/drafts/chapter-0042.md` — `5119e7cfca100792d08d9f4d3e8a8ef2e5716e94`
 - Boundary witness: Chinese Ch. 43 changes to *The Fiancée (1)*.
 
 ## Alignment
@@ -35,3 +35,11 @@ Chinese and recovered English Chapter 43 switch to **The Fiancée (1)** and cont
 ## Sanitization / addition check
 
 No violence in the six-way confrontation or Camus's intervention was softened. No later Fandom relationship/title material was imported before the Chinese source reveals it.
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Vikir's recollection now refers to the continuity-supported **single finger** injury rather than inventing “a few fingers.” The Chinese shorthand points back to Lowbro's previously severed right index finger; the family reread found no other completeness or sanitization defect in Chapter 42.
+
+## Decision
+
+**PASS at chapter level after Phase-4 remediation.** Final acceptance requires the refreshed Chapters 40–42 family QA.

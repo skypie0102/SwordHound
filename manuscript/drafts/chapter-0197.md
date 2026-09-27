@@ -488,25 +488,27 @@ Their target—
 
 had accumulated a ridiculous number of unofficial rankings.
 
-Most handsome boy in the Academy.
+Most handsome boy in the Academy — first place.
 
-Coolest.
+Coolest boy in the Academy — first place.
 
-Cutest.
+Sexiest boy in the Academy — first place.
 
-Most wanted for festival styling.
+Cutest boy in the Academy — first place.
 
-Most wanted to hug.
+Boy students most wanted to touch — first place.
 
-Most wanted to dress up.
+Boy students most wanted to link arms with — first place.
 
-Polls answered by—
+Boy students most wanted to take a bite of — first place.
 
-mostly girls.
+Boy students most wanted to hold while sleeping — first place.
 
-And—
+Boy students most wanted to dress as a girl — first place.
 
-a surprising number of boys.
+The polls had been answered mostly by Academy girls—
+
+and by a surprising number of boys who had joined in too.
 
 Then—
 
@@ -554,27 +556,59 @@ The students approaching him—
 
 became even more excited.
 
-“I found him!”
+“Found him! There!”
 
-“Look at his face!”
+“Wow! He's so handsome!”
 
-“I brought a custom dress!”
+“My heart's already racing!”
 
-“I've been practicing makeup for this!”
+“I'll show every bit of makeup technique I've practiced!”
 
-“I made a wig from hair I grew for years!”
+“I brought a custom-made dress!”
 
-“Move!”
+“I made a wig from hair I spent ten years growing! I used to model hairstyles in the Imperial Capital!”
 
-“First-years don't know anything!”
+“Why hasn't the lace set I ordered four weeks ago arrived yet!? Fine—I brought one I've worn before!”
 
-“Give me the eyeliner!”
+The rush toward Vikir included first-years, second-years, third-years—
 
-“I'll do the nose.”
+even fourth-years close to graduation.
 
-“I'll do the cheeks.”
+The older students slipped naturally into the first-year classroom during their free period and immediately began fighting over the job.
 
-“Split the face into zones!”
+“Move, little girl! What would a first-year know about makeup?”
+
+“Oh? Do you even know what a decisive outfit is? Have you ever had real field experience?”
+
+“A wig made from that rough hair? Move! The wig made from my hair is better. They called me the continent's Rapunzel!”
+
+“Give me that! I'm a thousand times better at nose shading!”
+
+“I'll handle the cheeks! I have five-hundred-sixty-billion kinds of cosmetics!”
+
+“Hey, leave the eyeliner to your older sister.”
+
+“Then split his face into zones! We'll each take a section!”
+
+“Hmph! I decide the color of Vikir's lower lip. Nobody interfere!”
+
+“…Lower lip? Why is my older brother here?”
+
+Cosmetics without names.
+
+Wigs.
+
+Dresses.
+
+Uniforms.
+
+Jewelry.
+
+Stockings.
+
+Chokers.
+
+Garters.
 
 Hands—
 
@@ -900,11 +934,11 @@ Dolores set him down briefly.
 
 Then resumed—
 
-picking up trash.
+picking up dog feces.
 
-Dog waste.
+Cat feces.
 
-Cat waste.
+Garbage.
 
 Cleaning a place—
 

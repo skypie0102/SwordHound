@@ -9,8 +9,8 @@
       398
     ],
     "family_qa_path": "qa/families/dead-man-walking-0396-0398.md",
-    "family_qa_sha": "45ec5003f1c8edd972f57c7039665348814d5a4c",
-    "status": "pass"
+    "family_qa_sha": "52bf167acb1086d43c17d34c747f570e29e9329c",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/396.txt",
@@ -29,9 +29,20 @@
   "qa": {
     "path": "qa/chapter-0396.md",
     "blob_sha": "0d74845a0377be35726105c409ef7bc7f3256ca0",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      396,
+      398
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

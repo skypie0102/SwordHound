@@ -9,8 +9,8 @@
       421
     ],
     "family_qa_path": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
-    "family_qa_sha": "1bbf4a98983ffe688c08887880df40912ccd2aec",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "e0c02eb8a9c634d9bc2d3cf2d7723e36f31d4a3d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/420.txt",
@@ -29,7 +29,7 @@
   "qa": {
     "path": "qa/chapter-0420.md",
     "blob_sha": "77e5fbf5376cf0216acfb3d01bb6c68d62585376",
-    "status": "pass_after_completeness_rebuild"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
   "accepted": true,
@@ -49,5 +49,16 @@
     "initial_priority_target": true
   },
   "confirmed_failure_resolution": "Confirmed completeness failure resolved by full Chinese-primary rebuild.",
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      419,
+      421
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

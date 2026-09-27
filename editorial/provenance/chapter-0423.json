@@ -9,8 +9,8 @@
       424
     ],
     "family_qa_path": "qa/families/wandering-knight-0422-0424.md",
-    "family_qa_sha": "fbb3ffbc45a63d0ccc9c93fe77f5263b65cbe608",
-    "status": "pass"
+    "family_qa_sha": "98bc6b59d0fef78ec55ee1074e05d737df2473a6",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/423.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0423.md",
-    "blob_sha": "eef5bcafee31a92f16335d32fa5ce8c6f3d5611d"
+    "blob_sha": "7c324f3e7398891526c2f43a7e9f9181b24a1d94"
   },
   "qa": {
     "path": "qa/chapter-0423.md",
-    "blob_sha": "69ebd2b558f78e2ca26721e620b04c6697cd079b",
-    "status": "pass"
+    "blob_sha": "eaec11ffc5039ca9c2e684dfd864e37becf0abe6",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      422,
+      424
+    ],
+    "manuscript_changed": true,
+    "note": "restored iron rod, watermelon-like head burst, and Shammua admiration/curiosity reaction"
+  }
 }

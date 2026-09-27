@@ -207,7 +207,7 @@ Lovegood went next.
 
 She proudly displayed a heart-shaped brooch-hairpin.
 
-“It blocks even powerful mind control or hypnosis—but only once, and only if the person you truly love is nearby!”
+“It blocks even powerful mind control or hypnosis, though its number of uses is limited—and only if the person you truly love is nearby!”
 
 It sounded less impressive than the more permanent artifacts.
 

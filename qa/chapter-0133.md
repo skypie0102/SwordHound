@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/133.txt` — `e948d42cd33e78a1da4ad882ff6442f932406edd`
 - English witness: **E132** — `cc299d9aa9e64e9b3427b90c84c8c1402881a502`
-- Draft: `manuscript/drafts/chapter-0133.md` — `a80b5d24dc9babec612fe14c63890ad1e8e98509`
+- Draft: `manuscript/drafts/chapter-0133.md` — `3e1c0ff885974ed720848a88f2317909c2ae74e4`
 
 ## Checks
 - PASS — Colosseo daily routine retains 6:00 wake-up, roughly 30 minutes of morning exercise, and 8:00 academic start.
@@ -20,3 +20,14 @@
 - PASS — Ballak-location question is presented as intentionally difficult; Tudor and Bianca give partial answers, Sinclaire gives the prevailing academic answer.
 - PASS — Sinclaire receives +10 personal attitude points and +1 Hot Department group point.
 - PASS — chapter ends with Professor Banshee singling out Vikir, whose eyes are closed at the back of class.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored the full prior-night warning: repeat misconduct means death for the six and their parents, one offender implicates the others, and Vikir had beaten the group nearly into **meat paste**.
+
+The complete Test Your Skills family was reread after remediation. Chapter 134 remains unchanged and passes both Cycle-2 content gates. Shifted mapping remains **133→E132 through 138→E137**; target 139/E138 begins *Men are Power (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Test Your Skills family QA.

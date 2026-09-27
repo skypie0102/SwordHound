@@ -386,7 +386,9 @@ Red eyes flickering.
 
 Vikir landed.
 
-Coughed blood.
+“…Cough.”
+
+Every time he opened his mouth, hot blood gushed out.
 
 That attack had taken everything.
 

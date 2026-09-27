@@ -366,9 +366,9 @@ Vikir rubbed his chin.
 
 Dolores—
 
-who had never lived as an assassin—
+who had never killed anyone—
 
-tried anyway.
+found the question difficult, but tried anyway.
 
 “Skill at killing?”
 

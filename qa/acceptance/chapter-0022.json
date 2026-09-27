@@ -2,16 +2,43 @@
   "chapter": 22,
   "title": "Camus Morgue (3)",
   "accepted": true,
-  "accepted_date": "2026-09-17",
-  "review_mode": "chinese_primary_fandom_canonical",
-  "title_family": {"name":"Camus Morgue","range":[20,25],"family_qa_path":"qa/families/camus-morgue-0020-0025.md","family_qa_sha":"a1e81033e781959beca43cbb497def66252093fc","status":"pass"},
-  "evidence": {
-    "primary_source_path":"source/chinese/chapters/022.txt","primary_source_sha":"17f6cd386ca806da124b0de11909715de7944a3f",
-    "english_reference_path":"source/chapters/chapter-022.xhtml","english_reference_sha":"e68bf780fc6fc3ea98d4db202ca550454235b894",
-    "draft_path":"manuscript/drafts/chapter-0022.md","draft_sha":"d0ac31bc3fffbf6f6c0305eec164f411dbca18d8",
-    "qa_path":"qa/chapter-0022.md","qa_sha":"b3883173f41ffd8ccb0faab7d5c6a0bf07df6831",
-    "provenance_path":"editorial/provenance/chapter-0022.json","provenance_sha":"10c994522addab394dd63b0ebb385e8a2383ee5e"
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase4",
+  "title_family": {
+    "name": "Camus Morgue",
+    "range": [
+      20,
+      25
+    ],
+    "family_qa_path": "qa/families/camus-morgue-0020-0025.md",
+    "family_qa_sha": "16c299200a789d322ef0ab5570d1ef54572b772e",
+    "status": "pass"
   },
-  "canonical_checks": ["Camus Morgue","Ironblood Empress"],
-  "documented_limits": ["Future Camus material is limited to facts explicitly narrated by Chinese Chapter 22; later wiki spoilers are excluded.","The children's close-contact embarrassment is rendered non-sexually without added erotic detail."]
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/022.txt",
+    "primary_source_sha": "17f6cd386ca806da124b0de11909715de7944a3f",
+    "english_reference_path": "source/chapters/chapter-022.xhtml",
+    "english_reference_sha": "e68bf780fc6fc3ea98d4db202ca550454235b894",
+    "draft_path": "manuscript/drafts/chapter-0022.md",
+    "draft_sha": "21ea5be191bbaf122314aa599c198f4b4c771ff4",
+    "qa_path": "qa/chapter-0022.md",
+    "qa_sha": "47cf4eeca57a9e497504bc8455cf055649fe80ce",
+    "provenance_path": "editorial/provenance/chapter-0022.json",
+    "provenance_sha": "6fb4a1c78d030c7a051dd35267b6c257abb02c43"
+  },
+  "canonical_checks": [
+    "Camus Morgue",
+    "Ironblood Empress"
+  ],
+  "documented_limits": [
+    "Future Camus material is limited to facts explicitly narrated by Chinese Chapter 22; later wiki spoilers are excluded.",
+    "The children's close-contact embarrassment is rendered non-sexually without added erotic detail."
+  ],
+  "prior_accepted_date": "2026-09-17",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored future-adult Camus explicit political-seduction characterization"
+  }
 }

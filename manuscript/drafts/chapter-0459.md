@@ -172,7 +172,9 @@ Tore him apart.
 
 When they finally stopped—
 
-only half of Vikir’s body remained.
+only the upper half of Vikir’s body remained—
+
+rolling across the ground like garbage.
 
 The Harvester stared down.
 

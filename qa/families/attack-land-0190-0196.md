@@ -20,10 +20,10 @@ The rebuild also preserves two previously verified source-level continuity repai
 
 | Target | Chinese SHA | English witness | English SHA | Rebuilt draft SHA | Rebuilt QA SHA |
 |---|---|---|---|---|---|
-| 190 | `090ea8b431f3d46a7c53469a4f2c0b4c621eef38` | E188 | `14dcf17305b925b422bc79656578fb236858c9c3` | `4947fe8cc91d74f0f7f51db1d73afddb722cb3fa` | `cf9e56751ea3deacd907ca70c6fa74c70769e6d7` |
-| 191 | `a901d71af0594ec76c52f8166d35bf56a5417663` | E189 | `fb919bfe6cdd57b3460cef02c6c002e715505c2e` | `845c49feb18fded4b0d57c1b6d572155aa1755d4` | `cc14a9243f095d5b2977deee85b4d2ea0e9be691` |
-| 192 | `0b25e79b8278c1aa844e684f4128c2504a18f00d` | E190 | `a76086f60e184689100e07137fad0f9652f720c0` | `770b1c0f1df669cf40a429b538ce73c3a470bdfb` | `66d1b0b6f1fa5f81b79ba5af7f76a39f410ed747` |
-| 193 | `1b7fad2dfaa9441e47d1cd11badbf3e567432b1d` | E191 | `acd22faad36952bce721780139ef55fffd16ef89` | `9cc370aad266f8adff8cb85cf807e4c217120671` | `40915d387dbaa8f3c9f9d70c0a3febb10631fc62` |
+| 190 | `090ea8b431f3d46a7c53469a4f2c0b4c621eef38` | E188 | `14dcf17305b925b422bc79656578fb236858c9c3` | `663085d1abb1fa10a817b9647c326ce650757850` | `1c50ab9c7a6a57fe670cb1c3bf61024b3550c0ba` |
+| 191 | `a901d71af0594ec76c52f8166d35bf56a5417663` | E189 | `fb919bfe6cdd57b3460cef02c6c002e715505c2e` | `bc9914a26e0ef1c568132d578ff8b7acfa3f7d78` | `8cf9cc5a8a0f38e19680d1be38413f154bdef33e` |
+| 192 | `0b25e79b8278c1aa844e684f4128c2504a18f00d` | E190 | `a76086f60e184689100e07137fad0f9652f720c0` | `36f7488c32f5927b1f1a0d6ba087da2a51f16666` | `6889eb39ca2e4de217c433d772bb90e7c720ca7c` |
+| 193 | `1b7fad2dfaa9441e47d1cd11badbf3e567432b1d` | E191 | `acd22faad36952bce721780139ef55fffd16ef89` | `fe2779552cdbea14b5de2ffe435915b16ccf6001` | `9fc7e5b5613861588d3d50c764e27e2f446e0d65` |
 | 194 | `caa0c3d07843b01939aea183868740924932f70c` | E192 | `d36b9ac59f5fdf139a017b372bd4e982b2c3ae77` | `a9ad6de01683523f1480823ee835238dd0d44241` | `34e4bdb6c3e41b4f34eccb7c2d2ef7fb7b1d2a10` |
 | 195 | `3f9d91dee6bfc457ab82b461fa0b885c52514697` | E193 | `5dd2968d1beaa5f2a25f4794b4ff8599991df421` | `8c53c8381721d746077007c76b18be6f526ce6cd` | `be6835c793758b943981a8e4b1fa3879f0d5a142` |
 | 196 | `412e1f447badbaecf027d33c2fb7e6e1e6a02c3f` | E194 | `99410e31d62178c8fe30f6498f2586434078fbad` | `0ee756fbf72362c6d67bf44474f7db8c77fd2c46` | `6d7fde119ee9356b239a5de9d0e082ffc3f3127e` |
@@ -82,3 +82,20 @@ Mapping remains **190→E188 through 196→E194**.
 ## Verdict
 
 **PASS.** Chapters 190–196 have been rebuilt for complete source coverage. Priority targets **192 and 196** are resolved. The completeness audit advances to the next priority-containing family.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 190 removes the later Chapter-192 remote-body synchronization details that had been duplicated too early, retaining only the source's distance-sense obstacle.
+- Chapter 191 restores Sadi biting off her own finger ends while drunk, former students wetting themselves at her laughter, and the **blood flow like a river** cruelty image.
+- Chapter 192 restores that **all** of Sinclaire's ribs are broken, with some driven into internal organs.
+- Chapter 193 restores Granola's teeth **cracking** as he watches Sinclaire carried away in pain.
+- Chapters 194–196 were reread against their Chinese-primary sources and remain complete without manuscript changes.
+- Sanitization fidelity and completeness were rerun across Chapters 190–196.
+- Shifted mapping remains **190→E188 through 196→E194**; target 197/E195 begins *Preparing for the Festival*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Preparing for the Festival (197)**.

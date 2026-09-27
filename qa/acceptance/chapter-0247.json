@@ -2,8 +2,8 @@
   "chapter": 247,
   "title": "Survival Contest (3)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Survival Contest",
     "range": [
@@ -11,8 +11,8 @@
       249
     ],
     "family_qa_path": "qa/families/survival-contest-0245-0249.md",
-    "family_qa_sha": "f7eb9e854fc1be7fb6d98d2c9a86e65449c09282",
-    "status": "pass"
+    "family_qa_sha": "1d9204cc4da5b32c361e247c4f705b228df68695",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/247.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-245.xhtml",
     "english_reference_sha": "ec107d03414ac032b0dbc5fc19f738c64df25ad1",
     "draft_path": "manuscript/drafts/chapter-0247.md",
-    "draft_sha": "2d8802daa24a28bb65afe1f8844032f31dbd00ae",
+    "draft_sha": "4354258f3985222f9f16eca7d0ab08e236d289e9",
     "qa_path": "qa/chapter-0247.md",
-    "qa_sha": "69875bcbfaaf950eb44153dc313e963a0b7f36aa",
+    "qa_sha": "4c90c9e51f163fccbe20f605cce06b4b0d173db8",
     "provenance_path": "editorial/provenance/chapter-0247.json",
-    "provenance_sha": "29967fc89040570e7d1bf423d7cf6b31ba94afec"
+    "provenance_sha": "07b79d5dfaa5f3f8eb4c39ff0ae3cf21fc45ae14"
   },
   "canonical_checks": [
     "Vikir",
@@ -45,5 +45,12 @@
     "Night Hound lamb echo does not trigger identity recognition.",
     "Thousand Flames epithet is not backfilled before target248."
   ],
-  "next_family_alignment_note": "Target250→E248 begins Recap (1); targets250–252 align to E248–E250, with Chinese C252 titled Celebration Banquet (3) while E250 groups it as Recap (3)."
+  "next_family_alignment_note": "Target250→E248 begins Recap (1); targets250–252 align to E248–E250, with Chinese C252 titled Celebration Banquet (3) while E250 groups it as Recap (3).",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored Dolores's red stew mark while eating"
+  }
 }

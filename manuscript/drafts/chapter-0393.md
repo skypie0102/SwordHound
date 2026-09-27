@@ -28,7 +28,9 @@ Blood.
 
 Breath.
 
-That reputation alone had made some senior guards argue he belonged on Level Nine.
+His danger was compared with Level Nine prisoners such as **Megidio, Lord Griffin, Aurora, Snow White, and Cinderella**.
+
+That reputation had made some senior guards argue he belonged on Level Nine.
 
 And Garam—
 
@@ -88,9 +90,9 @@ She hit the ground hard.
 
 Coughed blood.
 
-Her ribs hurt.
+Her ribs were broken.
 
-Her collarbone felt fractured.
+Her collarbone was broken.
 
 Her face had gone pale from near strangulation.
 

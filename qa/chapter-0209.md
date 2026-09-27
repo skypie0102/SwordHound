@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/209.txt` — `771d61bea5c091aed86586d6e389bb853e133e5c`
 - English witness: **E207** — `24a49945062468e6e06296172028b726337eb98f`
-- Draft: `manuscript/drafts/chapter-0209.md` — `45acb2594af6284b5d498033a352e03a51ecd3df`
+- Draft: `manuscript/drafts/chapter-0209.md` — `4c25520bcb66eb497f51893be73d76f5b0a04f08`
 
 ## Checks
 - PASS — masked visitor is **Osiris Le Baskerville**, Hugo's legitimate heir.
@@ -23,3 +23,14 @@
 - PASS — whether Cindywendy truly forgave Baskerville remains explicitly her own internal matter.
 - PASS — Andromalius artifact is source-window rendered **Ring of Divine Inviolability**; current Fandom lists it generically as a Ring and confirms ability name **Finit hic Deus**.
 - PASS — ring can create a hidden/subspace barrier beyond Rune's ordinary gaze.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved/revalidated 2026-09-27.** Restored Pomeranian rubbing her face against Vikir and wetting his abdomen with tears; corrected unsupported “lost their heads” wording to source-supported generic execution.
+
+The complete Festival Night family was reread. Mapping remains **206→E204 through 215→E213**; target **216→E214** begins *My Neck Will Be Your Sheath (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Festival Night family QA.

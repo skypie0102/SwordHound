@@ -9,8 +9,8 @@
       290
     ],
     "family_qa_path": "qa/families/power-inflation-0283-0290.md",
-    "family_qa_sha": "78ddf6929302c374c314a92bce47d49d262f96b3",
-    "status": "pass"
+    "family_qa_sha": "a73a5c489bd327a448d1b07e98682677ec0445a4",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/287.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0287.md",
-    "blob_sha": "3d5bf477e87d5a829d09131758f578b89b5dba63"
+    "blob_sha": "46bbca0ae8b6883e4c688562735498482784d354"
   },
   "qa": {
     "path": "qa/chapter-0287.md",
-    "blob_sha": "1b7a456a3d81eea8c2c34c36b7d828b9d9736f9a",
-    "status": "pass"
+    "blob_sha": "3f1f2263e0bef1b1bc93003cd724ab598a70aaeb",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain pending direct access.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      283,
+      290
+    ],
+    "manuscript_changed": true,
+    "note": "restored exposed-skin and parasite-burrowing/bloodsucking detail"
+  }
 }

@@ -9,8 +9,8 @@
       350
     ],
     "family_qa_path": "qa/families/key-man-0348-0350.md",
-    "family_qa_sha": "110ff172bc3f1dade8afa6cc0191200eb7e19227",
-    "status": "pass"
+    "family_qa_sha": "56c2212b539fa289c866953613a545f356e3180d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/350.txt",
@@ -24,16 +24,16 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0350.md",
-    "blob_sha": "084d512e30c02cb7d3d6e5076205f1afc4f1bbe5"
+    "blob_sha": "e012c66c8ba7091539a6ddb4794fa84634dae138"
   },
   "qa": {
     "path": "qa/chapter-0350.md",
-    "blob_sha": "e0e6e188de3cdbc929aefa0dd60b3b99a1488203",
-    "status": "pass"
+    "blob_sha": "2cbed5cb639ee362ce7b9e87eedba6c6bf7f38a6",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local terms are not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
+  "accepted_date": "2026-09-27",
   "stat_checkpoint": {
     "level": 100,
     "strength": 99941,
@@ -42,5 +42,16 @@
     "physical_resistance": 99941,
     "magic_resistance": 99941,
     "reflexes": 99941
+  },
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      348,
+      350
+    ],
+    "manuscript_changed": true,
+    "note": "restored dripping flesh/internal-organ fairy detail and complete seven-entry Titles field"
   }
 }

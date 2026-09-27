@@ -2,8 +2,8 @@
   "chapter": 218,
   "title": "My Neck Will Be Your Sheath (3)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "My Neck Will Be Your Sheath",
     "range": [
@@ -11,8 +11,8 @@
       219
     ],
     "family_qa_path": "qa/families/my-neck-sheath-0216-0219.md",
-    "family_qa_sha": "9f9cb7dbcfc65cbc876ad779f0058df916e80670",
-    "status": "pass"
+    "family_qa_sha": "ea001d4edd1e5a219102623181a71547d23a9f62",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/218.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0218.md",
     "qa_sha": "3b6e33f6b1f730b8d821c3c4c3bdf730e91680ec",
     "provenance_path": "editorial/provenance/chapter-0218.json",
-    "provenance_sha": "2d5e3ddbe492919d0649826f8a17cb4c29df4efa"
+    "provenance_sha": "145d96dc6e71aa8188afe89fa7b15a192af64f1e"
   },
   "canonical_checks": [
     "Camus Morgue",
@@ -41,5 +41,12 @@
     "Pomeranian comparison is protective feeling only; avoid raw kinship/gender drift.",
     "Breakthrough occurs without Dolores's external buff."
   ],
-  "next_family_alignment_note": "Targets220-224→E218-E222 are That Day, Him and Me (1)-(5). Target225→E223 begins Tuition (1)."
+  "next_family_alignment_note": "Targets220-224→E218-E222 are That Day, Him and Me (1)-(5). Target225→E223 begins Tuition (1).",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

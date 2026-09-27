@@ -162,11 +162,9 @@ One of the men who had escorted Vikir to Nouvelle Vague years earlier.
 
 The last time Bianca knew of him—
 
-Pedro should have been crippled.
+Pedro should already have had all four limbs cut off.
 
-Imprisoned.
-
-Buried in a dungeon.
+He should have been imprisoned underground.
 
 Instead—
 

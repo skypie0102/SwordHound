@@ -2,8 +2,8 @@
   "chapter": 103,
   "title": "Nostalgia (3)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Nostalgia",
     "range": [
@@ -11,8 +11,8 @@
       104
     ],
     "family_qa_path": "qa/families/nostalgia-0101-0104.md",
-    "family_qa_sha": "14d09c863dcb4463cc49297ed22adf2203592d18",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "e870a99143b4ab7b382b49df959758e3d3c009e9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/103.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-102.xhtml",
     "english_reference_sha": "8f56167764313a2fc68b17b440fd211cff82f092",
     "draft_path": "manuscript/drafts/chapter-0103.md",
-    "draft_sha": "eeec63b8ef6d3f69d8a643c12edb2c90fb2fedaa",
+    "draft_sha": "fa7a19fe4df228091351364951bbbddf1ba561d5",
     "qa_path": "qa/chapter-0103.md",
-    "qa_sha": "8cda10ed1a6be9146d8d59f74af32cb8c2b6749c",
+    "qa_sha": "02e12a17e3dff534ea8f42dec32c5c13d6653131",
     "provenance_path": "editorial/provenance/chapter-0103.json",
-    "provenance_sha": "56d0addc0163fd2dc511c38050655c2dd42f6c8a"
+    "provenance_sha": "704df4ee03da6dfa7083220ee383d296082b9655"
   },
   "canonical_checks": [
     "Aiyen",
@@ -49,5 +49,12 @@
     "reviewed_date": "2026-09-20",
     "result": "rebuilt_and_passed",
     "family_evidence": "qa/families/nostalgia-0101-0104.md"
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored 7-8 month cycle and source-specific reproductive statement"
   }
 }

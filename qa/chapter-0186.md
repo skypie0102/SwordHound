@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/186.txt` — `50e4d6ed09229936a98c12da53190591ce11a402`
 - English witness: **E184** — `7a87123315c4960cbf6dfccad9c5c8d866636f5c`
-- Draft: `manuscript/drafts/chapter-0186.md` — `bd5b059d45d07d8b89ff7c8a885ac7a5535fd6a8`
+- Draft: `manuscript/drafts/chapter-0186.md` — `c5a33444c10c049d0331bd268f267c37d43bbda9`
 
 ## Checks
 - PASS — Professor Sadi is found drunk off-campus with barrier Key B; Professor Banshee Morgue orders the key recovered and wall opened.
@@ -23,3 +23,14 @@
 - PASS — Central Clocktower and Royal Martyrs' Cemetery attacks occurred while Vikir was writing his midterm report, providing a clean alibi.
 - PASS — Vikir decides to inspect the copycats because they create security/route conflicts, not because their crimes are secretly his.
 - PASS — chapter ends on Sinclaire appearing unexpectedly on the rooftop.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the Central Clocktower death-toll reference and distinct public reactions that the strategy helps explain the score, the result remains extraordinary, and even a graduating four-person team might not match it.
+
+The complete Aftermath family was reread after remediation. Shifted mapping remains **186→E184 through 189→E187**; target 190/E188 begins *Attack Land (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Aftermath family QA.

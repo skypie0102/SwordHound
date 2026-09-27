@@ -72,11 +72,17 @@ The previous night returned to him.
 
 His warning.
 
+“If you cause trouble inside the Academy again, not only you—your parents will be killed too.”
+
+And another warning after it.
+
+“If news comes that one of your whole families was wiped out, it will be because of what you did.”
+
+“One person causes trouble, and the others will be implicated with him.”
+
 The mark he had left.
 
-The certainty that if they continued harassing people—
-
-the Night Hound would return.
+The beating that had nearly reduced all six second-years to meat paste.
 
 *That should be enough.*
 

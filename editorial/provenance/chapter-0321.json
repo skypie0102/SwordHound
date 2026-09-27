@@ -9,8 +9,8 @@
       325
     ],
     "family_qa_path": "qa/families/underdogma-0321-0325.md",
-    "family_qa_sha": "43e8526ecc65f43bfa970d7641c90bcb77a19cb0",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "3e5376a445631aaafe49b0617288af3b0b058d93",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/321.txt",
@@ -29,11 +29,11 @@
   "qa": {
     "path": "qa/chapter-0321.md",
     "blob_sha": "577ca8a6989eb25db5303f90141f4e362dc62211",
-    "status": "pass_after_completeness_rebuild"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/race forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "historical_acceptance": {
     "accepted": true,
     "accepted_date": "2026-09-19",
@@ -47,5 +47,16 @@
     "family_evidence": "qa/families/underdogma-0321-0325.md",
     "initial_priority_target": true
   },
-  "ideology_guard": "Dogma's zero-base/class-reversal analysis is character viewpoint, not narrator endorsement."
+  "ideology_guard": "Dogma's zero-base/class-reversal analysis is character viewpoint, not narrator endorsement.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      321,
+      325
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

@@ -280,9 +280,9 @@ was something she had wanted for so long.
 
 The scarred hound who never depended on anyone—
 
-leaning on **her**.
+resting his head on **her shoulder** for the first time.
 
-Even once.
+She knew she would never forget it.
 
 *I can’t fail him.*
 

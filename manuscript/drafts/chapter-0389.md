@@ -440,7 +440,7 @@ Kirko’s version was simpler.
 
 She clicked her tongue.
 
-“A dog that eats filth never changes.”
+“A dog can’t change its habit of eating shit.”
 
 Vikir looked at her.
 
@@ -490,9 +490,9 @@ Within Baskerville.
 
 And here.
 
-A birthday was simply another marker—
+In Nouvelle Vague, a birthday was only a gloomy, oppressive marker in the passage of time.
 
-inside the passage of time.
+It had always felt that way—in the Age of Destruction, inside the Hell Tree, and within Baskerville too.
 
 Humidity made the sugar clump.
 

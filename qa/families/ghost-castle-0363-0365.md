@@ -29,3 +29,17 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapters 363 and 365 were reread against their Chinese-primary sources and remain complete without manuscript changes.
+- Chapter 364 restores the source-explicit axe-bridge progression in which repeated barefoot steps deepen the sole wounds until feet are **severed/cut off**.
+- Sanitization fidelity and completeness were rerun across Chapters 363–365 after repair.
+- Shifted mapping remains **363→E361, 364→E362, 365→E363**; target 366/E364 begins *The Underground Extension Construction (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **The Underground Extension Construction (366–368)**, with remediation targets Chapters **367–368**.

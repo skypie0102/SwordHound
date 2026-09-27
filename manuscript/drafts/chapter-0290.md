@@ -286,6 +286,10 @@ Mind tempered through death after death.
 
 Every muscle tightened like a drawn bow.
 
+Across his whole body, muscle fibers stood up like thorns—
+
+as though they were about to tear through his skin.
+
 Vikir found the single line for the final strike.
 
 Then—
@@ -390,7 +394,7 @@ SHING!
 
 Beelzebub took Belial’s arm.
 
-Black blood sprayed.
+Black blood gushed out like a fountain.
 
 Belial stared.
 

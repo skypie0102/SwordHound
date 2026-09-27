@@ -22,3 +22,14 @@
 - PASS — Vikir consumes exactly **30 red / 10 green / 25 blue** candies.
 - PASS — exact stats become Strength **260**, Agility **229**, Stamina **269**.
 - PASS — **Silver Reflexes +1** candy is found only because Vikir rechecks a momentary flash rather than dismissing it.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the Daylily root explicitly **licking across Vikir's smooth chest and along the contours of his waist and hips** while appraising him as food.
+
+The complete Surplus Man family was reread after remediation. Chapters 314, 315, 317, and 319 remain unchanged and pass both Cycle-2 content gates. Shifted mapping remains **314→E312 through 320→E318**; target 321 begins *Underdogma (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Surplus Man family QA.

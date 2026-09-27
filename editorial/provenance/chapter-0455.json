@@ -9,8 +9,8 @@
       464
     ],
     "family_qa_path": "qa/families/infiltration-water-source-0454-0464.md",
-    "family_qa_sha": "95b46b995f843a4467756c139716f759468af4ad",
-    "status": "pass"
+    "family_qa_sha": "bbb073de678ceaf62268d2d5c0a853937007fa6a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/455.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0455.md",
-    "blob_sha": "4d92340c63399d191d3d535a73a3587d9b4f66c3"
+    "blob_sha": "fde1c223f754a0fa55ec42b72806919ac836a70b"
   },
   "qa": {
     "path": "qa/chapter-0455.md",
-    "blob_sha": "34a3c99811dfb2e3b0c28fa66e32898192ee923b",
-    "status": "pass"
+    "blob_sha": "1334e5321f0972d31c8093ebf5d60973693bf072",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; indexed Fandom evidence and established glossary forms used.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      454,
+      464
+    ],
+    "manuscript_changed": true,
+    "note": "restored no-intact-limbs shrapnel aftermath"
+  }
 }

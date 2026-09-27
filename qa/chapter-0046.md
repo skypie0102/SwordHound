@@ -30,3 +30,11 @@ Target 46 → recovered English 46 is verified by the complete sequence: Camus i
 ## Corruption / spoiler check
 
 Recovered English is used only as an aligned witness. Its repeated `camel`, `camouflage`, male-pronoun, and kinship errors do not control the draft. No later Camus marriage material is imported.
+
+## Cycle-2 Phase 4 family revalidation
+
+**Resolved 2026-09-26.** Full-family Phase 4 reread confirmed Chapter 46 requires no manuscript correction. Sanitization and completeness remain clear.
+
+## Phase-4 decision
+
+**PASS at chapter level after Phase-4 family revalidation.** Final acceptance requires the refreshed Chapters 46–51 family QA.

@@ -132,7 +132,7 @@ Tudor gave her a sidelong look.
 
 “You’re calling **him** immature?”
 
-“You were crying and calling him a traitor.”
+“When you thought he had betrayed us, you had tears and snot running down your face.”
 
 “I was not!”
 

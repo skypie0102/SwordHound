@@ -28,3 +28,17 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 341 restores Dolores holding Choco **tightly against herself** while entering the bath and the weaker students being offered to the Daylily explicitly **as food**.
+- Chapter 342 restores Vikir's cautious human-like **“Mm.”** response, the narrator's **peeping-tom** framing during Dolores's startled punch, and the Night Hound as Dolores's **soulmate**.
+- Sanitization fidelity and completeness were rerun across Chapters 341–342 after repair.
+- Shifted mapping remains **341→E339, 342→E340**; target 343/E341 begins *Ballak (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Ballak (343–347)**.

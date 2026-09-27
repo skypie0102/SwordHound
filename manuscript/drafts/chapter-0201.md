@@ -86,9 +86,11 @@ Click-click.
 
 Only a corpse remained—
 
-teeth striking because lips had rotted away.
+its lips rotted away, exposing its teeth and rotting gums.
 
-A puppet.
+The teeth clicked together again and again.
+
+A faithful puppet.
 
 The Corpse Queen looked at him.
 
@@ -121,6 +123,22 @@ inferiority swallowed him.
 Now—
 
 the Abyss had finished the job.
+
+Vikir remembered the others too.
+
+A Donquixote knight who had become Dantalian's puppet.
+
+Staffordshire of Baskerville.
+
+Mozgus of Quovadis.
+
+Rosie of Morgue.
+
+All had become living-dead puppets—
+
+toys of demons.
+
+Collecting corpses and processing them into puppets was one of the demons' specialties.
 
 Click-click-click.
 

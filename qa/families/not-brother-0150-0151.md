@@ -9,8 +9,8 @@
 
 | Target | Chinese source | Chinese SHA | Recovered-English witness | English SHA | Draft SHA | QA SHA |
 |---|---|---|---|---|---|---|
-| 150 | 150.txt | `8e30ee75b8d75d9ad9100526fc9cea333d9f3b02` | **E149** | `460fbc535d134c06c517c1333f022fad1c16f9cd` | `93bbe3a2c57b5c15be4e524b74eca06c8c8caf48` | `70b5a5c20e44c5e4c5b775b1948bca2c07a8cd53` |
-| 151 | 151.txt | `2f45910e15e91ff3d0eb55f6235a5b50acc7d93e` | **E150** | `28ad7f3ad872ee30716d513ea55fd1ee830dc5b8` | `0cc90a3beea435d287a0339e70f349a6e7473db5` | `0f3a8e7dcda39ce99d4a07c6ee6e5c2e83d61d69` |
+| 150 | 150.txt | `8e30ee75b8d75d9ad9100526fc9cea333d9f3b02` | **E149** | `460fbc535d134c06c517c1333f022fad1c16f9cd` | `067f0b1fa64d47836c55006e138b4aa5a8d82563` | `3a7657d6c8a99630fae7d5f6b6832bbcc452770a` |
+| 151 | 151.txt | `2f45910e15e91ff3d0eb55f6235a5b50acc7d93e` | **E150** | `28ad7f3ad872ee30716d513ea55fd1ee830dc5b8` | `93b9df4a5bb5f7a04e02d406e13ba87e85353459` | `34cc66d471876a90ce6500f5c68c49d40cff0b04` |
 | boundary 152 | 152.txt — *The Drinking Game (1)* | `d6fc3f4922a2a3f57c66ece2faa68efa4030859e` | **E151** | `55107beb518be3473b627551ec88399ce113f688` | next family | next family |
 | boundary 155 | 155.txt — *How to Keep Your Night Shift Employees Safe (1)* | `0443c1fb6b741512ddea3695e4307f9e918a91bc` | **E154** | `3fc2c9eb577199cc82fafb7bd5569b5cc2687d6c` | later family | later family |
 
@@ -63,3 +63,17 @@ Target **155 → E154** begins **How to Keep Your Night Shift Employees Safe (1)
 PASS.
 
 Targets 150–151 form a complete two-part transition family: Golden Week farewell / Peri's trust / “Uncle” punchline → Dolores's curiosity / strict nighttime security / Tudor's secret gathering → Vikir exploiting that gathering as assassination cover. Chinese remains semantic authority, project/Fandom naming controls established terms, and later Sinclaire/Quilt/Peri developments remain spoiler-guarded.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-26  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 150 restores the source-present donation reaction: Tudor, Sancho, Pigi, and even Bianca are crying with **tears and runny noses** while emptying their money into the box.
+- Chapter 151 restores Tudor's source-specific **rubbing/kneading of Vikir's abdomen** and the accompanying suggestive teasing tone without adding beyond the Chinese.
+- Sanitization fidelity and completeness were rerun across Chapters 150–151 after repair.
+- Shifted mapping remains **150→E149, 151→E150**; target 152/E151 begins *The Drinking Game (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **The Drinking Game (152–154)**.

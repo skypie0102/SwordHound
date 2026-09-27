@@ -236,7 +236,7 @@ His voice cracked.
 
 Every desperate pull tore away more flesh.
 
-Blood and pieces of ruined tissue ran down the trunk.
+Blood, torn flesh, and fragments of internal organs ran down the trunk.
 
 The thorn tree slowly turned red.
 

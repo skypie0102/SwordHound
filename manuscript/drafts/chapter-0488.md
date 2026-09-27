@@ -116,6 +116,8 @@ behind the monster armies—
 
 stood one shadow deeper than every other darkness.
 
+A suffocating foul stench poured from it.
+
 A banner appeared.
 
 Written in the language of an ancient, dead demonic hegemony.
@@ -177,6 +179,8 @@ He laughed.
 [You should be grateful you died first.]
 
 Andras looked directly at Vikir.
+
+Darkness and foul stench streamed from his eyes.
 
 [It is not too late.]
 

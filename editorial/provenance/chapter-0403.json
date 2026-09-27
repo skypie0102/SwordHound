@@ -9,8 +9,8 @@
       408
     ],
     "family_qa_path": "qa/families/jailbreaker-0403-0408.md",
-    "family_qa_sha": "995ba17ff1c02e34b2c2da6e2b1eab76ba292215",
-    "status": "pass"
+    "family_qa_sha": "b65f902ab7b260d633ba5a909ba3ad321009cd4d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/403.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0403.md",
-    "blob_sha": "bf14e3123c20f61eb3a4f499ebb7bd5aecf26aab"
+    "blob_sha": "462416eaf72886a95f9d4387fab913e10cf576cd"
   },
   "qa": {
     "path": "qa/chapter-0403.md",
-    "blob_sha": "61f00f741f3d781a6fbb3857fcdab03ccb77c0d4",
-    "status": "pass"
+    "blob_sha": "bd5798030fa64abff0911ebc751963ff88e3d88a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were explicitly marked unverified.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      403,
+      408
+    ],
+    "manuscript_changed": true,
+    "note": "restored source meal and corrected reveal chronology"
+  }
 }

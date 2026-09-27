@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/429.txt` — `05a4d5e3998588f6e84445ca344dd2d42f7a57ff`
 - English witness: **E427** — `4156aded883b53bf7d79d5b5a4bae5e980a769e8`
-- Draft: `manuscript/drafts/chapter-0429.md` — `20e57473e95e6dfa793d15643344eb3371cc9d44`
+- Draft: `manuscript/drafts/chapter-0429.md` — `a2b21f908720041a0121de22182226ceeb0a904c`
 
 ## Checks
 - PASS — Nabokov's healer lesson is preserved: first-rate healing prevents injury by removing the threat before it harms allies.
@@ -19,3 +19,14 @@
 - PASS — Dolores and Sinclaire are identified as the only present members with direct Ten-Corpse combat experience.
 - PASS — Cindywendy privately possesses Nouvelle Vague's official report declaring Vikir Van Baskerville dead and withholds it to protect the Night Walkers' faith; nobody else learns it in this family.
 - LIMIT — designated Fandom remains robots-blocked; established glossary canon is reused and source-local forms remain explicitly unverified.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the source statement that Pedro’s eyes actually pop out after Dolores’s hammer strike and that the allied group explicitly cuts off his hands and feet before the twenty-four sanctified stakes are driven in.
+
+The complete Night Walkers family was reread after remediation. Mapping remains **425→E423 through 429→E427**; target **430→E428** begins *The Lion King (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Night Walkers family QA.

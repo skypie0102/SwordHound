@@ -2,8 +2,8 @@
   "chapter": 236,
   "title": "National University League (1)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "National University League",
     "range": [
@@ -11,8 +11,8 @@
       244
     ],
     "family_qa_path": "qa/families/national-university-league-0236-0244.md",
-    "family_qa_sha": "945621a0210a6019557abe52f3b83afb2c11b86e",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "ce33215a3f9e3fa718d7c3234749dfa9879df3b9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/236.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-234.xhtml",
     "english_reference_sha": "5f04f7dfda83ad287aeac43af4b4d1d44cdffbe7",
     "draft_path": "manuscript/drafts/chapter-0236.md",
-    "draft_sha": "9c8ca5f0ffa930625c14325d4923df5921a91e06",
+    "draft_sha": "f3098c9fed9539b0523d4147b5f9e554db887361",
     "qa_path": "qa/chapter-0236.md",
-    "qa_sha": "14b1a12cfa81dd2f62c5bfc1a0d4583a98c24ad1",
+    "qa_sha": "cd86e4e688d898622022cb77cab26eb606dab9d9",
     "provenance_path": "editorial/provenance/chapter-0236.json",
-    "provenance_sha": "684ca1756bd0ccb7b9237204333a02546c10f462"
+    "provenance_sha": "001957ceb3491abea89ba0bba5710782e2df624e"
   },
   "canonical_checks": [
     "Vikir",
@@ -55,5 +55,12 @@
     "reviewed_date": "2026-09-20",
     "result": "rebuilt_and_passed",
     "family_evidence": "qa/families/national-university-league-0236-0244.md"
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "removed Chapter-241 Decarabia exposition duplicated backward; retained only source-own vault/object-form facts"
   }
 }

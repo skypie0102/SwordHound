@@ -2,8 +2,8 @@
   "chapter": 155,
   "title": "How to Keep Your Night Shift Employees Safe (1)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "How to Keep Your Night Shift Employees Safe",
     "range": [
@@ -11,8 +11,8 @@
       157
     ],
     "family_qa_path": "qa/families/night-shift-safety-0155-0157.md",
-    "family_qa_sha": "62cf748051afcf6df30bf9b0bef0546443fea7f3",
-    "status": "pass"
+    "family_qa_sha": "64d41f456ca46f47eecc378de37cc60cde331898",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/155.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-154.xhtml",
     "english_reference_sha": "3fc2c9eb577199cc82fafb7bd5569b5cc2687d6c",
     "draft_path": "manuscript/drafts/chapter-0155.md",
-    "draft_sha": "56dd3fd684523b1c703f3883f3bd4c5469c53121",
+    "draft_sha": "06bc6d34366fb1b38417d8673a32012a1238fe61",
     "qa_path": "qa/chapter-0155.md",
-    "qa_sha": "7166212e015c4ed81492cc19a4b5d818687dbdbc",
+    "qa_sha": "87176d79d9a2e07575554c0595f55294a2533901",
     "provenance_path": "editorial/provenance/chapter-0155.json",
-    "provenance_sha": "e990dfc7b8e9edfaaa2acf65fb0c28bd574a9975"
+    "provenance_sha": "4ddf9eac91cbd2f382598eb82faac036614cdf32"
   },
   "canonical_checks": [
     "Dolores L. Quovadis",
@@ -40,5 +40,12 @@
     "Dolores's silence is panic, not consent to the false story.",
     "Vikir's first motive references previous-timeline battlefield healing only.",
     "Laundry-room separation is operational cover for assassination."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored Saintess-belly urination accusation"
+  }
 }

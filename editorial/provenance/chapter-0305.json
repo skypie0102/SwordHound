@@ -9,8 +9,8 @@
       306
     ],
     "family_qa_path": "qa/families/age-warmonger-0299-0306.md",
-    "family_qa_sha": "6c75847573a37c5864587a0a4892066b9ca65bc5",
-    "status": "pass"
+    "family_qa_sha": "655f6980a8a117730fe475539d08eb0495246a73",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/305.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0305.md",
-    "blob_sha": "259e9a1a6eca28e69259d139a5bacf5075491627"
+    "blob_sha": "68d7093673990cad82c7b21ad1adeb5f961bd862"
   },
   "qa": {
     "path": "qa/chapter-0305.md",
-    "blob_sha": "33771e416eca60d9b6ddb2ae5a13d93c8c0c7457",
-    "status": "pass"
+    "blob_sha": "0b5b79683ec511339efbc07668fc817f54e28bfe",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "reveal_guard": "Vikir sees the Ninth-Fang direction but does not reach it; Amdusias death-experience payoff remains later."
+  "accepted_date": "2026-09-27",
+  "reveal_guard": "Vikir sees the Ninth-Fang direction but does not reach it; Amdusias death-experience payoff remains later.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      299,
+      306
+    ],
+    "manuscript_changed": true,
+    "note": "restored hot blood gushing whenever Vikir opens his mouth"
+  }
 }

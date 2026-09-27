@@ -9,8 +9,8 @@
       347
     ],
     "family_qa_path": "qa/families/ballak-0343-0347.md",
-    "family_qa_sha": "23dd10c41cdfda4f929c7754c3d061e87c34dfe3",
-    "status": "pass"
+    "family_qa_sha": "53911e189ba3a72e0c32674c9e1d3ca985c6ebda",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/344.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0344.md",
-    "blob_sha": "ddd266309a96349946c1b01f2732576aad32535b"
+    "blob_sha": "6a6a6cefee82c2d6bd5c50d6ebf27671c990ee20"
   },
   "qa": {
     "path": "qa/chapter-0344.md",
-    "blob_sha": "911db69f9edd85fcbe33515bb9e2d497686992fb",
-    "status": "pass"
+    "blob_sha": "99690c8a62c3d4d2862254fa165e54197d944aaa",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established project glossary forms were reused and no source-local form was falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      343,
+      347
+    ],
+    "manuscript_changed": true,
+    "note": "restored source statement that Bianca's body changed greatly"
+  }
 }

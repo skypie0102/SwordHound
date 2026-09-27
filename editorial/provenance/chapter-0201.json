@@ -9,8 +9,8 @@
       202
     ],
     "family_qa_path": "qa/families/corpse-queen-0198-0202.md",
-    "family_qa_sha": "fb506d016902b863286ef630d41425b777dd0743",
-    "status": "pass"
+    "family_qa_sha": "dbcb2114334d4df17f749d84d708a30674be0374",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/201.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0201.md",
-    "blob_sha": "64c6c2e0916a242285c2bb0b614201e0a31471ca"
+    "blob_sha": "6f866a3955395cda52e867f834181f5cd0477c33"
   },
   "qa": {
     "path": "qa/chapter-0201.md",
-    "blob_sha": "2297f2e46822acc04db19ebc654a3965737d8872",
-    "status": "pass"
+    "blob_sha": "e94c2a953d289caee8eccee19b2dcccc33a66ff6",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -60,12 +60,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/203.txt",
     "chinese_sha": "acd7fa44938fcb72c31431a2e4a93b2ec4ad8fc7",
     "english_path": "source/chapters/chapter-201.xhtml",
     "english_sha": "1837e0dd89b14ce0defcd2ab77b7d97cf24971ea",
     "purpose": "both begin Mixed Bath (1), target203"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      198,
+      202
+    ],
+    "manuscript_changed": true,
+    "note": "restored rotting gums and living-dead-puppet/demon-toy explanation"
   }
 }

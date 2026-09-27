@@ -9,7 +9,7 @@
       74
     ],
     "family_qa_path": "qa/families/red-death-0072-0074.md",
-    "family_qa_sha": "8899270579ac4a9d56a5497af6a70523e7c23669",
+    "family_qa_sha": "1f6270b8bb0f4cd58054e60039728720f28a5544",
     "status": "pass"
   },
   "primary_source": {
@@ -59,11 +59,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0073.md",
-    "blob_sha": "7ec4255821d6d640912a6848faf3394ef416ba2d"
+    "blob_sha": "37727a6a0637277188308d94133c10aed1c452ab"
   },
   "qa": {
     "path": "qa/chapter-0073.md",
-    "blob_sha": "bf8efc732b0dac66c449b261357ec75c217950fa",
+    "blob_sha": "b00db11a711b2abbe33bf836f7f3b7a80e239bac",
     "status": "pass"
   },
   "documented_decisions": [
@@ -94,5 +94,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      72,
+      74
+    ],
+    "manuscript_changed": true,
+    "note": "family reread restored omitted toileting remark and leather-skirt gesture"
+  }
 }

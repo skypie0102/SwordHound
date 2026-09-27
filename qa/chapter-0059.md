@@ -43,3 +43,11 @@ A secondary-witness paragraph-retention check after the rebuild leaves only 1 / 
 ## Mapping note
 
 Target 59 aligns to E58, continuing the verified one-chapter English lag.
+
+## Cycle-2 Phase 4 family revalidation
+
+**Resolved 2026-09-26.** Full-family reread confirmed the prior completeness rebuild remains intact. Tracking, swamp hazards, Cold Valley survival detail, dead-comrade memories, nutrition/rest, and the Oxbear counterattack remain complete; age-sensitive contact remains safety-limited.
+
+## Phase-4 decision
+
+**PASS at chapter level after Phase-4 review.** Final acceptance requires the refreshed Chapters 55–60 family QA.

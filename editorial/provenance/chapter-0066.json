@@ -9,7 +9,7 @@
       67
     ],
     "family_qa_path": "qa/families/unfair-trade-0064-0067.md",
-    "family_qa_sha": "af6a0e1829333eae90de2a609db768606177f51e",
+    "family_qa_sha": "03117044c6e71069425a7c247b598e0303263fcc",
     "status": "pass"
   },
   "primary_source": {
@@ -50,11 +50,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0066.md",
-    "blob_sha": "b4c7957d92f3809bc1e8addf3e811682c7ca10d6"
+    "blob_sha": "dee61a7d2788d49fa2ddf899c0bef291d1dd8541"
   },
   "qa": {
     "path": "qa/chapter-0066.md",
-    "blob_sha": "3c37642adfbbd303e72e76d98d961fb797f1db72",
+    "blob_sha": "313782256211e06b08f7f3b8308be96c5e3609b4",
     "status": "pass"
   },
   "documented_decisions": [
@@ -80,10 +80,21 @@
     },
     {
       "topic": "violence",
-      "final": "retain source-level lethal consequences without reproducing gratuitous racist slurs",
+      "final": "retain source-level direct race-based threats and lethal consequences, including head/body separation and near-total head loss, without inventing stronger slurs or gore",
       "basis": "Chinese target66"
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      64,
+      67
+    ],
+    "manuscript_changed": true,
+    "note": "restored direct race-based threats and omitted head/body-separation combat gore"
+  }
 }

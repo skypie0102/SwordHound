@@ -34,9 +34,11 @@ Vikir’s expression did not change.
 
 “I’m enjoying myself.”
 
-He dragged a twisted shard of metal across one of them.
+He slowly cut the bodies of Pedro, Isolde, and Thomas with a twisted shard of iron.
 
-Another scream.
+Each time the iron moved across them—
+
+they screamed in pain.
 
 The interrogation methods Vikir had learned in the Age of Destruction—
 

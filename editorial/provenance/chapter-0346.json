@@ -9,8 +9,8 @@
       347
     ],
     "family_qa_path": "qa/families/ballak-0343-0347.md",
-    "family_qa_sha": "23dd10c41cdfda4f929c7754c3d061e87c34dfe3",
-    "status": "pass"
+    "family_qa_sha": "53911e189ba3a72e0c32674c9e1d3ca985c6ebda",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/346.txt",
@@ -29,9 +29,20 @@
   "qa": {
     "path": "qa/chapter-0346.md",
     "blob_sha": "4fefdbcff62cb24b411d4fd9bd098a8e48676d42",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established project glossary forms were reused and no source-local form was falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      343,
+      347
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

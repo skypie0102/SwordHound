@@ -2,8 +2,8 @@
   "chapter": 54,
   "title": "Slaves of the Savage Tribe (3)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_fandom_canonical",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase4",
   "title_family": {
     "name": "Slaves of the Savage Tribe",
     "range": [
@@ -11,7 +11,7 @@
       54
     ],
     "family_qa_path": "qa/families/slaves-savage-tribe-0052-0054.md",
-    "family_qa_sha": "ddde14abfe993392e9ea56dbfdb6f8e416896878",
+    "family_qa_sha": "4e50b641edc188aa9fc958a8b627910ed637a09c",
     "status": "pass"
   },
   "evidence": {
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-054.xhtml",
     "english_reference_sha": "eb3146da8a6b112d89944b9142280e8282c375d2",
     "draft_path": "manuscript/drafts/chapter-0054.md",
-    "draft_sha": "a73d3e3b1b8767cf932fd1a98963fbd0abe6aa69",
+    "draft_sha": "274fc97929edfe3ea8d48611c9aae775e45a9297",
     "qa_path": "qa/chapter-0054.md",
-    "qa_sha": "c4fb3c2ed5166507df32fffe3262458e03fe9580",
+    "qa_sha": "f5b85da05d2ba5d08c00033cda2baf2af3b6ef62",
     "provenance_path": "editorial/provenance/chapter-0054.json",
-    "provenance_sha": "eef1d5b258b5c659ec710f7f3ee89005e96099c6"
+    "provenance_sha": "e17f1f208c9e45664920ed1802e5fd694c88add1"
   },
   "canonical_checks": [
     "Aiyen",
@@ -37,5 +37,12 @@
     "Body/reproductive-health customs are kept factual and non-erotic.",
     "Physical 054.txt is a combined/overlapping 54–55 container; target 54 stops at the hunt-offer/dawn-departure endpoint.",
     "The short target-54 closing exchange absent at the Chinese splice is restored from aligned E54; appended target-55 material is excluded from Chapter 54."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_family_revalidation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "narrative unchanged; corrected stale 54/55 overlap source note"
+  }
 }

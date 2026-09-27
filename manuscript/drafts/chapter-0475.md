@@ -25,7 +25,7 @@ Eyes burning like sulfur.
 **Discovery Location:** Deep within the Gate of Destruction, ‘Serpent’s Womb’  
 **Alias:** ‘Second Corpse’
 
-One of the ten incomprehensible calamities.
+One of the ten **incomprehensible and unkillable** calamities.
 
 A natural enemy of humanity.
 
@@ -203,7 +203,7 @@ CRACK.
 
 Both of Flauros’s arms came off.
 
-Vikir drove Beelzebub toward the exposed chest.
+Vikir tore into Flauros’s exposed heart as he spoke.
 
 “I told you.”
 

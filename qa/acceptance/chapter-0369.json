@@ -2,8 +2,8 @@
   "chapter": 369,
   "title": "The Servant (1)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Servant",
     "range": [
@@ -11,8 +11,8 @@
       370
     ],
     "family_qa_path": "qa/families/servant-0369-0370.md",
-    "family_qa_sha": "252295d65f520aad8536e16934099c2a0503e56c",
-    "status": "pass"
+    "family_qa_sha": "7defca9b4321d57a082f669a73bb6c2f02a0db15",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/369.txt",
@@ -22,11 +22,18 @@
     "draft_path": "manuscript/drafts/chapter-0369.md",
     "draft_sha": "ee76715ef076a42da296cb38dacc1f163fe04760",
     "qa_path": "qa/chapter-0369.md",
-    "qa_sha": "0309f52e6bba4a3f0e3819a7184f2b32cc6ae596",
+    "qa_sha": "cd8caedf5c425dc7dd680f3abe12e448617d7578",
     "provenance_path": "editorial/provenance/chapter-0369.json",
-    "provenance_sha": "d90c01379a297e3a07d358ae8eb766cc07780b49"
+    "provenance_sha": "2d38e93f0fc83debf5cb1f4046b063bb8bd522fc"
   },
   "documented_limits": [
     "No Solitary Confinement material from target371 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

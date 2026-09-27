@@ -2,8 +2,8 @@
   "chapter": 301,
   "title": "The Age of the Warmonger (3)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Age of the Warmonger",
     "range": [
@@ -11,8 +11,8 @@
       306
     ],
     "family_qa_path": "qa/families/age-warmonger-0299-0306.md",
-    "family_qa_sha": "6c75847573a37c5864587a0a4892066b9ca65bc5",
-    "status": "pass"
+    "family_qa_sha": "655f6980a8a117730fe475539d08eb0495246a73",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/301.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-299.xhtml",
     "english_reference_sha": "d0e38068f8f88b7e091ace14c01808eb435ebabf",
     "draft_path": "manuscript/drafts/chapter-0301.md",
-    "draft_sha": "6d34c07f0f016e2b38fd1324e1027dbc350c622e",
+    "draft_sha": "8880ebd1788115e9947b64d7e1c666fb02d30428",
     "qa_path": "qa/chapter-0301.md",
-    "qa_sha": "52f6036171e0302b1099c2635383bef2e99ea692",
+    "qa_sha": "1ef57fc1b46e220256b50768e1a59da5e2bb83fa",
     "provenance_path": "editorial/provenance/chapter-0301.json",
-    "provenance_sha": "3bd676eed18653902e9652e6ea5cf7961b84cf51"
+    "provenance_sha": "be8aebaad19af0347c80c6b894245b554ba59c75"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Hell Tree interior content from target307 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored meat-paste, blood/flesh, burst-head/abdomen, and lower-body-to-head impalement gore"
+  }
 }

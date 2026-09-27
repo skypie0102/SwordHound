@@ -2,22 +2,94 @@
   "chapter": 35,
   "title": "Slave Auction (1)",
   "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
-  "title_family": {"name":"Slave Auction","range":[35,37],"family_qa_path":"qa/families/slave-auction-0035-0037.md","family_qa_sha":"cf32e938cae2abdd3cc1892463b5edaf56b9ffba","status":"pass"},
-  "primary_source": {"path":"source/chinese/chapters/035.txt","blob_sha":"6923567bc4710210eaac4dc6b7252d56ea557b7e","authority":"semantic_narrative_primary","heading_note":"raw heading is anomalous 拍卖场之花 (1); family sequence resolves production title to Slave Auction (1)"},
-  "english_reference": {"path":"source/chapters/chapter-035.xhtml","blob_sha":"4817a300dea855bc448be223b70c84d69e1ff43f","target_alignment":35,"alignment_status":"verified_by_outskirts_auction_chihuahua_cover_murcielago_feral_girl_and_premium_boy_endpoint","authority":"secondary_reference_only"},
-  "boundary_witness": {"path":"source/chinese/chapters/036.txt","blob_sha":"94b5d8cf2fefdae6975ac56c7ddb6642763ba1cf","purpose":"continues premium slave lot and identifies Vikir"},
+  "title_family": {
+    "name": "Slave Auction",
+    "range": [
+      35,
+      37
+    ],
+    "family_qa_path": "qa/families/slave-auction-0035-0037.md",
+    "family_qa_sha": "273889a0456685494cd0ce03c478d48f4ca1dc22",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/035.txt",
+    "blob_sha": "6923567bc4710210eaac4dc6b7252d56ea557b7e",
+    "authority": "semantic_narrative_primary",
+    "heading_note": "raw heading is anomalous 拍卖场之花 (1); family sequence resolves production title to Slave Auction (1)"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-035.xhtml",
+    "blob_sha": "4817a300dea855bc448be223b70c84d69e1ff43f",
+    "target_alignment": 35,
+    "alignment_status": "verified_by_outskirts_auction_chihuahua_cover_murcielago_feral_girl_and_premium_boy_endpoint",
+    "authority": "secondary_reference_only"
+  },
+  "boundary_witness": {
+    "path": "source/chinese/chapters/036.txt",
+    "blob_sha": "94b5d8cf2fefdae6975ac56c7ddb6642763ba1cf",
+    "purpose": "continues premium slave lot and identifies Vikir"
+  },
   "canonical_references": [
-    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Aiyen","retrieval_mode":"indexed_web_result","applies_to":["reveal chronology only; identity intentionally withheld in Ch.35"]},
-    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Underdog City","retrieval_mode":"indexed_web_result","applies_to":["Underdog City"]}
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Aiyen",
+      "retrieval_mode": "indexed_web_result",
+      "applies_to": [
+        "reveal chronology only; identity intentionally withheld in Ch.35"
+      ]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Underdog City",
+      "retrieval_mode": "indexed_web_result",
+      "applies_to": [
+        "Underdog City"
+      ]
+    }
   ],
-  "draft": {"path":"manuscript/drafts/chapter-0035.md","blob_sha":"4334e13c2cb25b322af22f13cd90698d44b68026"},
-  "qa": {"path":"qa/chapter-0035.md","blob_sha":"c6bf9e8d3abf1991ec1d306cc1305463731d7e4e","status":"pass"},
+  "draft": {
+    "path": "manuscript/drafts/chapter-0035.md",
+    "blob_sha": "d1097673dedb3f9e694a55bdcf3c4fc20f23f538"
+  },
+  "qa": {
+    "path": "qa/chapter-0035.md",
+    "blob_sha": "c81d899cbc691cb6bdacb7cdc4379acf83808dc2",
+    "status": "pass"
+  },
   "documented_decisions": [
-    {"topic":"family_title","final":"Slave Auction (1)","basis":"Chinese 36-37 numbering + recovered English 35-37 despite anomalous Chinese 35 heading"},
-    {"topic":"event_label","final":"Freak Show","basis":"embedded English phrase in Chinese; no dedicated Fandom entry claimed"},
-    {"topic":"monster_name","final":"Infernal Buffalo ‘Murcielago’","basis":"Chinese transliteration + independently aligned English; exact name not claimed Fandom-canonical"},
-    {"topic":"tribal_girl_identity","final":"unnamed","basis":"protect reveal chronology despite later Fandom identification"}
+    {
+      "topic": "family_title",
+      "final": "Slave Auction (1)",
+      "basis": "Chinese 36-37 numbering + recovered English 35-37 despite anomalous Chinese 35 heading"
+    },
+    {
+      "topic": "event_label",
+      "final": "Freak Show",
+      "basis": "embedded English phrase in Chinese; no dedicated Fandom entry claimed"
+    },
+    {
+      "topic": "monster_name",
+      "final": "Infernal Buffalo ‘Murcielago’",
+      "basis": "Chinese transliteration + independently aligned English; exact name not claimed Fandom-canonical"
+    },
+    {
+      "topic": "tribal_girl_identity",
+      "final": "unnamed",
+      "basis": "protect reveal chronology despite later Fandom identification"
+    }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-17"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-17",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      35,
+      37
+    ],
+    "manuscript_changed": true,
+    "note": "removed unsupported audience-reaction intensification while preserving source scene and coverage"
+  }
 }

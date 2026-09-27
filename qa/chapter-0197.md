@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/197.txt` — `38fc85cf2f23fa3794346eb2016bb9804e4d7b8a`
 - English witness: **E195** — `6251eaf6241f9afd29ca07314c3cd27019c79641`
-- Draft: `manuscript/drafts/chapter-0197.md` — `eccfef53c50e5ad6f38f3d8713fc5f3e71443cbb`
+- Draft: `manuscript/drafts/chapter-0197.md` — `a5baae0c7061410033cbbf214638c861d32d5d3c`
 
 ## Checks
 - PASS — Colosseo's post-midterm festival break and “study hard / play hard” rationale are preserved.
@@ -32,3 +32,14 @@
 - Target **198 → E196** begins **The Corpse Queen (1)**.
 - Verified next family: targets **198–202 — The Corpse Queen (1)–(5)**, mapped **198→E196 through 202→E200**.
 - Target **203 → E201** begins **Mixed Bath (1)**.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the full nine-part popularity ranking set, including the source's **sexiest**, **most wanted to take a bite of**, **want to touch**, **want to link arms**, and **want to hold while sleeping** distinctions; restored the materially longer multi-year costume/makeup crowd exchange; and restored literal **dog feces, cat feces, and garbage** wording.
+
+The bridge remains mapped **197→E195** and ends cleanly before target 198/E196 begins *The Corpse Queen (1)*.
+
+## Phase-4 decision
+
+**PASS after remediation.**

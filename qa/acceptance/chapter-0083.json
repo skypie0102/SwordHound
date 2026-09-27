@@ -2,8 +2,8 @@
   "chapter": 83,
   "title": "Lovesickness (1)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Lovesickness",
     "range": [
@@ -11,7 +11,7 @@
       84
     ],
     "family_qa_path": "qa/families/lovesickness-0083-0084.md",
-    "family_qa_sha": "dfea1c85d4071dc8e8cad0bf0f9f1e543a737c5d",
+    "family_qa_sha": "52b396b6542b8ced014b5aaa78e23ea07cc7ae90",
     "status": "pass"
   },
   "evidence": {
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-082.xhtml",
     "english_reference_sha": "43b6d40e033dbb1c5d0bf564cfe4d4a7fab22e1c",
     "draft_path": "manuscript/drafts/chapter-0083.md",
-    "draft_sha": "3ba29ec77731da0e697b273bf5e92e79daaf3d49",
+    "draft_sha": "19ef63d9a38a59bccb8fa31f179338a75f478494",
     "qa_path": "qa/chapter-0083.md",
-    "qa_sha": "9a799cfa3169cdcad903a606a36b2875e84abf25",
+    "qa_sha": "4853ce660f9d15a75702eb09a39d58c73bf03c45",
     "provenance_path": "editorial/provenance/chapter-0083.json",
-    "provenance_sha": "20bb8d753e746f0183752ede9018663b4426c21c"
+    "provenance_sha": "d85d8c66e8d4301afaa7b01bbb8dcd0373ef7164"
   },
   "canonical_checks": [
     "Aiyen",
@@ -39,5 +39,12 @@
     "Target 83 maps to E82.",
     "Aiyen's sickbed nudity is medical/nonsexual; no age is inferred.",
     "Conception anecdote is retained factually without erotic embellishment."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored severed-limb aftermath, wetting/bear-testicle memories, and stronger source wording for drug wrongdoing"
+  }
 }

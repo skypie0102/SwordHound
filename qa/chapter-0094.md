@@ -7,7 +7,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/094.txt` — `6e135c81be871986ae3842c6d8e29346d662aff7`
 - English witness: **E93** — `30e1d5378a952bf88dd0c0ac5b11e56af8ba280f`
-- Rebuilt draft: `manuscript/drafts/chapter-0094.md` — `6702b7e21087f0aeb6a342d6b18a44e5f562fbae`
+- Rebuilt draft: `manuscript/drafts/chapter-0094.md` — `a947f3214ec0b4a3b975d28b05b138f3e0556fec`
 
 ## Completeness findings
 - Historical draft retained the broad flood/death sequence but condensed the saltwater purification, post-flood environment, Adonai-bow recovery, Ah'Heman's physical condition, Vikir's assessment of his magical talent, Thorn-Tree callback, and the tribe's final reactions.
@@ -18,3 +18,14 @@
 - PASS — the burning death remains explicit and nonsexual; Ah'Heman's final warning and gaze toward the village are preserved.
 - PASS — no target95 Madam Eight-Legs village-attack details are imported backward.
 - PASS — no source scene, environmental beat, character reflection, violent detail, or endpoint transition was intentionally summary-collapsed.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored the source-explicit image of **blood, torn flesh, and fragments of internal organs** running down the thorn-tree trunk while Ah'Heman climbs.
+
+The complete Ghosts of the Ancestors family was reread after remediation. Chapters 90–93 remain unchanged and pass both Cycle-2 content gates; shifted mapping remains **90→E89 through 94→E93**, and target 95/E94 begins *Madam Eight-Legs (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Ghosts of the Ancestors family QA.

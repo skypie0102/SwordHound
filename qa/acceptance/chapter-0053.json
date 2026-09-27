@@ -2,8 +2,8 @@
   "chapter": 53,
   "title": "Slaves of the Savage Tribe (2)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_fandom_canonical",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase4",
   "title_family": {
     "name": "Slaves of the Savage Tribe",
     "range": [
@@ -11,7 +11,7 @@
       54
     ],
     "family_qa_path": "qa/families/slaves-savage-tribe-0052-0054.md",
-    "family_qa_sha": "ddde14abfe993392e9ea56dbfdb6f8e416896878",
+    "family_qa_sha": "4e50b641edc188aa9fc958a8b627910ed637a09c",
     "status": "pass"
   },
   "evidence": {
@@ -22,9 +22,9 @@
     "draft_path": "manuscript/drafts/chapter-0053.md",
     "draft_sha": "6864d9f5d6647ed4d048d718ebd691bf632fddb5",
     "qa_path": "qa/chapter-0053.md",
-    "qa_sha": "12dca40cfa5c826c88bb8f8950966a45afea8867",
+    "qa_sha": "e6bc04e6c9fdd7f09d3382d2cfbe5e69b78d968f",
     "provenance_path": "editorial/provenance/chapter-0053.json",
-    "provenance_sha": "023e73bc5c5dad21c2129694ebc2c2be2bfb4245"
+    "provenance_sha": "f1654bf455d887f56708c566cf0d7bac5f535b68"
   },
   "canonical_checks": [
     "Aiyen",
@@ -42,5 +42,12 @@
     "Reproductive-role material is preserved clinically/non-erotically.",
     "No unsupported formal rank is assigned to Akwilla.",
     "Target 55 is not English-only: most of its body overlaps inside physical 054.txt; E55 supplies the missing opening/title boundary."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_family_revalidation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "family reread confirmed no ordinary manuscript correction required"
+  }
 }

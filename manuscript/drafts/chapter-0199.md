@@ -27,7 +27,7 @@ Vikir knew what he was looking at.
 >
 > One of the Ten Corpses—
 >
-> calamities that stand as natural enemies of humanity.
+> incomprehensible, unkillable calamities that stand as natural enemies of humanity.
 >
 > *“Herds of cattle and beasts shall perish.”*
 >
@@ -153,11 +153,13 @@ The person standing here—
 
 was about Vikir's height.
 
-Balanced.
-
 Trained.
 
+Well-proportioned.
+
 And—
+
+from the proportions of her height, chest, and hips—
 
 clearly female.
 

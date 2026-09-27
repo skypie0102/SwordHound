@@ -9,8 +9,8 @@
       332
     ],
     "family_qa_path": "qa/families/draw-0331-0332.md",
-    "family_qa_sha": "4da0c4108b2f283f5561b7aa9f63a2120d8fe478",
-    "status": "pass"
+    "family_qa_sha": "849e0b66aa1bc944208c2fc219f3f19219489391",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/332.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0332.md",
-    "blob_sha": "6623af63391b8e9c30cfe908c2837c4f10843bf0"
+    "blob_sha": "6a5622e35460e37b92f1855a47451760f3112b19"
   },
   "qa": {
     "path": "qa/chapter-0332.md",
-    "blob_sha": "f62a316e97ae47b7bc1b1bd75128c6946edaccb7",
-    "status": "pass"
+    "blob_sha": "60ff0afeec5b9b39e4d20f398546b167f36d741b",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local item names were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "key_reveal": "S-rank Scale of Forced Equality acquired for 20 golden candies; all stats slowly rise toward highest current stat until equal."
+  "accepted_date": "2026-09-27",
+  "key_reveal": "S-rank Scale of Forced Equality acquired for 20 golden candies; all stats slowly rise toward highest current stat until equal.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      331,
+      332
+    ],
+    "manuscript_changed": true,
+    "note": "restored the fairy's twelve-finger gesture with two folded and ten raised"
+  }
 }

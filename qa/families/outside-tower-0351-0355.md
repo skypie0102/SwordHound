@@ -35,3 +35,19 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapters 351, 352, and 354 were reread against their Chinese-primary source spans and remain complete without manuscript changes.
+- Chapter 353 restores that **Winston Smith's host body had already burst apart and disappeared** before Amdusias manifested in its true body.
+- Chapter 355 restores the source's crude profanity and aggressive crowd-shoving force as Camus and Dolores try to reach Vikir through the press swarm.
+- Sanitization fidelity and completeness were rerun across Chapters 351–355.
+- Shared-container seams remain intact: targets **351–352** share C351, targets **353–354** share C353, and target 355 is standalone.
+- Shifted mapping remains **351→E349, 352→E350, 353→E351, 354→E352, 355→E353**; target 356/E354 begins *Crime and Punishment (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Crime and Punishment (356–358)**.

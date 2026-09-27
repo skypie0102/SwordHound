@@ -9,8 +9,8 @@
       298
     ],
     "family_qa_path": "qa/families/last-semester-0296-0298.md",
-    "family_qa_sha": "277c7c4b012affc3fbc57b40a87d996fc3f0a1f8",
-    "status": "pass"
+    "family_qa_sha": "f3a757c20d27413d42e775c38367cf4a363ec9f3",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/297.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0297.md",
-    "blob_sha": "9c077acfe5154f4d50e6db48516e3183f0897943"
+    "blob_sha": "8a7aa493e6a076921e4c8abe7820b41df893ecc0"
   },
   "qa": {
     "path": "qa/chapter-0297.md",
-    "blob_sha": "8b9eedca98f1952c615addeeab8b3e0111be391d",
-    "status": "pass"
+    "blob_sha": "e580c36df24c6dd3e3d71174b1448d143e03c25d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and no new wiki-only forms asserted.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      296,
+      298
+    ],
+    "manuscript_changed": true,
+    "note": "restored Pomeranian's death-stakes obedience statement"
+  }
 }

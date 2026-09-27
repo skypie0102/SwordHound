@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 3 COMPLETE — Phase 4 remediation/evidence rebinding READY
+**Current stage:** **Phase 4 COMPLETE — 273/273 remediation chapters; Phase 5 independent residual verification next**
 
 ## Progress
 
@@ -59,7 +59,7 @@ Boundary/alignment review is complete. The immediate project focus is Phase 4 re
 - family EXCEPTION-DOCUMENTED: **102**;
 - genuine source-exception rows added during Phase 3: **429**;
 - manuscript edits during Phase 3: **0**;
-- open structural FAILs: **273, 283**;
+- original Phase-3 structural FAILs: **273, 283**; both are now resolved in Phase 4;
 - closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`;
 - next family: **none — Phase 3 complete**;
 - exception-table normalization: **75 redundant replay rows removed; all 36 baseline rows preserved**.
@@ -86,10 +86,15 @@ Any new exception must be added to source/chinese/chapter-exceptions.tsv and ref
 
 ## Phase 4 — Remediation and evidence rebinding
 
-**Status:** READY — NOT STARTED  
+**Status:** **COMPLETE**  
 **Remediation population:** 273 unique chapters  
-**First family:** Camus Morgue (20–25)  
-**Earliest failing target:** Chapter 22
+**Completed remediation chapters:** 273  
+**Remaining remediation chapters:** 0  
+**Completed affected families:** 95  
+**Manuscript edits:** 271  
+**Last completed family:** Side Stories (496–500)  
+**Closure checkpoint:** `qa/cycle2-phase4-checkpoint-0500.md`  
+**Tracker acceptance-SHA validation:** 500 / 500 matched, 0 mismatches  
 
 **Goal:** repair all Cycle-2 failures without fragmenting family continuity.
 
@@ -110,7 +115,7 @@ Rules:
    - glossary/exception table where applicable.
 6. If family QA changes, rebind every acceptance/provenance artifact that depends on that family-QA hash.
 
-**Exit gate:** remediation queue is empty; all changed families have fresh, internally consistent evidence chains.
+**Exit gate:** **SATISFIED** — remediation queue is empty; all changed families have fresh evidence chains, 0 remediation flags remain, and all 500 tracker acceptance SHAs match live acceptance blobs.
 
 ## Phase 5 — Independent residual verification and consistency sweep
 
@@ -176,9 +181,27 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Begin Phase 4 from **Camus Morgue (20–25)**, the earliest affected title family.
-2. Continue reconciling shared/combined Chinese raws, localized Chinese gaps, shifted English mappings, and Side Story boundaries against the normalized exception table.
-3. Preserve open structural FAILs at Chapters **273 and 283** for Phase 4; investigate any newly discovered duplicated/displaced source blocks without editing manuscript text.
-4. Record a Phase-3 PASS / FAIL / EXCEPTION-DOCUMENTED disposition for every target.
-5. Keep all **273** remediation chapters frozen until Phase 3 closes, then begin Phase 4 from the earliest affected family.
-6. Keep EPUB assembly blocked.
+1. Begin **Phase 5 — independent residual verification and consistency sweep**.
+2. Run post-remediation diagnostics for size/paragraph anomalies, explicitness-sensitive term mismatches, dialogue/window-count drops, chapter opening/ending continuity, numeric/stat/rank/item inconsistencies, canonical-name drift, information-window fragmentation, and other credible residual discrepancies.
+3. Re-open and repair any family where Phase 5 finds a credible defect, refreshing its dependent evidence chain.
+4. Keep complete-EPUB assembly blocked until Phase 5 clears and Phase 6 closure/hash validation is complete.
+
+
+## Phase 4 closure checkpoint — 2026-09-28
+
+Phase 4 is **COMPLETE**.
+
+- remediation population: **273 unique chapters**;
+- completed remediation chapters: **273**;
+- remaining remediation chapters: **0**;
+- affected families completed: **95**;
+- manuscript edits: **271**;
+- original Phase-3 structural failures at Chapters **273** and **283**: **resolved**;
+- last completed family: **Side Stories (496–500)**;
+- live remediation flags remaining: **0**;
+- acceptance artifacts: **500 / 500**;
+- tracker entries: **500 / 500**;
+- tracker acceptance-SHA mismatches: **0**;
+- closure record: `qa/cycle2-phase4-checkpoint-0500.md`;
+- next stage: **Phase 5 — independent residual verification and consistency sweep**;
+- EPUB assembly remains blocked until Phase 5 residual verification and Phase 6 closure.

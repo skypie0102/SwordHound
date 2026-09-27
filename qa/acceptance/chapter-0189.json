@@ -2,8 +2,8 @@
   "chapter": 189,
   "title": "Aftermath (4)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Aftermath",
     "range": [
@@ -11,8 +11,8 @@
       189
     ],
     "family_qa_path": "qa/families/aftermath-0186-0189.md",
-    "family_qa_sha": "6eb3b97cbdf0e726c387f4ad5774e43548298cb9",
-    "status": "pass"
+    "family_qa_sha": "2fbe451379e4d70feb63ed5e8d97d30b058c0482",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/189.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-187.xhtml",
     "english_reference_sha": "3119e723eebdb865b487235d4297024272f031f0",
     "draft_path": "manuscript/drafts/chapter-0189.md",
-    "draft_sha": "b8f18cba51c098537ac5d3e77d84af0d817c5adb",
+    "draft_sha": "a6b1888d88f426cec54a40e04a72e5684a0071c3",
     "qa_path": "qa/chapter-0189.md",
-    "qa_sha": "3bbcb6d8f0592fcfee725ce7f03df050d3de1711",
+    "qa_sha": "2927e7ca46d0f07c7ca466ea331a91787234c1c6",
     "provenance_path": "editorial/provenance/chapter-0189.json",
-    "provenance_sha": "555a0244bf516b70e0e4f07330d001c8e39d7efa"
+    "provenance_sha": "ce5038f1e9ae2c20257cf587783b09c01e74b7e1"
   },
   "canonical_checks": [
     "Cindywendy",
@@ -39,5 +39,12 @@
     "Varangian incident is copycat activity.",
     "Copycat identities remain unrevealed."
   ],
-  "next_family_alignment_note": "Attack Land targets190-196: 190→E188 through 196→E194. C192-196 reverse the Chinese title word order but remain parts3-7. Target197→E195 begins Preparing for the Festival (1)."
+  "next_family_alignment_note": "Attack Land targets190-196: 190→E188 through 196→E194. C192-196 reverse the Chinese title word order but remain parts3-7. Target197→E195 begins Preparing for the Festival (1).",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored injury placeholders, Varangian casualty detail, public profanity/insult, and catch-and-kill intent toward copycats"
+  }
 }

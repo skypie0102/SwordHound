@@ -148,9 +148,9 @@ She launched herself at Vikir.
 
 She wrapped herself around him.
 
-Face—
+Rubbed her face against him—
 
-wet with tears.
+crying hard enough that Vikir soon felt the front of his abdomen grow wet with tears.
 
 Osiris smiled.
 
@@ -470,7 +470,7 @@ And—
 
 old Baskerville figures who had participated in the conspiracy—
 
-lost their heads.
+were executed.
 
 Osiris used the purge—
 

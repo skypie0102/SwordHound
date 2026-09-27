@@ -218,7 +218,7 @@ Black smoke erupted from its mouth.
 
 Its body convulsed.
 
-As though its insides were dissolving.
+As though its **internal organs were melting**.
 
 “…Hm.”
 
@@ -242,7 +242,7 @@ Slowly.
 
 Certainly.
 
-And painfully.
+In terrible agony.
 
 [W-why…?]
 
@@ -258,9 +258,9 @@ The fairy no longer heard him.
 
 Fwoosh—
 
-Its body disintegrated.
+Its body split apart into pieces with violent force—
 
-Gone.
+then disappeared completely.
 
 “…Effective.”
 

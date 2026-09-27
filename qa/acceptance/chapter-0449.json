@@ -2,8 +2,8 @@
   "chapter": 449,
   "title": "The Fall of Usher (9)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment_with_fandom_canonicalization",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_with_fandom_canonicalization_cycle2_phase4",
   "title_family": {
     "name": "The Fall of Usher",
     "range": [
@@ -11,8 +11,8 @@
       449
     ],
     "family_qa_path": "qa/families/fall-of-usher-0441-0449.md",
-    "family_qa_sha": "0e77f91190c5c40973d293e4c289065460185c47",
-    "status": "pass"
+    "family_qa_sha": "eb58813e9f65cf30b850a97a5f9639853f6af7fb",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/449.txt",
@@ -20,16 +20,23 @@
     "english_reference_path": "source/chapters/chapter-447.xhtml",
     "english_reference_sha": "065f9c9cd7f89f61ed04dc1b92693d4cafa87ec0",
     "draft_path": "manuscript/drafts/chapter-0449.md",
-    "draft_sha": "45a8fc4f9c7d55b4d9a617dacf54070cb6e7f027",
+    "draft_sha": "209f39f7c32557137e9ab80fd18b72f14857c203",
     "qa_path": "qa/chapter-0449.md",
-    "qa_sha": "fd6c26adb8cb0be5f7740100c0ebe120bb074fd5",
+    "qa_sha": "a775e4a114ac36c79260fb34b7832a2811d495fe",
     "provenance_path": "editorial/provenance/chapter-0449.json",
-    "provenance_sha": "839f24a56bf01173cfd54be4c8599e5817834aee"
+    "provenance_sha": "0b15ccb4bec0d4fda2bfeef3059cbdbd863e7eca"
   },
   "canonical_reference": [
     "Fresh Fandom indexing confirms Andrealphus/Madeline Usher, Roderick Usher, Isolde Usher, Masyaf, and Love Shield where applicable.",
     "Unsupported local forms remain source-local."
   ],
   "reveal_guard": "No Declaration of War material from target450 is imported.",
-  "key_reveal": "Andrealphus and Roderick die with Masyaf; only First and Second Corpses remain."
+  "key_reveal": "Andrealphus and Roderick die with Masyaf; only First and Second Corpses remain.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored Roderick's broken-internal-organ condition"
+  }
 }

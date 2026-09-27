@@ -1,6 +1,6 @@
 # Project State
 
-**Checkpoint:** 2026-09-26
+**Checkpoint:** 2026-09-28
 **Target edition:** 500 chapters  
 **Manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
@@ -12,15 +12,14 @@
 **Completeness revalidated:** 500 / 500 — COMPLETE — 229 PASS / 271 FAIL
 **Boundary/alignment revalidated:** 500 / 500 — 53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED across 118 / 118 families  
 **Confirmed new failures:** 200 Phase-1 sanitization FAIL chapters plus 271 Phase-2 completeness FAIL chapters; 73 additions beyond the Phase-1 FAIL queue (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499) raise the combined remediation population to 273 unique chapters
-**Current phase:** Phase 4 READY — remediation and evidence rebinding not yet started  
-**Phase-3 integration:** PR #149 merged at `b94da82d837d73e3dba76975d26f70765b5a1ad2`
+**Current phase:** **Phase 4 COMPLETE — 273/273 remediation chapters, 95 affected families, 0 remaining; Phase 5 residual verification next**
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
 
 ## Current priority
 
-The immediate project focus is **Cycle 2 Phase 4: remediation and evidence rebinding**, beginning with Camus Morgue (20–25).
+The immediate project focus is now **Cycle 2 Phase 5: independent residual verification and consistency sweep**. Phase 4 closed at **273 / 273** remediation chapters across **95** affected title families with **271** manuscript edits and **0** remaining remediation targets.
 
 Phase 1 sanitization and Phase 2 direct completeness review are both complete across all **500 / 500** targets. The structural pass has reviewed Chapters **1–500** across **118 / 118** contiguous title families and is complete. It rechecks title-family/chapter transitions, shared or combined Chinese raw containers, the 54/55 overlap, localized source gaps, shifted/nontrivial English witness mappings, Side Story boundaries/order, and duplicated/displaced source blocks.
 
@@ -90,8 +89,28 @@ Phase 2 completeness is **COMPLETE through Chapter 500**:
 
 Closure evidence: `qa/cycle2-phase2-checkpoint-0500.md`.
 
-Phase 3 is complete at **500 / 500** targets across **118 / 118** families with **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED**, **429 genuine new source-exception rows**, and **0 manuscript edits**. Structural failures at Chapters **273 and 283** are carried into Phase 4. Closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`. Phase 4 is ready and begins with **Camus Morgue (20–25)**.
+Phase 3 is complete at **500 / 500** targets across **118 / 118** families with **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED**, **429 genuine new source-exception rows**, and **0 manuscript edits**. The structural failures at Chapters **273 and 283** are both resolved in Phase 4. Closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`. Phase 4 is **complete**. Its closure checkpoint is `qa/cycle2-phase4-checkpoint-0500.md`.
 
 ## Release gate
 
 Complete-EPUB assembly, presentation QA, and final packaging are deferred until Cycle 2 formally closes with all 500 chapters resolved on both primary gates, all structural exceptions resolved, no outstanding remediation, and all live evidence/hash bindings validated.
+
+
+## Phase 4 closure
+
+- Status: **COMPLETE**
+- Remediation population: **273 unique chapters**
+- Completed remediation chapters: **273**
+- Remaining remediation chapters: **0**
+- Completed affected families: **95**
+- Manuscript edits during Phase 4: **271**
+- Last completed family: **Side Stories (496–500)**
+- Original Phase-3 structural failures: **resolved**
+- Acceptance files: **500 / 500**
+- Tracker entries: **500 / 500**
+- Tracker acceptance-SHA mismatches: **0**
+- Closure checkpoint: `qa/cycle2-phase4-checkpoint-0500.md`
+
+## Current priority — Phase 5
+
+Run an independent residual verification and consistency sweep across the post-remediation corpus. Re-open any credible discrepancy and refresh evidence after correction. EPUB assembly remains blocked until Phase 5 and Phase 6 close.

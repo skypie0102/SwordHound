@@ -9,7 +9,7 @@
       77
     ],
     "family_qa_path": "qa/families/hound-night-0075-0077.md",
-    "family_qa_sha": "ddfa912df3b33b86a1ee67c4315865c7d67bafc5",
+    "family_qa_sha": "8afc4f3deba4a4e81118b3a57bcc06bb810f880d",
     "status": "pass"
   },
   "primary_source": {
@@ -55,11 +55,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0075.md",
-    "blob_sha": "d5f09a9758fe8fc1b98a70bee19b586ffe1043a8"
+    "blob_sha": "f08a6ce029ba0d2f720cd677e15db411bd18df80"
   },
   "qa": {
     "path": "qa/chapter-0075.md",
-    "blob_sha": "c1a6ed52d6982d2a3d0dd53bfa9580458ee2093b",
+    "blob_sha": "a4014d0a090734c041d67f142d4a82f56cc8e447",
     "status": "pass"
   },
   "documented_decisions": [
@@ -90,5 +90,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      75,
+      77
+    ],
+    "manuscript_changed": true,
+    "note": "restored flood corpse/log footing, Chihuahua loyalty detail, and Gambino investment-adviser precedent"
+  }
 }

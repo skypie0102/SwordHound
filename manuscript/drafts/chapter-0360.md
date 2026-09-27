@@ -198,7 +198,7 @@ No time to run.
 
 Their bodies were ripped apart.
 
-Only enough remained for them to stay alive.
+Only their heads and torsos remained.
 
 Vikir stood before them.
 

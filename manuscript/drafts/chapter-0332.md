@@ -44,7 +44,7 @@ you’ll move me quickly through the next section.”
 
 “And what do I get?”
 
-The fairy raised ten fingers.
+The fairy folded down two of its twelve fingers and held up the remaining ten.
 
 Vikir understood immediately.
 

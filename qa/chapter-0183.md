@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/183.txt` — `3d3082eb12bb4e7e66d6dbeb205ea06e29c963e8`
 - English witness: **E181** — `c69b91a79addb2cde5501460d248dc7e0aa8764e`
-- Draft: `manuscript/drafts/chapter-0183.md` — `01da467438157aab11bb5a14dce76cadeef2363a`
+- Draft: `manuscript/drafts/chapter-0183.md` — `1b218ce19f8b4ee0bcec02b1277258804b95474f`
 
 ## Checks
 - PASS — malfunction is traced to an extra strong life signal inside the arena, not to the four registered students.
@@ -20,3 +20,14 @@
 - PASS — Dolores decides student lives matter more than the expensive magic stone, expulsion, or compensation liability.
 - PASS — she takes a professor's sword and moves to destroy the magic stone herself.
 - PASS — chapter ends when Vikir appears inside the still-sealed barrier and tells the group to stay back.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the substantive golem-generation / life-detection / phase-control causal and liability exchange instead of the compressed generic responsibility summary.
+
+The complete Midterm Random Defense family was reread after remediation. Chapter 179 remains unchanged and passes both Cycle-2 content gates. Shifted mapping remains **179→E177 through 185→E183**; target 186/E184 begins *Aftermath (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Midterm Random Defense family QA.

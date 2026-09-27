@@ -2,8 +2,8 @@
   "chapter": 185,
   "title": "Midterm Random Defense (7)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Midterm Random Defense",
     "range": [
@@ -11,8 +11,8 @@
       185
     ],
     "family_qa_path": "qa/families/midterm-random-defense-0179-0185.md",
-    "family_qa_sha": "5e3faad9482fbac0eae393e1b5d7b98293ae7ede",
-    "status": "pass"
+    "family_qa_sha": "dafd62fa6916218737bbd547058b0695c4c74cb9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/185.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-183.xhtml",
     "english_reference_sha": "cd1a89df06ee225d54d0fb7842b8a5798bf8c1b8",
     "draft_path": "manuscript/drafts/chapter-0185.md",
-    "draft_sha": "5cd5dd8f952de2059a302d44cc53c2cb0cacb8cc",
+    "draft_sha": "512847a7c0e3c5cc07ec8a671fa6f719bb662359",
     "qa_path": "qa/chapter-0185.md",
-    "qa_sha": "418a1bd2091345586da821a1759c4405dd52ea2b",
+    "qa_sha": "41b3303d18f619576642ffe2ec3ac487dfde2186",
     "provenance_path": "editorial/provenance/chapter-0185.json",
-    "provenance_sha": "cc808b07341d30b5432116da2ebfdc570855a6b0"
+    "provenance_sha": "b01681cef949fa64a5886f2178ef488d5f1f7cf7"
   },
   "canonical_checks": [
     "Pigi",
@@ -38,5 +38,12 @@
     "Vikir does not expose Graduator aura.",
     "Chinese rank drift is normalized to Sword Expert-level output."
   ],
-  "next_family_alignment_note": "Aftermath targets186-189: 186→E184,187→E185,188→E186,189→E187. Target190→E188 begins Attack Land (1)."
+  "next_family_alignment_note": "Aftermath targets186-189: 186→E184,187→E185,188→E186,189→E187. Target190→E188 begins Attack Land (1).",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored food progression, compass route/step mechanics, correct density statement; removed unsupported mucus"
+  }
 }

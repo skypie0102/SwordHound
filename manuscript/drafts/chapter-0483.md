@@ -236,7 +236,7 @@ The words were bizarre.
 
 Detached from reality.
 
-A performance continuing after the stage itself had burned down.
+Lines completely disconnected from the situation kept coming without logic, like symptoms commonly shown by someone with schizophrenia.
 
 Vikir finally bared his fangs.
 

@@ -152,6 +152,8 @@ Daughters were extraordinarily rare.
 
 Hugo's acknowledged direct household was almost entirely male.
 
+That was no accident. Hugo had always considered boys more useful in battle. He sought sons and grandsons rather than daughters, treating children as tools for combat.
+
 Vikir wondered what Hugo would do if this tiny granddaughter appeared in front of him.
 
 His first instinct was pessimistic.

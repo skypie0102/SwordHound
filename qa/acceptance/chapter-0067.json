@@ -2,8 +2,8 @@
   "chapter": 67,
   "title": "Unfair Trade (4)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Unfair Trade",
     "range": [
@@ -11,7 +11,7 @@
       67
     ],
     "family_qa_path": "qa/families/unfair-trade-0064-0067.md",
-    "family_qa_sha": "af6a0e1829333eae90de2a609db768606177f51e",
+    "family_qa_sha": "03117044c6e71069425a7c247b598e0303263fcc",
     "status": "pass"
   },
   "evidence": {
@@ -22,9 +22,9 @@
     "draft_path": "manuscript/drafts/chapter-0067.md",
     "draft_sha": "e1984e1e6f412fdc4466cb45b6422e2747b9cf39",
     "qa_path": "qa/chapter-0067.md",
-    "qa_sha": "a535221bfb26140c7a1e7920807d62fbee8d7c34",
+    "qa_sha": "226bfc66f2a5263daf10573d215bc11698f6a6a3",
     "provenance_path": "editorial/provenance/chapter-0067.json",
-    "provenance_sha": "18210289139e2c10c4c117b307fafe68d7aae764"
+    "provenance_sha": "238c56dac21a84f2b5274be4977fe12d63393cb7"
   },
   "canonical_checks": [
     "Akwilla",
@@ -42,5 +42,12 @@
     "Target 67 maps to E66.",
     "Ahun=Ah'Heman's grandson is now resolved by target65/67 direct continuity plus indexed Fandom corroboration.",
     "Under-eighteen sexual escalation from the source is not reproduced; only nonsexual relationship intent and plot continuity are retained."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_family_revalidation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "complete-family reread reconfirmed ordinary-content PASS; safety-limited relationship material remains nonsexual"
+  }
 }

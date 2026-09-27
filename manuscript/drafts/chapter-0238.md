@@ -484,6 +484,8 @@ Bone.
 
 Deep into the round table.
 
+Blood welled and flowed steadily from the wound.
+
 For one blank second—
 
 he did not feel pain.
@@ -527,6 +529,8 @@ That impression was wrong.
 The triplets' results were almost always separated by tiny margins.
 
 Highbro merely attracted more attention.
+
+Granola remained pinned to the table, tears streaming down his face.
 
 Highbro and Middlebro opened their eyes.
 

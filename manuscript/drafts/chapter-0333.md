@@ -326,7 +326,7 @@ They sat curled together.
 
 Blank-eyed.
 
-Already broken.
+They looked as though they had already gone mad.
 
 The **Spawning Room** contained gravid monsters prepared for birth.
 
@@ -396,9 +396,11 @@ Slowly read the characters.
 
 “…Mating Room.”
 
-Breeding.
+Mating.
 
-A room designed to pair male and female specimens—
+Sexual behavior between male and female specimens for reproductive purposes.
+
+A room designed to force that pairing—
 
 then produce offspring.
 

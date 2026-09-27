@@ -8,9 +8,9 @@
 
 | Target | Chinese SHA | English witness | English SHA | Draft SHA | QA SHA |
 |---|---|---|---|---|---|
-| 203 | `acd7fa44938fcb72c31431a2e4a93b2ec4ad8fc7` | E201 | `1837e0dd89b14ce0defcd2ab77b7d97cf24971ea` | `7dcf4379def72d981db05036ec9b80867acf030c` | `1257ae702365599e13f251c58d17b49782eb7945` |
-| 204 | `2dfd23637cf347377008223498d64b8609285f81` | E202 | `dd261c717a711ac0de17ef4b0106dd4a3f511754` | `31756ca9ddf560d68da233ca90cc16f5770efd7f` | `682493d918203a142af6bd85d43903d5541f26fd` |
-| 205 | `5d2574f56fcc774d0fcb0a424461585ac2083139` | E203 | `d5ec3cfda68eb2ee1d6fa22367eb34092ae4f2fc` | `c8ba7fe99be05b2db5a3dcbc43b32eec3e3ee467` | `197afd2522164c1d16bd02e3b0ca0920ad41ed82` |
+| 203 | `acd7fa44938fcb72c31431a2e4a93b2ec4ad8fc7` | E201 | `1837e0dd89b14ce0defcd2ab77b7d97cf24971ea` | `4e9eb126296597078a788a3fed418f3f6f61166e` | `c7db90e2a26e3c3d9618da76163b8e035cc80d72` |
+| 204 | `2dfd23637cf347377008223498d64b8609285f81` | E202 | `dd261c717a711ac0de17ef4b0106dd4a3f511754` | `6bf0346d15c509dd3a01b740c63e9c3fe81ec5d9` | `3c18dd2a7eddecd5bb09e1493af2a9e9b61c95c0` |
+| 205 | `5d2574f56fcc774d0fcb0a424461585ac2083139` | E203 | `d5ec3cfda68eb2ee1d6fa22367eb34092ae4f2fc` | `1e4ad0e6bf5a062200d99cef51e63d9c7c1e5a63` | `3fb7a557fd4b7f10890c2bf8bdd96b2c49fb5215` |
 | boundary 206 | `86a0e5cf87255b744988fe7b97068b452ad0b76f` | E204 | `ea1e65fd55cdb60c0f1664c66045de88e993247b` | next family | next family |
 
 Mapping: **203→E201 through 205→E203**.
@@ -30,7 +30,7 @@ Mapping: **203→E201 through 205→E203**.
 - The Sixth Fang teaching requires abandoning joy/anger/sorrow/pleasure; the Seventh Fang teaching requires recovering them.
 - Vikir recognizes that Baskerville's emotion-erasure training efficiently produces Graduators but may prevent advancement toward Sword Master.
 - C205 source explicitly denies lust; bath material remains awkward, non-explicit pet-owner comedy rather than eroticized prose.
-- The raw layer's unstable “horizontal double wisdom tooth/canine” label is not promoted to canon; only the underlying Sixth/Seventh interlock is retained.
+- The raw layer's unstable “horizontal double wisdom tooth/canine” label is not promoted to canon; the underlying Sixth/Seventh relationship is retained as a **hidden horizontal paired-Fang configuration** without canonizing the unstable tooth label.
 - Dolores's growing soul sensitivity makes Choco feel strangely familiar, but she still does not identify him as Vikir / Night Hound.
 - Dolores confides the same “who hears my troubles?” burden to Choco that she previously voiced to Night Hound.
 - Her romantic interest is explicitly the **Night Hound**, remaining one-sided POV; Vikir does not realize she means him.
@@ -44,3 +44,19 @@ Target **206 → E204** begins **Festival Night (1)**.
 ## Family verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread, with one documented safety-limited underage-nudity exception in Chapter 205.
+
+- Chapter 203 restores the bullies' **humiliation and torment** of weak students, the too-many-victims / unknown-retaliator cause-and-effect passage, and the explicit **burn it alive** threat.
+- Chapter 204 restores Dolores's **pests** characterization, the student's fear that his father will **beat him to death** if expelled, concrete stock/market/trade consequences, exact upper/lower-jaw tooth anatomy, and the hidden horizontal paired-Fang killing configuration.
+- Chapter 205 restores the paired-Fang mechanics and nonsexual pet-affection beats: careful washing touch, belly rub, foam wiped from the nose, repeated puppy kisses, and the later nose-touch while being held. The source's explicit **no-lust** framing remains intact.
+- Chapter 205's explicit underage nudity wording remains safety-limited and is not expanded into the manuscript; this limitation does not conceal unrelated ordinary omissions.
+- Sanitization fidelity and completeness were rerun across Chapters 203–205 after repair.
+- Mapping remains **203→E201, 204→E202, 205→E203**; target **206→E204** begins *Festival Night (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear with documented safety limitation; continue to **Festival Night (206–215)**.

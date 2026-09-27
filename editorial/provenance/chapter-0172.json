@@ -9,8 +9,8 @@
       175
     ],
     "family_qa_path": "qa/families/anti-columnist-0172-0175.md",
-    "family_qa_sha": "dfc148fb2e8dde04577e41a680c38423e1a006c1",
-    "status": "pass"
+    "family_qa_sha": "55facfe2179c0304cdaef36069c34d2511882119",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/172.txt",
@@ -35,7 +35,7 @@
   "qa": {
     "path": "qa/chapter-0172.md",
     "blob_sha": "3165df5a1d15817e45b9fb9e196d80c0dd477adf",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -60,12 +60,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-26",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/176.txt",
     "chinese_sha": "94b9589ca40d0c79ed44a8ff83acf2496fc3a197",
     "english_path": "source/chapters/chapter-174.xhtml",
     "english_sha": "199060b0ea9fc4e6989b550d35b0e06b474e7430",
     "purpose": "both begin The 99 Hits With 100 Shots (1), target176"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      172,
+      175
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
   }
 }

@@ -360,7 +360,7 @@ Then—
 
 “Where are you going in such a hurry—
 
-Major ‘Rotten Dog’ Garam?”
+Major ‘shit-eating dog’ Garam?”
 
 A familiar laugh came from the darkness.
 

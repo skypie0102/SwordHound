@@ -33,3 +33,18 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 366 was reread against its Chinese-primary source and remains complete without manuscript changes.
+- Chapter 367 restores the source-explicit corpse degradation/cannibalism image: even a corpse may be reduced to **chunks of meat swallowed in a few bites**.
+- Chapter 368 restores Vikir **crushing the pursuing major's face underfoot** and Kirko **vomiting while rolling on the ground** after the throat-grab slam.
+- Sanitization fidelity and completeness were rerun across Chapters 366–368 after repair.
+- Shifted mapping remains **366→E364, 367→E365, 368→E366**; target 369/E367 begins *The Servant (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **The Servant (369–370)**, with remediation target Chapter **370**.

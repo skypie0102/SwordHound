@@ -58,7 +58,7 @@ The males were generally ready much of the year.
 
 Females entered heat only periodically—
 
-roughly twice a year, with long months between cycles.
+roughly twice a year, on a seven-to-eight-month cycle.
 
 Recently, wolves throughout the village had been howling into the night.
 
@@ -154,7 +154,7 @@ the she-wolf in front of him had not lost interest.
 
 Aiyen watched.
 
-“…She knows his bloodline is still strong.”
+“…She knows his seed is still intact.”
 
 The phrasing reminded Vikir of something Aiyen had once said while discussing Oxbears—
 

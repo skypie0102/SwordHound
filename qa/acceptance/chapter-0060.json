@@ -2,8 +2,8 @@
   "chapter": 60,
   "title": "The Hunter and the Hunted (6)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_e59",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_e59_cycle2_phase4",
   "title_family": {
     "name": "The Hunter and the Hunted",
     "range": [
@@ -11,7 +11,7 @@
       60
     ],
     "family_qa_path": "qa/families/hunter-hunted-0055-0060.md",
-    "family_qa_sha": "4cc415fa66c3f178af78f7a5130c3058936d88b7",
+    "family_qa_sha": "e838ea65fea66414cc29c2ebe80a6f96d008fb02",
     "status": "pass"
   },
   "evidence": {
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-059.xhtml",
     "english_reference_sha": "5e13cc1bc24061a5a94eba0ad352e5126ee65bdd",
     "draft_path": "manuscript/drafts/chapter-0060.md",
-    "draft_sha": "df77f7700668f8d28bc7ec5f8afa83a02c8b5513",
+    "draft_sha": "a1c29330b69ee8c26f6969d970e7269b9e47e6a5",
     "qa_path": "qa/chapter-0060.md",
-    "qa_sha": "c35796d733c7b5b9728803a382be31d8214bcc95",
+    "qa_sha": "a14883e936674768a3c2137d2913daecce7b9e7f",
     "provenance_path": "editorial/provenance/chapter-0060.json",
-    "provenance_sha": "6090556ade4047ad6723e385ace80e373b2022b1"
+    "provenance_sha": "8ce4bf883080dc02ced1bfeb124b766eadfa5bec"
   },
   "canonical_checks": [
     "Aiyen",
@@ -39,5 +39,12 @@
     "Target 60 maps to E59; E60 belongs to target 61.",
     "Oxbear kill violence remains explicit.",
     "Closing seed-collection joke is clinical/non-erotic and not expanded."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored nerve-churning gore, high-ranking-demon predator comparison, and charred-brain Incinerate result"
+  }
 }

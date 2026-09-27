@@ -9,8 +9,8 @@
       235
     ],
     "family_qa_path": "qa/families/suspicion-0234-0235.md",
-    "family_qa_sha": "adcfea42120b332df0d35779d70bada3b8d460cc",
-    "status": "pass"
+    "family_qa_sha": "636faf73643794e32e8a95b8f6941b65ad8fbe4c",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/235.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0235.md",
-    "blob_sha": "e75417c4f949daabbbafd9c9ca2f8320e1469ab8"
+    "blob_sha": "676b74b5878b2039b10b5da633f000951e0d13a1"
   },
   "qa": {
     "path": "qa/chapter-0235.md",
-    "blob_sha": "a49211dc195183e300c00183f94b3f66dadee288",
-    "status": "pass"
+    "blob_sha": "f2898418f3a97c494202e70eb65c337b9926a47a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -60,12 +60,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-19",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/236.txt",
     "chinese_sha": "eddd037aea501c9b125834963a46434320451100",
     "english_path": "source/chapters/chapter-234.xhtml",
     "english_sha": "5f04f7dfda83ad287aeac43af4b4d1d44cdffbe7",
     "purpose": "target236 begins National University League (1); family runs through244/E242, target245/E243 begins Survival Contest (1)"
+  },
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      234,
+      235
+    ],
+    "manuscript_changed": true,
+    "note": "restored death threat, blood-covered aftermath, and chin/neck scent-check contact"
   }
 }

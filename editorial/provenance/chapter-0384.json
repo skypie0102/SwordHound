@@ -9,8 +9,8 @@
       384
     ],
     "family_qa_path": "qa/families/kennel-0382-0384.md",
-    "family_qa_sha": "77a570da8dbe91cebe52dfc242cc7da165367995",
-    "status": "pass"
+    "family_qa_sha": "8f824cb9ad094e7fdb4a2d9edaa99bbec8c4df24",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/384.txt",
@@ -24,13 +24,24 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0384.md",
-    "blob_sha": "29c6856f31f23c3842822e1bcdb2ecf30871b04e"
+    "blob_sha": "c88cbbdc555de366a52370d21fc23f8e51b2876d"
   },
   "qa": {
     "path": "qa/chapter-0384.md",
-    "blob_sha": "79ce55272cb5d547bdd4e1a928dd5f77401654dc",
-    "status": "pass"
+    "blob_sha": "6bb50201318c696af53db4f7d92302755a31c67a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      382,
+      384
+    ],
+    "manuscript_changed": true,
+    "note": "restored explosive blood/flesh/internal-organ burst and instantly blackened water"
+  }
 }

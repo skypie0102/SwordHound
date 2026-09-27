@@ -2,8 +2,8 @@
   "chapter": 305,
   "title": "The Age of the Warmonger (7)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Age of the Warmonger",
     "range": [
@@ -11,8 +11,8 @@
       306
     ],
     "family_qa_path": "qa/families/age-warmonger-0299-0306.md",
-    "family_qa_sha": "6c75847573a37c5864587a0a4892066b9ca65bc5",
-    "status": "pass"
+    "family_qa_sha": "655f6980a8a117730fe475539d08eb0495246a73",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/305.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-303.xhtml",
     "english_reference_sha": "53b210d72af7b18aaebf84510ce5bf0626820972",
     "draft_path": "manuscript/drafts/chapter-0305.md",
-    "draft_sha": "259e9a1a6eca28e69259d139a5bacf5075491627",
+    "draft_sha": "68d7093673990cad82c7b21ad1adeb5f961bd862",
     "qa_path": "qa/chapter-0305.md",
-    "qa_sha": "33771e416eca60d9b6ddb2ae5a13d93c8c0c7457",
+    "qa_sha": "0b5b79683ec511339efbc07668fc817f54e28bfe",
     "provenance_path": "editorial/provenance/chapter-0305.json",
-    "provenance_sha": "019180de5317298b035dd5133aec5712bded1d34"
+    "provenance_sha": "87eeaf6ed46d5ab807e66db16f0f662133191772"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Hell Tree interior content from target307 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored hot blood gushing whenever Vikir opens his mouth"
+  }
 }

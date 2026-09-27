@@ -2,8 +2,8 @@
   "chapter": 445,
   "title": "The Fall of Usher (5)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment_with_fandom_canonicalization",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_with_fandom_canonicalization_cycle2_phase4",
   "title_family": {
     "name": "The Fall of Usher",
     "range": [
@@ -11,8 +11,8 @@
       449
     ],
     "family_qa_path": "qa/families/fall-of-usher-0441-0449.md",
-    "family_qa_sha": "0e77f91190c5c40973d293e4c289065460185c47",
-    "status": "pass"
+    "family_qa_sha": "eb58813e9f65cf30b850a97a5f9639853f6af7fb",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/445.txt",
@@ -20,15 +20,22 @@
     "english_reference_path": "source/chapters/chapter-443.xhtml",
     "english_reference_sha": "90bad3f0002a50129b0ca6cee86b35f215d77993",
     "draft_path": "manuscript/drafts/chapter-0445.md",
-    "draft_sha": "e6d0018e7a307a5942c7ebe3141ef77eb6d614a3",
+    "draft_sha": "260eb801888de01e9d1e32a4e3ddf68f4659b46e",
     "qa_path": "qa/chapter-0445.md",
-    "qa_sha": "214619f7e93c1c18ac28073bb5256ee7c614b171",
+    "qa_sha": "2276efd19778e0283b18db3bf1871602d9dc9c00",
     "provenance_path": "editorial/provenance/chapter-0445.json",
-    "provenance_sha": "8240e4a81153c2e8ab04c1d568599809fd7840e7"
+    "provenance_sha": "1ef2ae0c57352084a43eafba0236014dfe79f245"
   },
   "canonical_reference": [
     "Fresh Fandom indexing confirms Andrealphus/Madeline Usher, Roderick Usher, Isolde Usher, Masyaf, and Love Shield where applicable.",
     "Unsupported local forms remain source-local."
   ],
-  "reveal_guard": "No Declaration of War material from target450 is imported."
+  "reveal_guard": "No Declaration of War material from target450 is imported.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored nasal-discharge trail, offspring-consumption intent, and Nouvelle Vague demon-hunter suspicion"
+  }
 }

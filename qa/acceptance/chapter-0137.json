@@ -2,8 +2,8 @@
   "chapter": 137,
   "title": "Test Your Skills (5)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Test Your Skills",
     "range": [
@@ -11,8 +11,8 @@
       138
     ],
     "family_qa_path": "qa/families/test-your-skills-0133-0138.md",
-    "family_qa_sha": "754d76f9c778e0a4617c0766384e67de87e6f91a",
-    "status": "pass"
+    "family_qa_sha": "dd2dcd14a16c827655d6d39887900d785b46feff",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/137.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-136.xhtml",
     "english_reference_sha": "64a089ae2b8dc8db74dd65e9835440020974703f",
     "draft_path": "manuscript/drafts/chapter-0137.md",
-    "draft_sha": "0b9acd70039ff39dbb89e8234376899eae932d99",
+    "draft_sha": "2a1763770fe2b08550e578548df3615b58859fc8",
     "qa_path": "qa/chapter-0137.md",
-    "qa_sha": "0a9cee0d211b5dcc03c1ffe14f53ef36a0e26b66",
+    "qa_sha": "f1296f81ed79a8332833db32804f65c2d55673e1",
     "provenance_path": "editorial/provenance/chapter-0137.json",
-    "provenance_sha": "4e312abc53c45604ba83b6f83c5cfee2062ccbb8"
+    "provenance_sha": "b9bf6227f26e736f426144da5e3faedc1bd3426b"
   },
   "canonical_checks": [
     "Sancho Barataria",
@@ -38,5 +38,12 @@
     "Vikir uses no mana in the Sancho strength contest.",
     "Tudor future heroism remains prior-life memory.",
     "Chapter ends on glasses-off appearance reveal."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored bystander concern that Sancho's collision might kill the other student"
+  }
 }

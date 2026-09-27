@@ -2,8 +2,8 @@
   "chapter": 270,
   "title": "Rich Friends (1)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Rich Friends",
     "range": [
@@ -11,8 +11,8 @@
       272
     ],
     "family_qa_path": "qa/families/rich-friends-0270-0272.md",
-    "family_qa_sha": "40835cea0a3e53dc8d4db523fe458d303d8ca602",
-    "status": "pass"
+    "family_qa_sha": "1b732ea7ca7a1da7aebf0ec80643c48d2034afac",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/270.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-268.xhtml",
     "english_reference_sha": "9c3e9caa4628a20dced6cc3ef844647d5fa0576d",
     "draft_path": "manuscript/drafts/chapter-0270.md",
-    "draft_sha": "31602e213e00a4a308482e1363e0e4158dca8bb6",
+    "draft_sha": "d32e6c2ca8fc7df8157071c2edcf770b233affce",
     "qa_path": "qa/chapter-0270.md",
-    "qa_sha": "1b9cfeef36e5f7be743e4754dfa25e72953fbc23",
+    "qa_sha": "60b73910ea2c9d7fdf9e4b1e4c858c27ab570988",
     "provenance_path": "editorial/provenance/chapter-0270.json",
-    "provenance_sha": "f42c8553edacb716bee7f3d5a96246458436e337"
+    "provenance_sha": "0510bf5575978bb9caab792e6be20eedff7b0c2f"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Money War outcome from target273 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored explicit fact that Dolores has never killed anyone"
+  }
 }

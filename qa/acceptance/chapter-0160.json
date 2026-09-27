@@ -2,8 +2,8 @@
   "chapter": 160,
   "title": "Familiar Face (3)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Familiar Face",
     "range": [
@@ -11,8 +11,8 @@
       161
     ],
     "family_qa_path": "qa/families/familiar-face-0158-0161.md",
-    "family_qa_sha": "7bbf0675eebad6e338b69dd12f567f6948c561c2",
-    "status": "pass"
+    "family_qa_sha": "b6965699d7b4e9188b2235fd70eab1596365796b",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/160.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-159.xhtml",
     "english_reference_sha": "eef7b095585fff9b1d3e3cb29a8f6563e8842654",
     "draft_path": "manuscript/drafts/chapter-0160.md",
-    "draft_sha": "fc8395cb8dfef12b16924b827e556d0fc642ee11",
+    "draft_sha": "13c8a70abee2d7b9d4493dc1c6c3ea0e58a6a9bb",
     "qa_path": "qa/chapter-0160.md",
-    "qa_sha": "3c103cd8f520b7d929ee92b3552f005b3e90c033",
+    "qa_sha": "da33808c2ca88c6fefa379eddb8d300d013ffb0f",
     "provenance_path": "editorial/provenance/chapter-0160.json",
-    "provenance_sha": "677f59f10c986583e29ef6df28533049b99943f7"
+    "provenance_sha": "d7c4796dece444703f991e2e538aedb6f9e143b1"
   },
   "canonical_checks": [
     "Pedo",
@@ -42,5 +42,12 @@
     "Hebe's exact personal identity remains unrevealed.",
     "Night Hound identity remains hidden from Dolores."
   ],
-  "next_family_alignment_note": "Sin and Punishment targets162-169: 162→E161,163→E162,164→E163,165→E164,166→E165,167→E166,168→no recovered-English witness in current sequence,169→E167; target170→E168 begins Adorable Pet (1)."
+  "next_family_alignment_note": "Sin and Punishment targets162-169: 162→E161,163→E162,164→E163,165→E164,166→E165,167→E166,168→no recovered-English witness in current sequence,169→E167; target170→E168 begins Adorable Pet (1).",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored visible bone/internal organs and non-erotic naked-body awareness"
+  }
 }

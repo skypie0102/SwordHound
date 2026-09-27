@@ -31,3 +31,18 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 356 restores the hostile student's **“I almost got killed too”** exercise reaction and Tudor's source-explicit **tears-and-snot** jab at Bianca.
+- Chapter 357 restores Nouvelle Vague as explicitly **more cruel and more terrifying than the death penalty itself**.
+- Chapter 358 was reread against its Chinese-primary source and remains complete without manuscript changes.
+- Sanitization fidelity and completeness were rerun across Chapters 356–358 after repair.
+- Shifted mapping remains **356→E354, 357→E355, 358→E356**; target 359/E357 begins *Voluntary Escort (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Voluntary Escort (359–362)**, with remediation targets Chapters **360–361**.

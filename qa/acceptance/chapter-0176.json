@@ -2,8 +2,8 @@
   "chapter": 176,
   "title": "The 99 Hits With 100 Shots (1)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The 99 Hits With 100 Shots",
     "range": [
@@ -11,8 +11,8 @@
       178
     ],
     "family_qa_path": "qa/families/99-hits-0176-0178.md",
-    "family_qa_sha": "17d40518db9be33d4468187ec57fd1003a38f4b3",
-    "status": "pass"
+    "family_qa_sha": "2f3dcc24df17982648fe316ee4cbe2438b6755a9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/176.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0176.md",
     "qa_sha": "d40086bd0f65224bde00494e32e918a14a289d83",
     "provenance_path": "editorial/provenance/chapter-0176.json",
-    "provenance_sha": "da90bc61c3ccfcc40825c1e9555208eed229c668"
+    "provenance_sha": "ace691f742857aadeb59779a871c8a707c5a191c"
   },
   "canonical_checks": [
     "Bianca Fo Usher",
@@ -38,5 +38,12 @@
     "The unnamed 1,439 record-holder is not invented.",
     "Final-arrow score remains deferred to Chapter 177."
   ],
-  "next_family_alignment_note": "Target179→E177 begins Midterm Random Defense (1); determine the complete family boundary before acceptance."
+  "next_family_alignment_note": "Target179→E177 begins Midterm Random Defense (1); determine the complete family boundary before acceptance.",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

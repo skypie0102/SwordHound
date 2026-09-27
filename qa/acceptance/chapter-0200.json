@@ -2,8 +2,8 @@
   "chapter": 200,
   "title": "The Corpse Queen (3)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Corpse Queen",
     "range": [
@@ -11,8 +11,8 @@
       202
     ],
     "family_qa_path": "qa/families/corpse-queen-0198-0202.md",
-    "family_qa_sha": "fb506d016902b863286ef630d41425b777dd0743",
-    "status": "pass"
+    "family_qa_sha": "dbcb2114334d4df17f749d84d708a30674be0374",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/200.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-198.xhtml",
     "english_reference_sha": "32282ad8e61bd98ea77cd51bd211a48a985a8a3f",
     "draft_path": "manuscript/drafts/chapter-0200.md",
-    "draft_sha": "30757a858c04c47a6ae65901f0aa8393964b828b",
+    "draft_sha": "0d3ddd55782cbf348ef988748d3241e0f756009a",
     "qa_path": "qa/chapter-0200.md",
-    "qa_sha": "aa8c5da3e0cb49d6c5aa5d8351813174ae70a087",
+    "qa_sha": "d70ce7eeb94dbd4e33f08d9fcd65e8b1b6e7e04a",
     "provenance_path": "editorial/provenance/chapter-0200.json",
-    "provenance_sha": "4a942d62f68a9edfcc8715d144bb8a106e73b89a"
+    "provenance_sha": "7d6fef5e66f11ada9fe0ea0142b697de7beef21d"
   },
   "canonical_checks": [
     "Seere",
@@ -41,5 +41,12 @@
     "Queen's grievance about that night remains unexplained.",
     "End only with Vikir recognizing a familiar Ballak face; Ah'Heman is named next chapter."
   ],
-  "next_family_alignment_note": "Target203→E201 begins Mixed Bath (1)."
+  "next_family_alignment_note": "Target203→E201 begins Mixed Bath (1).",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored omitted Lich-window age/funeral/Abyss material"
+  }
 }

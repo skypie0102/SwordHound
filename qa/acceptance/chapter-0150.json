@@ -2,8 +2,8 @@
   "chapter": 150,
   "title": "Not Brother, But Uncle (1)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Not Brother, But Uncle",
     "range": [
@@ -11,8 +11,8 @@
       151
     ],
     "family_qa_path": "qa/families/not-brother-0150-0151.md",
-    "family_qa_sha": "a22e704eeb67ea6ac231e483997185d97c094ae6",
-    "status": "pass"
+    "family_qa_sha": "15cad6ea7568accd69826f72362bd75a247fa29a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/150.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-149.xhtml",
     "english_reference_sha": "460fbc535d134c06c517c1333f022fad1c16f9cd",
     "draft_path": "manuscript/drafts/chapter-0150.md",
-    "draft_sha": "93bbe3a2c57b5c15be4e524b74eca06c8c8caf48",
+    "draft_sha": "067f0b1fa64d47836c55006e138b4aa5a8d82563",
     "qa_path": "qa/chapter-0150.md",
-    "qa_sha": "70b5a5c20e44c5e4c5b775b1948bca2c07a8cd53",
+    "qa_sha": "3a7657d6c8a99630fae7d5f6b6832bbcc452770a",
     "provenance_path": "editorial/provenance/chapter-0150.json",
-    "provenance_sha": "84c4212fad25278d8010c4830ae35d09642f8d72"
+    "provenance_sha": "cf461faa11b8e0f4840361fe6e17decbd58cf1aa"
   },
   "canonical_checks": [
     "Quilt Rune Indulgentia",
@@ -41,5 +41,12 @@
     "Peri is explicitly thirteen in this target.",
     "Sinclaire's later Bourgeois identity remains spoiler-guarded.",
     "Vikir's parent worldview is character perspective, not narrator truth."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored tears-and-runny-nose donation reaction"
+  }
 }

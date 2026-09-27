@@ -8,10 +8,10 @@
 
 | Target | Chinese source | Chinese SHA | Recovered-English witness | English SHA | Draft SHA | QA SHA |
 |---|---|---|---|---|---|---|
-| 64 | `064.txt` | `332ef149eb32e1c0ba4aa67a53410d8d310f5844` | **E63** | `54c7cd980ebb6bc505aab824a8e5a26bbe40edfd` | `7247c9434ad5695d86de99fd8507c42cc9d90ee1` | `adef0fb58870464bd98f6850b62dad467a9165aa` |
-| 65 | `065.txt` | `aa4cf365529795b9642b925c64ceebb393f978c9` | **E64** | `d0e7b5a3e18de27d5cd4a6604d0e1bcdbe298f14` | `ebd844a6441338d2cc37fafd9fb47a340d0ab9d1` | `16fb501a9a1a45b925e9b1feb4fba08a1688c88e` |
-| 66 | `066.txt` | `72108754001f9ed99d7d87d2788032319851c716` | **E65** | `083f5862d89100752c1057afc33d87257f558db2` | `b4c7957d92f3809bc1e8addf3e811682c7ca10d6` | `3c37642adfbbd303e72e76d98d961fb797f1db72` |
-| 67 | `067.txt` | `b596ba76138b23c6f401ee7b21b2a2a9ae9e1943` | **E66** | `7c6a6aa37fdf71c1cef6bd846387009c67b868d2` | `e1984e1e6f412fdc4466cb45b6422e2747b9cf39` | `a535221bfb26140c7a1e7920807d62fbee8d7c34` |
+| 64 | `064.txt` | `332ef149eb32e1c0ba4aa67a53410d8d310f5844` | **E63** | `54c7cd980ebb6bc505aab824a8e5a26bbe40edfd` | `4ddc2d65417c32804078cd0741f488f916e00d30` | `626cc56793e2f2e74e33a19306ba102b056325ee` |
+| 65 | `065.txt` | `aa4cf365529795b9642b925c64ceebb393f978c9` | **E64** | `d0e7b5a3e18de27d5cd4a6604d0e1bcdbe298f14` | `e51b2678b73446af642fd30c14086b5697ffb010` | `c0941a0bfbc7b7f6635e7bbefdf95010e334b68a` |
+| 66 | `066.txt` | `72108754001f9ed99d7d87d2788032319851c716` | **E65** | `083f5862d89100752c1057afc33d87257f558db2` | `dee61a7d2788d49fa2ddf899c0bef291d1dd8541` | `313782256211e06b08f7f3b8308be96c5e3609b4` |
+| 67 | `067.txt` | `b596ba76138b23c6f401ee7b21b2a2a9ae9e1943` | **E66** | `7c6a6aa37fdf71c1cef6bd846387009c67b868d2` | `e1984e1e6f412fdc4466cb45b6422e2747b9cf39` | `226bfc66f2a5263daf10573d215bc11698f6a6a3` |
 | boundary | `068.txt` — `血肉 (1)` | `6738e266653f25e335c1b4902dff8a82d0a24ba9` | **E67** — *Blood Relatives (1)* | `e33d1a93a127afe970a5ccc2d3a9d56aa946a087` | next family | next family |
 
 The one-chapter recovered-English lag remains stable across the family: **64→E63, 65→E64, 66→E65, 67→E66, 68→E67**.
@@ -38,7 +38,7 @@ Target 67 ends at the Fountain of Valor with Aiyen welcoming Vikir fully into Ba
 - **Bourgeois Clan** is the canonical family/clan form; no later Bourgeois leadership/demonic arc spoilers are imported.
 - **Sir Smuggler** is the working/corroborated merchant name for the caravan leader.
 - The trade disparity remains explicit: ordinary produce/trinkets are exchanged for hides, medicine, rare monster materials, gems, and gold at enormous margins.
-- Target 64's racism and verbal sexual harassment of the young Ballak girl are preserved as abuse without gratuitous slur reproduction or sexualization.
+- Target 64's source-specific racist degradation is preserved at source severity; the separate harassment of the young Ballak girl remains non-explicit and nonsexualized.
 - **Aheul** is source-revealed by name in target 65 as **Ahun's younger sister**.
 - Target 65 exposes two dependency mechanisms:
   - crop seed deliberately heated to prevent germination;
@@ -62,3 +62,19 @@ PASS. Trade exploitation, narcotics, discrimination, harassment, lethal combat, 
 ## Family acceptance result
 
 **PASS.** Targets 64–67 form one complete family and are ready for provenance/acceptance binding.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-26  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 64: restored the source-specific brown-skin/white-skin degradation and dung-beetle comparison that had been compressed to a generic reference to skin-color mockery. The separately safety-limited child-directed harassment remains non-explicit.
+- Chapter 65: restored the source's concrete narcotic consequences: severe debilitation, congenital harm in a later generation, and possible death.
+- Chapter 66: restored the direct race-based murder threats and the omitted combat-gore details, including head/body separation and the mercenary captain's near-total head loss.
+- Chapter 67: complete-family reread reconfirmed the Phase-2 PASS; no ordinary manuscript edit was required. Its under-eighteen relationship material remains safety-limited and nonsexual.
+- Sanitization and completeness gates were rerun across Chapters 64–67 after the repairs.
+- The established shifted mapping remains valid: **64→E63, 65→E64, 66→E65, 67→E66**, with target 68/E67 beginning *Blood Relatives (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker bindings, and Cycle-2 ledger are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Blood Relatives (68–71)**.

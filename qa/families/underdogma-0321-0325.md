@@ -27,10 +27,10 @@ The rebuild preserves the established continuity decisions:
 | Target | Chinese SHA | English witness | English SHA | Rebuilt draft SHA | Rebuilt QA SHA |
 |---|---|---|---|---|---|
 | 321 | `d1570c9909d58c3c5bb2c2dedbdc31f12b92e359` | E319 | `b7279bb2bb001d6ff69bc3a0cd8f28b276b2656a` | `037ab38023c72b74541a45f2a2168020f83d6b5a` | `577ca8a6989eb25db5303f90141f4e362dc62211` |
-| 322 | `8cd403a37cc07f37d3065a3e7054d51c80e65885` | E320 | `93816a863d2c444ff66482775801cc4910ab1d33` | `7ea050f837138402eb1fa77b152e43698ad04068` | `c508f6a0e05be3a7d9934c2f3ace2c76b98cf9b3` |
-| 323 | `abfadc0b6976bf035317ac5253476492e6cade2f` | E321 | `09137df7567c033b46f0253015134b9d8c013b9f` | `3bd61ff5d59d1243dd3fad02a41937a29a1f9534` | `ded0636911e436dd400faac590c5587215b2159e` |
+| 322 | `8cd403a37cc07f37d3065a3e7054d51c80e65885` | E320 | `93816a863d2c444ff66482775801cc4910ab1d33` | `d23230e267d5f9119e8331672818418f6807de8b` | `471b981a7a169bb6d09f9b180e5c37873e715018` |
+| 323 | `abfadc0b6976bf035317ac5253476492e6cade2f` | E321 | `09137df7567c033b46f0253015134b9d8c013b9f` | `b8ab3bec1f10949617bbe89a8c7a419c171c3e91` | `b91dc1af5fdc9136423ed340f0d7b8e6ef2fa00e` |
 | 324 | `ee8b2ca09a9f7f71ef52b7b8f2ac2ba61671085f` | E322 | `673844016063e67cf0340c2f7a2f9f6606746b72` | `472fd0fb607a4164baf771d7779b6964734e41aa` | `3bd88ab797af19f5795ba271b5a5a1a39e193e28` |
-| 325 | `77e4bb6811fc61a766c207f6b1868785ea18ceaf` | E323 | `095731276976de1b760c434e81ae924522b42e4e` | `4ace3d86094bcc148ecf463afc19702790a31393` | `e5c1c0c29e4b31f3ae6a8d6254ef4e841aee7698` |
+| 325 | `77e4bb6811fc61a766c207f6b1868785ea18ceaf` | E323 | `095731276976de1b760c434e81ae924522b42e4e` | `10312e94f938572446cbb848f0a88b7dd40c0562` | `347fe72e8ec85ea60d88dcd58614b22b2656e124` |
 | boundary 326 | next family | E324 | next family | next family | next family |
 
 Mapping remains **321→E319 through 325→E323**.
@@ -95,3 +95,18 @@ Mapping remains **321→E319 through 325→E323**.
 ## Verdict
 
 **PASS.** Chapters 321–325 have been rebuilt for complete Chinese-source coverage. All five initial-priority targets in this family are resolved.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapters 321 and 324 were reread against their Chinese-primary sources and remain complete without manuscript changes.
+- Chapter 322 restores the source's deliberately extreme survival examples: elderly male patron, vagrant-crotch humiliation, cooked-son offering, and physician feces-eating example.
+- Chapter 323 corrects Dogma's mutilation threat from unsupported plural **hands** back to source-supported singular **hand**.
+- Chapter 325 restores the future partner's **well-built** descriptor and the Conversion Bug's explicit eat/excrete/rear-tremble bodily mechanic. Dolores's explicitly underage body-attractiveness phrase remains safety-limited and is not sexualized.
+- Sanitization fidelity and completeness were rerun across Chapters 321–325.
+- Shifted mapping remains **321→E319 through 325→E323**; target 326 begins *The Shadowless King of the Black Sea (1)*.
+
+**Phase-4 disposition:** family clear; continue to **The Shadowless King of the Black Sea (326–330)**.

@@ -2,20 +2,87 @@
   "chapter": 21,
   "title": "Camus Morgue (2)",
   "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
-  "title_family": {"name":"Camus Morgue","range":[20,25],"family_qa_path":"qa/families/camus-morgue-0020-0025.md","family_qa_sha":"a1e81033e781959beca43cbb497def66252093fc","status":"pass"},
-  "primary_source": {"path":"source/chinese/chapters/021.txt","blob_sha":"27a08de60fce2e2150ebcc90ba5eea86ab383b13","authority":"semantic_narrative_primary"},
-  "english_reference": {"path":"source/chapters/chapter-021.xhtml","blob_sha":"6a136140fa0bbd0ea36149300c06556f02f3ab35","target_alignment":21,"alignment_status":"verified_by_ruby_accusation_adolf_quote_mine_geometry_bloodshed_and_vikir_entrance_endpoint","authority":"secondary_reference_only"},
+  "title_family": {
+    "name": "Camus Morgue",
+    "range": [
+      20,
+      25
+    ],
+    "family_qa_path": "qa/families/camus-morgue-0020-0025.md",
+    "family_qa_sha": "16c299200a789d322ef0ab5570d1ef54572b772e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/021.txt",
+    "blob_sha": "27a08de60fce2e2150ebcc90ba5eea86ab383b13",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-021.xhtml",
+    "blob_sha": "6a136140fa0bbd0ea36149300c06556f02f3ab35",
+    "target_alignment": 21,
+    "alignment_status": "verified_by_ruby_accusation_adolf_quote_mine_geometry_bloodshed_and_vikir_entrance_endpoint",
+    "authority": "secondary_reference_only"
+  },
   "canonical_references": [
-    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Camus Morgue","retrieval_mode":"indexed_web_result","applies_to":["Camus Morgue"]},
-    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Adolf Morgue","retrieval_mode":"indexed_web_result","applies_to":["Adolf Morgue"]},
-    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Morgue Clan","retrieval_mode":"indexed_web_result","applies_to":["Morgue Clan","ruby resource context"]}
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Camus Morgue",
+      "retrieval_mode": "indexed_web_result",
+      "applies_to": [
+        "Camus Morgue"
+      ]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Adolf Morgue",
+      "retrieval_mode": "indexed_web_result",
+      "applies_to": [
+        "Adolf Morgue"
+      ]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Morgue Clan",
+      "retrieval_mode": "indexed_web_result",
+      "applies_to": [
+        "Morgue Clan",
+        "ruby resource context"
+      ]
+    }
   ],
-  "draft": {"path":"manuscript/drafts/chapter-0021.md","blob_sha":"9afa2b06a333eed874f1809d4609921d739a9605"},
-  "qa": {"path":"qa/chapter-0021.md","blob_sha":"ba031dd7d6bfc8c8d4b12adcb4350379de91b7c5","status":"pass"},
+  "draft": {
+    "path": "manuscript/drafts/chapter-0021.md",
+    "blob_sha": "9afa2b06a333eed874f1809d4609921d739a9605"
+  },
+  "qa": {
+    "path": "qa/chapter-0021.md",
+    "blob_sha": "ba031dd7d6bfc8c8d4b12adcb4350379de91b7c5",
+    "status": "pass"
+  },
   "documented_decisions": [
-    {"topic":"ruby_mine_geometry","final":"surface entrance/route lies on Morgue land while the vein extends under Baskerville territory","basis":"Chinese Chapter 21"},
-    {"topic":"private_conflict","final":"preserve covert tunneling, Baskerville raids, and unreported bloodshed","basis":"Chinese Chapter 21; MTL phrasing repaired"}
+    {
+      "topic": "ruby_mine_geometry",
+      "final": "surface entrance/route lies on Morgue land while the vein extends under Baskerville territory",
+      "basis": "Chinese Chapter 21"
+    },
+    {
+      "topic": "private_conflict",
+      "final": "preserve covert tunneling, Baskerville raids, and unreported bloodshed",
+      "basis": "Chinese Chapter 21; MTL phrasing repaired"
+    }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-17"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-17",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      20,
+      25
+    ],
+    "manuscript_changed": false,
+    "note": "full-family reread/revalidation; no manuscript change required; rebound to refreshed family QA"
+  }
 }

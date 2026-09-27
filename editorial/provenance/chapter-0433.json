@@ -9,8 +9,8 @@
       433
     ],
     "family_qa_path": "qa/families/lion-king-0430-0433.md",
-    "family_qa_sha": "905fa2eded9bd217115181dd2fb730bb4f85d202",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "8c775da59f3dbb74656632fd35eb7866d8e2d705",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/433.txt",
@@ -24,16 +24,16 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0433.md",
-    "blob_sha": "4b1de146736e5902ac39df004fdd186c2db103ff"
+    "blob_sha": "51641ec7e9522c648bee97cb5026022aeda84853"
   },
   "qa": {
     "path": "qa/chapter-0433.md",
-    "blob_sha": "5e2f8562f12fcffd5b1be25bf256b30f953d83e7",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "cd8609ba715c39ead177e0f20c4774cc5efdf5df",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "reveal_guard": "Amdusias is only a remnant thought-fragment; the final Vikir figure exists inside the copied mental world, not as a confirmed physical return.",
   "historical_acceptance": {
     "accepted": true,
@@ -48,5 +48,16 @@
     "family_evidence": "qa/families/lion-king-0430-0433.md",
     "initial_priority_target": false
   },
-  "inner_world_guard": "Endpoint Vikir exists inside copied mental world; not a physical return/resurrection claim."
+  "inner_world_guard": "Endpoint Vikir exists inside copied mental world; not a physical return/resurrection claim.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      430,
+      433
+    ],
+    "manuscript_changed": true,
+    "note": "restored blood-and-flesh swamp and explicit compassionate reaction"
+  }
 }

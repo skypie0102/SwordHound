@@ -9,8 +9,8 @@
       143
     ],
     "family_qa_path": "qa/families/identity-villain-0141-0143.md",
-    "family_qa_sha": "705d07610094a35415f6e3600cba69f7583a2836",
-    "status": "pass"
+    "family_qa_sha": "6f952cdc7b0f8782f5dc3012f9fb6be45a091243",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/142.txt",
@@ -30,7 +30,7 @@
   "qa": {
     "path": "qa/chapter-0142.md",
     "blob_sha": "0996f5e528c75d1b28c922e9f581c2be4c6df6f6",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-26",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/144.txt",
     "chinese_sha": "43d63f5de1a8c5ca09a312cf3423fc6b8f84d527",
     "english_path": "source/chapters/chapter-143.xhtml",
     "english_sha": "78c627bafc6d401f82b38e86daf91460ab6e7add",
     "purpose": "both begin Volunteering for the Golden Week (1), target144"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      141,
+      143
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
   }
 }

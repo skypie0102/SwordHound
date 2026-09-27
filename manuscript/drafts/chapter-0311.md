@@ -434,7 +434,9 @@ Far larger than the Hell Hound gates.
 
 Several surviving Hell Hounds whimpered.
 
-Tails tucked.
+Tails tucked tight.
+
+They trembled and wet themselves in fear.
 
 Then—
 

@@ -2,8 +2,8 @@
   "chapter": 434,
   "title": "The Returned Hound (1)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Returned Hound",
     "range": [
@@ -11,8 +11,8 @@
       436
     ],
     "family_qa_path": "qa/families/returned-hound-0434-0436.md",
-    "family_qa_sha": "8a6a3644f459cc34bc63be301142ea82084f76c0",
-    "status": "pass"
+    "family_qa_sha": "5e797390fa27f3b1f499fe9af2fa782449f74c42",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/434.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-432.xhtml",
     "english_reference_sha": "53eef0dd238396ca804988191916633f2850a619",
     "draft_path": "manuscript/drafts/chapter-0434.md",
-    "draft_sha": "5d97d61f40d639e82dd9bacff16befd658b5d456",
+    "draft_sha": "fc0d8a4694768f140e703b7eaed9bb3f0cc5c901",
     "qa_path": "qa/chapter-0434.md",
-    "qa_sha": "fd07dbbb489c79054a8a97b821219da733398bed",
+    "qa_sha": "18174b83ff574bdc35e965bf1ab7df194b6fc3ac",
     "provenance_path": "editorial/provenance/chapter-0434.json",
-    "provenance_sha": "a4d6a6763378635ea93a854617b7b291fedff788"
+    "provenance_sha": "52d66340c1eb94aeb38ff48261161183498586db"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Dreaming the Impossible Dream material from target437 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored meat-grinder whole-body pain and the full distant/long-term goal exchange"
+  }
 }

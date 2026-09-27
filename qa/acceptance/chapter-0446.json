@@ -2,8 +2,8 @@
   "chapter": 446,
   "title": "The Fall of Usher (6)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment_with_fandom_canonicalization",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_with_fandom_canonicalization_cycle2_phase4",
   "title_family": {
     "name": "The Fall of Usher",
     "range": [
@@ -11,8 +11,8 @@
       449
     ],
     "family_qa_path": "qa/families/fall-of-usher-0441-0449.md",
-    "family_qa_sha": "0e77f91190c5c40973d293e4c289065460185c47",
-    "status": "pass"
+    "family_qa_sha": "eb58813e9f65cf30b850a97a5f9639853f6af7fb",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/446.txt",
@@ -20,15 +20,22 @@
     "english_reference_path": "source/chapters/chapter-444.xhtml",
     "english_reference_sha": "1706635c6fb5a677a4261511446cf620197b031e",
     "draft_path": "manuscript/drafts/chapter-0446.md",
-    "draft_sha": "c229bde0381b3d82eba45fa3ba3547573321edfc",
+    "draft_sha": "74aeb05bd2068162e08c593567578dbbd62a4d7f",
     "qa_path": "qa/chapter-0446.md",
-    "qa_sha": "7580862deac8a24e1f2aa236e453abc2a58a5189",
+    "qa_sha": "aa33acb8a2ca85c9e4c9c85572d1a2e22e9e6512",
     "provenance_path": "editorial/provenance/chapter-0446.json",
-    "provenance_sha": "207cee32f7c08bb3d2a8b0c48649692a3fb722e9"
+    "provenance_sha": "a9687e22180b2e1aef4f692bacecd37a0c68ad83"
   },
   "canonical_reference": [
     "Fresh Fandom indexing confirms Andrealphus/Madeline Usher, Roderick Usher, Isolde Usher, Masyaf, and Love Shield where applicable.",
     "Unsupported local forms remain source-local."
   ],
-  "reveal_guard": "No Declaration of War material from target450 is imported."
+  "reveal_guard": "No Declaration of War material from target450 is imported.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored altered-history Sade death/strategist causality"
+  }
 }

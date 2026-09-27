@@ -9,8 +9,8 @@
       464
     ],
     "family_qa_path": "qa/families/infiltration-water-source-0454-0464.md",
-    "family_qa_sha": "95b46b995f843a4467756c139716f759468af4ad",
-    "status": "pass"
+    "family_qa_sha": "bbb073de678ceaf62268d2d5c0a853937007fa6a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/456.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0456.md",
-    "blob_sha": "5807f4d1738376457396af53cf41346bb0d4f94a"
+    "blob_sha": "6aaf21a5855f3996947b90853764d9479d6302e5"
   },
   "qa": {
     "path": "qa/chapter-0456.md",
-    "blob_sha": "e5011690ee729fcf1ebe869d853779983bcc856f",
-    "status": "pass"
+    "blob_sha": "c8c6c2b5d5b227b63327edf0300cc4053ec7d039",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; indexed Fandom evidence and established glossary forms used.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      454,
+      464
+    ],
+    "manuscript_changed": true,
+    "note": "restored hundreds-of-meat-pieces Sade attack scale"
+  }
 }

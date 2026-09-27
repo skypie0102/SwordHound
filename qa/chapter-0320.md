@@ -25,3 +25,14 @@
 - PASS — with the Daylily dead, the fairy force-ends the otherwise survivable 68-day mission.
 - PASS — rope pull triggers a massive flood/tidal wave and a one-person-at-a-time portal; all **68 survivors** enter and are dispersed toward Basement Floor4.
 - PASS — no *Underdogma* / target321 material is imported.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the Conversion Bug's bodily mechanic: voracious excretion output, excrement differing from intake, and eating 100 same-color candies to **excrete** one random different-color candy.
+
+The complete Surplus Man family was reread after remediation. Chapters 314, 315, 317, and 319 remain unchanged and pass both Cycle-2 content gates. Shifted mapping remains **314→E312 through 320→E318**; target 321 begins *Underdogma (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Surplus Man family QA.

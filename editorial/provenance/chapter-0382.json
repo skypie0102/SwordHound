@@ -9,8 +9,8 @@
       384
     ],
     "family_qa_path": "qa/families/kennel-0382-0384.md",
-    "family_qa_sha": "77a570da8dbe91cebe52dfc242cc7da165367995",
-    "status": "pass"
+    "family_qa_sha": "8f824cb9ad094e7fdb4a2d9edaa99bbec8c4df24",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/382.txt",
@@ -24,13 +24,24 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0382.md",
-    "blob_sha": "68404d2671b883fbab25c07806c7331dbab18e5d"
+    "blob_sha": "7243bf215877a45017926ec408f610f2e091a0e5"
   },
   "qa": {
     "path": "qa/chapter-0382.md",
-    "blob_sha": "28ddff7a24089bb1536bacd815ec4e291cba788b",
-    "status": "pass"
+    "blob_sha": "fc7839ee221e4d2148dc0252d5256ffc968e7d7e",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      382,
+      384
+    ],
+    "manuscript_changed": true,
+    "note": "restored no-harvestable-meat meaning for Gulper / Elevator Eels"
+  }
 }

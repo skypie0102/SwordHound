@@ -9,8 +9,8 @@
       295
     ],
     "family_qa_path": "qa/families/confessions-0293-0295.md",
-    "family_qa_sha": "6eabea8d34e1d599b5490d639fee708677854110",
-    "status": "pass"
+    "family_qa_sha": "bbe6d3fa80b38803ce63a9ed9ad645b29c504b94",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/293.txt",
@@ -29,9 +29,20 @@
   "qa": {
     "path": "qa/chapter-0293.md",
     "blob_sha": "5ece5fe86b2e7ae8e4362b16998eae166d2067a1",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and no new wiki-only forms asserted.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      293,
+      295
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

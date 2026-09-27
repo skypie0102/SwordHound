@@ -2,8 +2,8 @@
   "chapter": 133,
   "title": "Test Your Skills (1)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Test Your Skills",
     "range": [
@@ -11,8 +11,8 @@
       138
     ],
     "family_qa_path": "qa/families/test-your-skills-0133-0138.md",
-    "family_qa_sha": "754d76f9c778e0a4617c0766384e67de87e6f91a",
-    "status": "pass"
+    "family_qa_sha": "dd2dcd14a16c827655d6d39887900d785b46feff",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/133.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-132.xhtml",
     "english_reference_sha": "cc299d9aa9e64e9b3427b90c84c8c1402881a502",
     "draft_path": "manuscript/drafts/chapter-0133.md",
-    "draft_sha": "a80b5d24dc9babec612fe14c63890ad1e8e98509",
+    "draft_sha": "3e1c0ff885974ed720848a88f2317909c2ae74e4",
     "qa_path": "qa/chapter-0133.md",
-    "qa_sha": "ab9f48fb31ca1ec557bcbb7583cfd82e6b07c02a",
+    "qa_sha": "8651a96e3970e61c8113aca4a936f913e6eafc00",
     "provenance_path": "editorial/provenance/chapter-0133.json",
-    "provenance_sha": "d8c3a3e5d4747eb5810a9415460b629f7a4d5e42"
+    "provenance_sha": "5a707a9b9354aa0dea2b9e13c7cf2c3a9078018c"
   },
   "canonical_checks": [
     "Pigi",
@@ -38,5 +38,12 @@
     "Tudor chivalric verse is paraphrased.",
     "Later Pigi bloodline/Corpse material remains excluded.",
     "Target133 ends before Banshee's direct confrontation develops."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored collective death threat, joint liability warning, and meat-paste beating description"
+  }
 }

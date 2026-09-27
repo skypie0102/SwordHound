@@ -412,7 +412,13 @@ looked almost unreal.
 
 Even some of the boys—
 
-needed a moment.
+briefly found their own sense of gender wobbling.
+
+After all—
+
+an indigenous tribe had once reacted to Vikir's appearance by launching an invasion.
+
+This level of commotion was almost mild by comparison.
 
 Vikir frowned.
 
@@ -515,6 +521,12 @@ those are your real lashes?”
 “Does she look like you?”
 
 “Can I marry into the family?”
+
+“This is serious—block the back! If that face spreads through the crowd, somebody's getting crushed!”
+
+“Are you sure that's a witch? Looking at your face, you're more like an angel.”
+
+“Oh, Lord Rune… I'll confess properly tonight. Please forgive this foolish young man…”
 
 The noise grew.
 

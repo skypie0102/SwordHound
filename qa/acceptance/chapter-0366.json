@@ -2,8 +2,8 @@
   "chapter": 366,
   "title": "The Underground Extension Construction (1)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Underground Extension Construction",
     "range": [
@@ -11,8 +11,8 @@
       368
     ],
     "family_qa_path": "qa/families/underground-extension-0366-0368.md",
-    "family_qa_sha": "71737ec5d2a108e6c217b12b66995f7a67409118",
-    "status": "pass"
+    "family_qa_sha": "f56487a25a104421341074ecff54be9907762db9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/366.txt",
@@ -22,9 +22,9 @@
     "draft_path": "manuscript/drafts/chapter-0366.md",
     "draft_sha": "95f4bb027db8db07c5650a190c950c8db5f8e271",
     "qa_path": "qa/chapter-0366.md",
-    "qa_sha": "1a52625085369c680bf5197eb3ff7f54f70f1f54",
+    "qa_sha": "8118abc3dbb5aec21d34e427e2da591bb53e457b",
     "provenance_path": "editorial/provenance/chapter-0366.json",
-    "provenance_sha": "90ae21444fff86abac6713e33df9ec924762b5c3"
+    "provenance_sha": "3d6f16157e0bf6b866056e90a00d6b51e71dd646"
   },
   "canonical_checks": [
     "Kirko Grimm",
@@ -33,5 +33,12 @@
     "Black Tongue",
     "Lieutenant Bastille"
   ],
-  "reveal_guard": "No The Servant material from target369 is imported."
+  "reveal_guard": "No The Servant material from target369 is imported.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

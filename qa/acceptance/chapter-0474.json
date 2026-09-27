@@ -2,8 +2,8 @@
   "chapter": 474,
   "title": "Tochka Annihilation Battle (4)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-28",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Tochka Annihilation Battle",
     "range": [
@@ -11,8 +11,8 @@
       475
     ],
     "family_qa_path": "qa/families/tochka-annihilation-0471-0475.md",
-    "family_qa_sha": "08babc668e1137750285061091f293ee383f384c",
-    "status": "pass"
+    "family_qa_sha": "b0eba6403c8ea3ba230af8ce22578630048369f7",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/474.txt",
@@ -20,15 +20,22 @@
     "english_reference_path": "source/chapters/chapter-472.xhtml",
     "english_reference_sha": "7e2e4ce7c67fa3e323daced26edd18bd0e4c283c",
     "draft_path": "manuscript/drafts/chapter-0474.md",
-    "draft_sha": "93f831dc7c316e1864eed5ebe2e63d18a9ca2fd9",
+    "draft_sha": "f3734317f1bf751a50a5ee7dde6c3f71ae72d264",
     "qa_path": "qa/chapter-0474.md",
-    "qa_sha": "6b7a5fff2e26a89266ef2a1602a57c161f7b4c21",
+    "qa_sha": "a5d3efeaf49fe52726995d762ed2d5b065c1fbb8",
     "provenance_path": "editorial/provenance/chapter-0474.json",
-    "provenance_sha": "3e94de84006eb283a788a55f54cd5120fd2343e9"
+    "provenance_sha": "f3f0955d48230785b43a23e02e85aa5c76ea1b6b"
   },
   "documented_limits": [
     "Direct Fandom browsing remains robots-restricted; established glossary and indexed Fandom evidence control canonical forms.",
     "No target476+ material imported."
   ],
-  "reveal_guard": "Granola is dragged into the boiling Ouroboros vessel; no confirmed death asserted."
+  "reveal_guard": "Granola is dragged into the boiling Ouroboros vessel; no confirmed death asserted.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-28",
+    "manuscript_changed": true,
+    "note": "removed unsupported injuries and restored split-head bleeding plus flesh-and-blood rain"
+  }
 }

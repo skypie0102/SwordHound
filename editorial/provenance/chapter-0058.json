@@ -9,7 +9,7 @@
       60
     ],
     "family_qa_path": "qa/families/hunter-hunted-0055-0060.md",
-    "family_qa_sha": "4cc415fa66c3f178af78f7a5130c3058936d88b7",
+    "family_qa_sha": "e838ea65fea66414cc29c2ebe80a6f96d008fb02",
     "status": "pass"
   },
   "primary_source": {
@@ -57,7 +57,7 @@
   },
   "qa": {
     "path": "qa/chapter-0058.md",
-    "blob_sha": "403129422383f71784e7497e3b01764ab872e574",
+    "blob_sha": "6a54dad2cfe0d799333811ab23b3f9e05284f224",
     "status": "pass"
   },
   "documented_decisions": [
@@ -78,5 +78,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "family_revalidated_and_rebound",
+    "family_reviewed": [
+      55,
+      60
+    ],
+    "manuscript_changed": false,
+    "note": "full-family Phase 4 reread confirmed no ordinary manuscript correction required"
+  }
 }

@@ -2,8 +2,8 @@
   "chapter": 182,
   "title": "Midterm Random Defense (4)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Midterm Random Defense",
     "range": [
@@ -11,8 +11,8 @@
       185
     ],
     "family_qa_path": "qa/families/midterm-random-defense-0179-0185.md",
-    "family_qa_sha": "5e3faad9482fbac0eae393e1b5d7b98293ae7ede",
-    "status": "pass"
+    "family_qa_sha": "dafd62fa6916218737bbd547058b0695c4c74cb9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/182.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-180.xhtml",
     "english_reference_sha": "a71802648a2069a73d07fc8c28f63de01aa817a9",
     "draft_path": "manuscript/drafts/chapter-0182.md",
-    "draft_sha": "f2b661b7eb5a694fb884c307a3a67f812ad77be8",
+    "draft_sha": "46c997c9369eb54cad87a457247d182b19a9d187",
     "qa_path": "qa/chapter-0182.md",
-    "qa_sha": "ab8e38afb8a57eee15b2b06b53104abce48e7233",
+    "qa_sha": "5c8abdf2cc7c6b790881861404262708d57c548b",
     "provenance_path": "editorial/provenance/chapter-0182.json",
-    "provenance_sha": "d05a3a047ebf9e349f4e4470234b3a0067e7ebeb"
+    "provenance_sha": "a11cd31e3dd4dc647bf48c4b1c642f63931890a5"
   },
   "canonical_checks": [
     "Tudor Donquixote",
@@ -37,5 +37,12 @@
     "Phase 2 is a malfunction, not an intended freshman challenge.",
     "Raw title variation is normalized to family title."
   ],
-  "next_family_alignment_note": "Aftermath targets186-189: 186→E184,187→E185,188→E186,189→E187. Target190→E188 begins Attack Land (1)."
+  "next_family_alignment_note": "Aftermath targets186-189: 186→E184,187→E185,188→E186,189→E187. Target190→E188 begins Attack Land (1).",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored correct Pigi/Sancho exchange and four post-record celebration turns"
+  }
 }

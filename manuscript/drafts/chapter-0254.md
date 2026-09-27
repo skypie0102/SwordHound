@@ -88,7 +88,7 @@ Vikir’s mission was different.
 
 He had been sent there to identify hostile forces around the Imperial Capital—
 
-and quietly remove them.
+and secretly assassinate them.
 
 Being a Colosseo student was only one layer of cover.
 
@@ -220,7 +220,7 @@ Vikir gave the answer Hugo expected.
 
 “As reported.”
 
-“Last quarter, I eliminated the principal members of three hostile groups.”
+“Last quarter, I assassinated the principal members of three hostile groups.”
 
 “The eunuch faction that falsely reported to the Emperor that Baskerville intended rebellion.”
 

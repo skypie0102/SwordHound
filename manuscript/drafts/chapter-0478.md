@@ -564,7 +564,7 @@ Tens of tons of force.
 
 CRACK!
 
-Flauros’s skull collapsed.
+Flauros’s skull was completely shattered.
 
 [AAAGH—!]
 

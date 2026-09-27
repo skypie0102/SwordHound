@@ -36,3 +36,11 @@ Target 50 → recovered English 50 is verified by the complete sequence: Vikir w
 ## Canonical-reference / spoiler note
 
 Indexed Fandom evidence confirms **Adonai — Divine Archer** and Ballak's 300–500 scale. Fandom also contains later Akwilla/Aiyen Night Fox information; that material is deliberately chronology-blocked here.
+
+## Cycle-2 Phase 4 family revalidation
+
+**Resolved 2026-09-26.** Full-family Phase 4 reread confirmed Chapter 50 requires no ordinary manuscript correction. Safety-limited material remains untouched.
+
+## Phase-4 decision
+
+**PASS at chapter level after Phase-4 family revalidation.** Final acceptance requires the refreshed Chapters 46–51 family QA.

@@ -2,8 +2,8 @@
   "chapter": 480,
   "title": "Downtown Naval Warfare (2)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-28",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Downtown Naval Warfare",
     "range": [
@@ -11,8 +11,8 @@
       482
     ],
     "family_qa_path": "qa/families/downtown-naval-warfare-0479-0482.md",
-    "family_qa_sha": "c69cea1b8b595f0b92952cc496aa661957931dc6",
-    "status": "pass"
+    "family_qa_sha": "dcc1fdb5494ee06f5bc0095ca9439666b5b2db13",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/480.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-478.xhtml",
     "english_reference_sha": "2b16df7b7ef6d83151c2eb989e009313e54bf8c1",
     "draft_path": "manuscript/drafts/chapter-0480.md",
-    "draft_sha": "7619817b4bb2a9790d17f850be126937df96597a",
+    "draft_sha": "f42e30442d69202e15c6a86143c29a84a389cdf7",
     "qa_path": "qa/chapter-0480.md",
-    "qa_sha": "dba89aca7c709b0d3f711c25c16d3994f96945e3",
+    "qa_sha": "bcffb57ec1979171b646ee646b68e0c258d20df1",
     "provenance_path": "editorial/provenance/chapter-0480.json",
-    "provenance_sha": "76c1b7b29b61f49ef26f895bd3c3d06b22bb4a53"
+    "provenance_sha": "56d4fe024b2469c8beb646b91126ec6f73ce40f2"
   },
   "documented_limits": [
     "Direct Fandom browsing remains robots-restricted; established glossary canon controls recurring forms.",
     "No Marquis of Discord material from target483 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-28",
+    "manuscript_changed": true,
+    "note": "restored peeled-sea-skin tsunami metaphor and removed unsupported Dolores interpretation"
+  }
 }

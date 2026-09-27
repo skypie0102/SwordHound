@@ -166,7 +166,7 @@ Four days.
 
 The flood had actually helped him.
 
-Fast water carried logs and debris.
+Fast water carried floating corpses and logs, letting him move several times faster.
 
 The canopy provided alternate routes over rivers.
 
@@ -248,7 +248,7 @@ Vikir entrusted Pomeranian to him.
 
 “She's important. Don't interrogate her. Give her proper food, medicine, and basic education until I return.”
 
-Chihuahua did not hesitate.
+Chihuahua still remembered his absent former deputy so vividly that sometimes, when he drank, his eyes would turn red. He did not hesitate now.
 
 He summoned a city-hall physician.
 
@@ -335,6 +335,8 @@ Making money was difficult.
 Keeping it was harder.
 
 A child with capital but no protection was exactly the kind of person an investment-minded survivor would approach.
+
+Cindywendy had done something similar before: she had sought out **Gambino**, an impoverished local baron, and become his investment adviser.
 
 Chihuahua considered that.
 

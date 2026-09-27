@@ -7,7 +7,7 @@
 
 - Primary Chinese: `source/chinese/chapters/071.txt` — `d91c8c4657125f809c7b9b6d28cafd4ead29e797`
 - Recovered English witness: **E70** `source/chapters/chapter-070.xhtml` — `538af64e11972614bfd2e11d6226733b3fe04f91`
-- Draft: `manuscript/drafts/chapter-0071.md` — `1921fcb4fffd7e964d4f0f4c5542ae494cf81a16`
+- Draft: `manuscript/drafts/chapter-0071.md` — `0a6f93f5277ce6da7e4f0b5411c853303af9988d`
 - Boundary:
   - Chinese 72 `赤色死亡 (1)` — `8cf8c0385d0680afc3eb1148653abeac43ce12d9`
   - E71 *The Red Death (1)* — `bbee450f38deaf7753263cc92cff28fc1d54e09e`
@@ -37,3 +37,14 @@ Target 71 → E70 is verified by the complete sequence: Vikir studies young-Hugo
 ## Boundary check
 
 Target 72 / E71 begin **The Red Death (1)** with Vikir recalling the epidemic and moving from diagnosis to prevention/countermeasure planning. No target-72 treatment details are pulled backward.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored Hugo's source-explicit preference for male descendants as combat assets and his treatment of children as tools for battle. The family history, Pomeranian rescue, plague council, and target-72 boundary remain otherwise complete.
+
+Sanitization fidelity and completeness were rerun across the complete Blood Relatives (68–71) family after remediation. The established shifted witness mapping remains 68→E67, 69→E68, 70→E69, 71→E70, and target 72/E71 begins *The Red Death (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Blood Relatives family QA.

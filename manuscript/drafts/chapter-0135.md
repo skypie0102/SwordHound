@@ -218,7 +218,7 @@ But goodwill did not.
 
 “Lucky his answer recovered the group point.”
 
-“Bookworms like that irritate me.”
+“Bookworms like that make me want to beat them up.”
 
 Colosseo's culture valued practical ability over theory.
 
@@ -338,11 +338,11 @@ The triplets did not.
 
 Highbro glared.
 
-“I'll crush you.”
+“I'll kill you.”
 
-“Crush you,” Middlebro echoed.
+“Kill you,” Middlebro echoed.
 
-“Crush you,” Lowbro added.
+“Kill you,” Lowbro added.
 
 No magic.
 

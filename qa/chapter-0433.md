@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/433.txt` — `e8a54f8e44db83f489aeebfa23722ffadde73c44`
 - English witness: **E431** — `33e8dbf09e4518d9c21aeb07b931e568b52a8214`
-- Rebuilt draft: `manuscript/drafts/chapter-0433.md` — `4b1de146736e5902ac39df004fdd186c2db103ff`
+- Rebuilt draft: `manuscript/drafts/chapter-0433.md` — `51641ec7e9522c648bee97cb5026022aeda84853`
 
 ## Completeness findings
 - Historical draft retained the spine but compressed the full S+ Amdusias profile, Chimeries's remnant explanation, Hell-Tree-root body-theft logic, mental-world geography, Amdusias fragment warning, and distinction between inner-world Vikir and physical Vikir.
@@ -21,3 +21,14 @@
 - PASS — Dolores infers combined Fourth/Fifth Corpse abilities and prioritizes escape.
 - PASS — the endpoint Vikir exists **inside the copied mental world** and is not a physical return/resurrection claim.
 - PASS — chapter ends with the inner-world Vikir stating that demons must die.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the blood-and-flesh swamp in Vikir's copied inner world and the group's explicit compassionate reaction that it hurts to think of Vikir living with such a landscape.
+
+The complete Lion King family was reread after remediation. Chapters 430–431 remain unchanged and pass both Cycle-2 content gates. Mapping remains **430→E428 through 433→E431**; target **434→E432** begins *The Returned Hound (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Lion King family QA.

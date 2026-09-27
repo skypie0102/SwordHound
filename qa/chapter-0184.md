@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/184.txt` — `d9e88a6d7ff29c4c471a922697e758015c0ebe98`
 - English witness: **E182** — `70344929fc9897662cf1b467631b9178e180bf4f`
-- Draft: `manuscript/drafts/chapter-0184.md` — `acfb720da06abdda78820febe7879a54451d3823`
+- Draft: `manuscript/drafts/chapter-0184.md` — `ebd68bce44311318e84286447780fe8ea688fea4`
 
 ## Checks
 - PASS — Vikir's first visible rescue action destroys a Soldier Ant head with an aura-charged arrow.
@@ -21,3 +21,14 @@
 - PASS — Soldier Ant window: Danger Rating B+ / 5 m / giant reinforced mutation.
 - PASS — Pigi is the most poison-weakened of the four and cannot use the tunnel escape.
 - PASS — chapter ends with Vikir drawing the bow against the surrounding swarm.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the source statement that one Soldier Ant can contend with more than one thousand Worker Ants and Vikir's prior Academy role as escort and errand runner.
+
+The complete Midterm Random Defense family was reread after remediation. Chapter 179 remains unchanged and passes both Cycle-2 content gates. Shifted mapping remains **179→E177 through 185→E183**; target 186/E184 begins *Aftermath (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Midterm Random Defense family QA.

@@ -2,16 +2,51 @@
   "chapter": 20,
   "title": "Camus Morgue (1)",
   "accepted": true,
-  "accepted_date": "2026-09-17",
-  "review_mode": "chinese_primary_fandom_canonical",
-  "title_family": {"name":"Camus Morgue","range":[20,25],"family_qa_path":"qa/families/camus-morgue-0020-0025.md","family_qa_sha":"a1e81033e781959beca43cbb497def66252093fc","status":"pass"},
-  "evidence": {
-    "primary_source_path":"source/chinese/chapters/020.txt","primary_source_sha":"b4b2011e2c0ab569f7ee420c05608498970d2dd8",
-    "english_reference_path":"source/chapters/chapter-020.xhtml","english_reference_sha":"5706f9f22b35d53b4e58208c3e24c04f59e40632",
-    "draft_path":"manuscript/drafts/chapter-0020.md","draft_sha":"5ba5c4e3e149f8affc5ffc7874f1d1dc39f11a90",
-    "qa_path":"qa/chapter-0020.md","qa_sha":"93f017eaf9a38fddb9debb8ebe274b4207639e9f",
-    "provenance_path":"editorial/provenance/chapter-0020.json","provenance_sha":"44ce8ccaa7bb2bc736b354da1f78896205d7bfd6"
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase4",
+  "title_family": {
+    "name": "Camus Morgue",
+    "range": [
+      20,
+      25
+    ],
+    "family_qa_path": "qa/families/camus-morgue-0020-0025.md",
+    "family_qa_sha": "16c299200a789d322ef0ab5570d1ef54572b772e",
+    "status": "pass"
   },
-  "canonical_checks": ["Camus Morgue","Adolf Morgue","Raspane Morgue","Osiris Le Baskerville","Morgue Clan","1st–7th Fang rank mapping","Incinerate","Hemorrhage","Superspeed Regeneration"],
-  "documented_limits": ["Public Mid Sword Expert/2nd Fang is deliberate concealment; hidden state is Low Sword Graduator/4th Fang.","Chapter 20 is the first narrative reveal of Troll Superspeed Regeneration replacing Beelzebub Slot 3.","Later Fandom spoilers about Camus/Morgue are excluded unless Chinese reveals them."]
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/020.txt",
+    "primary_source_sha": "b4b2011e2c0ab569f7ee420c05608498970d2dd8",
+    "english_reference_path": "source/chapters/chapter-020.xhtml",
+    "english_reference_sha": "5706f9f22b35d53b4e58208c3e24c04f59e40632",
+    "draft_path": "manuscript/drafts/chapter-0020.md",
+    "draft_sha": "5ba5c4e3e149f8affc5ffc7874f1d1dc39f11a90",
+    "qa_path": "qa/chapter-0020.md",
+    "qa_sha": "93f017eaf9a38fddb9debb8ebe274b4207639e9f",
+    "provenance_path": "editorial/provenance/chapter-0020.json",
+    "provenance_sha": "1cce6c1f7a8befe2bbf5ab0ec559b8e0f70e7f69"
+  },
+  "canonical_checks": [
+    "Camus Morgue",
+    "Adolf Morgue",
+    "Raspane Morgue",
+    "Osiris Le Baskerville",
+    "Morgue Clan",
+    "1st–7th Fang rank mapping",
+    "Incinerate",
+    "Hemorrhage",
+    "Superspeed Regeneration"
+  ],
+  "documented_limits": [
+    "Public Mid Sword Expert/2nd Fang is deliberate concealment; hidden state is Low Sword Graduator/4th Fang.",
+    "Chapter 20 is the first narrative reveal of Troll Superspeed Regeneration replacing Beelzebub Slot 3.",
+    "Later Fandom spoilers about Camus/Morgue are excluded unless Chinese reveals them."
+  ],
+  "prior_accepted_date": "2026-09-17",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "full-family revalidation; no manuscript edit required; acceptance rebound to refreshed family QA"
+  }
 }

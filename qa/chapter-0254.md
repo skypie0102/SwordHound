@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/254.txt` — `ba715b743ebf526e12d0d91029a8acefd5a8d2ac`
 - English witness: **E252** — `c8c98e31ab8f3af22726901c4602b8b7c1e69492`
-- Draft: `manuscript/drafts/chapter-0254.md` — `2d6f0d3ee372eb7669e308ece3fa5ff1fad4f870`
+- Draft: `manuscript/drafts/chapter-0254.md` — `9a8533647020238077d477989bbc18429c00a15a`
 - Boundary: C255 / E253 begin **The Grave of Swords (1)**.
 
 ## Checks
@@ -22,3 +22,14 @@
 - PASS — Vikir’s interest in the Wraith Tree site includes a clue toward the realm beyond Sword Master and the Eighth Fang.
 - PASS — Decarabia remains the subsequent Academy-vault objective; no Grave of Swords events from target255 are imported.
 - LIMIT — direct Fandom re-check remains unavailable; established glossary forms are reused.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the source-explicit assassination terminology: Vikir's Imperial-Capital mission is to **secretly assassinate** hostile forces, and the principal members of the three demon-linked factions are stated to have been **assassinated** rather than euphemistically “removed” or “eliminated.”
+
+The complete Five Stars family was reread after remediation. Chapter 253 remains unchanged and passes both Cycle-2 content gates. Shifted mapping remains **253→E251, 254→E252**; target 255/E253 begins *The Grave of Swords (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Five Stars family QA.

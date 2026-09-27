@@ -404,7 +404,7 @@ then struck the Reaper’s chest with his palm.
 
 CRACK!
 
-Bone broke.
+The Reaper's sternum broke with a dull crack.
 
 Flauros showed no concern.
 

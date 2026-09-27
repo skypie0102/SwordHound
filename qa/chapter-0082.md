@@ -7,7 +7,7 @@
 
 - Primary Chinese: `source/chinese/chapters/082.txt` — `704f31d597c22867b02a29e256029d3c428c0fa3`
 - Recovered English witness: **E81** `source/chapters/chapter-081.xhtml` — `51f77bde7626a47169fb61b26b27cdbb16fda8b8`
-- Draft: `manuscript/drafts/chapter-0082.md` — `74a893872c2f5226a35660e2d7b26d07c5f03812`
+- Draft: `manuscript/drafts/chapter-0082.md` — `9e04f11161a21395bf5dcdd2f298b4c425604926`
 - Boundary:
   - C83 `相思病 (1)` — `482b93a20ef26c3c9dccceb3589f35cc09d1f12c`
   - E82 *Lovesickness (1)* — `43b6d40e033dbb1c5d0bf564cfe4d4a7fab22e1c`
@@ -20,6 +20,7 @@ Target 82 → E81 is verified by: successful completion of purification trials �
 
 - PASS — **Plany de la Verge** retained with explanatory **Saintess's Tears**.
 - PASS — three drops total are produced; one drop is sufficient for the slum-scale purification.
+- PASS — the first-Saintess prayer is preserved as a substantive lament about a mother, her only son, his suffering, prolonged crying, and the most painful day of her life rather than being collapsed to prose summary.
 - PASS — **Old Testament Faction** / **New Testament Faction** retained for Quovadis internal conflict.
 - PASS — canonical name **Humbert L. Quovadis** replaces raw/recovered reduplication `Humbert Humbert L. Quovadis`.
 - PASS — source-level relationship here remains simply **father / daughter** in dialogue and narration; later adoptive-family revelations are not imported.
@@ -29,6 +30,7 @@ Target 82 → E81 is verified by: successful completion of purification trials �
   - black serpent-marked **Leviathan** dagger;
   - gold **Bourgeois** button with the Chinese-source **nail-and-hammer** emblem.
 - PASS — E81's `scythe and hammer` is rejected where it conflicts with Chinese `钉子和锤子`.
+- PASS — Humbert's fury cracks the marble floor and collapses **two nearby stone pillars**; the source also states that Quovadis's political will is strong enough that **even the Emperor yields ground** to it.
 - PASS — Humbert orders the Hound arrested/interrogated despite Dolores's defense.
 - PASS — Dolores's remembered exchange with Vikir is spiritual/self-worth reassurance, not sexual.
 - PASS — target 82 ends after Vikir has vanished and **one drop of Saintess's Tears is missing**.
@@ -36,3 +38,14 @@ Target 82 → E81 is verified by: successful completion of purification trials �
 ## Boundary check
 
 Target 83 / E82 begins **Lovesickness (1)** with Aiyen's dream and return-to-village emotional thread. No target-83 content is pulled backward.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored the substantive first-Saintess lament/prayer, the collapse of **two stone pillars**, and the statement that Quovadis carried enough political force that even the Emperor yielded ground to its will.
+
+The complete Saintess family was reread after remediation. Shifted witness mapping remains **78→E77, 79→E78, 80→E79, 81→E80, 82→E81**; target 83/E82 cleanly begins *Lovesickness (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Saintess family QA.

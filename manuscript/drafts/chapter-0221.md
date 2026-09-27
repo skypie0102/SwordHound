@@ -186,6 +186,10 @@ Instead—
 
 Vikir disappeared into the mountains.
 
+Camus blamed the hateful jungle natives.
+
+Even tearing those monsters apart would not have been enough to satisfy her rage.
+
 No body.
 
 No bones.

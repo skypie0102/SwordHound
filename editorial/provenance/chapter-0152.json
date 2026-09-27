@@ -9,8 +9,8 @@
       154
     ],
     "family_qa_path": "qa/families/drinking-game-0152-0154.md",
-    "family_qa_sha": "45747a29f4164d5b928e0d6ab697604c5acff359",
-    "status": "pass"
+    "family_qa_sha": "fb43a12daed632cf6452f5709f04c2bfb7261adb",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/152.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0152.md",
-    "blob_sha": "64ee1d4f880fc20ea7b7c4818540e2c6ba4e4cc9"
+    "blob_sha": "44b8d1edf44f8e6a07de6c800a8bd84be73e2679"
   },
   "qa": {
     "path": "qa/chapter-0152.md",
-    "blob_sha": "96c8c5df16cb840909255c3c4e29f83749f4cd85",
-    "status": "pass"
+    "blob_sha": "035f70317ea835ef467df8ebbd67d3af10fbef2d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-26",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/155.txt",
     "chinese_sha": "0443c1fb6b741512ddea3695e4307f9e918a91bc",
     "english_path": "source/chapters/chapter-154.xhtml",
     "english_sha": "3fc2c9eb577199cc82fafb7bd5569b5cc2687d6c",
     "purpose": "both begin How to Keep Your Night Shift Employees Safe (1), target155"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      152,
+      154
+    ],
+    "manuscript_changed": true,
+    "note": "restored five-minute Hill Seven waits and Sinclaire tank-top/shorts description"
   }
 }

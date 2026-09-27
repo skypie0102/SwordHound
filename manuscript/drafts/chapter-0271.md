@@ -432,11 +432,26 @@ Vikir placed a flyer in front of her.
 
 **<Mock Investment Competition>**
 
-House Bourgeois.
+The flow of the economy is created by people—
 
-All Academy students eligible.
+yet no one person can predict it alone.
 
-A competition promising entry into the financial world.
+Even so—
+
+the intuition of a rare few geniuses can touch that vast current.
+
+If you believe you are one of them—
+
+pay attention to this poster.
+
+Hosted by the place known as the **spine of the economy**—
+
+this competition can become your stepping stone onto the grand stage of finance.
+
+**Eligible:** all Academy students  
+**Application period:** within one week of this poster's issue  
+**Note:** after one week, this poster will naturally disappear  
+**Host:** House Bourgeois
 
 Vikir tapped the paper.
 

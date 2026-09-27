@@ -9,8 +9,8 @@
       368
     ],
     "family_qa_path": "qa/families/underground-extension-0366-0368.md",
-    "family_qa_sha": "71737ec5d2a108e6c217b12b66995f7a67409118",
-    "status": "pass"
+    "family_qa_sha": "f56487a25a104421341074ecff54be9907762db9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/368.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0368.md",
-    "blob_sha": "6ca7d0dc26381fc8b9cbaa391118e6788888e072"
+    "blob_sha": "a5d11756b55726d1237fe9479c5c3bf3c3fd820f"
   },
   "qa": {
     "path": "qa/chapter-0368.md",
-    "blob_sha": "679c82dab9dbb3a8e6c39c0e06dcaff3ae684dee",
-    "status": "pass"
+    "blob_sha": "19dc8942952409a18822b41499876232ce292484",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference": "Fresh designated-Fandom index checks confirmed Kirko Grimm, D'Ordume D'Orcdile, Garam Nord, Black Tongue, and Lieutenant Bastille; later spoilers were not imported.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      366,
+      368
+    ],
+    "manuscript_changed": true,
+    "note": "restored crushed-face result and Kirko vomiting aftermath"
+  }
 }

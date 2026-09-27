@@ -43,3 +43,20 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 425 restores Dolores's Old-Testament-priest learning note and removes the unsupported low-interest-loan flourish while preserving her crisis advice to spend divine power freely.
+- Chapter 426 restores the **entire Empire for several months** stockpile scale, the explicit plan to **assassinate the core figure**, and Tudor smashing straight through the tent wall and racing ahead after Bianca's emergency is reported.
+- Chapter 427 restores the source-specific punishment that Pedro should already have had **all four limbs cut off** and been imprisoned underground.
+- Chapter 428 restores the concrete reconciliation detail that both Sinclaire and Bianca have **tears and snot** running down their faces.
+- Chapter 429 restores the statement that Pedro's eyes actually **pop out** under Dolores's hammer strike and that the allied group explicitly **cuts off his hands and feet** before the twenty-four sanctified stakes are driven in.
+- Sanitization fidelity and completeness were rerun across Chapters 425–429 after repair.
+- Mapping remains **425→E423 through 429→E427**; target **430→E428** begins *The Lion King (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **The Lion King (430–433)**.

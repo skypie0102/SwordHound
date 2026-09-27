@@ -2,8 +2,8 @@
   "chapter": 421,
   "title": "Goodbye, Nouvelle Vague (3)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Goodbye, Nouvelle Vague",
     "range": [
@@ -11,8 +11,8 @@
       421
     ],
     "family_qa_path": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
-    "family_qa_sha": "1bbf4a98983ffe688c08887880df40912ccd2aec",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "e0c02eb8a9c634d9bc2d3cf2d7723e36f31d4a3d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/421.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-419.xhtml",
     "english_reference_sha": "e0fd8dadb91bf4018ffca14d5b2933b345476b22",
     "draft_path": "manuscript/drafts/chapter-0421.md",
-    "draft_sha": "a10d7bc9905a8b643241f4aa3364ace900debbb6",
+    "draft_sha": "49d692efbfa9fb4cca8e17ddc034152d7564a761",
     "qa_path": "qa/chapter-0421.md",
-    "qa_sha": "3c5c77202543351ca967c9e5bd5c35d236545ada",
+    "qa_sha": "4b7f5165f4cc25c239a26565a59aa68404c42a6e",
     "provenance_path": "editorial/provenance/chapter-0421.json",
-    "provenance_sha": "599934d504793f835eae4b7874a7616a5b2cdadc"
+    "provenance_sha": "c163bcdc3423e4af9a8fddccb9fcfbfaff2a354f"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
@@ -44,5 +44,12 @@
     "family_evidence": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
     "initial_priority_target": true
   },
-  "regeneration_note": "Use Immortality — Gargoyle (S); local Basilisk drift rejected."
+  "regeneration_note": "Use Immortality — Gargoyle (S); local Basilisk drift rejected.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored live-meat-paste ascent-pressure simile"
+  }
 }

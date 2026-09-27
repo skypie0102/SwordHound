@@ -116,6 +116,8 @@ The young students clustered together—
 
 talking bravely.
 
+Nearby, puppies gathered together and whimpered.
+
 Elsewhere—
 
 staff were calling groups into order.
@@ -326,7 +328,7 @@ The soul resonance with the Night Hound—
 
 brief though it had been—
 
-had given Dolores the unfamiliar experience of being completely understood.
+had given Dolores the wonderful, exhilarating sensation of being united with another person in body and mind.
 
 For years—
 
@@ -334,9 +336,9 @@ she had listened to the grief of others.
 
 For the first time—
 
-she had felt someone listening to hers.
+she had felt completely understood and supported.
 
-That was enough.
+The feeling left her deeply stirred.
 
 Dolores stepped forward.
 

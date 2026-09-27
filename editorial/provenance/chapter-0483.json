@@ -9,8 +9,8 @@
       489
     ],
     "family_qa_path": "qa/families/marquis-discord-0483-0489.md",
-    "family_qa_sha": "c66f9e824e177b7b080755602464194b71d1756b",
-    "status": "pass"
+    "family_qa_sha": "e2fdcab9b47fb4998933f7d1c825fe9193dc3628",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/483.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0483.md",
-    "blob_sha": "5e70d02e171aa62078214f60dfa3602494470972"
+    "blob_sha": "a6758b01056b4b545890ffc2e3b65832151de8e5"
   },
   "qa": {
     "path": "qa/chapter-0483.md",
-    "blob_sha": "240f9de859ca5d35810b574425c783667d091993",
-    "status": "pass"
+    "blob_sha": "e5009a136d9248acae60b09fbe250324242eb44f",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom page access remained robots-blocked; established glossary/indexed forms were reused and new source-local forms were not falsely presented as freshly wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-28",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-28",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      483,
+      489
+    ],
+    "manuscript_changed": true,
+    "note": "restored schizophrenia-symptom comparison"
+  }
 }

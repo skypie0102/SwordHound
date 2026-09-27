@@ -2,8 +2,8 @@
   "chapter": 211,
   "title": "Festival Night (6)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Festival Night",
     "range": [
@@ -11,8 +11,8 @@
       215
     ],
     "family_qa_path": "qa/families/festival-night-0206-0215.md",
-    "family_qa_sha": "f877d22b2f3b27aeb105b22aae2bf6a3f03d150c",
-    "status": "pass"
+    "family_qa_sha": "d9231075caf781e936b143162cac595cd022fa76",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/211.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-209.xhtml",
     "english_reference_sha": "ff56e1bfc2d8e69c3a90ee30f7e2b32059f1c606",
     "draft_path": "manuscript/drafts/chapter-0211.md",
-    "draft_sha": "02474d7e623a5a9dd8bb68c3421f9f7db013f60d",
+    "draft_sha": "c338d12a45d8337cc7cf88a77888bb1e74438693",
     "qa_path": "qa/chapter-0211.md",
-    "qa_sha": "a31d21114dfeceb922cef5a7d9becc436a1cbfed",
+    "qa_sha": "29e94e9b2b8eb85f5fb942254a758eef7988e14e",
     "provenance_path": "editorial/provenance/chapter-0211.json",
-    "provenance_sha": "6adcd8efba2fd435fe692ecc4b33fda9ca4e5bff"
+    "provenance_sha": "3cf383e773d21da2976525cb1c09e03aac8e6d6c"
   },
   "canonical_checks": [
     "Corpse Queen",
@@ -37,5 +37,12 @@
     "Corpse Queen's imagined Academy life leaves the man unnamed.",
     "Seeing witch-costumed Vikir prompts only a sister question, not identity recognition."
   ],
-  "next_family_alignment_note": "Target216→E214 begins My Neck Will Be Your Sheath (1); C216 first explicitly identifies Corpse Queen as Camus Morgue."
+  "next_family_alignment_note": "Target216→E214 begins My Neck Will Be Your Sheath (1); C216 first explicitly identifies Corpse Queen as Camus Morgue.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored festival route attractions and passerby comments"
+  }
 }

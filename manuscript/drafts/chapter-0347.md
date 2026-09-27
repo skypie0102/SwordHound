@@ -114,7 +114,7 @@ Akwilla died.
 
 The chieftain—
 
-wounded Amdusias severely before falling.
+left Amdusias with a **mortal wound** before falling.
 
 But she had never fully recovered from her earlier battle with Adonai.
 
@@ -508,7 +508,7 @@ Blood mist filled the air.
 
 Their faces—
 
-frozen in shock.
+frozen in fear.
 
 Vikir stood alone among the bodies.
 

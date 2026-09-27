@@ -398,7 +398,7 @@ Meanwhile—
 
 the prisoner kept screaming.
 
-He threw together foul-looking substances from the cell.
+He scattered a poisonous mixture he had put together from materials in the cell.
 
 “I FINALLY MET **THAT PERSON** IN SOLITARY!”
 

@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/188.txt` — `df4e9687bb105e46b08cbce55b062bdac758b608`
 - English witness: **E186** — `b24c6082ca68eac0a5cbcc0a2c11d80571badecc`
-- Draft: `manuscript/drafts/chapter-0188.md` — `a5acf6864aadc537b94251c915c505b4c1c93de3`
+- Draft: `manuscript/drafts/chapter-0188.md` — `aff82b2eb1501447578b02e423950a4a3cd09a2e`
 
 ## Checks
 - PASS — Dolores apologizes for the urination misunderstanding and thanks Vikir for taking the blame.
@@ -23,3 +23,14 @@
 - PASS — allegations that Sadi injures/traumatizes talented students, including sexual humiliation/trauma rumors toward either gender, remain clearly attributed reputation/rumor; alleged motive is explicitly uncertain.
 - PASS — Sinclaire works to help pay tuition and for café experience; Bianca works because she likes the uniform.
 - PASS — Vikir has not paid the remaining tuition balance and asks whether the café hires men.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the attributed allegation that Sadi severely beats talented students badly enough to leave them disabled, while keeping the claim explicitly framed as reputation/rumor.
+
+The complete Aftermath family was reread after remediation. Shifted mapping remains **186→E184 through 189→E187**; target 190/E188 begins *Attack Land (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Aftermath family QA.

@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/336.txt` — `ee50f1b2a2affd75ae91b8b60da82928a16d6a38`
 - English witness: **E334** — `a0d6f62e760747fb8e6597d31f11e5e04b296cde`
-- Rebuilt draft: `manuscript/drafts/chapter-0336.md` — `1cf18fc771f33a10147b3cd053da2a438c455474`
+- Rebuilt draft: `manuscript/drafts/chapter-0336.md` — `273735083efc1d913600949541637b5fb7946602`
 
 ## Completeness findings
 - Historical draft retained much of the source but compressed several causal links around Sinclaire's childhood memory, body-warming setup, Bartolomeo guilt, and second/third laboratory stages.
@@ -19,3 +19,14 @@
 - PASS — Sinclaire's mist-influenced behavior and desire to “make a family” occur under grief, cold trauma, and drug exposure and are **not treated as reliable consent**.
 - PASS — Vikir rejects becoming her replacement family because he killed Bartolomeo/Belial and recognizes the moral deception that would involve.
 - PASS — he is interrupted before explaining by the **third attempt**, when Dragon Majin hands descend for direct intervention.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the source-explicit naked rear embrace/skin-to-skin contact strictly as hypothermia treatment, plus the mist-driven neck-contact beat in clinical coercive terms. No age is inferred beyond the source.
+
+The complete Mating Room family was reread after remediation. Chapters 337–338 remain manuscript-unchanged and pass both Cycle-2 content gates. Mapping remains **333→E331 through 338→E336**; target 339 begins *Trap (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Mating Room family QA.

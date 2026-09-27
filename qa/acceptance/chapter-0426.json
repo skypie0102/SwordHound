@@ -2,8 +2,8 @@
   "chapter": 426,
   "title": "The Night Walkers (2)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Night Walkers",
     "range": [
@@ -11,8 +11,8 @@
       429
     ],
     "family_qa_path": "qa/families/night-walkers-0425-0429.md",
-    "family_qa_sha": "373ead880992aeca111e0358147b170df4da9168",
-    "status": "pass"
+    "family_qa_sha": "d4c5af14c23ba4f5ad1aa52ec3831b0e0c454002",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/426.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-424.xhtml",
     "english_reference_sha": "e6550fdb5f55f4bfd17a8f4df791ec10b4e9ae7a",
     "draft_path": "manuscript/drafts/chapter-0426.md",
-    "draft_sha": "e838c5f2ab0a76428fa02d982da299d5896be069",
+    "draft_sha": "e532dd4bdfefec01581fc1aff99485a183112695",
     "qa_path": "qa/chapter-0426.md",
-    "qa_sha": "d695c2236d0ac900b017fefbcb14ebf81af68da3",
+    "qa_sha": "2e54aae9846a8f8b4dc8527cdea86ee5f7fe1889",
     "provenance_path": "editorial/provenance/chapter-0426.json",
-    "provenance_sha": "b7fafd1d8a2ca7d8e31b5004f99ce024d8515f1a"
+    "provenance_sha": "fa1211673b12e93a75fb266f86bea62d671a9dad"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Lion King material from target430 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored Empire-scale stockpile, explicit assassination intent, and Tudor wall-smashing departure"
+  }
 }

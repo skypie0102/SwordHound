@@ -228,7 +228,7 @@ the plan had never promised that the two decoys would survive.
 
 “For coming with me.”
 
-She kissed Tudor.
+She kissed Tudor on the lips.
 
 Then—
 
@@ -289,6 +289,8 @@ Mountain turtle.
 Griffin.
 
 Others.
+
+Several had been beheaded, blood still dripping from the severed remains.
 
 Bianca realized—
 
@@ -432,11 +434,45 @@ The person the wearer truly loved—
 
 had to be nearby.
 
-Lovegood had mailed it to Vikir later—
+Lovegood had mailed it to Vikir later.
 
-mixed among the ridiculous mountain of fan gifts.
+> **To Vikir**  
+> **With love ♥**  
+> **P.S. — Merelini Lovegood, President of the Secret Admirers' Association**
 
-Vikir kept it.
+It had arrived among a ridiculous mountain of fan gifts—
+
+perfume.
+
+Skin lotion.
+
+Shoes.
+
+A belt.
+
+A hat.
+
+Sunglasses.
+
+A shirt.
+
+A bag.
+
+A pen.
+
+A tie.
+
+A wallet.
+
+Sneakers.
+
+A hairpin.
+
+Even the artifact prize from the University League.
+
+And, somehow, a carriage key.
+
+Vikir kept the Love Shield.
 
 And before Bianca entered Masyaf—
 

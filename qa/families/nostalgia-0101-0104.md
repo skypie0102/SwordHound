@@ -21,9 +21,9 @@ There is therefore **no legitimate 100→101 duplication** after the rebuild.
 
 | Target | Chinese source | Chinese SHA | Recovered-English witness | English SHA | Rebuilt draft SHA | Rebuilt QA SHA |
 |---|---|---|---|---|---|---|
-| 101 | `101.txt` | `efce896878033b37c07d419a5533ea538fa601bf` | **E100** | `fd40f3fd52afa198ff059e4295e47630b294360e` | `ff0955563df2a7053e9c6a15c0e5d430fee2e9c1` | `74b226f9111259742071e1c535a84c46ccb327b9` |
+| 101 | `101.txt` | `efce896878033b37c07d419a5533ea538fa601bf` | **E100** | `fd40f3fd52afa198ff059e4295e47630b294360e` | `571b0d74d51e18db6fe2e406926b05fc4cd7e6a8` | `8b3e0383d48394f3de8d53a0de5919bd4d325b3f` |
 | 102 | `102.txt` | `60e4337839e37330558fd3528f9ae1a8d574987a` | **E101** | `e4aab893ce71c7fc09dbe61db1e076a283241b99` | `4d6cc59e7d6f8cd80f1bd7e248f315b3f8618897` | `b03d733ce7f5477b77bd66b4291696b8317a7d4b` |
-| 103 | `103.txt` | `94b23e81e5e68afb98518c56c9d1c892e6dd4264` | **E102** | `8f56167764313a2fc68b17b440fd211cff82f092` | `eeec63b8ef6d3f69d8a643c12edb2c90fb2fedaa` | `8cda10ed1a6be9146d8d59f74af32cb8c2b6749c` |
+| 103 | `103.txt` | `94b23e81e5e68afb98518c56c9d1c892e6dd4264` | **E102** | `8f56167764313a2fc68b17b440fd211cff82f092` | `fa7a19fe4df228091351364951bbbddf1ba561d5` | `02e12a17e3dff534ea8f42dec32c5c13d6653131` |
 | 104 | `104.txt` | `5adbd7b928a79f6c21075270a6f4f7b06713bdd2` | **E103** | `4d0c6cf4b03837358ade68d5fd4bbbcca7cb7084` | `0d954e0e9cf77c8da9964f97a60e6cdaa78ab811` | `1c2717b5d645b627fb9318e6f4e6987c1fe5a9cd` |
 | boundary | `105.txt` — *The Returned Hero (1)* | `6154ca5fc0ee9cc3d67f0c1c6ca00b62b9493dab` | **E104** | `69a15a787030595c8f8dd9adad13553f1b978b2d` | next family | next family |
 
@@ -68,3 +68,18 @@ Mapping remains **101→E100, 102→E101, 103→E102, 104→E103, 105→E104**.
 ## Verdict
 
 **PASS.** Chapters 101–104 have been rebuilt for complete source coverage, and the corrected 100→101 boundary is now internally consistent. The initial priority queue advances beyond Nostalgia.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-26  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 101: corrected Madam Eight-Legs's ruptured **mucus sac** anatomy and removed the invented **Ahun** addressee from the rescue call.
+- Chapter 103: restored the female-wolf **seven-to-eight-month cycle** and Aiyen's source-specific statement that Bakira's **seed is still intact**.
+- Chapters 102 and 104 were reread against their Chinese-primary sources and remain complete without manuscript changes.
+- Sanitization fidelity and completeness were rerun across Chapters 101–104.
+- Shifted mapping remains **101→E100, 102→E101, 103→E102, 104→E103**; target 105/E104 begins *The Returned Hero (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear. The intervening families through Chapter 128 have no Phase-4 remediation targets; continue to the next affected family, **Admission to the Academy (126–129)**, with remediation target Chapter **129**.

@@ -92,6 +92,8 @@ Dolores concentrated everything she had left.
 
 A final defensive line.
 
+A Maginot Line.
+
 A position that—
 
 if held—
@@ -126,17 +128,19 @@ Vikir had caught the Saintess's arm.
 
 One more bite—
 
-and her right side would be severed.
+and her right arm would be severed.
 
-Then the left.
+Then the left arm.
 
-Then the lower positions.
+The right leg.
 
-The center.
+The left leg.
 
-Eventually—
+The torso.
 
-everything.
+And finally—
+
+the neck.
 
 Sweat appeared on Dolores's forehead.
 

@@ -9,8 +9,8 @@
       295
     ],
     "family_qa_path": "qa/families/confessions-0293-0295.md",
-    "family_qa_sha": "6eabea8d34e1d599b5490d639fee708677854110",
-    "status": "pass"
+    "family_qa_sha": "bbe6d3fa80b38803ce63a9ed9ad645b29c504b94",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/295.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0295.md",
-    "blob_sha": "6e925bb13b095d5b36db1de090666c62669ad957"
+    "blob_sha": "9d1b66355447a750ca0cebc213b0bb4d3a78b1c7"
   },
   "qa": {
     "path": "qa/chapter-0295.md",
-    "blob_sha": "a89e4af4e649823902b500e70016d681e93db8ed",
-    "status": "pass"
+    "blob_sha": "9dd4c7c608bb6da828082bcc46179edead3852fd",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and no new wiki-only forms asserted.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "relationship_guard": "Vikir rejects a present relationship; only a conditional future answer remains: 'If that day comes.'"
+  "accepted_date": "2026-09-27",
+  "relationship_guard": "Vikir rejects a present relationship; only a conditional future answer remains: 'If that day comes.'",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      293,
+      295
+    ],
+    "manuscript_changed": true,
+    "note": "restored 931/990 score and both good-figure/body-attractiveness statements"
+  }
 }

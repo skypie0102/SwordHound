@@ -9,8 +9,8 @@
       290
     ],
     "family_qa_path": "qa/families/power-inflation-0283-0290.md",
-    "family_qa_sha": "78ddf6929302c374c314a92bce47d49d262f96b3",
-    "status": "pass"
+    "family_qa_sha": "a73a5c489bd327a448d1b07e98682677ec0445a4",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/286.txt",
@@ -24,17 +24,28 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0286.md",
-    "blob_sha": "ebf4e01dfcac7af68d574ecab7c423d01da17ccd"
+    "blob_sha": "3ac223ba250bed473a23a6789b0a59390e83cc5b"
   },
   "qa": {
     "path": "qa/chapter-0286.md",
-    "blob_sha": "91bf7ed913436e53adc07c6277342422d90d4a0c",
-    "status": "pass"
+    "blob_sha": "96b49ec8c7cb4823e10b411fda5759289902bf5f",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain pending direct access.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
+  "accepted_date": "2026-09-27",
   "documented_corrections": [
     "Eight visible fangs and E284 witness confirm Baskerville Eighth Form; local Chinese 'Fourth Form' wording treated as drift."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      283,
+      290
+    ],
+    "manuscript_changed": true,
+    "note": "restored tattered-rag body-destruction image"
+  }
 }

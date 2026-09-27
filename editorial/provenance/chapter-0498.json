@@ -9,8 +9,8 @@
       500
     ],
     "family_qa_path": "qa/families/side-stories-0496-0500.md",
-    "family_qa_sha": "5500ac73073602383e7359b83196e9d2e32a2cd7",
-    "status": "pass"
+    "family_qa_sha": "0a89e3efd898bf8db486b03b293a1a631102da04",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/498.txt",
@@ -25,14 +25,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0498.md",
-    "blob_sha": "6f1ed77b81142892e0888918d609aac36f495aae"
+    "blob_sha": "e1c3d53cf6400da13de14ac87a6734e3e13d8dae"
   },
   "qa": {
     "path": "qa/chapter-0498.md",
-    "blob_sha": "134c64fee9693f9ba3cb0a4f3a464bcd12d0cf47",
-    "status": "pass"
+    "blob_sha": "e3172060a65bb9a0c5e294db454082a6b90fd6a1",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom page access remained robots-blocked; established glossary/indexed canon and the embedded E493 witness were used for late recurring forms.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-28",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-28",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      496,
+      500
+    ],
+    "manuscript_changed": true,
+    "note": "restored 140-trillion-times-Earth-water reservoir scale"
+  }
 }

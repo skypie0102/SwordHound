@@ -11,7 +11,7 @@
 | 126 | 126.txt | `0b203c5861b7401737f33d82d33f5e9cf3f282dc` | **E125** | `8881a27a5c483db63e27b37cac92b8c12a8b7fb2` | `b2bd803effb51401c8dd8c301daa4d198f44a214` | `097b56c80f71bd28a7c1aa674c8677181eebd869` |
 | 127 | 127.txt | `2149785b7387feb0ad3053e2b145e5e5d2bce403` | **E126** | `21c15f555328a871346f4ead012c35bde5bdaac4` | `7540762d2a61b23a92215dd89805f9af5af746e4` | `bb304c0befa9e21cd4cfd2cc533af50e2a91080b` |
 | 128 | 128.txt | `c90aa1c2bd725d4a07d20e05509a44f2ff49eb89` | **E127** | `46bf52dc420d5a8993a34b0b009246664b525cb9` | `399ad580996f4b9af70d044694f38a393cfe7005` | `a89ddb71c07ec5bd93da2a9bc8567af622369919` |
-| 129 | 129.txt | `59717ac8c05eadf387b9a817a7e88da66facbf02` | **E128** | `0ee593a03f40125f495585cc02f52eee4d1608ff` | `11439549d2139947b6c1b0d68a150b5f9f72b7c7` | `5c39a823a3cb49c7df32b7426518e7ea93e53b7b` |
+| 129 | 129.txt | `59717ac8c05eadf387b9a817a7e88da66facbf02` | **E128** | `0ee593a03f40125f495585cc02f52eee4d1608ff` | `a64c45e13d18c06edd020f1f331494e147478b80` | `3e9beffaa64ac1b7c3aadc0ef3245bdb33641f59` |
 | boundary | 130.txt — *The Freshman Talent Show (1)* | `75953e6055debc0292ed261a08a471ff27486894` | **E129** | `f5e7eb7711468542d89e43edc619d4c81adf015b` | next family | next family |
 
 Mapping: **126→E125, 127→E126, 128→E127, 129→E128; 130→E129**.
@@ -64,3 +64,18 @@ Target 129 ends with Bianca detecting the rum scent left by Vikir immediately be
 PASS.
 
 Targets 126–129 form a coherent four-chapter transition from Baskerville into Colosseo: institution and rankings → Vikir's cover and roommate → orientation / Night Hound departure → first Imperial-Capital patrol and return. Chinese remains semantic authority, canonical register resolves student names, and recovered English remains a shifted secondary witness.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-26  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapters 126–128 were reread against their Chinese-primary sources and remain complete without manuscript changes.
+- Chapter 129 restores the source-order Bartison execution: severed/cauterized wrists, severed ankles, throat strike, and brief death struggle.
+- The preceding crime involving an underage victim remains at the existing non-explicit factual level and was not expanded.
+- Sanitization fidelity and completeness were rerun across Chapters 126–129 after repair.
+- Shifted mapping remains **126→E125, 127→E126, 128→E127, 129→E128**; target 130/E129 begins *The Freshman Talent Show (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **The Freshman Talent Show (130–132)**.

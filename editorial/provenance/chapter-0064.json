@@ -9,7 +9,7 @@
       67
     ],
     "family_qa_path": "qa/families/unfair-trade-0064-0067.md",
-    "family_qa_sha": "af6a0e1829333eae90de2a609db768606177f51e",
+    "family_qa_sha": "03117044c6e71069425a7c247b598e0303263fcc",
     "status": "pass"
   },
   "primary_source": {
@@ -69,11 +69,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0064.md",
-    "blob_sha": "7247c9434ad5695d86de99fd8507c42cc9d90ee1"
+    "blob_sha": "4ddc2d65417c32804078cd0741f488f916e00d30"
   },
   "qa": {
     "path": "qa/chapter-0064.md",
-    "blob_sha": "adef0fb58870464bd98f6850b62dad467a9165aa",
+    "blob_sha": "626cc56793e2f2e74e33a19306ba102b056325ee",
     "status": "pass"
   },
   "documented_decisions": [
@@ -99,10 +99,21 @@
     },
     {
       "topic": "abuse_treatment",
-      "final": "report merchants' racism and verbal sexual harassment as abuse without gratuitous slurs or sexualization",
+      "final": "preserve source-specific racial degradation at source severity; keep child-directed harassment non-explicit and nonsexualized",
       "basis": "source-level wrongdoing"
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      64,
+      67
+    ],
+    "manuscript_changed": true,
+    "note": "restored source-specific racial degradation while keeping child-directed harassment non-explicit"
+  }
 }

@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/213.txt` — `00b1572bdf7270c1c8b5fea99f9116d88912599b`
 - English witness: **E211** — `36fd5ff3f97a0f92030bbb8a26300c8bdeddf913`
-- Draft: `manuscript/drafts/chapter-0213.md` — `94f3ecdd9e2f5863dd54e908eb52d44a8f537eed`
+- Draft: `manuscript/drafts/chapter-0213.md` — `aa6145213811320e7261043b034abf002decc743`
 
 ## Checks
 - PASS — Corpse Queen summons C-rank skeleton soldiers from portable bone-fragment “seeds.”
@@ -22,3 +22,14 @@
 - PASS — “Soulmate” remains Dolores's source dialogue rooted in soul resonance; it is not converted into objective relationship status.
 - PASS — Queen's disproportionate rage remains something she herself does not understand.
 - PASS — chapter ends with the **true Night Hound** arriving.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved/revalidated 2026-09-27.** Restored zombie-flesh jerky decay, sealed ghost-soul evaporation, the fire/smoke suffocation crowd-conformity example, and the exact 99% outsider figure.
+
+The complete Festival Night family was reread. Mapping remains **206→E204 through 215→E213**; target **216→E214** begins *My Neck Will Be Your Sheath (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Festival Night family QA.

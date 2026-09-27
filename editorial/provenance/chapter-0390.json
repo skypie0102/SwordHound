@@ -9,8 +9,8 @@
       395
     ],
     "family_qa_path": "qa/families/worst-torture-0390-0395.md",
-    "family_qa_sha": "f486932b5c01bf79dcbe536eb187ac1c59d67ce5",
-    "status": "pass"
+    "family_qa_sha": "fa32cfb1e4d2d1d87dd5caff0c32f156477bf150",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/390.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0390.md",
-    "blob_sha": "fcf5f0562eada727b517389f815b7349d4b889b9"
+    "blob_sha": "c4264ecc2f41f2af6ced56eeac359f3c97cf7966"
   },
   "qa": {
     "path": "qa/chapter-0390.md",
-    "blob_sha": "44df5c9d903259161a3e3d7cc77b20464473a563",
-    "status": "pass"
+    "blob_sha": "0dac60443f90308918b7dfee4ae29365980203d5",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      390,
+      395
+    ],
+    "manuscript_changed": true,
+    "note": "restored pain-targeting/meat-chopping force, starvation/whipping/torture submission language, and >98% death-risk figure"
+  }
 }

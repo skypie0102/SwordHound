@@ -9,8 +9,8 @@
       376
     ],
     "family_qa_path": "qa/families/poseidon-0375-0376.md",
-    "family_qa_sha": "ac39c904ab0aaced6962a2f011a3ddbbd4a89559",
-    "status": "pass"
+    "family_qa_sha": "1db040526aa994fa1dbb00abae3749645f3f8e57",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/375.txt",
@@ -29,8 +29,19 @@
   "qa": {
     "path": "qa/chapter-0375.md",
     "blob_sha": "1058598dfa69b32ae3b1672623139fc306728896",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      375,
+      376
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

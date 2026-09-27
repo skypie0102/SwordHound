@@ -272,6 +272,16 @@ so precise—
 
 that blood sometimes did not flow until several steps after the strike.
 
+Once, during training, a warrior had taken a light cut across the thigh and seen no blood at all.
+
+Only after training ended—
+
+after walking roughly three kilometers back to his quarters—
+
+did a large piece of flesh suddenly fall away and blood gush out.
+
+That was possible even without aura.
+
 Vikir had trained relentlessly in Colosseo’s gravity rooms to refine that kind of cutting.
 
 Now—

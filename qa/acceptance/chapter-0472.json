@@ -2,8 +2,8 @@
   "chapter": 472,
   "title": "Tochka Annihilation Battle (2)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-28",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Tochka Annihilation Battle",
     "range": [
@@ -11,8 +11,8 @@
       475
     ],
     "family_qa_path": "qa/families/tochka-annihilation-0471-0475.md",
-    "family_qa_sha": "08babc668e1137750285061091f293ee383f384c",
-    "status": "pass"
+    "family_qa_sha": "b0eba6403c8ea3ba230af8ce22578630048369f7",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/472.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-470.xhtml",
     "english_reference_sha": "454a2f25706c72b22e5358e43946c085c84ecadb",
     "draft_path": "manuscript/drafts/chapter-0472.md",
-    "draft_sha": "913e2e6f74bbc11dd7561bb6894f2138b4dce693",
+    "draft_sha": "c27336eb858dbf17d25f17041c3fcb72a2559fff",
     "qa_path": "qa/chapter-0472.md",
-    "qa_sha": "6c40e4b488fd9e59bd433be2a2f60e7fef3055c1",
+    "qa_sha": "7264bff786dc121f12c7441533014df4f685bcc8",
     "provenance_path": "editorial/provenance/chapter-0472.json",
-    "provenance_sha": "e1a5fa92514394ce374b6784329659f615deab13"
+    "provenance_sha": "1ce0c229895dae4190ca3a473563a1a0bc27e477"
   },
   "documented_limits": [
     "Direct Fandom browsing remains robots-restricted; established glossary and indexed Fandom evidence control canonical forms.",
     "No target476+ material imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-28",
+    "manuscript_changed": true,
+    "note": "restored more-than-a-dozen heads per swing and exact 700-knight detachment count"
+  }
 }

@@ -9,7 +9,7 @@
       67
     ],
     "family_qa_path": "qa/families/unfair-trade-0064-0067.md",
-    "family_qa_sha": "af6a0e1829333eae90de2a609db768606177f51e",
+    "family_qa_sha": "03117044c6e71069425a7c247b598e0303263fcc",
     "status": "pass"
   },
   "primary_source": {
@@ -66,7 +66,7 @@
   },
   "qa": {
     "path": "qa/chapter-0067.md",
-    "blob_sha": "a535221bfb26140c7a1e7920807d62fbee8d7c34",
+    "blob_sha": "226bfc66f2a5263daf10573d215bc11698f6a6a3",
     "status": "pass"
   },
   "documented_decisions": [
@@ -97,5 +97,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "revalidated_and_rebound",
+    "family_reviewed": [
+      64,
+      67
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread reconfirmed ordinary-content PASS; safety-limited relationship material remains nonsexual"
+  }
 }

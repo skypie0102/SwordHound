@@ -9,8 +9,8 @@
       418
     ],
     "family_qa_path": "qa/families/end-game-0409-0418.md",
-    "family_qa_sha": "895bc1e18d7715839983f96ac0c8764b803758f0",
-    "status": "pass"
+    "family_qa_sha": "e7c76ebab3a660563f378fd74e93be4c7e00a91b",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/414.txt",
@@ -29,9 +29,20 @@
   "qa": {
     "path": "qa/chapter-0414.md",
     "blob_sha": "3f39b20916877763c2206c0c623e57edb1209795",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      409,
+      418
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged; rebound to refreshed End game family QA"
+  }
 }

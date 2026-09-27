@@ -9,8 +9,8 @@
       424
     ],
     "family_qa_path": "qa/families/wandering-knight-0422-0424.md",
-    "family_qa_sha": "fbb3ffbc45a63d0ccc9c93fe77f5263b65cbe608",
-    "status": "pass"
+    "family_qa_sha": "98bc6b59d0fef78ec55ee1074e05d737df2473a6",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/422.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0422.md",
-    "blob_sha": "5e761fed9b98bff6be17b4521a60d47518b2f307"
+    "blob_sha": "4c477441f9bb048371556ae7d15bdc77c95f37ad"
   },
   "qa": {
     "path": "qa/chapter-0422.md",
-    "blob_sha": "934e4c48de44058efd65b01c8a7d26f21fbc7ab5",
-    "status": "pass"
+    "blob_sha": "776c7342cfdbab12e61b68fed165bb43f3c838cd",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      422,
+      424
+    ],
+    "manuscript_changed": true,
+    "note": "restored full succession/collateral-family/Night-Walkers dialogue and public-reaction detail"
+  }
 }

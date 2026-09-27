@@ -72,7 +72,7 @@ locked onto one target.
 
 “Madeline.”
 
-The voice came from a body already falling apart.
+The voice came from a collapsing body whose internal organs had already broken into pieces.
 
 At the same time—
 

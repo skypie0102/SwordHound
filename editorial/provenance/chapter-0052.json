@@ -9,7 +9,7 @@
       54
     ],
     "family_qa_path": "qa/families/slaves-savage-tribe-0052-0054.md",
-    "family_qa_sha": "ddde14abfe993392e9ea56dbfdb6f8e416896878",
+    "family_qa_sha": "4e50b641edc188aa9fc958a8b627910ed637a09c",
     "status": "pass"
   },
   "primary_source": {
@@ -49,11 +49,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0052.md",
-    "blob_sha": "55c7ca51c4886c8b70ccb4121b341155f8362886"
+    "blob_sha": "2362b01b00650b2debfb9e4bbf50250197637bb0"
   },
   "qa": {
     "path": "qa/chapter-0052.md",
-    "blob_sha": "081f4684327d130cd87dcb20db5f13b298e8e752",
+    "blob_sha": "8fa90d057e51c40a54e2682b343b3783ec19510f",
     "status": "pass"
   },
   "documented_decisions": [
@@ -79,5 +79,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      52,
+      54
+    ],
+    "manuscript_changed": true,
+    "note": "restored spiral-fractured rib ends piercing into internal organs"
+  }
 }

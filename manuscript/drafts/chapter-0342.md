@@ -64,7 +64,7 @@ He needed to reduce suspicion.
 
 So—
 
-“…Woof.”
+“…Mm.”
 
 Careful.
 
@@ -137,6 +137,8 @@ BOOM!
 Holy power exploded through her arm.
 
 The bathwater split outward.
+
+In that panicked instant, the narrator might as well have called Vikir the **peeping tom** she was knocking away.
 
 The fist hit Vikir’s jaw with enough force to resemble the future Ironblood Saintess at full strength.
 
@@ -288,7 +290,9 @@ That hardly mattered.
 
 The man whose identity she had wondered about—
 
-the person she had believed to be connected to her soul—
+the Night Hound she had long yearned for and wondered about—
+
+her **soulmate**—
 
 was here.
 

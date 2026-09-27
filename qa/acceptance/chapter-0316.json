@@ -2,7 +2,7 @@
   "chapter": 316,
   "title": "Surplus Man (3)",
   "accepted": true,
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Surplus Man",
     "range": [
@@ -10,8 +10,8 @@
       320
     ],
     "family_qa_path": "qa/families/surplus-man-0314-0320.md",
-    "family_qa_sha": "a752f27d99e0be65f4143aed12695b0a4f05a386",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "cfa70c820f5f0717135e28f0a0e256d640343e09",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/316.txt",
@@ -19,11 +19,11 @@
     "english_reference_path": "source/chapters/chapter-314.xhtml",
     "english_reference_sha": "0b5b9b04b8c7ecd083a615735e3cef66d251e009",
     "draft_path": "manuscript/drafts/chapter-0316.md",
-    "draft_sha": "230dd7b3235fed5d89878c958da1605dc9476b96",
+    "draft_sha": "ab740e9ce6de17485ba87ecda9a2779acbe3d75f",
     "qa_path": "qa/chapter-0316.md",
-    "qa_sha": "f5c2f064fcd546341362f607fcee77685089e014",
+    "qa_sha": "fbb32554dfd0dbbec8fc859357485825f75d8161",
     "provenance_path": "editorial/provenance/chapter-0316.json",
-    "provenance_sha": "7859d7487309f27a595134da7513c7b2895df2a6"
+    "provenance_sha": "ec875161f5daf617c59dddf10d8deccf153dc5b4"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
@@ -37,7 +37,7 @@
     "qa_sha": "c797f5bb7758d83c51e672aa24f4d19bed504423",
     "provenance_sha": "d58fc31f9675ec0a1efcdb7ec6bae4f7145873a3"
   },
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "completeness_audit": {
     "reviewed_date": "2026-09-20",
     "result": "rebuilt_and_passed",
@@ -45,5 +45,12 @@
     "initial_priority_target": true,
     "confirmed_failure_resolved": true
   },
-  "failure_resolution": "Confirmed survivor-debate/voting/social-dynamics compression failure fully rebuilt."
+  "failure_resolution": "Confirmed survivor-debate/voting/social-dynamics compression failure fully rebuilt.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored bloodshot-eye and spittle-flying mob agitation"
+  }
 }

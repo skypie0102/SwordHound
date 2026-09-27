@@ -9,8 +9,8 @@
       389
     ],
     "family_qa_path": "qa/families/rotten-dog-0385-0389.md",
-    "family_qa_sha": "d10f2ad9895b49c51666e0e974439e9f178deb2a",
-    "status": "pass"
+    "family_qa_sha": "61be6e660024c17e9564680ee47b82689b723af2",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/385.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0386.md",
-    "blob_sha": "ef5a9550af00ba946abb5d1d010e4e4109959b78"
+    "blob_sha": "0beafacf09b5c6d8fb4bc7b5347848711a13b9d0"
   },
   "qa": {
     "path": "qa/chapter-0386.md",
-    "blob_sha": "fc37f37c358569498ed18279189f4c4ff039d870",
-    "status": "pass"
+    "blob_sha": "74e853af5a71ffbca93c876275a086f65b9929f7",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_note": "Designated Fandom search confirms Garam Nord, Kirko Grimm, and Lieutenant Colonel Flubber J Tarbond. Pal Euspear remains aligned-witness/source-local because no accessible Fandom entry was found.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "source_exception": "Shared raw 385.txt target386 begins at explicit embedded Chapter386 marker; local Basilisk regeneration wording rejected as slot drift."
+  "accepted_date": "2026-09-27",
+  "source_exception": "Shared raw 385.txt target386 begins at explicit embedded Chapter386 marker; local Basilisk regeneration wording rejected as slot drift.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      385,
+      389
+    ],
+    "manuscript_changed": true,
+    "note": "restored Dog Who Eats Shit / shit-eating dog degradation"
+  }
 }

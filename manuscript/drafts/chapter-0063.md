@@ -66,7 +66,7 @@ Current leader of Ballak.
 
 Its strongest warrior.
 
-The woman who had fought Hugo Le Baskerville and Adolf Morgue and survived on her own terms.
+The woman who had successively defeated Hugo Le Baskerville and Adolf Morgue.
 
 A major reason a tribe of only a few hundred people was feared by the Empire.
 

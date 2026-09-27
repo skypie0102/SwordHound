@@ -9,8 +9,8 @@
       475
     ],
     "family_qa_path": "qa/families/tochka-annihilation-0471-0475.md",
-    "family_qa_sha": "08babc668e1137750285061091f293ee383f384c",
-    "status": "pass"
+    "family_qa_sha": "b0eba6403c8ea3ba230af8ce22578630048369f7",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/472.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0472.md",
-    "blob_sha": "913e2e6f74bbc11dd7561bb6894f2138b4dce693"
+    "blob_sha": "c27336eb858dbf17d25f17041c3fcb72a2559fff"
   },
   "qa": {
     "path": "qa/chapter-0472.md",
-    "blob_sha": "6c40e4b488fd9e59bd433be2a2f60e7fef3055c1",
-    "status": "pass"
+    "blob_sha": "7264bff786dc121f12c7441533014df4f685bcc8",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; established glossary forms and indexed Fandom evidence used.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-28",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-28",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      471,
+      475
+    ],
+    "manuscript_changed": true,
+    "note": "restored more-than-a-dozen heads per swing and exact 700-knight detachment count"
+  }
 }

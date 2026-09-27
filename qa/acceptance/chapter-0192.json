@@ -2,8 +2,8 @@
   "chapter": 192,
   "title": "Attack Land (3)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Attack Land",
     "range": [
@@ -11,8 +11,8 @@
       196
     ],
     "family_qa_path": "qa/families/attack-land-0190-0196.md",
-    "family_qa_sha": "8220b5dc193098d15d50cdaa603aece714a7702d",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "452f95fd219d05522abb26135f1312dadfa64253",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/192.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-190.xhtml",
     "english_reference_sha": "a76086f60e184689100e07137fad0f9652f720c0",
     "draft_path": "manuscript/drafts/chapter-0192.md",
-    "draft_sha": "770b1c0f1df669cf40a429b538ce73c3a470bdfb",
+    "draft_sha": "36f7488c32f5927b1f1a0d6ba087da2a51f16666",
     "qa_path": "qa/chapter-0192.md",
-    "qa_sha": "66d1b0b6f1fa5f81b79ba5af7f76a39f410ed747",
+    "qa_sha": "6889eb39ca2e4de217c433d772bb90e7c720ca7c",
     "provenance_path": "editorial/provenance/chapter-0192.json",
-    "provenance_sha": "1c9045f287b46292fd83c6f8531318ae526d82e1"
+    "provenance_sha": "f1d546082a788c8717c69d655add32199cec736b"
   },
   "canonical_checks": [
     "Sinclaire",
@@ -50,5 +50,12 @@
     "result": "rebuilt_and_passed",
     "family_evidence": "qa/families/attack-land-0190-0196.md"
   },
-  "sequence_note": "C192 endpoint name slip corrected to Pigi per E190 + C193."
+  "sequence_note": "C192 endpoint name slip corrected to Pigi per E190 + C193.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored all-ribs-broken extent with internal-organ injury"
+  }
 }

@@ -2,8 +2,8 @@
   "chapter": 232,
   "title": "Tuition (8)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Tuition",
     "range": [
@@ -11,8 +11,8 @@
       233
     ],
     "family_qa_path": "qa/families/tuition-0225-0233.md",
-    "family_qa_sha": "ef916558f9b418e478b2dbd559f541db34d75238",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "eb414a8af2119b91abf36671340b7d5545d63b9e",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/232.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-230.xhtml",
     "english_reference_sha": "3bd9b39a61de45b2b305b6ca73628633c30f07a8",
     "draft_path": "manuscript/drafts/chapter-0232.md",
-    "draft_sha": "f0418162fb9099cb9ccf7dcf39b7ef43445abb0a",
+    "draft_sha": "fb8365a98a4a8e14c02b6c1692fff202a7eb5d09",
     "qa_path": "qa/chapter-0232.md",
-    "qa_sha": "df0c556134dcca17405cf0b12c6017c8154d633f",
+    "qa_sha": "6c65259820e2f77d0d1b02a6a25c3bd86ff22181",
     "provenance_path": "editorial/provenance/chapter-0232.json",
-    "provenance_sha": "fafc4395374defa7984a161ad5545629b72f745d"
+    "provenance_sha": "d07a806d78a6b1c4bd1bc6b5b122f71f810b1006"
   },
   "canonical_checks": [
     "MiniPin",
@@ -50,5 +50,12 @@
     "reviewed_date": "2026-09-20",
     "result": "rebuilt_and_passed",
     "family_evidence": "qa/families/tuition-0225-0233.md"
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored rotted corpse state and removed unsupported tools from bone uses"
   }
 }

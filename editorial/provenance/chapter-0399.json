@@ -9,8 +9,8 @@
       402
     ],
     "family_qa_path": "qa/families/black-tongue-0399-0402.md",
-    "family_qa_sha": "c54ff5c043d09d11fba6cd693f0701ae46892bc3",
-    "status": "pass"
+    "family_qa_sha": "52a17d3d10f406d9699fcb6a91a29c44d5a9bf17",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/399.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0399.md",
-    "blob_sha": "939338acd9d460205c48710f87eeca73cd06c2ca"
+    "blob_sha": "757d654e82b83ac3f5a1ab26931a9048318eeef1"
   },
   "qa": {
     "path": "qa/chapter-0399.md",
-    "blob_sha": "80bf95c7e4f9518f431f10e523cd80093e3a3b2e",
-    "status": "pass"
+    "blob_sha": "e52d50ab0a142adefb49660358ebb9c37d32b5b3",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      399,
+      402
+    ],
+    "manuscript_changed": true,
+    "note": "restored possible-mother clue and Virginia/D'Ordume supply-diversion details"
+  }
 }

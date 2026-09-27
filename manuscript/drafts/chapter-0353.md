@@ -60,9 +60,9 @@ Mane blazing like fire.
 
 Winston Smith’s host body—
 
-was gone.
+had already burst apart and disappeared.
 
-Amdusias had abandoned it completely.
+Amdusias now stood in his true form without a host.
 
 Vikir looked up.
 

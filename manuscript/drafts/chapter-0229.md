@@ -490,23 +490,25 @@ Shavik oil ignited explosively.
 
 Screams tore through the underground den.
 
-Upper-level Gnolls were burned in oil.
+Gnolls caught below the flowing oil had no time to evade it and were fried alive.
 
-Middle levels filled with smoke.
+Upper-level Gnolls died in the oil.
 
-Lower levels—
+Middle-level Gnolls suffocated to death in the smoke.
 
-panic.
+Lower-level Gnolls tried to flee over the bodies of their own kind—
 
-Most exits were already sealed.
+but most exits were already sealed.
 
-Oxygen dropped.
+They could not escape the same suffocating fate.
 
-Heat climbed.
+Oxygen plummeted.
 
-Smoke thickened.
+Smoke and stench spread.
 
-Bodies jammed narrow passages.
+The air heated rapidly.
+
+Survivors crowded against the blocked exits were smothered alive.
 
 MiniPin stood with his mouth open.
 
@@ -528,7 +530,7 @@ Vikir listened to the chaos below.
 
 “That is the real weapon.”
 
-Burned Gnolls fled downward.
+Gnolls that survived the burns fled downward.
 
 Small ones.
 

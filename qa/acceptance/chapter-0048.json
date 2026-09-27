@@ -2,8 +2,8 @@
   "chapter": 48,
   "title": "The Husband Hunt (3)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_fandom_canonical",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase4",
   "title_family": {
     "name": "The Husband Hunt",
     "range": [
@@ -11,7 +11,7 @@
       51
     ],
     "family_qa_path": "qa/families/husband-hunt-0046-0051.md",
-    "family_qa_sha": "e0cb8241dea5dc85bd60feb72b992993b04c4689",
+    "family_qa_sha": "c68d6387dad0e0024c2d45396b7abd4b28b922cd",
     "status": "pass"
   },
   "evidence": {
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-048.xhtml",
     "english_reference_sha": "4d2f292ef1a7fc3701b1af13874a27d1b2d2fe81",
     "draft_path": "manuscript/drafts/chapter-0048.md",
-    "draft_sha": "11125e08c987906ac3f57329afa6c9b88681683a",
+    "draft_sha": "07b3aca8dac1093c236a062cf8bf017b73f49b3c",
     "qa_path": "qa/chapter-0048.md",
-    "qa_sha": "a8ce8f8ccda336b45e2f36cb30e7d1eba94b52fc",
+    "qa_sha": "72d6adf6aae31b43f8d244241519f954eddf5a09",
     "provenance_path": "editorial/provenance/chapter-0048.json",
-    "provenance_sha": "25adf1dba70675444a98c5fe8d1fdb43c967bfe8"
+    "provenance_sha": "820c9a4b767b0fa41e989cef35420b8c23cf8086"
   },
   "canonical_checks": [
     "Ballak Tribe",
@@ -38,5 +38,12 @@
     "Returning slave-auction captive is recognized but remains personally unnamed.",
     "Camus's bound/naked captivity is preserved as nonsexual humiliation; no erotic detail is added.",
     "Adolf's 侄女婿 is rendered nephew-in-law; masculine Camus/nephew drift is rejected."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "corrected Lowbro's injury callback to his single right index finger"
+  }
 }

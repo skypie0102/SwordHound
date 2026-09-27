@@ -9,7 +9,7 @@
       82
     ],
     "family_qa_path": "qa/families/saintess-0078-0082.md",
-    "family_qa_sha": "31d39fa90f372040ba6b5867b68f4b5d7ffcf8a7",
+    "family_qa_sha": "a4c71d8d9a59bb0e20628d0e5576d9f454d12610",
     "status": "pass"
   },
   "primary_source": {
@@ -73,11 +73,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0082.md",
-    "blob_sha": "74a893872c2f5226a35660e2d7b26d07c5f03812"
+    "blob_sha": "9e04f11161a21395bf5dcdd2f298b4c425604926"
   },
   "qa": {
     "path": "qa/chapter-0082.md",
-    "blob_sha": "96459e6550502949bd23eb280348ce0a723783ba",
+    "blob_sha": "bfcf46002c6a512804f45beb6fb3d0c45462f837",
     "status": "pass"
   },
   "documented_decisions": [
@@ -113,5 +113,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      78,
+      82
+    ],
+    "manuscript_changed": true,
+    "note": "restored first-Saintess lament, two-pillar collapse, and Quovadis-over-Emperor political-force statement"
+  }
 }

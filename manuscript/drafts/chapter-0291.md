@@ -514,7 +514,7 @@ Then lowered his head.
 
 The demon’s remains were gone.
 
-Only Bartolomeo’s ruined body remained.
+Only Bartolomeo’s corpse lay there like a rag.
 
 A man who had possessed almost unimaginable money and power.
 

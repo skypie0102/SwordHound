@@ -410,11 +410,11 @@ A beloved young actress.
 
 Cut.
 
-Child.
+Innocent child.
 
-Woman.
+Sexy woman.
 
-Old man.
+Frail old man.
 
 Face after face—
 
@@ -424,11 +424,9 @@ Dantalian became confused.
 
 These were real faces.
 
-Taken from real people.
+Peeled from the facial skin of real people.
 
-Perfect expressions.
-
-Perfect voices.
+Perfectly reproducing the expressions and voices they had in life.
 
 Why did this human not hesitate?
 

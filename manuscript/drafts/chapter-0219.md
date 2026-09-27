@@ -464,9 +464,9 @@ Vikir's hand—
 
 shifted toward his blade.
 
-One strike—
+One reach—
 
-could end Rosie—
+and Vikir could cut off Rosie's head—
 
 before the spell completed.
 
@@ -802,9 +802,9 @@ talked among themselves.
 
 was worse.”
 
-“Just hearing those voices—
+“Just hearing the Night Hound's voice—
 
-nearly killed me.”
+I nearly wet my pants.”
 
 Then—
 

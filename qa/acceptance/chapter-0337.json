@@ -2,8 +2,8 @@
   "chapter": 337,
   "title": "The Mating Room (5)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "The Mating Room",
     "range": [
@@ -11,8 +11,8 @@
       338
     ],
     "family_qa_path": "qa/families/mating-room-0333-0338.md",
-    "family_qa_sha": "e76eff1e4193a6be648f650676db6dad0b8ed1a6",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "4ccd61a7352714147307affbe17e80ab7058b867",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/337.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0337.md",
     "qa_sha": "32ee84b252c53fc78ca8b3cc35677e426d1e71f3",
     "provenance_path": "editorial/provenance/chapter-0337.json",
-    "provenance_sha": "461201271f66704ffa95286f9b093aae1f747ad9"
+    "provenance_sha": "59f99ff803ee153ed25742143b7cf6bcbd4bc4a4"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
@@ -48,5 +48,12 @@
     "initial_priority_target": false
   },
   "identity_timing_note": "Vikir explicitly reveals 'I am Night Hound' only at target337 close.",
-  "regeneration_note": "Use Immortality — Gargoyle (S); local Basilisk drift rejected."
+  "regeneration_note": "Use Immortality — Gargoyle (S); local Basilisk drift rejected.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

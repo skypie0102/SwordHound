@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/153.txt` — `b54f371d1ae74b97df8cfcda609f3962a3ad2c0b`
 - English witness: **E152** — `2887cbdd4984819cc7a9572566195982633c71f3`
-- Draft: `manuscript/drafts/chapter-0153.md` — `ff2cc52c6826be2df81a450175952cff8c890361`
+- Draft: `manuscript/drafts/chapter-0153.md` — `1801537f5aa3aad955edb4a6fdd76e5bee618345`
 
 ## Checks
 - PASS — Dolores's white fortress/Paladin imagery and Vikir's black-hound attack metaphor are preserved as Go-board narration.
@@ -20,3 +20,14 @@
 - PASS — Dolores discovers that the supposed soda contains substantial alcohol only after drinking multiple penalty servings; the reveal is kept at this target.
 - PASS — intoxication is comedic but not sexually expanded.
 - PASS — chapter closes on the dorm supervisor unlocking/opening the door, preserving the cliffhanger into target 154.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored the **Maginot Line** comparison and the exact right arm → left arm → right leg → left leg → torso → neck destruction progression in the Go battle metaphor.
+
+The complete Drinking Game family was reread after remediation. Shifted mapping remains **152→E151, 153→E152, 154→E153**; target 155/E154 begins *How to Keep Your Night Shift Employees Safe (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Drinking Game family QA.

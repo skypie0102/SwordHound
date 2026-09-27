@@ -2,8 +2,8 @@
   "chapter": 228,
   "title": "Tuition (4)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Tuition",
     "range": [
@@ -11,8 +11,8 @@
       233
     ],
     "family_qa_path": "qa/families/tuition-0225-0233.md",
-    "family_qa_sha": "ef916558f9b418e478b2dbd559f541db34d75238",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "eb414a8af2119b91abf36671340b7d5545d63b9e",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/228.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0228.md",
     "qa_sha": "e5228b0c03ee98a8cf35569755a186f2d2cbe621",
     "provenance_path": "editorial/provenance/chapter-0228.json",
-    "provenance_sha": "78219e50de231cd267b322b422755c07b82fa0da"
+    "provenance_sha": "cace83b20a4f20363d42a14b476be0dadeeb97b8"
   },
   "canonical_checks": [
     "MiniPin",
@@ -49,5 +49,12 @@
     "reviewed_date": "2026-09-20",
     "result": "rebuilt_and_passed",
     "family_evidence": "qa/families/tuition-0225-0233.md"
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
   }
 }

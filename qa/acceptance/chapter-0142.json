@@ -2,8 +2,8 @@
   "chapter": 142,
   "title": "Identity of the Villain (2)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Identity of the Villain",
     "range": [
@@ -11,8 +11,8 @@
       143
     ],
     "family_qa_path": "qa/families/identity-villain-0141-0143.md",
-    "family_qa_sha": "705d07610094a35415f6e3600cba69f7583a2836",
-    "status": "pass"
+    "family_qa_sha": "6f952cdc7b0f8782f5dc3012f9fb6be45a091243",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/142.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0142.md",
     "qa_sha": "0996f5e528c75d1b28c922e9f581c2be4c6df6f6",
     "provenance_path": "editorial/provenance/chapter-0142.json",
-    "provenance_sha": "40a315189f0554d5a13ac68e83af30d17ea183d0"
+    "provenance_sha": "1f99420b744b5b1ecb3a29cd7f49923e73fde84b"
   },
   "canonical_checks": [
     "Dolores L. Quovadis",
@@ -38,5 +38,12 @@
     "Dolores's trust in Night Hound remains her perspective, not narrator-confirmed innocence.",
     "Vikir's villain statement is self-judgment, not an objective project verdict.",
     "Future Dolores recollection does not license later demon/villain spoilers."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

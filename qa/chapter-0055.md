@@ -7,7 +7,7 @@
 
 - Chinese overlap container: `source/chinese/chapters/054.txt` — `4e16871bc046c162978c419dc585f526b37d2dc4`
 - Recovered English Chapter 55: `source/chapters/chapter-055.xhtml` — `b3d243ed6bdbd0268e0281d18589d0b4c308604e`
-- Draft: `manuscript/drafts/chapter-0055.md` — `e18c5c382ca2fab4bb721c5b33e552f752b986bd`
+- Draft: `manuscript/drafts/chapter-0055.md` — `4cab7e75783208f932d9d868cbdc57b5b252f57b`
 
 ## Source-mode correction
 
@@ -30,3 +30,11 @@ Source authority for this chapter is therefore hybrid:
 ## Boundary repair
 
 This QA supersedes the old “Chinese raw genuinely missing; E55 sole source” assumption. The corrected exception is recorded in `source/chinese/chapter-exceptions.tsv`.
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored the Chinese-source shaman instruction: hunters must receive his blessing before departure or he will **ring the warning bell**. The unsupported curse wording has been removed.
+
+## Phase-4 decision
+
+**PASS at chapter level after Phase-4 remediation.** Final acceptance requires the refreshed Chapters 55–60 family QA.

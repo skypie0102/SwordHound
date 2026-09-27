@@ -368,6 +368,8 @@ became trapped—
 
 in the crush.
 
+The pressure squeezed her so hard that even the face beneath the skull mask bulged like a pancake.
+
 […These people.]
 
 Black mana—

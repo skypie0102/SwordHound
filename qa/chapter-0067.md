@@ -35,3 +35,14 @@ Target 67 → E66 is verified by complete sequence: Vikir celebrated as hero →
 ## Boundary check
 
 Target 68 / E67 cleanly begin **Blood Relatives (1)** after a major time skip and training/recovery progression.
+
+
+## Cycle-2 Phase 4 revalidation
+
+**Revalidated 2026-09-26.** The complete Unfair Trade family was reread because Chapters 64–66 required remediation. Direct C067-to-draft comparison reconfirmed the Phase-2 **PASS** for all ordinary content: hero-status consequences, Ah'Heman suspicion, Fountain of Valor mechanics, Adonai/Madam history, value discussion, drug-affected children's recovery, and the Blood Relatives boundary remain complete.
+
+The under-eighteen hot-spring relationship material remains **SAFETY-LIMITED-REVIEWED** at a strictly nonsexual plot/relationship level. No Chapter-67 manuscript edit was required.
+
+## Phase-4 decision
+
+**PASS at chapter level after full-family revalidation.** Final family acceptance is rebound through the refreshed Chapters 64–67 family QA.

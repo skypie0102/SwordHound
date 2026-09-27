@@ -38,7 +38,7 @@ The Tochka project had begun years ago.
 
 Long before Vikir publicly appeared in the Imperial Capital as Night Hound.
 
-The fortress now contained enough stockpiled supplies to support an enormous population for months.
+The fortress now contained enough stockpiled supplies to feed the entire Empire’s population for several months.
 
 Even Cindywendy—
 
@@ -426,7 +426,7 @@ their home defenses are thinner.”
 
 “That can become an opportunity.”
 
-“We hit the center.”
+“We can assassinate the core figure.”
 
 Dolores nodded.
 
@@ -495,3 +495,15 @@ But the report continued.
 Only one person carried that title.
 
 Bianca.
+
+Everyone rushed toward the entrance.
+
+BOOM!
+
+One person smashed straight through the tent wall instead—
+
+and was already far ahead.
+
+Tudor.
+
+A man with no surname.

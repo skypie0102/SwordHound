@@ -33,3 +33,17 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapters 396 and 398 were reread against their Chinese-primary sources and remain complete without manuscript changes.
+- Chapter 397 restores Sakkuth's cavern-filling terror effect and the source's **fresh, wriggling piece of meat** body-horror image inside Flubber.
+- Sanitization fidelity and completeness were rerun across Chapters 396–398.
+- Shifted mapping remains **396→E394, 397→E395, 398→E396**; target 399/E397 begins *Black Tongue (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Black Tongue (399–402)**.

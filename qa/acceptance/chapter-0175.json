@@ -2,8 +2,8 @@
   "chapter": 175,
   "title": "The Anti-Columnist (4)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Anti-Columnist",
     "range": [
@@ -11,8 +11,8 @@
       175
     ],
     "family_qa_path": "qa/families/anti-columnist-0172-0175.md",
-    "family_qa_sha": "dfc148fb2e8dde04577e41a680c38423e1a006c1",
-    "status": "pass"
+    "family_qa_sha": "55facfe2179c0304cdaef36069c34d2511882119",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/175.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-173.xhtml",
     "english_reference_sha": "2e5546c26a01b265a53466f0e1b6c85a13fb7930",
     "draft_path": "manuscript/drafts/chapter-0175.md",
-    "draft_sha": "17390a053082bfeffa3909dad990676caaa30b00",
+    "draft_sha": "a74a88db744a4fa38390f8ba88e14016a25c2170",
     "qa_path": "qa/chapter-0175.md",
-    "qa_sha": "45dc94863a683656682ba4b42a03c120586f36d2",
+    "qa_sha": "d6fab0a0ff57aa14f5471dc91593b6033cc25a82",
     "provenance_path": "editorial/provenance/chapter-0175.json",
-    "provenance_sha": "3ca48a9ed32a455f829417a35a96a9c5fc6379e6"
+    "provenance_sha": "dd2f6b2ee6875ed48ff721565120b2898107134f"
   },
   "canonical_checks": [
     "Dolores L. Quovadis",
@@ -39,5 +39,12 @@
     "Demerit favoritism is explicitly Dolores's own admission.",
     "Written-exam ‘genealogy’ idiom is contextualized as study notes."
   ],
-  "next_family_alignment_note": "The 99 Hits With 100 Shots targets176-178: 176→E174,177→E175,178→E176. Target179→E177 begins Midterm Random Defense (1)."
+  "next_family_alignment_note": "The 99 Hits With 100 Shots targets176-178: 176→E174,177→E175,178→E176. Target179→E177 begins Midterm Random Defense (1).",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored Night Hound superlative, Dolores wetting admission, and diaper nickname/reputation"
+  }
 }

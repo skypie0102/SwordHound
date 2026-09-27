@@ -9,8 +9,8 @@
       418
     ],
     "family_qa_path": "qa/families/end-game-0409-0418.md",
-    "family_qa_sha": "895bc1e18d7715839983f96ac0c8764b803758f0",
-    "status": "pass"
+    "family_qa_sha": "e7c76ebab3a660563f378fd74e93be4c7e00a91b",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/417.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0417.md",
-    "blob_sha": "98a5ecb69dcd8c6a39bec3190704a39a5dfa72a5"
+    "blob_sha": "ffa48e57db4d100076407deff70cc5cd3d2791ae"
   },
   "qa": {
     "path": "qa/chapter-0417.md",
-    "blob_sha": "ff90e660d23d4e2e874e7a2eeef3c23709bb5c0c",
-    "status": "pass"
+    "blob_sha": "5e07787d52a7b69a9c797ef5d090bbd5d200846a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      409,
+      418
+    ],
+    "manuscript_changed": true,
+    "note": "restored hundreds-of-thousands-per-day historical war death scale"
+  }
 }

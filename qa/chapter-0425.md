@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/425.txt` — `88b44a6090947591df2cf1252bb23fb63708ce90`
 - English witness: **E423** — `77137c9e7ad2108b016b0fa79ff140c937a21863`
-- Draft: `manuscript/drafts/chapter-0425.md` — `263d17a5882e4243271677613ee3fa41d141b20c`
+- Draft: `manuscript/drafts/chapter-0425.md` — `0f1da2d0acd66606c5e4468d84174898f5455d64`
 
 ## Checks
 - PASS — Tochka is presented as the abandoned water-poor northern fortress / Crying Castle whose old military legend explains why it was historically ignored.
@@ -16,3 +16,14 @@
 - PASS — Cindywendy is source-revealed as Wealthy of the Night / financial sponsor and is described by the Chinese as Countess Cindywendy Baskerville.
 - PASS — Chapter closes on Cindywendy's serious emergency summons; target426 supply crisis is not imported early.
 - LIMIT — designated Fandom remains robots-blocked; established glossary canon is reused and source-local forms remain explicitly unverified.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the source note that Dolores had learned quite a lot from Old Testament priests, while replacing the unsupported low-interest-loan joke with her actual crisis advice to use as much divine power as possible because “that person” would repay it.
+
+The complete Night Walkers family was reread after remediation. Mapping remains **425→E423 through 429→E427**; target **430→E428** begins *The Lion King (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Night Walkers family QA.

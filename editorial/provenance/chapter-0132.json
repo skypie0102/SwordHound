@@ -9,8 +9,8 @@
       132
     ],
     "family_qa_path": "qa/families/freshman-talent-show-0130-0132.md",
-    "family_qa_sha": "b2167dae156913d97fd33e6dfa222984241f8ae0",
-    "status": "pass"
+    "family_qa_sha": "d54952148afc8aba53cc230d00694544833c066c",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/132.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0132.md",
-    "blob_sha": "1db9ba952fc5a7ff73a6af89df993c0b147bdcb4"
+    "blob_sha": "295897e93c45e1f7bc7387bd72bd26874293722a"
   },
   "qa": {
     "path": "qa/chapter-0132.md",
-    "blob_sha": "a28fdd3f7fe3cdf4881772d6cccb5ed8b8ae20e5",
-    "status": "pass"
+    "blob_sha": "4c844e3e2d0b7e3875643abf11606aa8ea7ba8bb",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -50,7 +50,7 @@
     },
     {
       "topic": "night_hound_warning",
-      "final": "Night Hound later overwhelms/identifies/marks the six and warns them against further misconduct; injury detail is reduced but consequence retained",
+      "final": "Night Hound overwhelms all six, restores the source-level facial injuries and fear response, cuts visible X marks into their foreheads, and explicitly warns that repeat misconduct will get both the students and their parents killed",
       "basis": "Chinese C132"
     },
     {
@@ -60,12 +60,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-26",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/133.txt",
     "chinese_sha": "e948d42cd33e78a1da4ad882ff6442f932406edd",
     "english_path": "source/chapters/chapter-132.xhtml",
     "english_sha": "cc299d9aa9e64e9b3427b90c84c8c1402881a502",
     "purpose": "both begin Test Your Skills (1), target133"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      130,
+      132
+    ],
+    "manuscript_changed": true,
+    "note": "restored full source-order Night Hound retaliation and explicit repeat-offense death threat"
   }
 }

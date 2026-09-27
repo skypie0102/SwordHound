@@ -9,7 +9,7 @@
       71
     ],
     "family_qa_path": "qa/families/blood-relatives-0068-0071.md",
-    "family_qa_sha": "2b67aae2f051e09387447bd5503e5433b8d8a3bc",
+    "family_qa_sha": "847319fb4a4bd148e80c2915fddb0de0b8be5e75",
     "status": "pass"
   },
   "primary_source": {
@@ -57,11 +57,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0070.md",
-    "blob_sha": "23ac1fdea81e8a555c3a21f16b4015c9a6871ddb"
+    "blob_sha": "981bada0b1ac72388ef6e1daed939c6d03966f09"
   },
   "qa": {
     "path": "qa/chapter-0070.md",
-    "blob_sha": "85cd0ddb7e08b5ee8d150c60b906388279ae016a",
+    "blob_sha": "b8a47f22f7422cfffa6cc7f7de5142c58de98a6b",
     "status": "pass"
   },
   "documented_decisions": [
@@ -92,5 +92,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      68,
+      71
+    ],
+    "manuscript_changed": true,
+    "note": "restored slowed-metabolism/prolonged-death and eye-contact transmission mechanics"
+  }
 }

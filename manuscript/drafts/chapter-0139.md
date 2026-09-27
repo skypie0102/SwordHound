@@ -474,7 +474,15 @@ Doxeller shook his head frantically.
 
 “There's no such thing as a high-quality orphan!”
 
-“Children are all—”
+“Born to noble families.”
+
+“Pale, fine-looking children.”
+
+“Literate. Educated.”
+
+“Those were your premium merchandise. Weren't they?”
+
+“No! Orphans aren't good or bad. They're all just bodies of flesh and blood, so what—”
 
 He stopped.
 
@@ -491,6 +499,10 @@ Whether Doxeller fully understood who ultimately bought the children—
 did not matter.
 
 Vikir raised Beelzebub.
+
+One hard swing—
+
+and Doxeller's head would separate from his body and roll across the floor.
 
 Then—
 

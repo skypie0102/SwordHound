@@ -15,3 +15,14 @@
 - PASS — The red whistle is treated only as Baskerville military-authority signal; it is not equated with the earlier Black Whistle artifact.
 - PASS — Six active Baskerville Counts accompany Vikir; Cane Corso's absent seat remains separate.
 - LIMIT — direct Fandom browsing remains robots-restricted; established glossary canon and indexed Fandom evidence control names/terms.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-28.** Phase-2's 700-knight completeness finding was misattributed to target 471. Chinese C471 ends at the final-battle charge; the **700 knights** detail belongs to C472 and has been restored there. Chapter 471 itself passes unchanged.
+
+The complete Tochka Annihilation Battle (471–475) family was reread after remediation. Mapping remains **471→E469 through 475→E473**; target 476/E474 begins *Knowing the Fate of My Father (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Tochka Annihilation Battle family QA.

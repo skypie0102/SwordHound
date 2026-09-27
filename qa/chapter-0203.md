@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/203.txt` — `acd7fa44938fcb72c31431a2e4a93b2ec4ad8fc7`
 - English witness: **E201** — `1837e0dd89b14ce0defcd2ab77b7d97cf24971ea`
-- Draft: `manuscript/drafts/chapter-0203.md` — `7dcf4379def72d981db05036ec9b80867acf030c`
+- Draft: `manuscript/drafts/chapter-0203.md` — `4e9eb126296597078a788a3fed418f3f6f61166e`
 
 ## Checks
 - PASS — wounded Picaresque-dog Vikir returns toward Colosseo at dawn with severely depleted stamina.
@@ -20,3 +20,14 @@
 - PASS — six minor bully names use source/witness transliterations because no stronger accepted canon is available.
 - PASS — Baby Madam prepares to intervene, but Vikir stops her because six Colosseo second-years would be dangerous for a hatchling.
 - PASS — chapter closes with Dolores arriving with food/water bowls and confronting the six students.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the bullies' **humiliation and torment** of weak students, the too-many-victims / unknown-retaliator cause-and-effect passage, and the explicit **burn it alive** threat.
+
+The complete Mixed Bath family was reread after remediation. Mapping remains **203→E201, 204→E202, 205→E203**; target **206→E204** begins *Festival Night (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Mixed Bath family QA.

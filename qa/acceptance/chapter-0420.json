@@ -2,7 +2,7 @@
   "chapter": 420,
   "title": "Goodbye, Nouvelle Vague (2)",
   "accepted": true,
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Goodbye, Nouvelle Vague",
     "range": [
@@ -10,8 +10,8 @@
       421
     ],
     "family_qa_path": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
-    "family_qa_sha": "1bbf4a98983ffe688c08887880df40912ccd2aec",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "e0c02eb8a9c634d9bc2d3cf2d7723e36f31d4a3d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/420.txt",
@@ -23,7 +23,7 @@
     "qa_path": "qa/chapter-0420.md",
     "qa_sha": "77e5fbf5376cf0216acfb3d01bb6c68d62585376",
     "provenance_path": "editorial/provenance/chapter-0420.json",
-    "provenance_sha": "deca5ac18c078a57cc427f0cbcd81ff3e6c4addf"
+    "provenance_sha": "a27f8528732f7aaee43f9f8d6e0ceca32b47dfa5"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
@@ -37,12 +37,19 @@
     "qa_sha": "c6febfd511671bae0ee3902835b578223b0c72d9",
     "provenance_sha": "caf20af3ed5c0bc1c3517877513e686fcd3fe599"
   },
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "completeness_audit": {
     "reviewed_date": "2026-09-20",
     "result": "rebuilt_and_passed",
     "family_evidence": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
     "initial_priority_target": true
   },
-  "confirmed_failure_resolution": "Confirmed completeness failure resolved."
+  "confirmed_failure_resolution": "Confirmed completeness failure resolved.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

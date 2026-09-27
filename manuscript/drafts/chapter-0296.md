@@ -46,9 +46,7 @@ Then the serpent opened another eye.
 
 Its left eye.
 
-Brilliant.
-
-Golden.
+Abnormally bright.
 
 The struggle ended immediately.
 
@@ -418,9 +416,11 @@ she was outstanding as an advisor to the Imperial Guard tracking division.”
 
 “Now she drinks.”
 
-“Complains about fate.”
+“Complains that fate is unfair.”
 
-“Avoids reality.”
+“Escapes reality.”
+
+“She’s become a failure.”
 
 “And neglects her work.”
 

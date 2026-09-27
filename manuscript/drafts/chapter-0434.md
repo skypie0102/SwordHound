@@ -372,7 +372,7 @@ Tears fell.
 
 No one knew whose came first.
 
-Their bodies hurt beneath the barrage—
+Their whole bodies felt as though they were being torn apart in meat-grinder agony—
 
 but the pain in their hearts was worse.
 
@@ -401,6 +401,14 @@ She remembered their old conversation.
 *Not now, right? Just now?*
 
 *Then after you achieve your goal—*
+
+*would you have some room for me?*
+
+*My goal is very far away. It will take a long time to achieve…*
+
+*I see. If someone like you says that, it must be a grand dream.*
+
+*Then someday—after all your wishes have come true—*
 
 *could you accept me?*
 

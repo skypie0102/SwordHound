@@ -2,8 +2,8 @@
   "chapter": 249,
   "title": "Survival Contest (5)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Survival Contest",
     "range": [
@@ -11,8 +11,8 @@
       249
     ],
     "family_qa_path": "qa/families/survival-contest-0245-0249.md",
-    "family_qa_sha": "f7eb9e854fc1be7fb6d98d2c9a86e65449c09282",
-    "status": "pass"
+    "family_qa_sha": "1d9204cc4da5b32c361e247c4f705b228df68695",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/249.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-247.xhtml",
     "english_reference_sha": "c9f2667b1b39ce185a3bbe6515979d5689477177",
     "draft_path": "manuscript/drafts/chapter-0249.md",
-    "draft_sha": "40b9bdeb9bd3b593d49dcb17500ed48380f34432",
+    "draft_sha": "028ed014efd69bd55f70c24057cf1238566c5586",
     "qa_path": "qa/chapter-0249.md",
-    "qa_sha": "9b9a5ccea651112858e052fe8747590f7aa2ee33",
+    "qa_sha": "8bd8ed88c0ced90f4ff0532ef9ed52feb76db2b8",
     "provenance_path": "editorial/provenance/chapter-0249.json",
-    "provenance_sha": "d0d8545f7a94917023b4d1792a21ac38855b7e70"
+    "provenance_sha": "d59880b7ffa5b21e9ae5a0f13f3e391cf47fccc0"
   },
   "canonical_checks": [
     "Vikir",
@@ -45,5 +45,12 @@
     "Hohenheim’s blame of Granola is a deliberate false attribution.",
     "First-round rankings and second-round assignments remain target250+."
   ],
-  "next_family_alignment_note": "Target250→E248 begins Recap (1); targets250–252 align to E248–E250, with Chinese C252 titled Celebration Banquet (3) while E250 groups it as Recap (3)."
+  "next_family_alignment_note": "Target250→E248 begins Recap (1); targets250–252 align to E248–E250, with Chinese C252 titled Celebration Banquet (3) while E250 groups it as Recap (3).",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored explicit self-directed panic, childhood-soiling empathy, and dagger-to-heart humiliation metaphor"
+  }
 }

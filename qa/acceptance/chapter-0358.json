@@ -2,8 +2,8 @@
   "chapter": 358,
   "title": "Crime and Punishment (3)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Crime and Punishment",
     "range": [
@@ -11,8 +11,8 @@
       358
     ],
     "family_qa_path": "qa/families/crime-punishment-0356-0358.md",
-    "family_qa_sha": "d6eefec0041d3aa491cca028a89e21e4e85f2a1e",
-    "status": "pass"
+    "family_qa_sha": "6596c937109bf9ddf20085f4de48dafc701106a1",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/358.txt",
@@ -22,9 +22,9 @@
     "draft_path": "manuscript/drafts/chapter-0358.md",
     "draft_sha": "82c1f15a46cfc8718fb3c3827c9ee8ba5632a7aa",
     "qa_path": "qa/chapter-0358.md",
-    "qa_sha": "d7592280283773ac31d737517c34a015a65d2410",
+    "qa_sha": "6a6a60497937c1c67deec21e4a5692cc45eb6cd9",
     "provenance_path": "editorial/provenance/chapter-0358.json",
-    "provenance_sha": "778390ad3efdc74a2ab74c917d86a24abd24caa0"
+    "provenance_sha": "4bbf89d494f90e240d2e8d1b0dd39d2a3ff2d11f"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
@@ -33,5 +33,12 @@
   "corrections": [
     "Chinese local Crime and Punishment part labels are offset by +1; production follows verified E354-E356 order.",
     "Cindywendy ring position is left middle finger from Chinese; shifted-English ring-finger drift rejected."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

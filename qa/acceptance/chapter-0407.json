@@ -2,8 +2,8 @@
   "chapter": 407,
   "title": "Jailbreaker (5)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Jailbreaker",
     "range": [
@@ -11,8 +11,8 @@
       408
     ],
     "family_qa_path": "qa/families/jailbreaker-0403-0408.md",
-    "family_qa_sha": "995ba17ff1c02e34b2c2da6e2b1eab76ba292215",
-    "status": "pass"
+    "family_qa_sha": "b65f902ab7b260d633ba5a909ba3ad321009cd4d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/407.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-405.xhtml",
     "english_reference_sha": "e8d70eaaaad15ff3b0914d1ab6862a577884f95d",
     "draft_path": "manuscript/drafts/chapter-0407.md",
-    "draft_sha": "cdacfd39517afe2dc2f0949ea222a3735fb37270",
+    "draft_sha": "3bf5161358cdcac4bc493db11ef527ac0c312914",
     "qa_path": "qa/chapter-0407.md",
-    "qa_sha": "09e37f46dfe49c25d84f1d6583d4f37429c131c4",
+    "qa_sha": "94b707b34535d4f0ba2c05114b28b63e594e39cb",
     "provenance_path": "editorial/provenance/chapter-0407.json",
-    "provenance_sha": "05c9672c7d970bad253ab43c27e80e861d510be0"
+    "provenance_sha": "08f04e3c8ef652b126fa2e98bc308efd8c679199"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No End game material from target409 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored flesh-mush and bloody-water stew imagery"
+  }
 }

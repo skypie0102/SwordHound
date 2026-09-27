@@ -14,12 +14,12 @@
 - Ch. 36 aligned English — `b4a7de354d870c31685419c8a011cd853ca5381d`
 - Ch. 37 aligned English — `ad9f97b0e15250e7cf96f301b0aa28c58a58796c`
 - Ch. 38 English boundary witness — `48267aed194d2bba467a9007c7d96b21de0deb73`
-- Ch. 35 draft — `4334e13c2cb25b322af22f13cd90698d44b68026`
-- Ch. 36 draft — `f70bdea52bca018e94cd53d1e02f1ee87fcd0953`
-- Ch. 37 draft — `bfd323d93a26d6307cf699779e22c519b227075c`
-- Ch. 35 QA — `c6bf9e8d3abf1991ec1d306cc1305463731d7e4e`
-- Ch. 36 QA — `a1b543f3e84df1f2838f758c78e64d47dd4e2627`
-- Ch. 37 QA — `4de71f1c48bf06f2546367ed3306d13a6c1f6762`
+- Ch. 35 draft — `d1097673dedb3f9e694a55bdcf3c4fc20f23f538`
+- Ch. 36 draft — `ba227cc00bcfce898ca02ca8eb3f9296bfc2ab5a`
+- Ch. 37 draft — `4dc4c20f894b7ff72a93f44bc05c20bb815bbea7`
+- Ch. 35 QA — `c81d899cbc691cb6bdacb7cdc4379acf83808dc2`
+- Ch. 36 QA — `1dfcd6216e11da3503a8ca803499402d6495ca4f`
+- Ch. 37 QA — `0c1f8506542d0732d24e9234ea17eeb60491d9d4`
 
 ## Family continuity checks
 
@@ -61,6 +61,10 @@
 - The auction's cash and records flow into the city treasury / follow-up criminal investigation.
 - Chapter 38's English production title is **Sponsored (1)**, not the earlier placeholder *Sponsor (1)*.
 
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** The complete family was reread against Chinese-primary source. Chapter 35 had two unsupported audience-reaction intensifiers removed; Chapter 36 restored the crude retaliatory command and the direct statement that a man was being torn apart alive; Chapter 37 restored the explicit internal-organ spill. Sanitization and completeness now both pass for Chapters 35–37, and the Phase-3 boundary/alignment clearance remains valid.
+
 ## Final family decision
 
-**PASS — Chapters 35–37 are ready for provenance and acceptance binding as the complete Slave Auction title family.**
+**PASS after Phase-4 remediation. Chapters 35–37 may be accepted together.**

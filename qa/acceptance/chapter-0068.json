@@ -2,8 +2,8 @@
   "chapter": 68,
   "title": "Blood Relatives (1)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Blood Relatives",
     "range": [
@@ -11,7 +11,7 @@
       71
     ],
     "family_qa_path": "qa/families/blood-relatives-0068-0071.md",
-    "family_qa_sha": "2b67aae2f051e09387447bd5503e5433b8d8a3bc",
+    "family_qa_sha": "847319fb4a4bd148e80c2915fddb0de0b8be5e75",
     "status": "pass"
   },
   "evidence": {
@@ -22,9 +22,9 @@
     "draft_path": "manuscript/drafts/chapter-0068.md",
     "draft_sha": "9ad978191ee34ae273fc1f7246c156b990b231c2",
     "qa_path": "qa/chapter-0068.md",
-    "qa_sha": "4a578ae47551f398630e520cab36df7d4b0db9f7",
+    "qa_sha": "9f144ba8930487017fc8bf5e1290e8ded8828f3e",
     "provenance_path": "editorial/provenance/chapter-0068.json",
-    "provenance_sha": "8b6aad1108a7e5540fee80c9d8e5004910a4df54"
+    "provenance_sha": "601dfd5de2bda9924b12e7757bd1735e2fa472b4"
   },
   "canonical_checks": [
     "Sixth Fang",
@@ -39,5 +39,12 @@
     "Target 68 maps to E67.",
     "Peak Sword Graduator is an all-out capability estimate, not Vikir's formal rank.",
     "The serpent dagger remains unidentified until target 69."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "complete-family revalidation; no manuscript change required"
+  }
 }

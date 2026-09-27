@@ -9,7 +9,7 @@
       67
     ],
     "family_qa_path": "qa/families/unfair-trade-0064-0067.md",
-    "family_qa_sha": "af6a0e1829333eae90de2a609db768606177f51e",
+    "family_qa_sha": "03117044c6e71069425a7c247b598e0303263fcc",
     "status": "pass"
   },
   "primary_source": {
@@ -58,11 +58,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0065.md",
-    "blob_sha": "ebd844a6441338d2cc37fafd9fb47a340d0ab9d1"
+    "blob_sha": "e51b2678b73446af642fd30c14086b5697ffb010"
   },
   "qa": {
     "path": "qa/chapter-0065.md",
-    "blob_sha": "16fb501a9a1a45b925e9b1feb4fba08a1688c88e",
+    "blob_sha": "c0941a0bfbc7b7f6635e7bbefdf95010e334b68a",
     "status": "pass"
   },
   "documented_decisions": [
@@ -93,5 +93,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      64,
+      67
+    ],
+    "manuscript_changed": true,
+    "note": "restored severe debilitation, later-generation congenital harm, and possible death from continued narcotic exposure"
+  }
 }

@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/161.txt` — `73a757520b40ef0438a9b3873511f190cd16588d`
 - English witness: **E160** — `5c5e33eba33c4d9836193d6bbb29cca53770a817`
-- Draft: `manuscript/drafts/chapter-0161.md` — `b5d67f3439f03aedbdfc35499afffcae0c819ca6`
+- Draft: `manuscript/drafts/chapter-0161.md` — `882eed710965f3871f18534377e9486641c289a3`
 - Boundary: C162 — `680770fdf7b23729571a227210cf1346b0a82774` / E161 — `2cce07a6f2cc14c6860fee7a3ca615a3d70e001d` begin **Sin and Punishment (1)**.
 
 ## Checks
@@ -23,3 +23,14 @@
 - PASS — all four black face coverings are recovered and together carry demonic power comparable in scale to Beelzebub, but their later exact provenance remains withheld.
 - PASS — Ephebo, Hebe, Pedo, and Geronto are all confirmed eliminated by the end of the chapter.
 - PASS — chapter ends exactly on **Quilt Rune Indulgentia** appearing above Vikir and Dolores, setting the boundary into *Sin and Punishment (1)*.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored the clinical identity-check detail: Geronto is a **naked, pale-skinned reconstructed female corpse** with an explicit anti-erotic clarification, and her **secondary physical development** is compared directly with Camus's.
+
+The complete Familiar Face family was reread after remediation. Shifted mapping remains **158→E157, 159→E158, 160→E159, 161→E160**; target 162/E161 begins *Sin and Punishment (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Familiar Face family QA.

@@ -9,8 +9,8 @@
       395
     ],
     "family_qa_path": "qa/families/worst-torture-0390-0395.md",
-    "family_qa_sha": "f486932b5c01bf79dcbe536eb187ac1c59d67ce5",
-    "status": "pass"
+    "family_qa_sha": "fa32cfb1e4d2d1d87dd5caff0c32f156477bf150",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/395.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0395.md",
-    "blob_sha": "d5cbb8e5d994658c18650ad1998a33d00c707b79"
+    "blob_sha": "00797268dc6c55e74bf641f4885347eec3353148"
   },
   "qa": {
     "path": "qa/chapter-0395.md",
-    "blob_sha": "c91a7bff50c2d200968f48dedfd49a0b5007f00a",
-    "status": "pass"
+    "blob_sha": "f77770c899fa82f56a96418e1a7a4e5ad6acc229",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "documented_correction": "Chinese says the Rune Bible will not calm Sakkuth; shifted E393 'It might' rejected."
+  "accepted_date": "2026-09-27",
+  "documented_correction": "Chinese says the Rune Bible will not calm Sakkuth; shifted E393 'It might' rejected.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      390,
+      395
+    ],
+    "manuscript_changed": true,
+    "note": "restored poisonous-mixture identification without ingredient recipe"
+  }
 }

@@ -9,8 +9,8 @@
       306
     ],
     "family_qa_path": "qa/families/age-warmonger-0299-0306.md",
-    "family_qa_sha": "6c75847573a37c5864587a0a4892066b9ca65bc5",
-    "status": "pass"
+    "family_qa_sha": "655f6980a8a117730fe475539d08eb0495246a73",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/303.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0303.md",
-    "blob_sha": "d63068f3543258f2d408be9bf39a12809797f79f"
+    "blob_sha": "ce5e55104252636df240e0b597a4a011ce705d3b"
   },
   "qa": {
     "path": "qa/chapter-0303.md",
-    "blob_sha": "675416532bf44fa0ac2111d330d7027067c8a769",
-    "status": "pass"
+    "blob_sha": "e531b7206fd7b00531a46f0e59391a8df5bc080d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "documented_correction": "Amdusias Danger Rating is S+ from Chinese; shifted E301 S rejected."
+  "accepted_date": "2026-09-27",
+  "documented_correction": "Amdusias Danger Rating is S+ from Chinese; shifted E301 S rejected.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      299,
+      306
+    ],
+    "manuscript_changed": true,
+    "note": "restored blood/internal-organ fragments after Sadi's impact"
+  }
 }

@@ -9,8 +9,8 @@
       202
     ],
     "family_qa_path": "qa/families/corpse-queen-0198-0202.md",
-    "family_qa_sha": "fb506d016902b863286ef630d41425b777dd0743",
-    "status": "pass"
+    "family_qa_sha": "dbcb2114334d4df17f749d84d708a30674be0374",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/199.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0199.md",
-    "blob_sha": "e77124882fc36e521ab1b156ad05a441581d39d6"
+    "blob_sha": "1f286025b383d63c8fa5996c86dc8a37c731b643"
   },
   "qa": {
     "path": "qa/chapter-0199.md",
-    "blob_sha": "178ac325f8b72a549c596c565bd0bbf58bffa5d8",
-    "status": "pass"
+    "blob_sha": "68da77a5e41030997d75e01e65de7accb0a179e7",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/203.txt",
     "chinese_sha": "acd7fa44938fcb72c31431a2e4a93b2ec4ad8fc7",
     "english_path": "source/chapters/chapter-201.xhtml",
     "english_sha": "1837e0dd89b14ce0defcd2ab77b7d97cf24971ea",
     "purpose": "both begin Mixed Bath (1), target203"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      198,
+      202
+    ],
+    "manuscript_changed": true,
+    "note": "restored Seere descriptors and female-identification anatomical basis"
   }
 }

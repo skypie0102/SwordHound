@@ -206,7 +206,7 @@ like a serpent with countless joints.
 
 Sinclaire barely retreated.
 
-Blood appeared along several shallow cuts.
+Blood sprayed from all over her body.
 
 “Patriarch!”
 
@@ -250,7 +250,7 @@ Sinclaire stared at the red eyes behind Night Hound’s mask.
 
 “Put me down!”
 
-“You criminal!”
+“You bastard!”
 
 She tried to gather mana.
 

@@ -110,7 +110,9 @@ The fragments flew into Belial.
 
 The garment lost its structure.
 
-Sections tore loose.
+Sections tore loose—
+
+exposing her skin.
 
 Dolores grabbed the fabric in panic.
 
@@ -132,11 +134,11 @@ A body—
 
 an asset.
 
-White blood-sucking parasites appeared across Dolores’s skin.
+White blood-sucking parasites crawled over her.
 
-They bit.
+They burrowed into her pale, soft skin with sharp teeth—
 
-Drank.
+and sucked her blood.
 
 “A-ah!”
 

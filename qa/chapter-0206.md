@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/206.txt` — `86a0e5cf87255b744988fe7b97068b452ad0b76f`
 - English witness: **E204** — `ea1e65fd55cdb60c0f1664c66045de88e993247b`
-- Draft: `manuscript/drafts/chapter-0206.md` — `cd2f17f2d95183bd12f316b63b3777ee7a0c21a6`
+- Draft: `manuscript/drafts/chapter-0206.md` — `9f53131d0cec77bdd2f3b2a45aaea1afe76616d1`
 
 ## Checks
 - PASS — Ryukeion chooses a haunted-house / tavern concept for the Halloween-flavored Academy festival.
@@ -18,3 +18,14 @@
 - PASS — contrast with pre-regression Vikir's short/limping/scarred appearance and social rejection is preserved as his memory.
 - PASS — Vikir's past emotional numbness explains why the old mistreatment did not affect him strongly.
 - PASS — chapter ends on Dolores drawing the **Night Hound** costume.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved/revalidated 2026-09-27.** Restored male-onlooker gender-confusion comedy, the prior indigenous-tribe invasion callback, and the omitted crush/angel/Rune-confession crowd turns.
+
+The complete Festival Night family was reread. Mapping remains **206→E204 through 215→E213**; target **216→E214** begins *My Neck Will Be Your Sheath (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Festival Night family QA.

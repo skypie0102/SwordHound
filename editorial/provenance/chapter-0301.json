@@ -9,8 +9,8 @@
       306
     ],
     "family_qa_path": "qa/families/age-warmonger-0299-0306.md",
-    "family_qa_sha": "6c75847573a37c5864587a0a4892066b9ca65bc5",
-    "status": "pass"
+    "family_qa_sha": "655f6980a8a117730fe475539d08eb0495246a73",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/301.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0301.md",
-    "blob_sha": "6d34c07f0f016e2b38fd1324e1027dbc350c622e"
+    "blob_sha": "8880ebd1788115e9947b64d7e1c666fb02d30428"
   },
   "qa": {
     "path": "qa/chapter-0301.md",
-    "blob_sha": "52f6036171e0302b1099c2635383bef2e99ea692",
-    "status": "pass"
+    "blob_sha": "1ef57fc1b46e220256b50768e1a59da5e2bb83fa",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      299,
+      306
+    ],
+    "manuscript_changed": true,
+    "note": "restored meat-paste, blood/flesh, burst-head/abdomen, and lower-body-to-head impalement gore"
+  }
 }

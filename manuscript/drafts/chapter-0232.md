@@ -6,7 +6,7 @@ The appraisers MiniPin brought gave Vikir a satisfying answer.
 
 “Most of the bodies are lower grade.”
 
-“A lot of skin, meat, and organs were damaged by hot oil or by the monsters crushing one another.”
+“Many corpses scalded by hot oil or tangled together have rotted.”
 
 “But there are so many corpses that the number of high-grade specimens is still substantial.”
 
@@ -52,8 +52,6 @@ Organs spread through fish farms or orchards could outperform artificial feed an
 Bones became medicine.
 
 Ritual materials.
-
-Tools.
 
 Vikir's oil strategy had damaged a great deal of the colony.
 

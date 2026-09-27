@@ -450,7 +450,7 @@ could rise through examinations and command those physically stronger than them.
 
 At one point—
 
-some had seriously discussed restricting swords and magic altogether.
+some had seriously considered **sword-abolition** and **magic-abolition** decrees.
 
 “Peace turns people into pigs.”
 
@@ -487,6 +487,10 @@ Sadi laughed once.
 “You think I never learned that?”
 
 Banshee stiffened.
+
+“And anyway—Winston was the symbol of this Academy.”
+
+“So he had to be eliminated.”
 
 Sadi pointed around them.
 

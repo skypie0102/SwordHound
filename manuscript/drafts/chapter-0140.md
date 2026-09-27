@@ -64,7 +64,7 @@ Maybe it could lead him to one of the remaining Ten Corpses.
 
 Vikir raised Beelzebub.
 
-“First I'll take away your ability to run.”
+“First I'll cut off your hands and feet. I only need your mouth for the interrogation.”
 
 The magic sword's aura expanded.
 
@@ -126,17 +126,17 @@ Then—
 
 the **Seven Fangs of Baskerville** unfolded.
 
-One Fang opened the line.
+The first Fang bit into Ephebo's body.
 
-The next widened it.
+The second widened the first wound and cut through it.
 
-A third chained the movement onward.
+The third drove the second attack forward and linked it into the fourth.
 
-A fourth crushed through the enemy's defense.
+The fourth crushed through Ephebo's body hard enough to deny regeneration or recovery.
 
-The fifth redirected accumulated force.
+The fifth gathered the recoil from the first four attacks and drove it back into him.
 
-The sixth sealed the escape route.
+The sixth sealed every route of escape while supporting the seventh.
 
 And the seventh—
 
@@ -152,11 +152,13 @@ Then realized too late—
 
 it was bait.
 
-The sixth Fang drove the target exactly where the seventh could finish the sequence.
+Anyone who tried to escape through that apparent gap would be caught by the hidden line of the sixth Fang and reduced to something like a rag.
+
+Ephebo was no exception.
 
 The black aura collapsed.
 
-Ephebo hit the ground.
+In an instant, his body was left rag-like beneath the completed sequence.
 
 Vikir stood over him.
 
@@ -196,13 +198,15 @@ He looked down at Ephebo.
 
 “Let's find out who made you.”
 
-He restrained the creature against a damaged steel support—
+Vikir kicked the badly wounded Ephebo backward.
 
-enough to prevent immediate escape.
+The creature slammed onto a protruding iron support.
 
-Ephebo strained against it.
+Vikir seized the thick metal and bent it into a hook.
 
-The metal groaned.
+Ephebo strained—
+
+but the hook-like support had pierced through his body and pinned him in place.
 
 Vikir crouched nearby.
 
@@ -237,6 +241,8 @@ Signs of training.
 Evidence of social status and prior occupation.
 
 He could learn plenty by examining what Ephebo had become.
+
+Vikir intended to dissect the body piece by piece and read the evidence directly.
 
 Then—
 
@@ -295,6 +301,8 @@ Stone.
 Dust.
 
 Broken timber.
+
+He clawed through the rubble until his fingers were bloody.
 
 At last—
 
@@ -370,7 +378,7 @@ Then looked back.
 
 Ephebo had escaped.
 
-Only traces on the twisted support remained.
+Flesh and fragments of internal organs remained on the rough iron where he had torn himself free.
 
 Whatever the creature was—
 
@@ -394,7 +402,7 @@ Property records.
 
 Large amounts of suspicious wealth.
 
-Likely proceeds from the trafficking operation.
+Perhaps they had sold children with nowhere else to go to demons as food and taken this dirty money in return.
 
 Vikir ignored all of it.
 
@@ -476,13 +484,13 @@ the guards searched beneath the building.
 
 There—
 
-they found human remains.
+they found the bodies of children.
 
 Dozens.
 
-Children.
-
 Many estimated to have been around ten to thirteen years old.
+
+The bodies buried beneath the orphanage had been reduced to skin and bone.
 
 The discovery horrified even experienced guards.
 
@@ -532,7 +540,7 @@ The guards answered the student reporters.
 
 “It was already over when we arrived.”
 
-“Judging by the damage—”
+“Judging by the blood and flesh splattered around the ruins—”
 
 “the attacker was extremely strong.”
 

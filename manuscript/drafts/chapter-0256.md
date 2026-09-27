@@ -246,6 +246,12 @@ the salt wind had already dried it into a mummy.
 
 It struck the sand like dead wood.
 
+The impact shattered the bones throughout its body.
+
+But the crow had already died before hitting the ground—
+
+killed by rapid dehydration.
+
 “…If the Basilisk were still alive too, even I’d have trouble getting in.”
 
 Vikir continued forward.

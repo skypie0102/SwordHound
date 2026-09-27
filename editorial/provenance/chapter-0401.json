@@ -9,8 +9,8 @@
       402
     ],
     "family_qa_path": "qa/families/black-tongue-0399-0402.md",
-    "family_qa_sha": "c54ff5c043d09d11fba6cd693f0701ae46892bc3",
-    "status": "pass"
+    "family_qa_sha": "52a17d3d10f406d9699fcb6a91a29c44d5a9bf17",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/401.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0401.md",
-    "blob_sha": "0ff2131468c16b8bc530053a55c72d6c15a87d9d"
+    "blob_sha": "042c2495e2df0aeeb95c8c3ee31fa1165b083e2c"
   },
   "qa": {
     "path": "qa/chapter-0401.md",
-    "blob_sha": "504a27209eca590873a488415eb27d9bc0966e2d",
-    "status": "pass"
+    "blob_sha": "3cbfb8afa7cb07c80c8b7220b7c088df65147f57",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "key_correction": "Kirko's parents were consenting junior guards; the prisoner-on-guard rape story was fabricated by Black Tongue/prison authorities."
+  "accepted_date": "2026-09-27",
+  "key_correction": "Kirko's parents were consenting junior guards; the prisoner-on-guard rape story was fabricated by Black Tongue/prison authorities.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      399,
+      402
+    ],
+    "manuscript_changed": true,
+    "note": "restored abdominal palm strike, wall impact, broken-rib state, and possible internal-organ injury"
+  }
 }

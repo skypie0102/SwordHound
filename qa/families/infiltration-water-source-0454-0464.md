@@ -36,3 +36,22 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 455 restores the explosion aftermath where **not a single intact limb remains** among the flying shrapnel/debris.
+- Chapter 456 restores Sade's whip pulverizing surrounding Poison Humans into **hundreds of pieces of meat**.
+- Chapter 459 restores the first Doppelganger copy's **upper half rolling across the ground like garbage**.
+- Chapter 461 restores Camus's fading strength/body collapse and the source-supported **nearly half-naked** state immediately before Vikir's coat covers her, without erotic expansion.
+- Chapter 463 restores the attackers becoming **flying pieces of meat** and the **rain of flesh and blood** around D'Ordume and Souare.
+- Chapter 464 restores D'Ordume pulverizing Poison Humans into **slices of meat** and **Lieutenant Bastney's** named command role.
+- Chapters 454, 457, 458, 460, and 462 were reread against their Chinese-primary sources and remain complete without manuscript changes.
+- Sanitization fidelity and completeness were rerun across Chapters 454–464 after repair.
+- Shifted mapping remains **454→E452 through 464→E462**; target 465/E463 begins *The Prelude to a Counterattack (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **The Prelude to a Counterattack (465–470)**, with queued remediation targets Chapters **466, 467, 468, and 469**.

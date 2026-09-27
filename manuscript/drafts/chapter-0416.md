@@ -48,11 +48,9 @@ Only clicked his tongue.
 
 “I told him—
 
-do not reap.”
+stomp the baby to death.”
 
-“Crush the seed.”
-
-“What benefit is there in leaving a baby that carries hatred?”
+“What benefit is there in leaving a seed of hatred alive?”
 
 “Eventually—
 

@@ -170,16 +170,6 @@ killing demons, monsters, and spirits—
 
 had trained her senses too.
 
-Dolores joined them.
-
-“The feeling is different.”
-
-“More ominous.”
-
-“Unstable.”
-
-“Not just stronger.”
-
 Vikir looked at Decarabia.
 
 “What does that mean?”
@@ -260,7 +250,9 @@ Everyone grabbed the railings.
 
 A colossal mass of water rose.
 
-Like a black mountain lifting out of the sea.
+The entire skin of the sea seemed to peel upward in one vast sheet—
+
+like a black mountain lifting out of the water.
 
 Almost touching the sky.
 

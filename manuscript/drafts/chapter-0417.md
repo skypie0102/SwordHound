@@ -238,7 +238,7 @@ After Imperial unification—
 
 the enormous wars stopped.
 
-The battles where tens of thousands died in a day.
+The battles where hundreds of thousands died every day.
 
 The clashes where powerful people tore each other apart.
 

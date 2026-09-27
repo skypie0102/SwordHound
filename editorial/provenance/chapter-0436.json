@@ -9,8 +9,8 @@
       436
     ],
     "family_qa_path": "qa/families/returned-hound-0434-0436.md",
-    "family_qa_sha": "8a6a3644f459cc34bc63be301142ea82084f76c0",
-    "status": "pass"
+    "family_qa_sha": "5e797390fa27f3b1f499fe9af2fa782449f74c42",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/436.txt",
@@ -29,13 +29,24 @@
   "qa": {
     "path": "qa/chapter-0436.md",
     "blob_sha": "aeb357b00904dc66c40dd3b9111542072f930821",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and new wiki-only forms were not asserted.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "documented_corrections": [
     "Pigi remains male despite local Chinese pronoun drift.",
     "Pigi's internal 'What a good person' line remains unresolved."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      434,
+      436
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

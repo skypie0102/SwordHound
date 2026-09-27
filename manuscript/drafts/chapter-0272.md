@@ -354,7 +354,7 @@ the money moved through Oracle would be real.
 
 And eventually—
 
-it would become a blade aimed at the demon hidden inside House Bourgeois.
+it would become a sharp blade that severed the head of the demon hidden inside House Bourgeois.
 
 Knock.
 

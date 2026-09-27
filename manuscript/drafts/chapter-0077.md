@@ -94,7 +94,7 @@ Large mouth.
 
 His eyes bent slightly as though smiling, but nothing about his presence felt gentle.
 
-He carried a massive holy book in arms thick as logs.
+He carried a massive holy book weighing dozens of kilograms in arms thick as logs.
 
 Vikir recognized him immediately.
 
@@ -104,11 +104,17 @@ Inquisitor.
 
 A man Vikir had fought beside during the Age of Destruction.
 
-A comrade whose divine power had once illuminated battlefields and who had died fighting demons.
+A comrade whose divine power had once been said to illuminate a thousand *li*.
+
+He never compromised with evil and, for the sake of justice, could be crueler than demons themselves.
+
+In the war against the demons, he had fought a thousand of them alone and died heroically.
 
 Vikir also remembered something less sentimental.
 
-*Mozgus taught me a few interrogation methods.*
+*Mozgus taught me torture techniques.*
+
+He remembered using those techniques in the dungeon while torturing young masters of the Seven Great Families.
 
 Those memories belonged only to Vikir.
 
@@ -148,13 +154,13 @@ Vikir assessed him.
 
 *Mid to High Sword Graduator equivalent.*
 
-Weaker than the Mozgus Vikir remembered from the future.
+Only about half as strong as the Mozgus Vikir remembered from before regression.
 
 But this was Quovadis territory.
 
 Mozgus could replenish and heal himself with divine power.
 
-Under these conditions, the fight would not be simple.
+Under these conditions, the present matchup was nearly even.
 
 Mozgus growled.
 

@@ -2,8 +2,8 @@
   "chapter": 223,
   "title": "That Day, Him and Me (4)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "That Day, Him and Me",
     "range": [
@@ -11,8 +11,8 @@
       224
     ],
     "family_qa_path": "qa/families/that-day-him-me-0220-0224.md",
-    "family_qa_sha": "c19c81072c7046d93d62c86c5c8dec07177a2c30",
-    "status": "pass"
+    "family_qa_sha": "816276c3e4dc9e23dea2d032d1fc5c40d1dc3306",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/223.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0223.md",
     "qa_sha": "18fc24560929e33ee64817ca7fe84a92dd09fadd",
     "provenance_path": "editorial/provenance/chapter-0223.json",
-    "provenance_sha": "10764e00b6311e867efd3ca617a9af870aac67e2"
+    "provenance_sha": "ad279c03376aea053973f5d137230ace9c7cbbce"
   },
   "canonical_checks": [
     "Camus Morgue",
@@ -41,5 +41,12 @@
     "Twelve-hour co-control derives from Camus being only half-dead.",
     "Vikir survival hypothesis remains Camus speculation."
   ],
-  "next_family_alignment_note": "Target225→E223 begins Tuition (1)."
+  "next_family_alignment_note": "Target225→E223 begins Tuition (1).",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

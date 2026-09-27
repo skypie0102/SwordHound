@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/201.txt` — `b10a88a9439e1d4ebf9c98245f38b4bbe65a7d75`
 - English witness: **E199** — `3805f40ea96fb7ec2cd4f36d76cfe12c69fff62d`
-- Draft: `manuscript/drafts/chapter-0201.md` — `64c6c2e0916a242285c2bb0b614201e0a31471ca`
+- Draft: `manuscript/drafts/chapter-0201.md` — `6f866a3955395cda52e867f834181f5cd0477c33`
 
 ## Checks
 - PASS — lich identity is source-revealed as **Ah'Heman**, Ballak shaman of Rokoko.
@@ -20,3 +20,14 @@
 - PASS — Ah'Heman and the Flesh-Patch Giant are broken in the clash.
 - PASS — Corpse Queen recognizes something in Vikir's aura/Seventh Fang and urgently calls for him to wait.
 - PASS — Corpse Queen human identity remains unrevealed.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored Ah'Heman's **rotting gums** and the source explanation that named victims became **living-dead puppets / toys of demons**, with corpse collection and puppet-processing identified as a demonic specialty.
+
+The complete Corpse Queen family was reread after remediation. Mapping remains **198→E196 through 202→E200**; target **203→E201** begins *Mixed Bath (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Corpse Queen family QA.

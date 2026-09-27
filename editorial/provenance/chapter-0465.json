@@ -9,8 +9,8 @@
       470
     ],
     "family_qa_path": "qa/families/prelude-counterattack-0465-0470.md",
-    "family_qa_sha": "7a725aedfa48c2d6e5a7a485938b41fd946b0163",
-    "status": "pass"
+    "family_qa_sha": "4c8a5c4d4441b905738ae8106f6cbdfbb839a359",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/465.txt",
@@ -29,9 +29,20 @@
   "qa": {
     "path": "qa/chapter-0465.md",
     "blob_sha": "4a8d9226e76ced510923114ff9df035b6acbf0bb",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; indexed Fandom evidence and established glossary forms used.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-28",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-28",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      465,
+      470
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

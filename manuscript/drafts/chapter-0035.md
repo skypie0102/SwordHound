@@ -80,7 +80,7 @@ Masked men and women sat around a central stage beneath a haze of smoke.
 
 Many of the wealthy people who drove Underdog City's underground economy were gathered here.
 
-A noblewoman wearing a butterfly mask stared greedily at a naked tribesman displayed onstage.
+A noblewoman wearing a butterfly mask clicked her tongue as she looked at a naked tribesman displayed onstage.
 
 A gentleman in a bat mask appraised a slave who had once been a mercenary.
 
@@ -311,4 +311,4 @@ The entire hall fell silent.
 
 “...Oh my.”
 
-The noblewomen—and more than a few middle-aged men—stared at him in open fascination.
+The expressions on the faces of the noblewomen—and more than a few middle-aged men—gradually softened.

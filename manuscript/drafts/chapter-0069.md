@@ -290,7 +290,7 @@ A lungfish of this size was powerful but slow.
 
 A healthy Rokoko hunter should never have been caught by it.
 
-The remains suggested a young adult in physical prime.
+The remains suggested he was just over twenty—squarely in his physical prime.
 
 Aiyen frowned.
 

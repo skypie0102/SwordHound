@@ -2,8 +2,8 @@
   "chapter": 328,
   "title": "The Shadowless King of the Black Sea (3)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "The Shadowless King of the Black Sea",
     "range": [
@@ -11,8 +11,8 @@
       330
     ],
     "family_qa_path": "qa/families/shadowless-king-black-sea-0326-0330.md",
-    "family_qa_sha": "04dd54bfd7eba8c8c852aed92ff2ec629cf7a578",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "516fe17093e0673dae9ef1540b53b5e9de18457a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/328.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0328.md",
     "qa_sha": "2e4203e9bfb8277e211203828d9fd6be6881d2ef",
     "provenance_path": "editorial/provenance/chapter-0328.json",
-    "provenance_sha": "4e7599dac03ac0abbf5f452a501ea224a776e29e"
+    "provenance_sha": "dbe8c2f4b0f34a30f5f78a032bb7c0fa7fafbabf"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
@@ -44,5 +44,12 @@
     "family_evidence": "qa/families/shadowless-king-black-sea-0326-0330.md",
     "initial_priority_target": true
   },
-  "continuity_note": "Canonical Beelzebub slots preserved; local Basilisk drift rejected."
+  "continuity_note": "Canonical Beelzebub slots preserved; local Basilisk drift rejected.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

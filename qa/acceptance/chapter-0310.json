@@ -2,8 +2,8 @@
   "chapter": 310,
   "title": "Hell Tree (4)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Hell Tree",
     "range": [
@@ -11,8 +11,8 @@
       313
     ],
     "family_qa_path": "qa/families/hell-tree-0307-0313.md",
-    "family_qa_sha": "a986e8c3052a9d6bc03fc1347ec9611720429da9",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "389a7262b3b1e5268f23529e44d7dfa40d31b8b0",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/310.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0310.md",
     "qa_sha": "6b0f1b0a81ae8e2a9bb28d7fc7d268b1587cc8ca",
     "provenance_path": "editorial/provenance/chapter-0310.json",
-    "provenance_sha": "10a3617be6ad52e3400949b9637a97d0445827b4"
+    "provenance_sha": "fa91162e6fbc039d52440e17b05210c289dbbfdb"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
@@ -44,5 +44,12 @@
     "family_evidence": "qa/families/hell-tree-0307-0313.md",
     "initial_priority_target": true
   },
-  "source_correction": "Hell Hound Danger Rating B+ from Chinese; shifted E308 B rejected."
+  "source_correction": "Hell Hound Danger Rating B+ from Chinese; shifted E308 B rejected.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

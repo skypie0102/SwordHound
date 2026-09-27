@@ -382,9 +382,7 @@ His cloak hung in strips.
 
 Under it—
 
-pale skin.
-
-Open red wounds.
+his flesh had been torn open badly enough that bone and internal organs were visible.
 
 Dolores's face went white.
 
@@ -438,7 +436,7 @@ the wounds were gone.
 
 Only the torn cloak remained—
 
-exposing patches of healed skin and hard muscle beneath.
+leaving the young man's naked body exposed at close range.
 
 Vikir repaired what he could of the clothing.
 
@@ -478,13 +476,11 @@ more like an apparition.
 
 Now—
 
-through the torn clothing—
+through the destroyed clothing—
 
 there was no ambiguity.
 
-Male.
-
-And young.
+She was seeing a young man's naked body at close range.
 
 Dolores's face reddened slightly.
 

@@ -2,8 +2,8 @@
   "chapter": 433,
   "title": "The Lion King (4)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "The Lion King",
     "range": [
@@ -11,8 +11,8 @@
       433
     ],
     "family_qa_path": "qa/families/lion-king-0430-0433.md",
-    "family_qa_sha": "905fa2eded9bd217115181dd2fb730bb4f85d202",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "8c775da59f3dbb74656632fd35eb7866d8e2d705",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/433.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-431.xhtml",
     "english_reference_sha": "33e8dbf09e4518d9c21aeb07b931e568b52a8214",
     "draft_path": "manuscript/drafts/chapter-0433.md",
-    "draft_sha": "4b1de146736e5902ac39df004fdd186c2db103ff",
+    "draft_sha": "51641ec7e9522c648bee97cb5026022aeda84853",
     "qa_path": "qa/chapter-0433.md",
-    "qa_sha": "5e2f8562f12fcffd5b1be25bf256b30f953d83e7",
+    "qa_sha": "cd8609ba715c39ead177e0f20c4774cc5efdf5df",
     "provenance_path": "editorial/provenance/chapter-0433.json",
-    "provenance_sha": "c6847b5ff13015ffd45ed30c9f908a3669b53a43"
+    "provenance_sha": "295680dfadfcd86e3a394e6d599bf1ff7960ef37"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
@@ -44,5 +44,12 @@
     "family_evidence": "qa/families/lion-king-0430-0433.md",
     "initial_priority_target": false
   },
-  "inner_world_note": "Endpoint Vikir exists inside copied mental world; not a physical return/resurrection claim."
+  "inner_world_note": "Endpoint Vikir exists inside copied mental world; not a physical return/resurrection claim.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored blood-and-flesh swamp and explicit compassionate reaction"
+  }
 }

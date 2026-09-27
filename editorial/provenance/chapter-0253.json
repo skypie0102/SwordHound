@@ -9,8 +9,8 @@
       254
     ],
     "family_qa_path": "qa/families/five-stars-0253-0254.md",
-    "family_qa_sha": "5a5057161dfd291cf7215821ea812730e23f376d",
-    "status": "pass"
+    "family_qa_sha": "b3d80f198fd92e55b02205ee9c50a8e6935dc851",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/253.txt",
@@ -30,7 +30,7 @@
   "qa": {
     "path": "qa/chapter-0253.md",
     "blob_sha": "7a38dbd110239176b235ab64c73f01c36d6120c0",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -56,5 +56,16 @@
   ],
   "canonical_reference_limit": "Direct Fandom verification remained blocked; established glossary forms were reused and no new wiki-only forms asserted.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      253,
+      254
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

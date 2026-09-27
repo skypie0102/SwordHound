@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/241.txt` — `221e469ffb0368822ffe75d85d4bdfce4e2c5f47`
 - English witness: **E239** — `4c99a39ad02fc003042a64616c2497bf98368543`
-- Rebuilt draft: `manuscript/drafts/chapter-0241.md` — `bce5a295ea534b287671a3f64463d0ed9dc0ee6a`
+- Rebuilt draft: `manuscript/drafts/chapter-0241.md` — `7002af382db505ad001afddf9c5e4f983fe671e4`
 
 ## Completeness findings
 - Restored the two-hour opening-speech fatigue, Banshee acting as recently promoted vice-principal representative, mushroom-village lodging, fireflies, and complete buffet atmosphere.
@@ -19,3 +19,14 @@
 - PASS — Vikir's “top ten is enough” Decarabia strategy remains private and does not import later outcomes.
 - **Inn-deal correction locked:** guests pay **70% of the original lodging fee** (30% discount), with breakfast/lunch included.
 - PASS — Banshee requires ≥90% student approval; secret ballot produces **93% yes**.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored Sinclaire's source-explicit recollection that Lovegood genuinely terrified her and that the pressure alone made her feel as though she could barely breathe.
+
+The complete National University League family was reread after remediation. Chapters 237, 239, 240, and 242–244 remain manuscript-unchanged and pass both Cycle-2 primary content gates. Mapping remains **236→E234 through 244→E242**; target 245/E243 begins *Survival Contest (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed National University League family QA.

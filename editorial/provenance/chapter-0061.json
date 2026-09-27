@@ -9,7 +9,7 @@
       63
     ],
     "family_qa_path": "qa/families/protagonist-hunting-0061-0063.md",
-    "family_qa_sha": "d81ff09d6ec185a8c59730efb8957b7618ebc12c",
+    "family_qa_sha": "43124146b9a0e2786d44678d08296ff46b84561f",
     "status": "pass"
   },
   "primary_source": {
@@ -59,11 +59,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0061.md",
-    "blob_sha": "12578e5de23cc4c4eb0f279ad14ee20ad1cd5c8b"
+    "blob_sha": "522ff4a192bc23b5163edc1bdb73d69c5fed30ea"
   },
   "qa": {
     "path": "qa/chapter-0061.md",
-    "blob_sha": "ec787604f0abda5c3bb072f0fc89ab3e1a62c016",
+    "blob_sha": "fed553951718959a2910ed590b0879681aab8ca2",
     "status": "pass"
   },
   "documented_decisions": [
@@ -89,5 +89,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      61,
+      63
+    ],
+    "manuscript_changed": true,
+    "note": "restored runny-nosed-child comparison and removed unsupported tools use from Oxbear hard parts"
+  }
 }

@@ -88,6 +88,8 @@ Looking at the perfect mustache and immaculate manners—
 
 it was hard to imagine.
 
+Vikir split open the head of a giant Poison Human in his path as casually as cutting a watermelon.
+
 Barrymore looked at Vikir.
 
 His expression softened.

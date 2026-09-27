@@ -9,8 +9,8 @@
       355
     ],
     "family_qa_path": "qa/families/outside-tower-0351-0355.md",
-    "family_qa_sha": "cb78aaf960f448be3c02c5220421134e76b60119",
-    "status": "pass"
+    "family_qa_sha": "c6f728a659a063c031fdbc87bbb59a4c58434cb8",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/351.txt",
@@ -29,9 +29,20 @@
   "qa": {
     "path": "qa/chapter-0352.md",
     "blob_sha": "3471af264be70bda8335d6b8df1fccd5e0800e30",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      351,
+      355
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

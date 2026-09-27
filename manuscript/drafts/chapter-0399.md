@@ -192,7 +192,7 @@ Lieutenant **Virginia**.”
 
 One name in the list—
 
-clearly mattered more than the others.
+was apparently the name of someone who might have been Kirko’s mother.
 
 Valentine Grimm.
 
@@ -378,11 +378,9 @@ Lieutenant Virginia.
 
 Kirko’s former classmate.
 
-Caught helping a low-ranking unit move misappropriated supplies.
+As a low-ranking soldier, she had helped **Colonel D'Ordume** divert military supplies.
 
-At worst—
-
-she had stolen only a few bags of candy intended for birthday gifts.
+Her own misconduct amounted to little more than taking a few bags of candy that had been meant for birthday gifts.
 
 Black Tongue took her for interrogation.
 

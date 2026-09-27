@@ -2,8 +2,8 @@
   "chapter": 342,
   "title": "Private Life (2)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Private Life",
     "range": [
@@ -11,8 +11,8 @@
       342
     ],
     "family_qa_path": "qa/families/private-life-0341-0342.md",
-    "family_qa_sha": "16ec368c5a8b210a2b81391bf1434893f84147a1",
-    "status": "pass"
+    "family_qa_sha": "9665af7554cf8aec6d77516d5779fc90494d1759",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/342.txt",
@@ -20,15 +20,22 @@
     "english_reference_path": "source/chapters/chapter-340.xhtml",
     "english_reference_sha": "619ee7214ee483c4264127006bd2214e90147e37",
     "draft_path": "manuscript/drafts/chapter-0342.md",
-    "draft_sha": "9c3cdc45becb6e37ab49e02afd64489dfef47928",
+    "draft_sha": "587871ff537203ab5f75ad30b1a121f2f6d7be4c",
     "qa_path": "qa/chapter-0342.md",
-    "qa_sha": "636df0e6dc2445395fa8fdc49c1966a6c499c29f",
+    "qa_sha": "7c271a135c1ff7481674b67a2a20766460cc2337",
     "provenance_path": "editorial/provenance/chapter-0342.json",
-    "provenance_sha": "4cd136184e4560652ed5c9bf57fec0657f01c94b"
+    "provenance_sha": "6203ab834646411828bbb5c75193cdccca446d8c"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Ballak-family material from target343 is imported."
   ],
-  "key_reveal": "Dolores now knows Choco = Vikir = Night Hound."
+  "key_reveal": "Dolores now knows Choco = Vikir = Night Hound.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored human-like Mm response, soulmate wording, and peeping-tom framing"
+  }
 }

@@ -2,8 +2,8 @@
   "chapter": 320,
   "title": "Surplus Man (7)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Surplus Man",
     "range": [
@@ -11,8 +11,8 @@
       320
     ],
     "family_qa_path": "qa/families/surplus-man-0314-0320.md",
-    "family_qa_sha": "a752f27d99e0be65f4143aed12695b0a4f05a386",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "cfa70c820f5f0717135e28f0a0e256d640343e09",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/320.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-318.xhtml",
     "english_reference_sha": "c36ae9bf69e084568950b90775593f0a0fda7dd3",
     "draft_path": "manuscript/drafts/chapter-0320.md",
-    "draft_sha": "068b3a43b80e9e383c995f69a52cf9bd5060816e",
+    "draft_sha": "893a5861dfd7b129feb9d56127913c07f9bf82e9",
     "qa_path": "qa/chapter-0320.md",
-    "qa_sha": "02ae382cc58af27cb4dfa06af3ceed759bdbc697",
+    "qa_sha": "8246b63560ce86856bfe02339f256f90d7cb941f",
     "provenance_path": "editorial/provenance/chapter-0320.json",
-    "provenance_sha": "b06582d79d4d68ac21964e83eb288a3e309e822d"
+    "provenance_sha": "9e6978ae71d91bb0187a10bed3fb129e5466581b"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
@@ -44,5 +44,12 @@
     "family_evidence": "qa/families/surplus-man-0314-0320.md",
     "initial_priority_target": true,
     "confirmed_failure_resolved": false
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored Conversion Bug eat/excrete/excrement mechanic"
   }
 }

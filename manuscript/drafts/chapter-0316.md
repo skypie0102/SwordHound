@@ -474,6 +474,10 @@ Students who had barely been able to say “offering” earlier—
 
 now bargained over human lives like merchants at a market.
 
+Their eyes were bloodshot.
+
+Spittle flew from their mouths as they argued.
+
 “Vote!”
 
 “Let's decide rationally!”

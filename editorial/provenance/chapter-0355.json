@@ -9,8 +9,8 @@
       355
     ],
     "family_qa_path": "qa/families/outside-tower-0351-0355.md",
-    "family_qa_sha": "cb78aaf960f448be3c02c5220421134e76b60119",
-    "status": "pass"
+    "family_qa_sha": "c6f728a659a063c031fdbc87bbb59a4c58434cb8",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/355.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0355.md",
-    "blob_sha": "b6bf8fa787e62d60ad998118711b8fb1b7df83d1"
+    "blob_sha": "6c61394f1a1d549c31c7ffcf75b58c93d5db4d20"
   },
   "qa": {
     "path": "qa/chapter-0355.md",
-    "blob_sha": "4eea6f04ff2471806770b005ecd72deffa8d3ff5",
-    "status": "pass"
+    "blob_sha": "e96f4be918f9ea4c04048c0a8da90ac77f08ef09",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "reveal_guard": "Public Night Hound declaration occurs at chapter close; no Crime and Punishment aftermath imported."
+  "accepted_date": "2026-09-27",
+  "reveal_guard": "Public Night Hound declaration occurs at chapter close; no Crime and Punishment aftermath imported.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      351,
+      355
+    ],
+    "manuscript_changed": true,
+    "note": "restored source-level crude profanity/aggressive crowd-shoving force"
+  }
 }

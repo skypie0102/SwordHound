@@ -9,8 +9,8 @@
       470
     ],
     "family_qa_path": "qa/families/prelude-counterattack-0465-0470.md",
-    "family_qa_sha": "7a725aedfa48c2d6e5a7a485938b41fd946b0163",
-    "status": "pass"
+    "family_qa_sha": "4c8a5c4d4441b905738ae8106f6cbdfbb839a359",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/466.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0466.md",
-    "blob_sha": "5287b7efa25fa09bf93c894548ac837c95d96c36"
+    "blob_sha": "6e535d1493bac3b95d38837865cdf67ce7c5f930"
   },
   "qa": {
     "path": "qa/chapter-0466.md",
-    "blob_sha": "5ad3c7d3bf8a2f2b054f967f698c9941fadf41d7",
-    "status": "pass"
+    "blob_sha": "c73678fb534a5269e8d2e39f7ed33a9309d622ed",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; indexed Fandom evidence and established glossary forms used.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-28",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-28",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      465,
+      470
+    ],
+    "manuscript_changed": true,
+    "note": "restored blood rain alongside battlefield blood waves"
+  }
 }

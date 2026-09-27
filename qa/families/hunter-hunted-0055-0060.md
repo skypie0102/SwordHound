@@ -8,12 +8,12 @@
 
 | Target | Chinese evidence | Recovered-English witness | Draft SHA | QA SHA |
 |---|---|---|---|---|
-| 55 | target-55 body overlaps inside `054.txt` — `4e16871bc046c162978c419dc585f526b37d2dc4`; no standalone 055.txt | **E55** — `b3d243ed6bdbd0268e0281d18589d0b4c308604e` supplies missing opening/title boundary | `e18c5c382ca2fab4bb721c5b33e552f752b986bd` | `2b86dbfce94de0f26e8b77c5960909e35d12eed9` |
-| 56 | `056.txt` — `3347b3a5328b1e4629b4fea513c910aae2d851d5` | **E56** — `684b391e07bb916d944c1bea14ff642eb3007cac` | `ffa0d115bc4ab4ce7f147ad8e0755eb8d4a08694` | `cfb11c27d12eccfa7ceb398cf45e6b7594c92b9d` |
-| 57 | `057.txt` — `f54503f85e50714fca60b34ff319f4f7ae46166b` | no clean standalone English chapter; E56 partially overlaps the Oxbear-selection setup | `d899cea4cc984265211b60bea59fd46a545ee431` | `7f071afca07011058b38a354d119dac7bc5c7f48` |
-| 58 | `058.txt` — `230b6b91bc511e93968956eb799aac9c44441c5e` | **E57** — `33f218cebdc7c91bdd8994b20d30465ecbaaebfa` | `b33b412e3aa3b789dc093dbee5cf9ac83e8fa6b0` | `403129422383f71784e7497e3b01764ab872e574` |
-| 59 | `059.txt` — `c75833db41cf967973b4679cd6e43c9cfb774770` | **E58** — `1e572c7583b36443b10599e7128398bcf5529ea9` | `98216e73da8172c31c2a0634e4e66ca97dae7d04` | `66ef0ad38b0a7be40e11bdcbff1289aa064f9016` |
-| 60 | `060.txt` — `406e7fe32dc61ee383a11d2405bf85f0684e4814` | **E59** — `5e13cc1bc24061a5a94eba0ad352e5126ee65bdd` | `df77f7700668f8d28bc7ec5f8afa83a02c8b5513` | `c35796d733c7b5b9728803a382be31d8214bcc95` |
+| 55 | target-55 body overlaps inside `054.txt` — `4e16871bc046c162978c419dc585f526b37d2dc4`; no standalone 055.txt | **E55** — `b3d243ed6bdbd0268e0281d18589d0b4c308604e` supplies missing opening/title boundary | `4cab7e75783208f932d9d868cbdc57b5b252f57b` | `c33d943e949c6b3630f0d9b82d03f4104fc5ec65` |
+| 56 | `056.txt` — `3347b3a5328b1e4629b4fea513c910aae2d851d5` | **E56** — `684b391e07bb916d944c1bea14ff642eb3007cac` | `ffa0d115bc4ab4ce7f147ad8e0755eb8d4a08694` | `6acc51fe8b587a52a12415f610aca46e3cfe16f8` |
+| 57 | `057.txt` — `f54503f85e50714fca60b34ff319f4f7ae46166b` | no clean standalone English chapter; E56 partially overlaps the Oxbear-selection setup | `d899cea4cc984265211b60bea59fd46a545ee431` | `248ad2e5450a955c7a2317f5f5b12acdc053eb78` |
+| 58 | `058.txt` — `230b6b91bc511e93968956eb799aac9c44441c5e` | **E57** — `33f218cebdc7c91bdd8994b20d30465ecbaaebfa` | `b33b412e3aa3b789dc093dbee5cf9ac83e8fa6b0` | `6a54dad2cfe0d799333811ab23b3f9e05284f224` |
+| 59 | `059.txt` — `c75833db41cf967973b4679cd6e43c9cfb774770` | **E58** — `1e572c7583b36443b10599e7128398bcf5529ea9` | `98216e73da8172c31c2a0634e4e66ca97dae7d04` | `9007362bec0ee84d642f169ba067c11942f53662` |
+| 60 | `060.txt` — `406e7fe32dc61ee383a11d2405bf85f0684e4814` | **E59** — `5e13cc1bc24061a5a94eba0ad352e5126ee65bdd` | `a1c29330b69ee8c26f6969d970e7269b9e47e6a5` | `a14883e936674768a3c2137d2913daecce7b9e7f` |
 | boundary | `061.txt` — `834abb36714ce9d7329e7854720ea20170ce5586` | **E60** — `cf367731f723c719b61b06070cb648fa9cf23a95` | next family | next family |
 
 ## Corpus correction / mapping result
@@ -80,3 +80,17 @@ The whole-corpus low-tail sweep reopened target 59 after direct comparison showe
 ## Acceptance result
 
 **PASS.** Targets 55–60 form one complete family under the corrected hybrid/shifted source mapping and are ready for provenance + acceptance binding.
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-26  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 55: restored the source shaman instruction to **ring the warning bell** if hunters leave without his blessing; removed the unsupported curse.
+- Chapters 56–59: complete-family reread found no ordinary manuscript defects; documented safety-limited material and the Chapter-57 recovered-English witness gap remain unchanged.
+- Chapter 60: restored the heated-arrow nerve-churning detail, the predator-presence comparison surpassing even a **high-ranking demon** with hellish fang imagery, and the **charred-brain** result of Incinerate.
+- Sanitization and completeness gates were rerun across Chapters 55–60 after the repairs.
+- The Phase-3 mapping exception remains valid: target 57 lacks a clean standalone English witness and targets 58–60 map to E57–E59 respectively.
+- Chapter QA, provenance, acceptance, family QA, tracker bindings, and Cycle-2 ledger are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **The Protagonist of Hunting (61–63)**.

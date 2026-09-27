@@ -9,8 +9,8 @@
       500
     ],
     "family_qa_path": "qa/families/side-stories-0496-0500.md",
-    "family_qa_sha": "5500ac73073602383e7359b83196e9d2e32a2cd7",
-    "status": "pass"
+    "family_qa_sha": "0a89e3efd898bf8db486b03b293a1a631102da04",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/499.txt",
@@ -25,14 +25,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0499.md",
-    "blob_sha": "8b789630d47da82e7f46262bb92d39612acc56c4"
+    "blob_sha": "f8ae1c335d5dd012924c3b219067177bb38abb74"
   },
   "qa": {
     "path": "qa/chapter-0499.md",
-    "blob_sha": "088dd62c0476d5453c38299d75132dfc9b346029",
-    "status": "pass"
+    "blob_sha": "cb4cd9c88a9dc81e8ec6e0fe46c8928a2a3bd17e",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom page access remained robots-blocked; established glossary/indexed canon and the embedded E493 witness were used for late recurring forms.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-28",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-28",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      496,
+      500
+    ],
+    "manuscript_changed": true,
+    "note": "corrected Pomeranian age and removed unsupported triplet sparring insertion"
+  }
 }

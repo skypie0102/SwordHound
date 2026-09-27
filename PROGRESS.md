@@ -1,5 +1,424 @@
 # Reconstruction Progress
 
+## 2026-09-28 — Cycle 2 Phase 4 COMPLETE
+
+Phase 4 remediation and evidence rebinding is formally complete.
+
+- remediation population: **273 unique chapters**;
+- remediation chapters completed: **273 / 273**;
+- remediation chapters remaining: **0**;
+- affected title families completed: **95**;
+- manuscript edits during Phase 4: **271**;
+- original Phase-3 structural failures at Chapters **273** and **283**: **resolved**;
+- final affected family: **Side Stories (496–500)**;
+- acceptance artifacts present: **500 / 500**;
+- tracker entries present: **500 / 500**;
+- tracker acceptance-SHA mismatches: **0**;
+- closure checkpoint: `qa/cycle2-phase4-checkpoint-0500.md`;
+- next stage: **Phase 5 — independent residual verification and consistency sweep**;
+- complete-EPUB assembly remains blocked until Phases 5 and 6 close.
+
+## 2026-09-27 — Cycle 2 Phase 4 — The Fall of Usher complete
+
+Phase 4 remediation/evidence rebinding advanced through **The Fall of Usher (441–449)**.
+
+- remediation chapters complete: **243 / 273**;
+- remediation chapters remaining: **30**;
+- affected families complete: **87**;
+- manuscript edits: **242**;
+- Chapters **444, 445, 446, 447, 449** repaired and rebound;
+- Chapters **441–443, 448** complete-family revalidated unchanged;
+- next affected family: **Declaration of War (450–453)**;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — The Returned Hound complete
+
+Phase 4 remediation/evidence rebinding advanced through **The Returned Hound (434–436)**.
+
+- remediation chapters complete: **236 / 273**;
+- remediation chapters remaining: **37**;
+- affected families complete: **85**;
+- manuscript edits: **235**;
+- Chapter **434** repaired and rebound;
+- Chapters **435–436** complete-family revalidated unchanged;
+- next affected family: **Dreaming the Impossible Dream (437–440)**, earliest remaining target **438**;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — Wandering Knight complete
+
+Phase 4 remediation/evidence rebinding advanced through **How to Become a Wandering Knight (422–424)**.
+
+- remediation chapters complete: **228 / 273**;
+- remediation chapters remaining: **45**;
+- affected families complete: **82**;
+- manuscript edits: **227**;
+- Chapters **422–424** repaired and fully rebound;
+- next affected family: **The Night Walkers (425–429)**;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — End game complete
+
+Phase 4 remediation/evidence rebinding advanced through **End game (409–418)**.
+
+- remediation chapters complete: **224 / 273**;
+- remediation chapters remaining: **49**;
+- affected families complete: **80**;
+- manuscript edits: **223**;
+- Chapters **409, 412, 413, 416, 417** repaired and rebound;
+- Chapters **410, 411, 414, 415, 418** complete-family revalidated unchanged;
+- next affected family: **Goodbye, Nouvelle Vague (419–421)**, earliest target **421**;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — Black Tongue complete
+
+Phase 4 remediation/evidence rebinding advanced through **Black Tongue (399–402)**.
+
+- remediation chapters complete: **213 / 273**;
+- remediation chapters remaining: **60**;
+- affected families complete: **78**;
+- manuscript edits: **212**;
+- Chapters **399–401** repaired and rebound;
+- Chapter **402** complete-family revalidated unchanged;
+- next affected family: **Jailbreaker (403–408)**;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — Dead Man Walking complete
+
+Phase 4 remediation/evidence rebinding advanced through **Dead Man Walking (396–398)**.
+
+- remediation chapters complete: **210 / 273**;
+- remediation chapters remaining: **63**;
+- affected families complete: **77**;
+- manuscript edits: **209**;
+- Chapter **397** repaired and rebound;
+- Chapters **396** and **398** complete-family revalidated unchanged;
+- next affected family: **Black Tongue (399–402)**;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — The Worst Torture complete
+
+Phase 4 remediation/evidence rebinding advanced through **The Worst Torture (390–395)**.
+
+- remediation chapters complete: **209 / 273**;
+- remediation chapters remaining: **64**;
+- affected families complete: **76**;
+- manuscript edits: **208**;
+- Chapters **390–395** repaired and fully rebound;
+- Chapter **395** identifies the poison mixture without reproducing its ingredient recipe;
+- next affected family: **Dead Man Walking (396–398)**, earliest target **397**;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — Rotten Dog of Nouvelle Vague complete
+
+Phase 4 remediation/evidence rebinding advanced through **The Rotten Dog of Nouvelle Vague (385–389)**.
+
+- remediation chapters complete: **203 / 273**;
+- remediation chapters remaining: **70**;
+- affected families complete: **75**;
+- manuscript edits: **202**;
+- Chapters **386, 387, 389** repaired and rebound;
+- Chapters **385, 388** complete-family revalidated unchanged;
+- next affected family: **The Worst Torture (390–395)**;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — advanced through The Servant
+
+Phase 4 remediation/evidence rebinding is authoritative through **The Servant (369–370)**.
+
+- remediation chapters complete: **193 / 273**;
+- remediation chapters remaining: **80**;
+- affected families complete: **69**;
+- manuscript edits: **192**;
+- recent completed families: **Crime and Punishment (356–358)**, **Voluntary Escort (359–362)**, **Ghost Castle of the Ultra-Deep Sea (363–365)**, **The Underground Extension Construction (366–368)**, **The Servant (369–370)**;
+- next affected family: **Solitary Confinement (371–372)**, earliest remaining target **371**;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — Key man and Outside the Tower complete
+
+Phase 4 remediation/evidence rebinding is authoritative through **Outside the Tower (351–355)**.
+
+- **Key man (348–350): COMPLETE** — Chapters 349–350 repaired; Chapter 348 revalidated unchanged.
+- **Outside the Tower (351–355): COMPLETE** — Chapters 353 and 355 repaired; Chapters 351, 352, and 354 revalidated unchanged.
+- remediation chapters complete: **185 / 273**;
+- remediation chapters remaining: **88**;
+- affected families complete: **64**;
+- manuscript edits: **184**;
+- next affected family: **Crime and Punishment (356–358)**;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — Private Life complete
+
+Phase 4 remediation/evidence rebinding advanced through **Private Life (341–342)**.
+
+- remediation chapters complete: **178 / 273**;
+- remediation chapters remaining: **95**;
+- affected families complete: **61**;
+- manuscript edits: **177**;
+- Chapters **341–342** repaired and fully rebound;
+- next affected family: **Ballak (343–347)**;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — Shadowless King and Draw complete
+
+Phase 4 remediation/evidence rebinding advanced through **Draw (331–332)**.
+
+- **The Shadowless King of the Black Sea (326–330): COMPLETE** — Chapters 326, 329, and 330 remediated; Chapters 327–328 revalidated unchanged.
+- **Draw (331–332): COMPLETE** — both completeness-only targets repaired and rebound.
+- remediation chapters complete: **170 / 273**;
+- remediation chapters remaining: **103**;
+- affected families complete: **58**;
+- manuscript edits: **169**;
+- next affected family: **The Mating Room (333–338)**;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — Warmonger and Hell Tree complete
+
+Phase 4 remediation/evidence rebinding advanced through **Hell Tree (307–313)**.
+
+- **The Age of the Warmonger (299–306): COMPLETE** — Chapters 300–303 and 305–306 repaired; 299 and 304 revalidated unchanged.
+- **Hell Tree (307–313): COMPLETE** — Chapters 307, 311, and 313 repaired; 308–310 and 312 revalidated unchanged.
+- remediation chapters complete: **159 / 273**;
+- remediation chapters remaining: **114**;
+- affected families complete: **54**;
+- manuscript edits: **158**;
+- both original Phase-3 structural failures (**273, 283**) are resolved;
+- next affected family: **Surplus Man (314–320)**, earliest remaining target **316**;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — Money War complete
+
+Phase 4 remediation/evidence rebinding advanced through **Money War (273–278)**.
+
+- remediation chapters complete: **135 / 273**;
+- remediation chapters remaining: **138**;
+- affected families complete: **47**;
+- manuscript edits: **134**;
+- Chapters **273, 275, 276, 277, 278** repaired and rebound;
+- Chapter **274** complete-family revalidated unchanged;
+- Chapter **273** Phase-3 duplicated/displaced-material failure is **resolved**;
+- only Chapter **283** remains as an open Phase-3 structural failure;
+- next affected family: **What Money Can't Buy (279–282)**;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — Rich Friends complete
+
+Phase 4 remediation/evidence rebinding advanced through **Rich Friends (270–272)**.
+
+- remediation chapters complete: **130 / 273**;
+- remediation chapters remaining: **143**;
+- affected families complete: **46**;
+- manuscript edits: **129**;
+- Chapters **270–272** repaired and rebound;
+- next affected family: **Money War (273–278)**;
+- Chapter **273** also carries a Phase-3 structural/boundary failure;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — The Eucharist complete
+
+Phase 4 remediation/evidence rebinding advanced through **The Eucharist (268–269)**.
+
+- remediation chapters complete: **127 / 273**;
+- remediation chapters remaining: **146**;
+- affected families complete: **45**;
+- manuscript edits: **126**;
+- Chapter **269** repaired and rebound;
+- Chapter **268** complete-family revalidated unchanged under the shared-container exception;
+- next affected family: **Rich Friends (270–272)**;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — Season of Redemption complete
+
+Phase 4 remediation/evidence rebinding advanced through **The Season of Redemption (264–267)**.
+
+- remediation chapters complete: **126 / 273**;
+- remediation chapters remaining: **147**;
+- affected families complete: **44**;
+- manuscript edits: **125**;
+- Chapters **264–266** repaired and rebound;
+- Chapter **267** complete-family revalidated unchanged under the shared-source exception;
+- next affected family: **The Eucharist (268–269)**;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — Inverted Pentagram complete
+
+Phase 4 remediation/evidence rebinding advanced through **The Inverted Pentagram (261–263)**.
+
+- remediation chapters complete: **123 / 273**;
+- remediation chapters remaining: **150**;
+- affected families complete: **43**;
+- manuscript edits: **122**;
+- Chapter **261** repaired and rebound;
+- Chapter **262** stale Phase-1 finding reconciled against already-correct current text with no new manuscript edit;
+- Chapter **263** complete-family revalidated unchanged;
+- next affected family: **The Season of Redemption (264–267)**;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — Grave of Swords complete
+
+Phase 4 remediation/evidence rebinding advanced through **The Grave of Swords (255–260)**.
+
+- remediation chapters complete: **121 / 273**;
+- remediation chapters remaining: **152**;
+- affected families complete: **42**;
+- manuscript edits: **121**;
+- Chapters **255, 256, 259, 260** repaired and rebound;
+- Chapters **257–258** complete-family revalidated unchanged;
+- next affected family: **The Inverted Pentagram (261–263)**;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — Five Stars complete
+
+Phase 4 remediation/evidence rebinding advanced through **Five Stars (253–254)**.
+
+- remediation chapters complete: **117 / 273**;
+- remediation chapters remaining: **156**;
+- affected families complete: **41**;
+- manuscript edits: **117**;
+- Chapter **254** repaired and rebound;
+- Chapter **253** complete-family revalidated unchanged;
+- next affected family: **The Grave of Swords (255–260)**, earliest remaining target **255**;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — Survival Contest complete
+
+Phase 4 remediation/evidence rebinding advanced through **Survival Contest (245–249)**.
+
+- remediation chapters complete: **116 / 273**;
+- remediation chapters remaining: **157**;
+- affected families complete: **40**;
+- manuscript edits: **116**;
+- Chapters **247** and **249** repaired and rebound;
+- Chapters **245, 246, 248** complete-family revalidated unchanged;
+- *Recap (250–252)* has no Phase-4 remediation targets;
+- next affected family: **Five Stars (253–254)**, earliest remaining target **254**;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — Suspicion complete
+
+Phase 4 remediation/evidence rebinding is authoritative through **Suspicion (234–235)**.
+
+- remediation chapters complete: **111 / 273**;
+- remediation chapters remaining: **162**;
+- affected families complete: **38**;
+- manuscript edits: **111**;
+- Chapters **234–235** repaired and rebound;
+- next affected family: **National University League (236–244)**, earliest remaining target **236**;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — That Day, Him and Me complete
+
+Phase 4 remediation/evidence rebinding is authoritative through **That Day, Him and Me (220–224)**.
+
+- remediation chapters complete: **104 / 273**;
+- remediation chapters remaining: **169**;
+- affected families complete: **36**;
+- manuscript edits: **104**;
+- Chapter **221** repaired and rebound;
+- Chapters **220, 222, 223, 224** complete-family revalidated unchanged;
+- next affected family: **Tuition (225–233)**, earliest remaining target **225**;
+- EPUB assembly remains blocked.
+
+## 2026-09-27 — Cycle 2 Phase 4 — advanced through Mixed Bath
+
+Phase 4 remediation/evidence rebinding is authoritative through **Mixed Bath (203–205)**.
+
+- **Preparing for the Festival (197): COMPLETE**
+- **The Corpse Queen (198–202): COMPLETE**
+- **Mixed Bath (203–205): COMPLETE**
+- remediation chapters complete: **91 / 273**
+- remediation chapters remaining: **182**
+- affected families complete: **33**
+- manuscript edits: **93**
+- Chapter 205 retains a documented safety-limited underage-nudity exception while all unrelated ordinary source omissions are restored
+- next affected family: **Festival Night (206–215)**
+- EPUB assembly remains blocked
+
+## 2026-09-26 — Cycle 2 Phase 4 — Sin and Punishment complete
+
+Phase 4 remediation/evidence rebinding advanced through **Sin and Punishment (162–169)**.
+
+- remediation chapters complete: **65 / 273**;
+- remediation chapters remaining: **208**;
+- affected families complete: **25**;
+- manuscript edits: **67**;
+- Chapters **162, 163, 165, 166, 167, 168** repaired and rebound;
+- Chapters **164, 169** complete-family revalidated unchanged;
+- next affected family: **The Anti-Columnist (172–175)**, earliest remaining target **175**;
+- EPUB assembly remains blocked.
+
+## 2026-09-26 — Cycle 2 Phase 4 — Test Your Skills complete
+
+Phase 4 remediation/evidence rebinding advanced through **Test Your Skills (133–138)**.
+
+- remediation chapters complete: **44 / 273**;
+- remediation chapters remaining: **229**;
+- affected families complete: **18**;
+- manuscript edits: **46**;
+- Chapters **133, 135, 136, 137, 138** repaired and rebound;
+- Chapter **134** complete-family revalidated unchanged;
+- next affected family: **Men are Power (139–140)**;
+- EPUB assembly remains blocked.
+
+## 2026-09-26 — Cycle 2 Phase 4 — advanced through Ghosts of the Ancestors
+
+Phase 4 remediation/evidence rebinding is now authoritative through **The Ghosts of the Ancestors (90–94)**.
+
+- **The Saintess (78–82): COMPLETE** — five remediation chapters, all five manuscript targets repaired and rebound.
+- **Lovesickness (83–84): COMPLETE** — both remediation chapters repaired and rebound.
+- **The Ghosts of the Ancestors (90–94): COMPLETE** — Chapter 94 repaired; Chapters 90–93 complete-family revalidated unchanged.
+- remediation chapters complete: **33 / 273**;
+- remediation chapters remaining: **240**;
+- affected families complete: **14**;
+- manuscript edits: **35**;
+- next affected family: **Nostalgia (101–104)**; earliest remaining target **101**.
+- The Illiad (85–89) and Madam Eight-Legs (95–100) have no Phase-4 remediation targets.
+- EPUB assembly remains blocked.
+
+## 2026-09-26 — Cycle 2 Phase 4 — Hound of the Night complete
+
+Phase 4 remediation/evidence rebinding advanced through **The Hound of the Night (75–77)** and reconciled interrupted ledger bookkeeping for the already-completed Unfair Trade, Blood Relatives, and Red Death families.
+
+- completed affected families: **11**;
+- remediation chapters complete: **25 / 273**;
+- remediation chapters remaining: **248**;
+- manuscript edits during Phase 4: **27**;
+- Chapter **75**: restored floating corpse/log flood footing, Chihuahua's red-eyed loyalty detail, and Cindywendy's Gambino investment-adviser precedent;
+- Chapter **76**: restored the children's collapse/wetting terror response, Dolores's source-present academy/student-council status, and concrete petitioner identities/status/payment offers;
+- Chapter **77**: restored Mozgus's prior-timeline battlefield/cruelty characterization and torture-technique memory, scripture weight, and present-strength / Quovadis-territory combat assessment;
+- combined C075 source handling remains unchanged and fully rebound;
+- family QA, chapter QA, provenance, acceptance, tracker, and Cycle-2 ledger bindings are refreshed through Chapter **77**;
+- next affected family: **The Saintess (78–82)**, earliest remaining target **78**;
+- EPUB assembly remains blocked.
+
+## 2026-09-26 — Cycle 2 Phase 4 — Hunter and Hunted complete
+
+Phase 4 remediation/evidence rebinding advanced through **The Hunter and the Hunted (55–60)**.
+
+- completed affected families: **6**;
+- remediation chapters complete: **12 / 273**;
+- remediation chapters remaining: **261**;
+- manuscript edits during Phase 4: **13**;
+- Chapter **55**: restored the shaman's source-supported **warning-bell** instruction and removed the invented curse;
+- Chapter **60**: restored the eye/nerve churning, high-ranking-demon predator comparison, hellish fang imagery, and charred-brain Incinerate result;
+- Chapters **56–59**: complete-family revalidation found no ordinary manuscript defects;
+- family QA, chapter QA, provenance, acceptance, tracker, and Cycle-2 ledger bindings refreshed across Chapters **55–60**;
+- next affected family: **The Protagonist of Hunting (61–63)**, earliest remaining target **61**;
+- EPUB assembly remains blocked.
+
+## 2026-09-26 — Cycle 2 Phase 4 started: Camus Morgue complete
+
+Phase 4 remediation/evidence rebinding is now active.
+
+- first affected family **Camus Morgue (20–25)**: **COMPLETE**;
+- manuscript repairs: Chapters **22** and **24**;
+- Chapter 22 restores the source-explicit future-adult beauty/seduction-as-political-power characterization;
+- Chapter 24 restores the neutral clothing/body-state accident details, including tears/runny nose, underclothes, and Vikir's post-cloak exposed state without eroticization;
+- Chapters 20, 21, 23, and 25 revalidated without manuscript edits;
+- family QA, provenance, acceptance, and tracker acceptance bindings refreshed across Chapters **20–25**;
+- remediation progress: **2 / 273** chapters complete, **271** remain;
+- next affected family: **Slave Auction (35–37)**, earliest remaining target **35**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-26 — Cycle 2 Phase 3 COMPLETE at 500/500
 
 The corpus-wide boundary/alignment/exception integrity pass is complete.

@@ -7,7 +7,7 @@
 
 - Primary Chinese: `source/chinese/chapters/074.txt` — `cc0e1e6b22601d136440825972a08cebcd429e8b`
 - Recovered English witness: **E73** `source/chapters/chapter-073.xhtml` — `db89bc3ca2cd63106daadf11e113fe3a50da3bef`
-- Draft: `manuscript/drafts/chapter-0074.md` — `7693e61cba97e5a84c8b2c864e91cdf7784d31f1`
+- Draft: `manuscript/drafts/chapter-0074.md` — `6ae1047f69074da770c16d0d247279d025d5831f`
 - Boundary:
   - Chinese `075.txt` begins target 75 `夜之猎犬 (1)` — `e65af08f559f82f470687cc42c1d1420e1e55e15`
   - E74 *The Hound of the Night (1)* — `1bc968f310582423381420fc7e09e84aa4cf7e72`
@@ -39,3 +39,14 @@ Target 74 → E73 is verified by complete sequence: storm → Aheul sick with Re
 ## Boundary check
 
 Target 75 switches cleanly to **The Hound of the Night (1)** in Saint Mecca. Physical `075.txt` is a known combined target-75/76 container and must be split by content before acceptance.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored Ah'Heman's source-explicit act of **spitting at Aheul's face** while berating her at the sickbed. The surrounding symptoms, slap, family insult, departure-law discussion, and emotional departure remain intact.
+
+Sanitization fidelity and completeness were rerun across the complete Red Death (72–74) family after the repairs. The shifted witness mapping remains **72→E71, 73→E72, 74→E73**, and target 75/E74 begins *The Hound of the Night (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Red Death family QA.

@@ -9,8 +9,8 @@
       205
     ],
     "family_qa_path": "qa/families/mixed-bath-0203-0205.md",
-    "family_qa_sha": "10ab8b9cd3551b8768763c50ce7b3d4a4239bc6a",
-    "status": "pass"
+    "family_qa_sha": "7b48b13d3c897c92a6dac815bb52ccea7a377c98",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/204.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0204.md",
-    "blob_sha": "31756ca9ddf560d68da233ca90cc16f5770efd7f"
+    "blob_sha": "6bf0346d15c509dd3a01b740c63e9c3fe81ec5d9"
   },
   "qa": {
     "path": "qa/chapter-0204.md",
-    "blob_sha": "682493d918203a142af6bd85d43903d5541f26fd",
-    "status": "pass"
+    "blob_sha": "3c18dd2a7eddecd5bb09e1493af2a9e9b61c95c0",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-19",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/206.txt",
     "chinese_sha": "86a0e5cf87255b744988fe7b97068b452ad0b76f",
     "english_path": "source/chapters/chapter-204.xhtml",
     "english_sha": "ea1e65fd55cdb60c0f1664c66045de88e993247b",
     "purpose": "both begin Festival Night (1), target206"
+  },
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      203,
+      205
+    ],
+    "manuscript_changed": true,
+    "note": "restored pests/father-beating/economic consequences and detailed paired-Fang mechanics"
   }
 }

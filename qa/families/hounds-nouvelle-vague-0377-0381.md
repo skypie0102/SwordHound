@@ -28,3 +28,19 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 377 restores the source's comparison of frail Level-One prisoners, most dead within a year despite three-year sentences, to **short-lived insects**.
+- Chapters 378 and 379 were reread against their Chinese-primary sources and remain complete without manuscript changes.
+- Chapter 380 restores Garam's fatal injury state: **all bones crushed to powder**, fragments driven deep into internal organs, and the major metabolic organs **ruptured** by internal pressure.
+- Chapter 381 was reread against its Chinese-primary source and remains complete without manuscript changes.
+- Sanitization fidelity and completeness were rerun across Chapters 377–381.
+- Mapping remains **377→E375, 378→E376, 379→E377, 380→E378, 381→E379**; target 382/E380 begins *Kennel (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Kennel (382–384)**, with remediation targets Chapters **382** and **384**.

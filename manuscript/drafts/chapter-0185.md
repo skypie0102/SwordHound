@@ -102,7 +102,11 @@ Brighter.
 
 Warm.
 
-Food improved.
+Food changed too—
+
+from coarse, foul-smelling fare
+
+to food that was fine and soft.
 
 Life—
 
@@ -228,7 +232,7 @@ also crying.
 
 Bianca—
 
-tears and mucus streaking her face.
+crying just as hard as the others.
 
 “Pigi!”
 
@@ -360,15 +364,19 @@ The real answer—
 
 was an internal mana-field compass.
 
-A specialized organ able to detect—
+A specialized organ that calculated complex functions of the surrounding mana field to determine—
 
-position.
+its current position.
 
-Direction.
+Its destination.
 
-Destination.
+The route between them.
 
-Even the polarized rotation of mana fields under sunlight.
+The correct direction.
+
+Even the number of steps required.
+
+It could also detect the polarized rotation of mana fields under sunlight.
 
 Destroy it—
 
@@ -410,7 +418,7 @@ Deeper in the nest—
 
 near the underground catacombs—
 
-they appeared in large numbers.
+Soldier Ants were **not packed densely together like ordinary ants**.
 
 Few people in the present even knew those deeper zones existed.
 

@@ -2,8 +2,8 @@
   "chapter": 424,
   "title": "How to Become a Wandering Knight (3)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "How to Become a Wandering Knight",
     "range": [
@@ -11,8 +11,8 @@
       424
     ],
     "family_qa_path": "qa/families/wandering-knight-0422-0424.md",
-    "family_qa_sha": "fbb3ffbc45a63d0ccc9c93fe77f5263b65cbe608",
-    "status": "pass"
+    "family_qa_sha": "98bc6b59d0fef78ec55ee1074e05d737df2473a6",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/424.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-422.xhtml",
     "english_reference_sha": "08e2bbb28f07bfb6d063d3d521dd1a9ba1613a79",
     "draft_path": "manuscript/drafts/chapter-0424.md",
-    "draft_sha": "9d5b5f0a4790366fa442f78c26b2947dad3c6246",
+    "draft_sha": "21427baccbdac59ee7d773754eab53dc506b29f2",
     "qa_path": "qa/chapter-0424.md",
-    "qa_sha": "b3b18d6206023a6143347351fc8e514f4615570b",
+    "qa_sha": "d1f76b7278fb9cb319b7e91355d406158b9f7d0e",
     "provenance_path": "editorial/provenance/chapter-0424.json",
-    "provenance_sha": "9cd81a53211428ee4b66ed1eaa0dfae15e67ee33"
+    "provenance_sha": "3bbdc25f7f195da80aa3b06f28dc2acb0a71cdb6"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Night Walkers material from target425 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored burst-internal-organ detail, survival aphorism, and Tudor throat-tightening reaction"
+  }
 }

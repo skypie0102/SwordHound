@@ -150,7 +150,7 @@ Cold steel sliced farther.
 
 Deeper.
 
-Until—
+Until the blade finally severed feet from the prisoners who could no longer keep their balance.
 
 “AAAAAAH!”
 

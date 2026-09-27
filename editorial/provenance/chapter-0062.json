@@ -9,7 +9,7 @@
       63
     ],
     "family_qa_path": "qa/families/protagonist-hunting-0061-0063.md",
-    "family_qa_sha": "d81ff09d6ec185a8c59730efb8957b7618ebc12c",
+    "family_qa_sha": "43124146b9a0e2786d44678d08296ff46b84561f",
     "status": "pass"
   },
   "primary_source": {
@@ -61,7 +61,7 @@
   },
   "qa": {
     "path": "qa/chapter-0062.md",
-    "blob_sha": "96233c67df63ff633095dc751b8a56f33d01ff41",
+    "blob_sha": "3dfd41cdc72fbdda193ed384c5cc5fb15ece3eaf",
     "status": "pass"
   },
   "documented_decisions": [
@@ -87,5 +87,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      61,
+      63
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family Phase-4 reread reconfirmed prior PASS with no manuscript change"
+  }
 }

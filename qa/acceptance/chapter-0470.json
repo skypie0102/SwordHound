@@ -2,8 +2,8 @@
   "chapter": 470,
   "title": "The Prelude to a Counterattack (6)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-28",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Prelude to a Counterattack",
     "range": [
@@ -11,8 +11,8 @@
       470
     ],
     "family_qa_path": "qa/families/prelude-counterattack-0465-0470.md",
-    "family_qa_sha": "7a725aedfa48c2d6e5a7a485938b41fd946b0163",
-    "status": "pass"
+    "family_qa_sha": "4c8a5c4d4441b905738ae8106f6cbdfbb839a359",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/470.txt",
@@ -24,10 +24,17 @@
     "qa_path": "qa/chapter-0470.md",
     "qa_sha": "c9ac9bc6254b5545544167b51171f787282524b5",
     "provenance_path": "editorial/provenance/chapter-0470.json",
-    "provenance_sha": "93414866f51e72278013d173148f4d8ee0ee3f16"
+    "provenance_sha": "edcef898486d9bbbb2af729f5ee3fe50213b730d"
   },
   "documented_limits": [
     "Direct Fandom browsing remains robots-restricted; indexed Fandom evidence and established glossary forms used.",
     "No target471-family material imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-28",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

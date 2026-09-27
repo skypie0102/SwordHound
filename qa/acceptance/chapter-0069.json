@@ -2,8 +2,8 @@
   "chapter": 69,
   "title": "Blood Relatives (2)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Blood Relatives",
     "range": [
@@ -11,7 +11,7 @@
       71
     ],
     "family_qa_path": "qa/families/blood-relatives-0068-0071.md",
-    "family_qa_sha": "2b67aae2f051e09387447bd5503e5433b8d8a3bc",
+    "family_qa_sha": "847319fb4a4bd148e80c2915fddb0de0b8be5e75",
     "status": "pass"
   },
   "evidence": {
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-068.xhtml",
     "english_reference_sha": "091517f790c8fd1b7672dce16e7601330e65cfa0",
     "draft_path": "manuscript/drafts/chapter-0069.md",
-    "draft_sha": "24da6e2f484446ad806117ba9f3748a78c0ff048",
+    "draft_sha": "fc5f09e66d235dc0d3f98efab182f086e8b989e8",
     "qa_path": "qa/chapter-0069.md",
-    "qa_sha": "87f3043060e5012c8621b340e60297cbf9452b45",
+    "qa_sha": "4819a8212c03786040adde07f75c664b3fa30cbf",
     "provenance_path": "editorial/provenance/chapter-0069.json",
-    "provenance_sha": "a9925fd995cd61e19a9415862e33170577387709"
+    "provenance_sha": "c7beb53fb6b4421d217057cb8662b8c523acf6b6"
   },
   "canonical_checks": [
     "Leviathan Clan",
@@ -38,5 +38,12 @@
     "Target 69 maps to E68.",
     "Only the Leviathan Clan identity/poison association is revealed; later Red Death culpability is blocked.",
     "Aiyen's concern over Vikir leaving remains nonsexual relationship material."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored the just-over-twenty age estimate"
+  }
 }

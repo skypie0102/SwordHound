@@ -2,16 +2,45 @@
   "chapter": 21,
   "title": "Camus Morgue (2)",
   "accepted": true,
-  "accepted_date": "2026-09-17",
-  "review_mode": "chinese_primary_fandom_canonical",
-  "title_family": {"name":"Camus Morgue","range":[20,25],"family_qa_path":"qa/families/camus-morgue-0020-0025.md","family_qa_sha":"a1e81033e781959beca43cbb497def66252093fc","status":"pass"},
-  "evidence": {
-    "primary_source_path":"source/chinese/chapters/021.txt","primary_source_sha":"27a08de60fce2e2150ebcc90ba5eea86ab383b13",
-    "english_reference_path":"source/chapters/chapter-021.xhtml","english_reference_sha":"6a136140fa0bbd0ea36149300c06556f02f3ab35",
-    "draft_path":"manuscript/drafts/chapter-0021.md","draft_sha":"9afa2b06a333eed874f1809d4609921d739a9605",
-    "qa_path":"qa/chapter-0021.md","qa_sha":"ba031dd7d6bfc8c8d4b12adcb4350379de91b7c5",
-    "provenance_path":"editorial/provenance/chapter-0021.json","provenance_sha":"174f0184f635fa0fc733c8cd2cc8c47539eda325"
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase4",
+  "title_family": {
+    "name": "Camus Morgue",
+    "range": [
+      20,
+      25
+    ],
+    "family_qa_path": "qa/families/camus-morgue-0020-0025.md",
+    "family_qa_sha": "16c299200a789d322ef0ab5570d1ef54572b772e",
+    "status": "pass"
   },
-  "canonical_checks": ["Camus Morgue","Adolf Morgue","Morgue Clan","Hugo Le Baskerville"],
-  "documented_limits": ["Ruby-mine geometry and prior bloodshed are Chinese-controlled; MTL prose is not used where garbled.","No later Camus/Morgue political spoilers are imported."]
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/021.txt",
+    "primary_source_sha": "27a08de60fce2e2150ebcc90ba5eea86ab383b13",
+    "english_reference_path": "source/chapters/chapter-021.xhtml",
+    "english_reference_sha": "6a136140fa0bbd0ea36149300c06556f02f3ab35",
+    "draft_path": "manuscript/drafts/chapter-0021.md",
+    "draft_sha": "9afa2b06a333eed874f1809d4609921d739a9605",
+    "qa_path": "qa/chapter-0021.md",
+    "qa_sha": "ba031dd7d6bfc8c8d4b12adcb4350379de91b7c5",
+    "provenance_path": "editorial/provenance/chapter-0021.json",
+    "provenance_sha": "7c1d0e36308c515536b570f05bda18b40b37b357"
+  },
+  "canonical_checks": [
+    "Camus Morgue",
+    "Adolf Morgue",
+    "Morgue Clan",
+    "Hugo Le Baskerville"
+  ],
+  "documented_limits": [
+    "Ruby-mine geometry and prior bloodshed are Chinese-controlled; MTL prose is not used where garbled.",
+    "No later Camus/Morgue political spoilers are imported."
+  ],
+  "prior_accepted_date": "2026-09-17",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "full-family revalidation; no manuscript edit required; acceptance rebound to refreshed family QA"
+  }
 }

@@ -16,3 +16,14 @@
 - PASS — Vikir's pre-regression memory keeps D'Ordume's later anti-demon participation morally complicated rather than automatically heroic.
 - PASS — Chapter ends at the nonhuman-body reveal; saltwater-crocodile/beastfolk exposition is not imported early.
 - CANON — designated Fandom index confirms D'Ordume D'Orcdile and Kirko Grimm; no later wiki spoilers are imported.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Complete-family reread passed unchanged; D'Ordume's cutting-vortex fight and nonhuman-body reveal remain complete.
+
+The complete Servant family was reread after remediation. Shifted mapping remains **369→E367, 370→E368**; target 371/E369 begins *Solitary Confinement (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Servant family QA.

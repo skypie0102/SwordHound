@@ -9,8 +9,8 @@
       161
     ],
     "family_qa_path": "qa/families/familiar-face-0158-0161.md",
-    "family_qa_sha": "7bbf0675eebad6e338b69dd12f567f6948c561c2",
-    "status": "pass"
+    "family_qa_sha": "b6965699d7b4e9188b2235fd70eab1596365796b",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/159.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0159.md",
-    "blob_sha": "d3fb44a751ff2cd7e465ebbd35b1c6c8c1076ae8"
+    "blob_sha": "1f0970f348be738bb6d5111d331ff6bc003e423f"
   },
   "qa": {
     "path": "qa/chapter-0159.md",
-    "blob_sha": "2d1b7ca6f575e546c5c8595008bc37319d832d43",
-    "status": "pass"
+    "blob_sha": "863f45789b24c1463375fe4dd177e64f9407d7c4",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-26",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/162.txt",
     "chinese_sha": "680770fdf7b23729571a227210cf1346b0a82774",
     "english_path": "source/chapters/chapter-161.xhtml",
     "english_sha": "2cce07a6f2cc14c6860fee7a3ca615a3d70e001d",
     "purpose": "both begin Sin and Punishment (1), target162"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      158,
+      161
+    ],
+    "manuscript_changed": true,
+    "note": "restored Dolores beautiful/melancholy/heartache narrator framing"
   }
 }

@@ -7,7 +7,7 @@
 
 - Primary Chinese: `source/chinese/chapters/077.txt` — `8800f5f079d10442f23e0d46f2674fcb3d8282ba`
 - Recovered English witness: **E76** `source/chapters/chapter-076.xhtml` — `47f1a314662aacaf5d0117a6fd461d15258c8b14`
-- Draft: `manuscript/drafts/chapter-0077.md` — `e1e686eb4c3ad3279809cda2f260ba5105d49a99`
+- Draft: `manuscript/drafts/chapter-0077.md` — `dd041b9704cf65e3e988ff5c1df147432eb090d0`
 - Boundary:
   - C78 `圣女 (1)` — `155a238a81adfdc32ce7b97d9e28e05f4133c395`
   - E77 *The Saintess (1)* — `64c564988053d5a39bde90c0f81685055f2bf13f`
@@ -34,3 +34,14 @@ Target 77 → E76 is verified by: door opens to empty vestibule/statue voice →
 ## Boundary check
 
 Target 78 / E77 cleanly begin **The Saintess (1)** with Dolores's age, academy status, personality, and direct conversation with Vikir.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored Mozgus's prior-timeline battlefield weight: his uncompromising cruelty toward evil, his last stand against a thousand demons, and Vikir's memory of learning torture techniques from him. Restored the source's **dozens-of-kilograms** scripture weight and the combat assessment that present Mozgus is roughly half his future strength while Quovadis territory's divine replenishment makes the immediate matchup nearly even.
+
+The complete Hound of the Night family was reread after remediation. Target 77 remains Chinese-primary with E76 as the shifted secondary witness; Dolores's direct appearance remains the family endpoint and target 78/E77 cleanly begins *The Saintess (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Hound of the Night family QA.

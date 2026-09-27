@@ -2,8 +2,8 @@
   "chapter": 471,
   "title": "Tochka Annihilation Battle (1)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-28",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Tochka Annihilation Battle",
     "range": [
@@ -11,8 +11,8 @@
       475
     ],
     "family_qa_path": "qa/families/tochka-annihilation-0471-0475.md",
-    "family_qa_sha": "08babc668e1137750285061091f293ee383f384c",
-    "status": "pass"
+    "family_qa_sha": "b0eba6403c8ea3ba230af8ce22578630048369f7",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/471.txt",
@@ -22,12 +22,19 @@
     "draft_path": "manuscript/drafts/chapter-0471.md",
     "draft_sha": "22884e9f65275f5526bc835f05054bf2c5955a89",
     "qa_path": "qa/chapter-0471.md",
-    "qa_sha": "22e2fa13b6fc1b7868e0741ba1b7b93f025ea935",
+    "qa_sha": "ca9e2a2d633127779eb13c48bfcbee40e85a00c3",
     "provenance_path": "editorial/provenance/chapter-0471.json",
-    "provenance_sha": "b5569d0339cdc391386fe0825cbed6efbf2401f4"
+    "provenance_sha": "c0c3f14d6c12bb9391e960bf5fb8ea8161ad655b"
   },
   "documented_limits": [
     "Direct Fandom browsing remains robots-restricted; established glossary and indexed Fandom evidence control canonical forms.",
     "No target476+ material imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-28",
+    "manuscript_changed": false,
+    "note": "Phase-2 700-knight finding resolved as C472 misattribution; C471 revalidated unchanged"
+  }
 }

@@ -152,7 +152,7 @@ Vikir was surprised too.
 
 *Stronger than expected.*
 
-The ornate weapon was not decoration.
+The ornate weapon was no mere decoration—it was a **true killing sword**.
 
 And Damien’s technique—
 
@@ -292,7 +292,7 @@ Night Hound’s reputation was already terrifying.
 
 A criminal strong enough to kill upper-level Graduators.
 
-A threat often mentioned beside Ms. Ouroboros.
+A threat said to rival **Ms. Ouroboros—or even exceed her**.
 
 Damien knew one-on-one combat was a losing proposition.
 

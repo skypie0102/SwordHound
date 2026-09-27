@@ -366,21 +366,17 @@ Again and again—
 
 societies nearing collapse turned toward excess.
 
-Rich people who believed the world might end—
+As the end of the world approached—
 
-spent fortunes chasing sensations no ordinary person could imagine.
+many people who prided themselves on being rich simply went mad.
 
-Taste.
+They chased the ultimate extremes of taste and beauty—
 
-Beauty.
-
-Fashion.
-
-Pleasure.
+and indulged in luxuries that had drifted away from ordinary humanity.
 
 As wealth passed through generations—
 
-the extravagance became increasingly absurd.
+the decadence and excess only grew worse.
 
 Vikir had seen plenty of it.
 
@@ -440,7 +436,9 @@ had chosen wealth rather than combat power.
 
 When the great war came—
 
-they would betray humanity early.
+they would be among the first to betray the Human Alliance.
+
+Shameless people like that were not worth any sympathy.
 
 If Vikir killed the Sixth Corpse—
 

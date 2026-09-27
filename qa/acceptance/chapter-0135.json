@@ -2,8 +2,8 @@
   "chapter": 135,
   "title": "Test Your Skills (3)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Test Your Skills",
     "range": [
@@ -11,8 +11,8 @@
       138
     ],
     "family_qa_path": "qa/families/test-your-skills-0133-0138.md",
-    "family_qa_sha": "754d76f9c778e0a4617c0766384e67de87e6f91a",
-    "status": "pass"
+    "family_qa_sha": "dd2dcd14a16c827655d6d39887900d785b46feff",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/135.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-134.xhtml",
     "english_reference_sha": "0ccf0e0e93ed974e9fc1b1b1647982bc951e7770",
     "draft_path": "manuscript/drafts/chapter-0135.md",
-    "draft_sha": "9f9795b8f89bcbf1aee346b07df2c1e56c4d6b64",
+    "draft_sha": "2e0768736c2a23b96ebdf252400827341b6274c0",
     "qa_path": "qa/chapter-0135.md",
-    "qa_sha": "b5a3b739658f24375a88ed533055f94a871bf671",
+    "qa_sha": "65634e3de8715a81d13e6bf480137087af23fdd4",
     "provenance_path": "editorial/provenance/chapter-0135.json",
-    "provenance_sha": "06abb3413ff7651e6ef3923d4baa0f665a238510"
+    "provenance_sha": "85c0227b2ce6f6e12e35e88669b39ca3588aef86"
   },
   "canonical_checks": [
     "Professor Banshee Morgue",
@@ -38,5 +38,12 @@
   "documented_limits": [
     "Vikir's perfect score is written/theory, not handwriting.",
     "Naphtali family material begins here and target135 ends at first Tudor collision."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored beat-him-up hostility and repeated kill-you aggression"
+  }
 }

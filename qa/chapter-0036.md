@@ -7,7 +7,7 @@
 
 - Primary Chinese: `source/chinese/chapters/036.txt` — `94b5d8cf2fefdae6975ac56c7ddb6642763ba1cf`
 - Aligned English witness: `source/chapters/chapter-036.xhtml` — `b4a7de354d870c31685419c8a011cd853ca5381d`
-- Final draft: `manuscript/drafts/chapter-0036.md` — `f70bdea52bca018e94cd53d1e02f1ee87fcd0953`
+- Final draft: `manuscript/drafts/chapter-0036.md` — `ba227cc00bcfce898ca02ca8eb3f9296bfc2ab5a`
 - Boundary witness: Chinese Ch. 37 begins by explaining the prepared Pit Bull operation and Hugo's temporary transfer of military authority.
 
 ## Checks
@@ -45,3 +45,11 @@
 - `Gradient`, `grader`, and `Fifth Form` in place of project terminology.
 - `knightage Pit Bull` rather than **Pit Bull Knights**.
 - random first-person narration leaks.
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** The draft now restores the source-strength retaliatory body-directed command after Vikir breaks the restraints and restores the direct narration that the onlookers are witnessing a man being torn apart alive. Both sanitization fidelity and completeness were rerun for the full family; no unrelated source material was dropped or intensified.
+
+## Decision
+
+**PASS at chapter level after Phase-4 remediation.** Final acceptance requires the refreshed Chapters 35–37 family QA.

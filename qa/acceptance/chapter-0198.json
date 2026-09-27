@@ -2,8 +2,8 @@
   "chapter": 198,
   "title": "The Corpse Queen (1)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Corpse Queen",
     "range": [
@@ -11,8 +11,8 @@
       202
     ],
     "family_qa_path": "qa/families/corpse-queen-0198-0202.md",
-    "family_qa_sha": "fb506d016902b863286ef630d41425b777dd0743",
-    "status": "pass"
+    "family_qa_sha": "dbcb2114334d4df17f749d84d708a30674be0374",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/198.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-196.xhtml",
     "english_reference_sha": "644da488da68df85b1487d0a5aae178a9c0484d2",
     "draft_path": "manuscript/drafts/chapter-0198.md",
-    "draft_sha": "c126653d2e228caf648213a42f93dfdfb7bc64cd",
+    "draft_sha": "12194a72a9ae202a7b97d9e74e50005c4974839e",
     "qa_path": "qa/chapter-0198.md",
-    "qa_sha": "7873c08f424991ef64314fdc7d3c2e9b8bff5031",
+    "qa_sha": "dfae0467e43e4f528c8f7b3e2b972c561fd03664",
     "provenance_path": "editorial/provenance/chapter-0198.json",
-    "provenance_sha": "d68b2826b92b35653ec751fa5a58cc450982296e"
+    "provenance_sha": "bd0a91a336af3c630a092b25f9fd8b47289acb80"
   },
   "canonical_checks": [
     "Baby Madam",
@@ -38,5 +38,12 @@
     "Copycat motive remains Vikir speculation.",
     "Only some undead are identified as Cindywendy informants."
   ],
-  "next_family_alignment_note": "Target203→E201 begins Mixed Bath (1)."
+  "next_family_alignment_note": "Target203→E201 begins Mixed Bath (1).",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored Clocktower death-toll reference and unconditional kill intent"
+  }
 }

@@ -9,8 +9,8 @@
       440
     ],
     "family_qa_path": "qa/families/dreaming-impossible-dream-0437-0440.md",
-    "family_qa_sha": "fba1238c9a1e3f71257a0ad6fc9d296e49baa11a",
-    "status": "pass"
+    "family_qa_sha": "57a274733cd09bc95422502a2ded79332d2d852b",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/437.txt",
@@ -29,10 +29,21 @@
   "qa": {
     "path": "qa/chapter-0437.md",
     "blob_sha": "6e9889d6fd431f4dc3345034880e36138ffef95e",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "key_reveal": "Chimeries reveals S+ Fourth-Corpse true form; Camus arrives as cavalry countermeasure."
+  "accepted_date": "2026-09-27",
+  "key_reveal": "Chimeries reveals S+ Fourth-Corpse true form; Camus arrives as cavalry countermeasure.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      437,
+      440
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

@@ -14,7 +14,7 @@ Then—
 
 “Where are you going in such a hurry—
 
-Major ‘Rotten Dog’ Garam?”
+Major ‘shit-eating dog’ Garam?”
 
 Black Tongue crawled into view.
 
@@ -154,7 +154,7 @@ SPLAT!
 
 Leeches burst apart.
 
-Blood and tissue scattered through the air.
+Blood, flesh, and internal organs scattered through the air.
 
 Beelzebub kept humming.
 

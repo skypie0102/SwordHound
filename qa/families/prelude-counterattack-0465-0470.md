@@ -31,3 +31,20 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-28  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 466 restores Boston Terrier's battlefield image of **blood waves across the ground and blood raining from the sky**.
+- Chapter 467 restores Vikir **resting his head on Dolores's shoulder** while relying on her support.
+- Chapter 468 restores the Reaper's explicit **sternum/breastbone break** from Vikir's palm strike.
+- Chapter 469 restores Hell Tree seeds tearing Pigi's **internal organs** and the **blood clots** he swallows.
+- Chapters 465 and 470 were reread against their Chinese-primary sources and remain complete without manuscript changes.
+- Sanitization fidelity and completeness were rerun across Chapters 465–470 after repair.
+- Shifted mapping remains **465→E463 through 470→E468**; target 471/E469 begins *Tochka Annihilation Battle (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Tochka Annihilation Battle (471–475)**.

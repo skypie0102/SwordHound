@@ -2,8 +2,8 @@
   "chapter": 496,
   "title": "Side Story 1",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-28",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Side Stories",
     "range": [
@@ -11,8 +11,8 @@
       500
     ],
     "family_qa_path": "qa/families/side-stories-0496-0500.md",
-    "family_qa_sha": "5500ac73073602383e7359b83196e9d2e32a2cd7",
-    "status": "pass"
+    "family_qa_sha": "0a89e3efd898bf8db486b03b293a1a631102da04",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/495.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-493.xhtml",
     "english_reference_sha": "523f54d41e88ce5790cd4c67a1f607292861cef2",
     "draft_path": "manuscript/drafts/chapter-0496.md",
-    "draft_sha": "7e02a98e311e7db93fd593f6926602690af6c3c8",
+    "draft_sha": "2d331e9b86f261b2d602cc42d3912e0ce391ee75",
     "qa_path": "qa/chapter-0496.md",
-    "qa_sha": "cdfa47ce2f7c776a9f49c9f2a3cb9fa1b296b8c9",
+    "qa_sha": "88e2f191ff2b002ac3cbfde2bf54678deda5a3e9",
     "provenance_path": "editorial/provenance/chapter-0496.json",
-    "provenance_sha": "bf404f201d769144150f30ef3d17ba42f6e82137"
+    "provenance_sha": "07c304dc7b985e70e71df00876c8c74af9e542e4"
   },
   "documented_limits": [
     "Direct Fandom page access remained robots-blocked; established project terminology controls recurring forms."
   ],
-  "source_exception": "Target496 begins at the Dark Hall 666th-floor Camus scene inside shared raw 495.txt; E493 embeds the aligned Side Story Chapter 1 section."
+  "source_exception": "Target496 begins at the Dark Hall 666th-floor Camus scene inside shared raw 495.txt; E493 embeds the aligned Side Story Chapter 1 section.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-28",
+    "manuscript_changed": true,
+    "note": "restored omitted parallel-Camus clash, Seere shield/protest, manicure joke, and reciprocal threats"
+  }
 }

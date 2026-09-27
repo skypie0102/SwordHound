@@ -296,7 +296,7 @@ Then—
 
 worse.
 
-He hired men.
+He hired **killers**.
 
 They dragged Romeo into the rain.
 
@@ -383,6 +383,10 @@ Slippery road.
 A frightened horse.
 
 The carriage overturned.
+
+According to the public story—
+
+both Juliet and Romeo died on the spot.
 
 “Unfortunate.”
 

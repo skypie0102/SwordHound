@@ -2,8 +2,8 @@
   "chapter": 255,
   "title": "The Grave of Swords (1)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Grave of Swords",
     "range": [
@@ -11,8 +11,8 @@
       260
     ],
     "family_qa_path": "qa/families/grave-of-swords-0255-0260.md",
-    "family_qa_sha": "1f3b1edbeea68c948f7445158f0e0fdcb1bca3f6",
-    "status": "pass"
+    "family_qa_sha": "1c7c93e6586f3b9903915ddf5902dc1c2f6a6f9f",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/255.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-253.xhtml",
     "english_reference_sha": "a7af09a6ea4662211da44c74dafe6e902dafb0ea",
     "draft_path": "manuscript/drafts/chapter-0255.md",
-    "draft_sha": "745e89311363a93a1cbbeece04f0ca818f60a935",
+    "draft_sha": "8abc6b61870fc68d2e8b8c94575ebfe992db68d6",
     "qa_path": "qa/chapter-0255.md",
-    "qa_sha": "ebaabb1e355b4396950d55a72069f9704651c5ee",
+    "qa_sha": "113e5ce13f14f508fb5916e38d474152f16be896",
     "provenance_path": "editorial/provenance/chapter-0255.json",
-    "provenance_sha": "347950b807795538f7fb021ac5a2f06c2b07a57d"
+    "provenance_sha": "f7dbefb0198c00e2e60554b3bb584af31635eafa"
   },
   "documented_limits": [
     "Direct Fandom re-check remained unavailable; established glossary forms were reused.",
     "No Inverted Pentagram material from target261 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored Basilisk absolute invulnerability wording"
+  }
 }

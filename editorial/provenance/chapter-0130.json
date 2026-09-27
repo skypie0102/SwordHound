@@ -9,8 +9,8 @@
       132
     ],
     "family_qa_path": "qa/families/freshman-talent-show-0130-0132.md",
-    "family_qa_sha": "b2167dae156913d97fd33e6dfa222984241f8ae0",
-    "status": "pass"
+    "family_qa_sha": "d54952148afc8aba53cc230d00694544833c066c",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/130.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0130.md",
-    "blob_sha": "0ee70b6ad7745ca92bf769a2938027ba33666a03"
+    "blob_sha": "79352864b7da4189fb2afa70ffc5e8f9f5e7084a"
   },
   "qa": {
     "path": "qa/chapter-0130.md",
-    "blob_sha": "7fb8430aac428721d3c55c15e42c761afc519e15",
-    "status": "pass"
+    "blob_sha": "0e54fc6bf835dcd564cd1873e5881062f036164a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-26",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/133.txt",
     "chinese_sha": "e948d42cd33e78a1da4ad882ff6442f932406edd",
     "english_path": "source/chapters/chapter-132.xhtml",
     "english_sha": "cc299d9aa9e64e9b3427b90c84c8c1402881a502",
     "purpose": "both begin Test Your Skills (1), target133"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      130,
+      132
+    ],
+    "manuscript_changed": true,
+    "note": "restored corpse-mountain / blood-river Age-of-Destruction imagery"
   }
 }

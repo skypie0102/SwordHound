@@ -304,9 +304,7 @@ Stronger than before.
 
 Bianca’s usual arrogant composure disappeared.
 
-Both girls were crying.
-
-Neither looked dignified.
+Tears and snot ran down both girls’ faces.
 
 Then a roar came from behind.
 

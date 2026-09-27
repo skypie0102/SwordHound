@@ -9,8 +9,8 @@
       320
     ],
     "family_qa_path": "qa/families/surplus-man-0314-0320.md",
-    "family_qa_sha": "a752f27d99e0be65f4143aed12695b0a4f05a386",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "cfa70c820f5f0717135e28f0a0e256d640343e09",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/320.txt",
@@ -24,16 +24,16 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0320.md",
-    "blob_sha": "068b3a43b80e9e383c995f69a52cf9bd5060816e"
+    "blob_sha": "893a5861dfd7b129feb9d56127913c07f9bf82e9"
   },
   "qa": {
     "path": "qa/chapter-0320.md",
-    "blob_sha": "02ae382cc58af27cb4dfa06af3ceed759bdbc697",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "8246b63560ce86856bfe02339f256f90d7cb941f",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/item forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "key_reveal": "S-rank Conversion Bug candy bag becomes Baby Madam's harmless parasite host.",
   "historical_acceptance": {
     "accepted": true,
@@ -49,5 +49,16 @@
     "family_evidence": "qa/families/surplus-man-0314-0320.md",
     "initial_priority_target": true,
     "confirmed_failure_resolved": false
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      314,
+      320
+    ],
+    "manuscript_changed": true,
+    "note": "restored Conversion Bug eat/excrete/excrement mechanic"
   }
 }

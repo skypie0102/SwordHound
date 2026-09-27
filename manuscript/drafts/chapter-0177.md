@@ -411,7 +411,7 @@ Scratched his cheeks.
 
 Then his chin.
 
-Her other hand moved down his back.
+Her other hand rubbed along his back and over his rump.
 
 “You're adorable.”
 

@@ -9,8 +9,8 @@
       374
     ],
     "family_qa_path": "qa/families/sucker-shark-0373-0374.md",
-    "family_qa_sha": "14fca4f37bcb0be39aa0e952f7781c3b773e9f01",
-    "status": "pass"
+    "family_qa_sha": "65333c235e6fee8d2ca591df47c5b2a31bb4d720",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/373.txt",
@@ -29,8 +29,19 @@
   "qa": {
     "path": "qa/chapter-0373.md",
     "blob_sha": "332b0b3e8927f3b2e769ecb0ac1a4d837ef290d0",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      373,
+      374
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

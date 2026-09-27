@@ -2,8 +2,8 @@
   "chapter": 382,
   "title": "Kennel (1)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Kennel",
     "range": [
@@ -11,8 +11,8 @@
       384
     ],
     "family_qa_path": "qa/families/kennel-0382-0384.md",
-    "family_qa_sha": "77a570da8dbe91cebe52dfc242cc7da165367995",
-    "status": "pass"
+    "family_qa_sha": "8f824cb9ad094e7fdb4a2d9edaa99bbec8c4df24",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/382.txt",
@@ -20,13 +20,20 @@
     "english_reference_path": "source/chapters/chapter-380.xhtml",
     "english_reference_sha": "95534f9355902718c5cac9ece8700fba8efdb9d4",
     "draft_path": "manuscript/drafts/chapter-0382.md",
-    "draft_sha": "68404d2671b883fbab25c07806c7331dbab18e5d",
+    "draft_sha": "7243bf215877a45017926ec408f610f2e091a0e5",
     "qa_path": "qa/chapter-0382.md",
-    "qa_sha": "28ddff7a24089bb1536bacd815ec4e291cba788b",
+    "qa_sha": "fc7839ee221e4d2148dc0252d5256ffc968e7d7e",
     "provenance_path": "editorial/provenance/chapter-0382.json",
-    "provenance_sha": "c9a7208bebcb443b2d3e385a0e2c289fdd3962ee"
+    "provenance_sha": "6a84842f3eb276623fa66f96d1031da7e985be07"
   },
   "documented_limits": [
     "No Rotten Dog material from target385 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored no-harvestable-meat meaning for Gulper / Elevator Eels"
+  }
 }

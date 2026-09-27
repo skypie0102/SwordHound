@@ -344,9 +344,17 @@ Numbers alone could not overcome trained senior guards.
 
 Especially with D’Ordume and Souaré at the front.
 
-D’Ordume’s axe-blades created tornadoes of slaughter.
+D’Ordume’s axe-blades created tornadoes of wind that ground nearby prisoners into meat paste.
 
-Souaré melted ground into boiling magma.
+Where Souaré stepped, the floor melted into boiling magma that swallowed the prisoners around her.
+
+Countless prisoners were torn apart from the front lines onward.
+
+Huge bodies were smashed down.
+
+Fast prisoners were caught and killed.
+
+Together, D’Ordume and Souaré turned everything blocking them into bright-red meat paste.
 
 Around them—
 

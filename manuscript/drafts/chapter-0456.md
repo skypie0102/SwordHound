@@ -274,7 +274,7 @@ SLASH!
 
 On the front line—
 
-his whip reduced Poison Humans to chunks of meat.
+his whip pulverized the surrounding Poison Humans into hundreds of pieces of meat.
 
 Even demons—
 

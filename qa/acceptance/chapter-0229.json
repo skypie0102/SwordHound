@@ -2,8 +2,8 @@
   "chapter": 229,
   "title": "Tuition (5)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Tuition",
     "range": [
@@ -11,8 +11,8 @@
       233
     ],
     "family_qa_path": "qa/families/tuition-0225-0233.md",
-    "family_qa_sha": "ef916558f9b418e478b2dbd559f541db34d75238",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "eb414a8af2119b91abf36671340b7d5545d63b9e",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/229.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-227.xhtml",
     "english_reference_sha": "1ee96cb59c421ed3ceb9f9fe92613b02dcade94e",
     "draft_path": "manuscript/drafts/chapter-0229.md",
-    "draft_sha": "eb70444b6e9f5ff0a0033aba8da1f7df8b11d9b1",
+    "draft_sha": "0a100ea212b1b50f55c4fd3d516b83f52e7fcd2f",
     "qa_path": "qa/chapter-0229.md",
-    "qa_sha": "f442b186443469c2e19e341bdcdf4c2c6630c029",
+    "qa_sha": "3971f0da09f5de9e67bf967af816748d2013fa77",
     "provenance_path": "editorial/provenance/chapter-0229.json",
-    "provenance_sha": "033f2b160f03f70d6a43761d3566aaab74c1f712"
+    "provenance_sha": "2d88271c72090c020c56d5ef9d899a4f08b01408"
   },
   "canonical_checks": [
     "MiniPin",
@@ -49,5 +49,12 @@
     "reviewed_date": "2026-09-20",
     "result": "rebuilt_and_passed",
     "family_evidence": "qa/families/tuition-0225-0233.md"
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored fried-alive, smoke-suffocation, and smothered-alive den-kill mechanisms"
   }
 }

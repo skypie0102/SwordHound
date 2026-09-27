@@ -21,7 +21,7 @@ This is the second consecutive family, after The Illiad, proving that byte-ratio
 | 91 | `091.txt` | `e6a35940a28b58cf1c48dfc7e1e4c3c4c3634104` | **E90** | `48a2ce1bff9887130d5cbfb1e9a6bcaeb19d9460` | `a6df7831bbcd6f71e0bdaca76c23e85341d43a51` | `9bc740be38d2b59e1a098c1b31699a5b710539fa` |
 | 92 | `092.txt` | `a880ba08795a97b8343f5b49640e2a46b9b8a9ec` | **E91** | `98931f3b4140b17b93bba780fb12e99480487f20` | `08f1e23f7b62376bb290e4aeb47dc5baef366eac` | `ba293daf47e46313ffeaea3986809fe934925f89` |
 | 93 | `093.txt` | `7c4558df6c485c790389c25096cb5b1891b078bf` | **E92** | `d51eb4d49a1518a366550ace45288393bcf06d73` | `20059b83e37d4bd2227a5bfaaee9c2a65737ae0b` | `c6c39bc407410e70261f036115769800bdcc3a05` |
-| 94 | `094.txt` | `6e135c81be871986ae3842c6d8e29346d662aff7` | **E93** | `30e1d5378a952bf88dd0c0ac5b11e56af8ba280f` | `6702b7e21087f0aeb6a342d6b18a44e5f562fbae` | `2171f407becea18abf463b5ab7c3601cdd90f8b5` |
+| 94 | `094.txt` | `6e135c81be871986ae3842c6d8e29346d662aff7` | **E93** | `30e1d5378a952bf88dd0c0ac5b11e56af8ba280f` | `a947f3214ec0b4a3b975d28b05b138f3e0556fec` | `1fa331f306e65cf31584ce2fca5b09e32c122441` |
 | boundary | `095.txt` — *Madam Eight-Legs (1)* | `891ba63cdf585a6d5cb456cf55ac0c2a8a64dedc` | **E94** | `88b0d59eb7cc73e684a1d56c7db610c53cd92413` | next family | next family |
 
 Verified shifted mapping remains **90→E89 through 94→E93; 95→E94**.
@@ -66,3 +66,17 @@ Verified shifted mapping remains **90→E89 through 94→E93; 95→E94**.
 ## Verdict
 
 **PASS.** Chapters 90–94 have been rebuilt for complete source coverage and may remain accepted. The completeness audit advances to **Madam Eight-Legs (95–100)**.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-26  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapters 90–93 were reread against their Chinese-primary sources and remain complete with no new ordinary defect.
+- Chapter 94 restored the source-explicit **blood, torn flesh, and fragments of internal organs** running down the thorn-tree trunk.
+- Sanitization fidelity and completeness were rerun across Chapters 90–94 after repair.
+- Shifted mapping remains **90→E89 through 94→E93**; target 95/E94 begins *Madam Eight-Legs (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear. *Madam Eight-Legs (95–100)* has no Phase-4 remediation targets; continue to the next affected family, **Nostalgia (101–104)**, with remediation targets Chapters **101** and **103**.

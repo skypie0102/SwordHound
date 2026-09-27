@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/426.txt` — `7a527c11456c8790490a662e2051870efdab734a`
 - English witness: **E424** — `e6550fdb5f55f4bfd17a8f4df791ec10b4e9ae7a`
-- Draft: `manuscript/drafts/chapter-0426.md` — `e838c5f2ab0a76428fa02d982da299d5896be069`
+- Draft: `manuscript/drafts/chapter-0426.md` — `e532dd4bdfefec01581fc1aff99485a183112695`
 
 ## Checks
 - PASS — Ark is explicitly a deliberately created refugee myth devised by Dolores/Martin Luther/senior Quovadis clergy, not an ancient prophecy falsely presented as real.
@@ -19,3 +19,14 @@
 - PASS — Accepted glossary form Chimeries controls for the Fourth Corpse despite aligned witness Cimeries spelling.
 - PASS — Chapter ends with news that Bianca / Sniper of the Night is surrounded.
 - LIMIT — designated Fandom remains robots-blocked; established glossary canon is reused and source-local forms remain explicitly unverified.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the stockpile scale as enough to feed the entire Empire for several months, the explicit plan to assassinate the core figure while Donquixote defenses are thinner, and Tudor smashing straight through the tent wall and racing ahead after Bianca’s emergency is reported.
+
+The complete Night Walkers family was reread after remediation. Mapping remains **425→E423 through 429→E427**; target **430→E428** begins *The Lion King (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Night Walkers family QA.

@@ -104,6 +104,8 @@ Again.
 
 “Vikir!”
 
+He repeated the name carefully and reverently, like a devout believer invoking a god, his voice full of trust, affection, and joy.
+
 Soon the other warriors joined him.
 
 The anxiety of the past days broke all at once.
@@ -202,15 +204,15 @@ Other tribes scattered across the jungle.
 
 People who ran barefoot across terrain that cut Imperial soldiers apart.
 
-Archers who hit tiny targets from impossible distances.
+Archers who could hit a willow leaf from thousands of paces away.
 
 Warriors who split giant beasts with axes and blades.
 
 If Vikir could make those tribes owe him a debt—
 
-if he could turn gratitude into lasting alliance—
+if he could use that debt to bring the mountain tribes under his influence—
 
-then he would gain a force capable of pressuring Baskerville itself.
+then he would gain an independent force capable of standing against Baskerville itself.
 
 More importantly, stopping Red Death early prevented the tribal collapse that had strengthened Baskerville in his previous life.
 
@@ -238,7 +240,7 @@ The message spread ahead of him.
 
 Ballak arrived.
 
-Rokoko survivors arrived.
+Rokoko arrived—the shamanic tribe infamous for its cannibalistic customs.
 
 Other tribes followed.
 

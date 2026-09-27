@@ -2,8 +2,8 @@
   "chapter": 406,
   "title": "Jailbreaker (4)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Jailbreaker",
     "range": [
@@ -11,8 +11,8 @@
       408
     ],
     "family_qa_path": "qa/families/jailbreaker-0403-0408.md",
-    "family_qa_sha": "995ba17ff1c02e34b2c2da6e2b1eab76ba292215",
-    "status": "pass"
+    "family_qa_sha": "b65f902ab7b260d633ba5a909ba3ad321009cd4d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/406.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-404.xhtml",
     "english_reference_sha": "784afb1f64d72fc3ac23b4d7ed472eccbec2b2d0",
     "draft_path": "manuscript/drafts/chapter-0406.md",
-    "draft_sha": "61a6faebccc3cee2d72e9092cf6ab283b249a772",
+    "draft_sha": "9afc9dee41530d3845ecffe991e4e1bfe508ac5d",
     "qa_path": "qa/chapter-0406.md",
-    "qa_sha": "b69cf82c5c462f8195addf2cd58a34858a7d0ba6",
+    "qa_sha": "a3215393fc196fa84099aad841624767d71e179f",
     "provenance_path": "editorial/provenance/chapter-0406.json",
-    "provenance_sha": "cfc28bfa7bed58f5d491086fbd86a69e5837f257"
+    "provenance_sha": "25fcf37e721e72f3e75038ad089ed598414bea0f"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No End game material from target409 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored Asmodeus First-Corpse sacrifice connection"
+  }
 }

@@ -72,7 +72,7 @@ Sinclaire crouched nearby.
 
 “Then this temperature.”
 
-She had removed most of the heavier outer clothing during the heat.
+Because of the earlier heat, Sinclaire was left wearing only a black sleeveless shirt.
 
 Putting the cloak back on now—
 

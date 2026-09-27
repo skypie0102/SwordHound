@@ -9,7 +9,7 @@
       51
     ],
     "family_qa_path": "qa/families/husband-hunt-0046-0051.md",
-    "family_qa_sha": "e0cb8241dea5dc85bd60feb72b992993b04c4689",
+    "family_qa_sha": "c68d6387dad0e0024c2d45396b7abd4b28b922cd",
     "status": "pass"
   },
   "primary_source": {
@@ -51,7 +51,7 @@
   },
   "qa": {
     "path": "qa/chapter-0046.md",
-    "blob_sha": "c08b3b3b085c52633f9bc6da22d77fceb90d132b",
+    "blob_sha": "73b1cf568e9b10a22a58c06814f534c6a3793bf9",
     "status": "pass"
   },
   "documented_decisions": [
@@ -77,5 +77,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "family_revalidated_and_rebound",
+    "family_reviewed": [
+      46,
+      51
+    ],
+    "manuscript_changed": false,
+    "note": "full-family Phase 4 reread confirmed no manuscript correction required"
+  }
 }

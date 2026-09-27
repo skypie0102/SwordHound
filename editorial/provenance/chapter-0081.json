@@ -9,7 +9,7 @@
       82
     ],
     "family_qa_path": "qa/families/saintess-0078-0082.md",
-    "family_qa_sha": "31d39fa90f372040ba6b5867b68f4b5d7ffcf8a7",
+    "family_qa_sha": "a4c71d8d9a59bb0e20628d0e5576d9f454d12610",
     "status": "pass"
   },
   "primary_source": {
@@ -47,11 +47,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0081.md",
-    "blob_sha": "9ce5707df73fb578ba50774c09ae0af87193b87b"
+    "blob_sha": "af355913e8f967cbb603c6400e6b49537ca243d2"
   },
   "qa": {
     "path": "qa/chapter-0081.md",
-    "blob_sha": "088c15acf8afe22fb7b487d973650fb2c4141750",
+    "blob_sha": "94a33fe7ab2eab7ff2c1df954b19e714fca5d0f5",
     "status": "pass"
   },
   "documented_decisions": [
@@ -87,5 +87,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      78,
+      82
+    ],
+    "manuscript_changed": true,
+    "note": "restored exact divine-power arithmetic, broad monster merit, blood-flow treatment image, and concrete sacrifice comparison"
+  }
 }

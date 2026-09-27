@@ -2,7 +2,7 @@
 
 > Chinese-primary reconstruction from `source/chinese/chapters/464.txt`. Recovered English Chapter 462 is the verified shifted secondary witness. Established project terminology controls Orca Montreuil-sur-Mer Javert, D’Ordume, Souare, BDISSEM, Flubber J. Tarbond, Sakkuth de Leviathan, Nouvelle Vague, Marquis de Sade, Poison Humans, Red Death, Tochka, and the Forty-Seven Riot. The next family begins at target465 / E463.
 
-D’Ordume’s spinning axe-blades carved through Poison Humans like a storm.
+D’Ordume’s spinning axe-blades pulverized the Poison Humans below the wall into slices of meat.
 
 Souare struck the ground.
 
@@ -210,7 +210,7 @@ Orca’s talent for fortress defense finally had the manpower to express itself 
 
 “Roll every stone stockpile off the battlements!”
 
-A familiar officer translated Orca’s intent before anyone could ask.
+**Lieutenant Bastney** resumed overall command and translated Orca’s intent before anyone could ask.
 
 “The fire crews are going for oil and powder!”
 

@@ -24,3 +24,18 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 422 restores the distinct succession dialogue, Donquixote/Usher collateral-line context, concrete neighboring-city Night Walkers report (**roughly half the city followed them**), the “why not Wakewack?” / manpower exchange, and the full mixed public-response spectrum.
+- Chapter 423 restores the father’s **iron rod**, the gnoll head bursting **like a watermelon**, and Shammua’s post-rescue admiration/curiosity with gratitude stronger than fear.
+- Chapter 424 restores **burst internal organs** in the escalated battlefield imagery, the survival aphorism that survivors become stronger, and Tudor’s throat-tightening emotional reaction to the rare water-and-herb bread gift.
+- Sanitization fidelity and completeness were rerun across Chapters 422–424.
+- Mapping remains **422→E420, 423→E421, 424→E422**; target **425→E423** begins *The Night Walkers (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **The Night Walkers (425–429)**.

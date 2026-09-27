@@ -260,13 +260,11 @@ But Pigi had already lost too much blood.
 
 The Hell Tree seeds had spread like shrapnel.
 
-Deep.
+They embedded deep throughout Pigi's body—
 
-Through flesh.
+tearing through his internal organs.
 
-Through organs.
-
-Pigi swallowed a mouthful of blood.
+Pigi swallowed the blood clots rising into his mouth.
 
 “My only real talent is closing the Hell Tree.”
 

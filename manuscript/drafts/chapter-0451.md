@@ -306,6 +306,10 @@ Hippolyte.
 
 Whitebeard Whale.
 
+The former director of the Varangian Training Hall, **Dirakium**, had never recovered from the injuries inflicted by Sadi’s attack and had eventually died.
+
+**Basilios** had succeeded him as the new director.
+
 “This isn’t the time for blame.”
 
 “Principal Banshee.”

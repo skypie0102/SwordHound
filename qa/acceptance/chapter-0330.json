@@ -2,8 +2,8 @@
   "chapter": 330,
   "title": "The Shadowless King of the Black Sea (5)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "The Shadowless King of the Black Sea",
     "range": [
@@ -11,8 +11,8 @@
       330
     ],
     "family_qa_path": "qa/families/shadowless-king-black-sea-0326-0330.md",
-    "family_qa_sha": "04dd54bfd7eba8c8c852aed92ff2ec629cf7a578",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "516fe17093e0673dae9ef1540b53b5e9de18457a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/330.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-328.xhtml",
     "english_reference_sha": "59c74dd123755ff13c7aef8557d9814446bc4b90",
     "draft_path": "manuscript/drafts/chapter-0330.md",
-    "draft_sha": "f770a68fd3bcf27e846253812a4d4266c53a541e",
+    "draft_sha": "6205e2c913eea1e0d84c1b8629a0a5e5b992a366",
     "qa_path": "qa/chapter-0330.md",
-    "qa_sha": "dc1ef0c8b14e6588a30f9ea660dc302382cb799c",
+    "qa_sha": "e25df6dda6c25699f35a67845ae6ad343fa0122b",
     "provenance_path": "editorial/provenance/chapter-0330.json",
-    "provenance_sha": "9a25155f3ea681c05ee2d6de38d4262bddf11565"
+    "provenance_sha": "c36b03e6446954722a95f09f94a0947bdbb9095f"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
@@ -44,5 +44,12 @@
     "family_evidence": "qa/families/shadowless-king-black-sea-0326-0330.md",
     "initial_priority_target": false
   },
-  "reward_note": "A+ Majin and S-rank Shadowless King achievements remain separate."
+  "reward_note": "A+ Majin and S-rank Shadowless King achievements remain separate.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored no-more-than-ten Sword Masters count, Baby Madam butt-line origin, and slow-roasting fate"
+  }
 }

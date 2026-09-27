@@ -2,8 +2,8 @@
   "chapter": 286,
   "title": "Power Inflation (4)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Power Inflation",
     "range": [
@@ -11,8 +11,8 @@
       290
     ],
     "family_qa_path": "qa/families/power-inflation-0283-0290.md",
-    "family_qa_sha": "78ddf6929302c374c314a92bce47d49d262f96b3",
-    "status": "pass"
+    "family_qa_sha": "a73a5c489bd327a448d1b07e98682677ec0445a4",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/286.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-284.xhtml",
     "english_reference_sha": "0f5f8718a37fcd25db05cad6d61c13d93cbf4bdf",
     "draft_path": "manuscript/drafts/chapter-0286.md",
-    "draft_sha": "ebf4e01dfcac7af68d574ecab7c423d01da17ccd",
+    "draft_sha": "3ac223ba250bed473a23a6789b0a59390e83cc5b",
     "qa_path": "qa/chapter-0286.md",
-    "qa_sha": "91bf7ed913436e53adc07c6277342422d90d4a0c",
+    "qa_sha": "96b49ec8c7cb4823e10b411fda5759289902bf5f",
     "provenance_path": "editorial/provenance/chapter-0286.json",
-    "provenance_sha": "13bbeff9148c5c8d3fb053633fdeeeb2cfa429ac"
+    "provenance_sha": "cfb3d12f968b664f63255e8d1e2171de197b0d6f"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
@@ -32,5 +32,12 @@
   ],
   "documented_corrections": [
     "Baskerville Eighth Form retained from eight-fang evidence and aligned E284; local Chinese Fourth Form treated as extraction/term drift."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored tattered-rag body-destruction image"
+  }
 }

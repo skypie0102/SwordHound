@@ -429,7 +429,9 @@ Everything nearby was torn apart.
 
 Camus’s Wraith Tree shook violently.
 
-Her coat burned away.
+Her thick coat burned away—
+
+leaving her skin exposed.
 
 The defensive barrier she threw up—
 
@@ -437,17 +439,19 @@ failed to stop the full force.
 
 Blood rose in her throat.
 
-Her knees weakened.
+Her strength slowly drained away.
+
+Her body began to collapse.
 
 *Is this it?*
 
 A threshold of death seemed to open at the edge of her vision.
 
-Then—
+Just as she was about to fall—
 
 FLAP.
 
-A black leather coat fell across her exposed shoulders.
+A black leather coat dropped over her nearly half-naked body.
 
 Someone stepped in front of her.
 

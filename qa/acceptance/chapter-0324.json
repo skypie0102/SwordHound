@@ -2,8 +2,8 @@
   "chapter": 324,
   "title": "Underdogma (4)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Underdogma",
     "range": [
@@ -11,8 +11,8 @@
       325
     ],
     "family_qa_path": "qa/families/underdogma-0321-0325.md",
-    "family_qa_sha": "43e8526ecc65f43bfa970d7641c90bcb77a19cb0",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "3e5376a445631aaafe49b0617288af3b0b058d93",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/324.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0324.md",
     "qa_sha": "3bd88ab797af19f5795ba271b5a5a1a39e193e28",
     "provenance_path": "editorial/provenance/chapter-0324.json",
-    "provenance_sha": "6f2740c987dd618cd3ab279412ac4e4429b87d82"
+    "provenance_sha": "67271ec194e95512344601737641a46961dc8562"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
@@ -44,5 +44,12 @@
     "family_evidence": "qa/families/underdogma-0321-0325.md",
     "initial_priority_target": true
   },
-  "majin_note": "A+ Majin transition with dual mission state preserved."
+  "majin_note": "A+ Majin transition with dual mission state preserved.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

@@ -2,8 +2,8 @@
   "chapter": 195,
   "title": "Attack Land (6)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Attack Land",
     "range": [
@@ -11,8 +11,8 @@
       196
     ],
     "family_qa_path": "qa/families/attack-land-0190-0196.md",
-    "family_qa_sha": "8220b5dc193098d15d50cdaa603aece714a7702d",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "452f95fd219d05522abb26135f1312dadfa64253",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/195.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0195.md",
     "qa_sha": "be6835c793758b943981a8e4b1fa3879f0d5a142",
     "provenance_path": "editorial/provenance/chapter-0195.json",
-    "provenance_sha": "6d7029938c6063a624a92ffa9f7ce53bd2069099"
+    "provenance_sha": "bd509e9822f02125f4d076f4528a373617696a8c"
   },
   "canonical_checks": [
     "Vikir",
@@ -50,5 +50,12 @@
     "reviewed_date": "2026-09-20",
     "result": "rebuilt_and_passed",
     "family_evidence": "qa/families/attack-land-0190-0196.md"
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
   }
 }

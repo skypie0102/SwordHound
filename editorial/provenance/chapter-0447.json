@@ -9,8 +9,8 @@
       449
     ],
     "family_qa_path": "qa/families/fall-of-usher-0441-0449.md",
-    "family_qa_sha": "0e77f91190c5c40973d293e4c289065460185c47",
-    "status": "pass"
+    "family_qa_sha": "eb58813e9f65cf30b850a97a5f9639853f6af7fb",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/447.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0447.md",
-    "blob_sha": "2c57dd749645cf86b7fd3b1257f9d183a53d40e2"
+    "blob_sha": "603f1c1fa4a5b889a9d948a9f28a9161329f058a"
   },
   "qa": {
     "path": "qa/chapter-0447.md",
-    "blob_sha": "c641465daf58318d3329d193476e901df1cc9dc5",
-    "status": "pass"
+    "blob_sha": "a65b8dae108509950bf0b4f060d637eb3a42584e",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Fresh Fandom search indexing confirmed Andrealphus/Madeline Usher, Roderick Usher, Isolde Usher, Masyaf, and Love Shield where applicable. Direct page access remains robots-limited; unsupported local forms remain explicitly source-local.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "key_reveal": "Madeline's shell gives way to Third Corpse Andrealphus / Ice Duke, Chinese-primary Danger Rating S+."
+  "accepted_date": "2026-09-27",
+  "key_reveal": "Madeline's shell gives way to Third Corpse Andrealphus / Ice Duke, Chinese-primary Danger Rating S+.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      441,
+      449
+    ],
+    "manuscript_changed": true,
+    "note": "restored Daylily body-horror, size-tradeoff, body-fragment handling, and internal-organ spill details"
+  }
 }

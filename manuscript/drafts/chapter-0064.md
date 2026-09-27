@@ -276,9 +276,11 @@ The larvae were said to have a rich taste reminiscent of milk and egg yolk.
 
 The merchants sneered.
 
-They mocked the food, then the girl's skin.
+“Only you brown-skinned people eat things like that. We white-skinned people don't.”
 
-One of them made a lewd remark about her clothing.
+“Eating that kind of thing is how you end up black like a dung beetle. Hahaha!”
+
+One of them followed with a lewd remark about the girl's clothing.
 
 The girl did not understand every Imperial word.
 

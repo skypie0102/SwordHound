@@ -8,8 +8,8 @@
 
 | Target | Chinese source | Chinese SHA | Recovered-English witness | English SHA | Draft SHA | QA SHA |
 |---|---|---|---|---|---|---|
-| 139 | 139.txt | `29e3a8d69342fe6060038c06042102ed6d352146` | **E138** | `a04b8fb16ee9f246de51fbc30247009e6e48e3d8` | `1e049fb5a8d7ca1654bc1ab41400c50ea1fc11a0` | `be19e166853fa65af11817b6a5b74243eedae20a` |
-| 140 | 140.txt | `cdd9a996413b8b25bbdd467eba1d00c8a83f313f` | **E139** | `c6f7fa7bc85cc6035c3f5df0be667b4cda9e1f52` | `ed3cbfb7e7e0577b3c83e25b68d8169efdacfb9d` | `c8b593872067217dc644a1ec78942e51907369db` |
+| 139 | 139.txt | `29e3a8d69342fe6060038c06042102ed6d352146` | **E138** | `a04b8fb16ee9f246de51fbc30247009e6e48e3d8` | `f5ea0e1c0372c8f574df695524b67c06aeb604d5` | `9112eab82aadd0579c95ec74eaa663932e2b33f1` |
+| 140 | 140.txt | `cdd9a996413b8b25bbdd467eba1d00c8a83f313f` | **E139** | `c6f7fa7bc85cc6035c3f5df0be667b4cda9e1f52` | `b8c26f2bfce09ca4e511778a613de5618412f778` | `362109d1ee0610023a00d27243835cef3d49e97e` |
 | boundary | 141.txt — *Identity of the Villain (1)* | `edf8716cf3f79ba7b3bf5f67dfa7c775a3e38c06` | **E140** | `2b0e8524960469cb4000cfb7d29eb1a3941d20c9` | next family | next family |
 
 Mapping: **139→E138, 140→E139; 141→E140**.
@@ -40,11 +40,11 @@ Target 140 ends with Dolores L. Quovadis privately recovering the half-burned Ni
 - **Seven Fangs:** project Fang terminology controls the source's tooth imagery. The first six drive/setup the sequence while the small Seventh Fang functions as the lethal trap; it remains incomplete.
 - **Sword Master threshold:** Vikir associates the Seventh Fang reaching full size/completion with his future Sword Master breakthrough.
 - **Hugo:** Vikir's hatred has softened after learning Seth's role in his execution, but he still holds Hugo responsible for carrying out the execution and treating sons/hounds as expendable.
-- **Interrogation:** physical/mana evidence is retained as an information source; gratuitous dissection/torture detail is reduced.
+- **Interrogation:** Vikir explicitly states that only Ephebo's mouth is needed after cutting off his hands and feet; after pinning him on a hooked iron support, Vikir plans to obtain information by dissecting the body piece by piece and reading physical/mana evidence.
 - **Doxeller failsafe:** his delirious references to “he” and “my face” precede a demon-triggered self-destruction tied to opening/accessing the hidden safe.
 - **Ephebo escape:** occurs during the blast and requires nonhuman durability.
 - **Ledger:** Vikir prioritizes child-transfer / payment records over illicit wealth and plans to send them to Cindywendy.
-- **Orphanage aftermath:** guards discover suspicious Quovadis-affiliated wealth and dozens of child remains, roughly ages ten to thirteen.
+- **Orphanage aftermath:** suspicious wealth is tied to children sold to demons **as food**; guards recover dozens of child bodies, roughly ages ten to thirteen, reduced to **skin and bone**, and cite splattered **blood and flesh** as attack-scene evidence.
 - **Academy newspaper rule:** first-years report only inside campus; second- and third-years may cover off-campus incidents.
 - **Dolores:** arrives because the attacked institution is tied to Quovadis, then privately recovers Vikir's half-burned plague-doctor mask.
 - **Boundary discipline:** target 141 villain-identity material is excluded.
@@ -54,3 +54,17 @@ Target 140 ends with Dolores L. Quovadis privately recovering the half-burned Ni
 PASS.
 
 Targets 139–140 form a complete two-part bridge: academic discovery → Bianca's explicit strength standard → first substantial Quovadis-linked demonic clue → orphanage records and Dolores recovering the Night Hound mask. Chinese remains semantic authority, canonical project names control established entities, and the family stops cleanly before *Identity of the Villain (1)*.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-26  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 139 restores Doxeller's premium-child criteria—noble birth, fine/pale appearance, literacy/education—plus his flesh-and-blood self-incrimination and Vikir's imminent decapitation image.
+- Chapter 140 restores the source-level hands/feet threat, detailed Seven-Fang injury sequence, hooked-iron impalement, piece-by-piece dissection intent, bloody-finger safe digging, Ephebo's flesh/internal-organ escape remnants, children sold to demons as food, skin-and-bone child remains, and splattered blood/flesh crime-scene evidence.
+- Sanitization fidelity and completeness were rerun across Chapters 139–140 after repair.
+- Shifted mapping remains **139→E138, 140→E139**; target 141/E140 begins *Identity of the Villain (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Identity of the Villain (141–143)**.

@@ -18,3 +18,15 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-28  
+**Segment result:** PASS after remediation and reread.
+
+- Chapter 478 restores the Oxbear strike **completely shattering Flauros's skull**.
+- Mapping remains **478→E476**.
+- Chapter QA, provenance, acceptance, segment QA, tracker, and Cycle-2 ledger bindings are refreshed.
+
+**Phase-4 disposition:** segment clear; continue to **Downtown Naval Warfare (479–482)**.

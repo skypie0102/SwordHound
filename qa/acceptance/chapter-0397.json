@@ -2,8 +2,8 @@
   "chapter": 397,
   "title": "Dead Man Walking (2)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Dead Man Walking",
     "range": [
@@ -11,8 +11,8 @@
       398
     ],
     "family_qa_path": "qa/families/dead-man-walking-0396-0398.md",
-    "family_qa_sha": "45ec5003f1c8edd972f57c7039665348814d5a4c",
-    "status": "pass"
+    "family_qa_sha": "52bf167acb1086d43c17d34c747f570e29e9329c",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/397.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-395.xhtml",
     "english_reference_sha": "b82f6232a072de0e2a329a9b46bc48dde46f1f64",
     "draft_path": "manuscript/drafts/chapter-0397.md",
-    "draft_sha": "6b4ac9950456e83652b7c0becf817e0a276f8d02",
+    "draft_sha": "d9612e6d9e0e1ffd1cfd3b2e1246880bf62b9c60",
     "qa_path": "qa/chapter-0397.md",
-    "qa_sha": "da0f2b24c2a1a2df8468cb0d95f7418385e52156",
+    "qa_sha": "e0a0f93179a60d3f77f1a68805eb677d2f2890b7",
     "provenance_path": "editorial/provenance/chapter-0397.json",
-    "provenance_sha": "2f7beafd02f9f491f702bf5ea128d76e8cda5e2f"
+    "provenance_sha": "1aee622872de8e579f7317b6563b6bc711e6c743"
   },
   "documented_limits": [
     "Direct Fandom re-check remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
     "No Black Tongue material from target399 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored cavern-filling terror effect and fresh, wriggling piece-of-meat body-horror image"
+  }
 }

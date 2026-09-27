@@ -9,8 +9,8 @@
       272
     ],
     "family_qa_path": "qa/families/rich-friends-0270-0272.md",
-    "family_qa_sha": "40835cea0a3e53dc8d4db523fe458d303d8ca602",
-    "status": "pass"
+    "family_qa_sha": "1b732ea7ca7a1da7aebf0ec80643c48d2034afac",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/272.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0272.md",
-    "blob_sha": "48413bf16b6b4111f94cc266a252c1cc93cff7ee"
+    "blob_sha": "ddc98aac78d0f8a10aae330be2dd97475ae4841a"
   },
   "qa": {
     "path": "qa/chapter-0272.md",
-    "blob_sha": "2e09901d94ce0999be0b1f18a3ec6734614ba73a",
-    "status": "pass"
+    "blob_sha": "20ae15c5382922ca1ab979617aac241e30109223",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused. Winston/Orwell/Nouvelle Vague remain source-local pending direct access.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "reveal_guard": "Winston Smith / damaged Orwell remain a separate Academy mystery; no Sixth-Corpse or demon identity inferred."
+  "accepted_date": "2026-09-27",
+  "reveal_guard": "Winston Smith / damaged Orwell remain a separate Academy mystery; no Sixth-Corpse or demon identity inferred.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      270,
+      272
+    ],
+    "manuscript_changed": true,
+    "note": "restored sharp-blade sever-the-hidden-demon's-head image"
+  }
 }

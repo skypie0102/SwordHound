@@ -78,9 +78,9 @@ Garam’s method looked ordinary.
 
 He punished prisoners who tried to slack off.
 
-But Vikir understood exactly how to use pain without ruining a worker’s ability to move.
+But Vikir knew exactly which vital points and body regions to strike to maximize pain without reducing a prisoner's ability to work.
 
-The baton came down again and again.
+The three-section baton swung again and again like a cleaver chopping meat.
 
 Prisoners who had ignored the old Garam changed almost immediately.
 
@@ -236,17 +236,15 @@ More force applied to Poseidon.
 
 If prisoners refused to work—
 
-he had enough tools to make them reconsider.
+he could starve them.
 
-Starvation Drought.
+Whip them.
 
-Experience from the Age of Destruction.
+Use Starvation Drought.
 
-A lifetime of understanding what broke resistance.
+And add the torture techniques he had learned in the Age of Destruction until even their will—their very souls—submitted.
 
-Vikir did not need elaborate cruelty.
-
-Only compliance.
+The point was compliance.
 
 *Eventually D'Ordume will issue the order himself.*
 
@@ -370,7 +368,7 @@ He was right.
 
 An order in Nouvelle Vague was not optional.
 
-The survival rate might be terrible.
+The chance of death in that situation was said to be **over 98 percent**.
 
 That changed nothing.
 

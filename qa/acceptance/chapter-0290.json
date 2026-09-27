@@ -2,8 +2,8 @@
   "chapter": 290,
   "title": "Power Inflation (8)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Power Inflation",
     "range": [
@@ -11,8 +11,8 @@
       290
     ],
     "family_qa_path": "qa/families/power-inflation-0283-0290.md",
-    "family_qa_sha": "78ddf6929302c374c314a92bce47d49d262f96b3",
-    "status": "pass"
+    "family_qa_sha": "a73a5c489bd327a448d1b07e98682677ec0445a4",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/290.txt",
@@ -20,15 +20,22 @@
     "english_reference_path": "source/chapters/chapter-288.xhtml",
     "english_reference_sha": "cb45f187eace1f2b0f9ed16f1fc90d81ad9920ae",
     "draft_path": "manuscript/drafts/chapter-0290.md",
-    "draft_sha": "d292861e46efd31ec274c74f25d6e8e7907a47f9",
+    "draft_sha": "8d2667f9924649a4a6b1bb7fe4b2a6c1a1d89a67",
     "qa_path": "qa/chapter-0290.md",
-    "qa_sha": "dae68b784493bb6ea5fba985da4f61e5ebee7ce6",
+    "qa_sha": "6edcabad2b582ad8233b0c8b627640f8cf55f1dc",
     "provenance_path": "editorial/provenance/chapter-0290.json",
-    "provenance_sha": "991186e00585ac5f8f0b3d9be13b2cb6e792e6a0"
+    "provenance_sha": "7d62e5e3e26794013f03874b0ec5a263b7ce2763"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
     "No The Successors material from target291 is imported."
   ],
-  "safety_note": "Counterfeit-currency event retained at narrative level only; no practical real-world replication instructions added."
+  "safety_note": "Counterfeit-currency event retained at narrative level only; no practical real-world replication instructions added.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored thorn-like muscle-fiber/skin strain and fountain-like black blood"
+  }
 }

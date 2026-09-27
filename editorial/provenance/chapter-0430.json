@@ -9,8 +9,8 @@
       433
     ],
     "family_qa_path": "qa/families/lion-king-0430-0433.md",
-    "family_qa_sha": "905fa2eded9bd217115181dd2fb730bb4f85d202",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "8c775da59f3dbb74656632fd35eb7866d8e2d705",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/430.txt",
@@ -29,11 +29,11 @@
   "qa": {
     "path": "qa/chapter-0430.md",
     "blob_sha": "1f149e0686d0fcca406492dd182c6d3e74109fd2",
-    "status": "pass_after_completeness_rebuild"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "historical_acceptance": {
     "accepted": true,
     "accepted_date": "2026-09-20",
@@ -47,5 +47,16 @@
     "family_evidence": "qa/families/lion-king-0430-0433.md",
     "initial_priority_target": false
   },
-  "environment_guard": "Warm-sea/fish/weather anomalies remain setup only; no unsupported cause assigned."
+  "environment_guard": "Warm-sea/fish/weather anomalies remain setup only; no unsupported cause assigned.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      430,
+      433
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

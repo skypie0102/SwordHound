@@ -296,7 +296,7 @@ Animal skins.
 
 Leaves.
 
-Almost no conventional clothing.
+Both were **almost naked**, their bodies covered only with animal skins and leaves.
 
 The man was covered in fresh mud.
 
@@ -336,7 +336,7 @@ The strength difference was overwhelming.
 
 Crack!
 
-His wrist gave out.
+His wrist broke.
 
 Vikir pulled him forward—
 

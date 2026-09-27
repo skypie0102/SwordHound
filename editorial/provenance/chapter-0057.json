@@ -9,7 +9,7 @@
       60
     ],
     "family_qa_path": "qa/families/hunter-hunted-0055-0060.md",
-    "family_qa_sha": "4cc415fa66c3f178af78f7a5130c3058936d88b7",
+    "family_qa_sha": "e838ea65fea66414cc29c2ebe80a6f96d008fb02",
     "status": "pass"
   },
   "primary_source": {
@@ -57,7 +57,7 @@
   },
   "qa": {
     "path": "qa/chapter-0057.md",
-    "blob_sha": "7f071afca07011058b38a354d119dac7bc5c7f48",
+    "blob_sha": "248ad2e5450a955c7a2317f5f5b12acdc053eb78",
     "status": "pass"
   },
   "documented_decisions": [
@@ -78,5 +78,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "family_revalidated_and_rebound",
+    "family_reviewed": [
+      55,
+      60
+    ],
+    "manuscript_changed": false,
+    "note": "full-family Phase 4 reread confirmed no ordinary manuscript correction required; English witness gap remains documented"
+  }
 }

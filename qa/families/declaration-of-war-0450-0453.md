@@ -30,3 +30,19 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 450 restores Juskin's sibling-specific question and defense of his second brother, the grotesque twisting of his submerged body, and the explicit statement that the demons once had **more than ten companions** before only the First and Second remained.
+- Chapter 451 restores **Dirakium's** eventual death from Sadi-inflicted injuries and **Basilios's** succession as the new Varangian Training Hall director.
+- Chapter 452 was reread against its Chinese-primary source and aligned witness and remains complete without manuscript changes.
+- Chapter 453 restores the **burnt, foul corpse stench** spreading after Vikir ignites the Poison Human bodies.
+- Sanitization fidelity and completeness were rerun across Chapters 450–453 after repair.
+- Shifted mapping remains **450→E448 through 453→E451**; target 454/E452 begins *Infiltration of the Water Source (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Infiltration of the Water Source (454–464)**, with queued remediation targets Chapters **455, 456, 459, 461, 463, and 464**.

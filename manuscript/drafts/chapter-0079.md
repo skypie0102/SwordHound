@@ -80,7 +80,7 @@ Doing so would implicate more than Leviathan and Bourgeois.
 
 Baskerville and Morgue had benefited from the old disaster too.
 
-When forty percent of the mountain tribes died, the balance of the ecosystem collapsed.
+When more than forty percent of the mountain tribes died, the balance of the ecosystem collapsed.
 
 Monsters multiplied.
 
@@ -166,9 +166,7 @@ Dolores followed.
 
 Mozgus.
 
-Paladins.
-
-Priests.
+Dozens of paladins and priests.
 
 “Is there really plague here?”
 

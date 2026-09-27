@@ -2,8 +2,8 @@
   "chapter": 349,
   "title": "Key man (2)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Key man",
     "range": [
@@ -11,8 +11,8 @@
       350
     ],
     "family_qa_path": "qa/families/key-man-0348-0350.md",
-    "family_qa_sha": "110ff172bc3f1dade8afa6cc0191200eb7e19227",
-    "status": "pass"
+    "family_qa_sha": "56c2212b539fa289c866953613a545f356e3180d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/349.txt",
@@ -20,15 +20,22 @@
     "english_reference_path": "source/chapters/chapter-347.xhtml",
     "english_reference_sha": "573d2866df43848a07a5a1c0f505d51093eb9ec9",
     "draft_path": "manuscript/drafts/chapter-0349.md",
-    "draft_sha": "ee18ad8e283d24b515664cb435c3742b8d06e806",
+    "draft_sha": "a022933d7e60b95420070b5388ca7e8883157b40",
     "qa_path": "qa/chapter-0349.md",
-    "qa_sha": "e0819fa1445328b56e6aa17b30b04642b4f39397",
+    "qa_sha": "1257a93ef5f6b57103ae704cf4a571bd9561d9b1",
     "provenance_path": "editorial/provenance/chapter-0349.json",
-    "provenance_sha": "59e25ef3a7c48f63b0f2bd826ff74015e723872d"
+    "provenance_sha": "8d46e24f67959a9ae4aacac8f5db6958e46283a5"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established project glossary forms were reused.",
     "No Outside the Tower material from target351 is imported."
   ],
-  "uncertainty_guard": "Pigi blood origin remains unknown."
+  "uncertainty_guard": "Pigi blood origin remains unknown.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored internal-organ melting, terrible agony, and final body-splitting fairy death"
+  }
 }

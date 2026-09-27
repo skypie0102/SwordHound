@@ -9,8 +9,8 @@
       464
     ],
     "family_qa_path": "qa/families/infiltration-water-source-0454-0464.md",
-    "family_qa_sha": "95b46b995f843a4467756c139716f759468af4ad",
-    "status": "pass"
+    "family_qa_sha": "bbb073de678ceaf62268d2d5c0a853937007fa6a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/461.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0461.md",
-    "blob_sha": "607094a86b3b80625c587f93fba35bdc0d5b00d0"
+    "blob_sha": "f04a58f7ed584e7395e337ad9779fffbe28600e5"
   },
   "qa": {
     "path": "qa/chapter-0461.md",
-    "blob_sha": "11b74c88a1078fc0ef792614d6ffc1c95ba123a2",
-    "status": "pass"
+    "blob_sha": "e60bb50bbacd27e489118c51db565bab6bdc51e4",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; indexed Fandom evidence and established glossary forms used.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "documented_correction": "Flauros Danger Rating is S+ from Chinese; shifted E459 S rejected."
+  "accepted_date": "2026-09-27",
+  "documented_correction": "Flauros Danger Rating is S+ from Chinese; shifted E459 S rejected.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      454,
+      464
+    ],
+    "manuscript_changed": true,
+    "note": "restored Camus collapse and source-supported near-half-naked state without erotic expansion"
+  }
 }

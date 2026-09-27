@@ -9,8 +9,8 @@
       470
     ],
     "family_qa_path": "qa/families/prelude-counterattack-0465-0470.md",
-    "family_qa_sha": "7a725aedfa48c2d6e5a7a485938b41fd946b0163",
-    "status": "pass"
+    "family_qa_sha": "4c8a5c4d4441b905738ae8106f6cbdfbb839a359",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/467.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0467.md",
-    "blob_sha": "c3eb095e72eb2e183b37254d05bdb87259c8fbf7"
+    "blob_sha": "dc10e3d97163802da8f906d74314b3f724ae159b"
   },
   "qa": {
     "path": "qa/chapter-0467.md",
-    "blob_sha": "b94639c89bd0153b379586be7496c320ce20092e",
-    "status": "pass"
+    "blob_sha": "5066977e68eada4b9f780ad3ac8c5cff12b6bfb2",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; indexed Fandom evidence and established glossary forms used.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-28",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-28",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      465,
+      470
+    ],
+    "manuscript_changed": true,
+    "note": "restored Vikir resting his head on Dolores's shoulder"
+  }
 }

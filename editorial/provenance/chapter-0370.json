@@ -9,8 +9,8 @@
       370
     ],
     "family_qa_path": "qa/families/servant-0369-0370.md",
-    "family_qa_sha": "252295d65f520aad8536e16934099c2a0503e56c",
-    "status": "pass"
+    "family_qa_sha": "7defca9b4321d57a082f669a73bb6c2f02a0db15",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/370.txt",
@@ -24,18 +24,29 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0370.md",
-    "blob_sha": "83e76b9818f6bc7866db2c5e6de5102682d6f277"
+    "blob_sha": "89296cf17abe5d380ac13facd680eba9097e5e60"
   },
   "qa": {
     "path": "qa/chapter-0370.md",
-    "blob_sha": "ea09c6b7e1ce10cccdce07d159a05e2444a06a6f",
-    "status": "pass"
+    "blob_sha": "8b754385e9b3ae865c51f156afe24a3b3335aeb8",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference": "Designated Fandom index confirms D'Ordume D'Orcdile and Kirko Grimm; later spoilers not imported.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
+  "accepted_date": "2026-09-27",
   "key_reveals": [
     "D'Ordume is saltwater-crocodile beastfolk.",
     "Vikir receives 100 days of solitary confinement after deliberately surrendering."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      369,
+      370
+    ],
+    "manuscript_changed": true,
+    "note": "corrected D'Ordume kneeling subject and restored blood-covered aftermath"
+  }
 }

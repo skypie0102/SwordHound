@@ -2,8 +2,8 @@
   "chapter": 302,
   "title": "The Age of the Warmonger (4)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Age of the Warmonger",
     "range": [
@@ -11,8 +11,8 @@
       306
     ],
     "family_qa_path": "qa/families/age-warmonger-0299-0306.md",
-    "family_qa_sha": "6c75847573a37c5864587a0a4892066b9ca65bc5",
-    "status": "pass"
+    "family_qa_sha": "655f6980a8a117730fe475539d08eb0495246a73",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/302.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-300.xhtml",
     "english_reference_sha": "da4f4f6097f9cbba52159fbe72aa5c0be497b113",
     "draft_path": "manuscript/drafts/chapter-0302.md",
-    "draft_sha": "38ef661df59f67b3eb3f51ed16c7cdff19c36a86",
+    "draft_sha": "7398178514a614b804c5ac496fdff3caf2c3f8b0",
     "qa_path": "qa/chapter-0302.md",
-    "qa_sha": "00ace5ba903af723d8d7a48153bd4e5d5a3925c9",
+    "qa_sha": "42f5edd610414045f436d1dcf260a9537e82d5bf",
     "provenance_path": "editorial/provenance/chapter-0302.json",
-    "provenance_sha": "09c52c5137c7f0c08e6354cad8d7b0fbf59368c0"
+    "provenance_sha": "e4c951b1cd35b28c7132e1b59781c8ea9a4079f7"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Hell Tree interior content from target307 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored chest-room taunt and internal-organ tearing"
+  }
 }

@@ -2,8 +2,8 @@
   "chapter": 473,
   "title": "Tochka Annihilation Battle (3)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-28",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Tochka Annihilation Battle",
     "range": [
@@ -11,8 +11,8 @@
       475
     ],
     "family_qa_path": "qa/families/tochka-annihilation-0471-0475.md",
-    "family_qa_sha": "08babc668e1137750285061091f293ee383f384c",
-    "status": "pass"
+    "family_qa_sha": "b0eba6403c8ea3ba230af8ce22578630048369f7",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/473.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-471.xhtml",
     "english_reference_sha": "1e0d077cf7981d08aeca4458b51069eec2841b23",
     "draft_path": "manuscript/drafts/chapter-0473.md",
-    "draft_sha": "8edd3453ed2e52fc0a25be5f14b9ca1c02410cff",
+    "draft_sha": "0944fd88a8f83ab89ba2ae628f7ee373b6354130",
     "qa_path": "qa/chapter-0473.md",
-    "qa_sha": "8b7872284b4f123ff6bddbd103855e3a22583267",
+    "qa_sha": "4750e00165e136fa617aec3995ad0cc894435adb",
     "provenance_path": "editorial/provenance/chapter-0473.json",
-    "provenance_sha": "5d8b86ff5ce292060e98da4e2a76bda64eaeced9"
+    "provenance_sha": "012351052c18c1b4f167329999c64a3685254b57"
   },
   "documented_limits": [
     "Direct Fandom browsing remains robots-restricted; established glossary and indexed Fandom evidence control canonical forms.",
     "No target476+ material imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-28",
+    "manuscript_changed": true,
+    "note": "restored watermelon head-splitting image"
+  }
 }

@@ -27,3 +27,11 @@ Target 58 → E57 is verified by complete sequence: three-day Oxbear mating stak
 ## Mapping note
 
 The English witness is one chapter behind target numbering here. This is a verified content mapping, not a title-number assumption.
+
+## Cycle-2 Phase 4 family revalidation
+
+**Resolved 2026-09-26.** Full-family reread confirmed no ordinary manuscript correction is required. The three-day Oxbear exhaustion strategy, stimulant-like food, attack sequence, broken teeth, and blood spray remain complete; age-sensitive reproductive teasing remains safety-limited.
+
+## Phase-4 decision
+
+**PASS at chapter level after Phase-4 review.** Final acceptance requires the refreshed Chapters 55–60 family QA.

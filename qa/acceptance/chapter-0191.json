@@ -2,8 +2,8 @@
   "chapter": 191,
   "title": "Attack Land (2)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Attack Land",
     "range": [
@@ -11,8 +11,8 @@
       196
     ],
     "family_qa_path": "qa/families/attack-land-0190-0196.md",
-    "family_qa_sha": "8220b5dc193098d15d50cdaa603aece714a7702d",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "452f95fd219d05522abb26135f1312dadfa64253",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/191.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-189.xhtml",
     "english_reference_sha": "fb919bfe6cdd57b3460cef02c6c002e715505c2e",
     "draft_path": "manuscript/drafts/chapter-0191.md",
-    "draft_sha": "845c49feb18fded4b0d57c1b6d572155aa1755d4",
+    "draft_sha": "bc9914a26e0ef1c568132d578ff8b7acfa3f7d78",
     "qa_path": "qa/chapter-0191.md",
-    "qa_sha": "cc14a9243f095d5b2977deee85b4d2ea0e9be691",
+    "qa_sha": "8cf9cc5a8a0f38e19680d1be38413f154bdef33e",
     "provenance_path": "editorial/provenance/chapter-0191.json",
-    "provenance_sha": "fee17ed33e596e1048f3e7b76a9bae249be8b7d5"
+    "provenance_sha": "784e9d6db832d960f7a27cf43f6e1cda557c0e73"
   },
   "canonical_checks": [
     "Professor Sadi",
@@ -50,5 +50,12 @@
     "reviewed_date": "2026-09-20",
     "result": "rebuilt_and_passed",
     "family_evidence": "qa/families/attack-land-0190-0196.md"
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored bitten-off finger ends, wetting trauma response, and blood-river cruelty image"
   }
 }

@@ -288,9 +288,11 @@ But this humiliation—
 
 required no rivalry to understand.
 
-Some childhood disasters—
+Everyone had some childhood memory of having defecated in their pants.
 
-were universal.
+That kind of humiliation—
+
+was universal.
 
 Bakilaga scratched his head.
 
@@ -392,9 +394,9 @@ a small, unfamiliar fear appeared.
 
 Vikir’s lips moved.
 
-One weapon—
+In that instant—
 
-finally emerged.
+it was as though an ice-cold, razor-sharp dagger pierced straight into Hohenheim’s heart.
 
 “Shit-pants.”
 
@@ -485,6 +487,8 @@ It was far more primal.
 *Absolutely not.*
 
 *Please.*
+
+*I’d rather kill myself!*
 
 She covered herself front and back—
 

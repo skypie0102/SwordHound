@@ -9,8 +9,8 @@
       249
     ],
     "family_qa_path": "qa/families/survival-contest-0245-0249.md",
-    "family_qa_sha": "f7eb9e854fc1be7fb6d98d2c9a86e65449c09282",
-    "status": "pass"
+    "family_qa_sha": "1d9204cc4da5b32c361e247c4f705b228df68695",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/247.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0247.md",
-    "blob_sha": "2d8802daa24a28bb65afe1f8844032f31dbd00ae"
+    "blob_sha": "4354258f3985222f9f16eca7d0ab08e236d289e9"
   },
   "qa": {
     "path": "qa/chapter-0247.md",
-    "blob_sha": "69875bcbfaaf950eb44153dc313e963a0b7f36aa",
-    "status": "pass"
+    "blob_sha": "4c90c9e51f163fccbe20f605cce06b4b0d173db8",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-19",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/250.txt",
     "chinese_sha": "d7f5c33b3530b223aec8aa06abede7a38013e86d",
     "english_path": "source/chapters/chapter-248.xhtml",
     "english_sha": "c446be097b98c0609a35450640038009a0b502d1",
     "purpose": "target250 begins Recap (1)"
+  },
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      245,
+      249
+    ],
+    "manuscript_changed": true,
+    "note": "restored Dolores's red stew mark while eating"
   }
 }

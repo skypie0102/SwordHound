@@ -9,8 +9,8 @@
       233
     ],
     "family_qa_path": "qa/families/tuition-0225-0233.md",
-    "family_qa_sha": "ef916558f9b418e478b2dbd559f541db34d75238",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "eb414a8af2119b91abf36671340b7d5545d63b9e",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/225.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0225.md",
-    "blob_sha": "7e74e3087da7d6d218f257a42b254d55ac7cb556"
+    "blob_sha": "91f9dc58ca7c9fbd3c981d342d206016d7f214e6"
   },
   "qa": {
     "path": "qa/chapter-0225.md",
-    "blob_sha": "9da3c9c12758f8f29c5d35a88cb6974d3016ec63",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "c351e6f453cf3ae6c6d13b4ca351bf3adbfd0aec",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,7 +55,7 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/234.txt",
     "chinese_sha": "ed6edd25dd6b29710bed7cce56168a7703b50cee",
@@ -74,5 +74,16 @@
     "result": "rebuilt_and_passed",
     "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
     "family_evidence": "qa/families/tuition-0225-0233.md"
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      225,
+      233
+    ],
+    "manuscript_changed": true,
+    "note": "restored eyewitness deaths and source-level bloodshed-risk wording"
   }
 }

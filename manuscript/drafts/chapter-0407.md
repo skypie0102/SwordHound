@@ -230,7 +230,7 @@ Many were barely conscious.
 
 Some were already dead.
 
-Others had been reduced by the descent into masses of blood and flesh.
+Others had been reduced by the descent to a pot of stew made from flesh mush and bloody water.
 
 “Feed that one to Brigadier General Flubber.”
 

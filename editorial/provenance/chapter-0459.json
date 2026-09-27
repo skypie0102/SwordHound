@@ -9,8 +9,8 @@
       464
     ],
     "family_qa_path": "qa/families/infiltration-water-source-0454-0464.md",
-    "family_qa_sha": "95b46b995f843a4467756c139716f759468af4ad",
-    "status": "pass"
+    "family_qa_sha": "bbb073de678ceaf62268d2d5c0a853937007fa6a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/459.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0459.md",
-    "blob_sha": "2290134fa8be2bf1b8a6a9b19700207f7581c217"
+    "blob_sha": "fbe365e2297e27b049c9cf68a1d8bf36d0431375"
   },
   "qa": {
     "path": "qa/chapter-0459.md",
-    "blob_sha": "9334d58289fe44f355399166c55a965b25bcabf3",
-    "status": "pass"
+    "blob_sha": "8eaf4e7cb830c3ac8984c3c1b1570d1438b16785",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; indexed Fandom evidence and established glossary forms used.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      454,
+      464
+    ],
+    "manuscript_changed": true,
+    "note": "restored upper-half rolling-like-garbage degradation image"
+  }
 }

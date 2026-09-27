@@ -2,8 +2,8 @@
   "chapter": 129,
   "title": "Admission to the Academy (4)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Admission to the Academy",
     "range": [
@@ -11,8 +11,8 @@
       129
     ],
     "family_qa_path": "qa/families/admission-academy-0126-0129.md",
-    "family_qa_sha": "d1976d0ae2095d1c9234fdf5fb5f4de824bb9748",
-    "status": "pass"
+    "family_qa_sha": "422a0aa6361cee9efd8ee895b008d8d3797456d3",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/129.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-128.xhtml",
     "english_reference_sha": "0ee593a03f40125f495585cc02f52eee4d1608ff",
     "draft_path": "manuscript/drafts/chapter-0129.md",
-    "draft_sha": "11439549d2139947b6c1b0d68a150b5f9f72b7c7",
+    "draft_sha": "a64c45e13d18c06edd020f1f331494e147478b80",
     "qa_path": "qa/chapter-0129.md",
-    "qa_sha": "5c39a823a3cb49c7df32b7426518e7ea93e53b7b",
+    "qa_sha": "3e9beffaa64ac1b7c3aadc0ef3245bdb33641f59",
     "provenance_path": "editorial/provenance/chapter-0129.json",
-    "provenance_sha": "bde75dc3341ca85ebe1db5c929b3fc0ea87030bd"
+    "provenance_sha": "497b1c43335feb4c81435d09880533b2d0d187a7"
   },
   "canonical_checks": [
     "Ron Hubert Bartison",
@@ -39,5 +39,12 @@
     "Bartison's future military betrayal remains a prior-timeline memory, not a current crime.",
     "Pact clues do not identify a specific remaining Corpse.",
     "Target129 ends before target130 talent-show events."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored Bartison wrist/ankle severing, cauterization, throat strike, and brief death struggle"
+  }
 }

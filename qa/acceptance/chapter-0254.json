@@ -2,8 +2,8 @@
   "chapter": 254,
   "title": "Five Stars (2)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Five Stars",
     "range": [
@@ -11,8 +11,8 @@
       254
     ],
     "family_qa_path": "qa/families/five-stars-0253-0254.md",
-    "family_qa_sha": "5a5057161dfd291cf7215821ea812730e23f376d",
-    "status": "pass"
+    "family_qa_sha": "b3d80f198fd92e55b02205ee9c50a8e6935dc851",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/254.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-252.xhtml",
     "english_reference_sha": "c8c98e31ab8f3af22726901c4602b8b7c1e69492",
     "draft_path": "manuscript/drafts/chapter-0254.md",
-    "draft_sha": "2d6f0d3ee372eb7669e308ece3fa5ff1fad4f870",
+    "draft_sha": "9a8533647020238077d477989bbc18429c00a15a",
     "qa_path": "qa/chapter-0254.md",
-    "qa_sha": "0a6c875507ed532780fbfd35a43e4d25c5e30c9f",
+    "qa_sha": "333fccc335fa84624b2457823422ab8d50e116d9",
     "provenance_path": "editorial/provenance/chapter-0254.json",
-    "provenance_sha": "0c78d1f6a156340301837d948a751879512c1140"
+    "provenance_sha": "7100eac74abad680cccad2c569f0d97bf3360693"
   },
   "canonical_checks": [
     "Vikir",
@@ -41,5 +41,12 @@
   "documented_limits": [
     "Direct Fandom re-check remained unavailable; established glossary forms were reused.",
     "No The Grave of Swords events from target255 are imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored source-explicit secret-assassination terminology for Vikir's capital mission and targets"
+  }
 }

@@ -23,3 +23,14 @@
 - PASS — full-pack clear triggers a **Great** achievement and optional one-time difficulty increase / Bonus Stage.
 - PASS — Granola rejects the option; Vikir accepts it deliberately for greater reward.
 - PASS — Bonus Stage boss is **Cerberus**, A+, 7 m, Seventh Ridge, “Hell Watchdog.”
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the surviving Hell Hounds' source-explicit fear response: tails tucked, trembling, and wetting themselves before Cerberus crushes them.
+
+The complete Hell Tree family was reread after remediation. Chapters 308–310 and 312 remain unchanged and pass both Cycle-2 content gates. Shifted mapping remains **307→E305 through 313→E311**; target 314 begins *Surplus Man (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Hell Tree family QA.

@@ -2,8 +2,8 @@
   "chapter": 61,
   "title": "The Protagonist of Hunting (1)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Protagonist of Hunting",
     "range": [
@@ -11,7 +11,7 @@
       63
     ],
     "family_qa_path": "qa/families/protagonist-hunting-0061-0063.md",
-    "family_qa_sha": "d81ff09d6ec185a8c59730efb8957b7618ebc12c",
+    "family_qa_sha": "43124146b9a0e2786d44678d08296ff46b84561f",
     "status": "pass"
   },
   "evidence": {
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-060.xhtml",
     "english_reference_sha": "cf367731f723c719b61b06070cb648fa9cf23a95",
     "draft_path": "manuscript/drafts/chapter-0061.md",
-    "draft_sha": "12578e5de23cc4c4eb0f279ad14ee20ad1cd5c8b",
+    "draft_sha": "522ff4a192bc23b5163edc1bdb73d69c5fed30ea",
     "qa_path": "qa/chapter-0061.md",
-    "qa_sha": "ec787604f0abda5c3bb072f0fc89ab3e1a62c016",
+    "qa_sha": "fed553951718959a2910ed590b0879681aab8ca2",
     "provenance_path": "editorial/provenance/chapter-0061.json",
-    "provenance_sha": "055e01b3b99410c38452c0da8a72b0dfbcd217e6"
+    "provenance_sha": "0b5c9f3a8c2b195c67949161ca534138d15c51fb"
   },
   "canonical_checks": [
     "Beelzebub",
@@ -42,5 +42,12 @@
     "Recovered English is shifted by one chapter here: target 61 uses E60.",
     "Kilogram Hammer replaces the active Hellhound slot; later Beelzebub upgrades are not imported.",
     "The unnamed Oxbear organ remains unnamed and is not eroticized."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored runny-nosed-child comparison and removed unsupported tools use from Oxbear hard parts"
+  }
 }

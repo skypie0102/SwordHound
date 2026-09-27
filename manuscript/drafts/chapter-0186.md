@@ -222,6 +222,12 @@ The comments were worse.
 >
 > **Cold Department — First Year:** 9,889 by one person is real???
 >
+> **Cold Department — First Year:** The strategy explains the score, sure—
+>
+> **Hot Department — Third Year:** Even so, that's insanely impressive.
+>
+> **Cold Department — Third Year:** Even a four-person graduating-class team might not reach that score.
+>
 > **Hot Department — Fourth Year:** Now that the strategy is public, others can reproduce parts of it.
 >
 > **Hot Department — Third Year:** Columbus's egg. Hard the first time. Easy once someone shows you.
@@ -363,6 +369,8 @@ Recent newspapers provided the evidence.
 > **[Major Breaking News] Night Hound Strikes Again!?**
 >
 > At approximately 1:00 a.m. yesterday, the Imperial Capital's historic **Central Clocktower** was destroyed…
+>
+> The attack also caused a death toll, though the report did not give Vikir a reliable number to work from here…
 >
 > The Royal House has announced that every available measure will be used to bring the vicious criminal to the gallows…
 

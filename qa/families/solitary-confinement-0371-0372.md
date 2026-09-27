@@ -27,3 +27,17 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 371 restores Souaré's source-explicit **sexy mustache** wording and **seductive voice** while handling Vikir.
+- Chapter 372 was reread against its Chinese-primary source and remains complete without manuscript changes.
+- Sanitization fidelity and completeness were rerun across Chapters 371–372.
+- Mapping remains **371→E369, 372→E370**; target 373/E371 begins *Sucker Shark (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Sucker Shark (373–374)**, with remediation target Chapter **374**.

@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/189.txt` — `2188f948c27048203ba56cbf384f07b1bf694ba1`
 - English witness: **E187** — `3119e723eebdb865b487235d4297024272f031f0`
-- Draft: `manuscript/drafts/chapter-0189.md` — `b8f18cba51c098537ac5d3e77d84af0d817c5adb`
+- Draft: `manuscript/drafts/chapter-0189.md` — `a6b1888d88f426cec54a40e04a72e5684a0071c3`
 - Boundary: C190 — `090ea8b431f3d46a7c53469a4f2c0b4c621eef38` / E188 — `14dcf17305b925b422bc79656578fb236858c9c3` begin **Attack Land (1)**.
 
 ## Checks
@@ -22,3 +22,14 @@
 - PASS — Vikir identifies both advantages (alibi/investigative confusion) and the major disadvantage (heightened security obstructing real Night Hound assassinations).
 - PASS — Vikir resolves to finish the Attack test first, then hunt the false Night Hound(s).
 - PASS — chapter closes cleanly into target 190's Attack test.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the report's minor/serious injury placeholders and Varangian training-center head casualty, representative source-level profanity/insult in the comment thread, and Vikir's explicit catch-and-kill intent toward the copycat(s).
+
+The complete Aftermath family was reread after remediation. Shifted mapping remains **186→E184 through 189→E187**; target 190/E188 begins *Attack Land (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Aftermath family QA.

@@ -9,8 +9,8 @@
       129
     ],
     "family_qa_path": "qa/families/admission-academy-0126-0129.md",
-    "family_qa_sha": "d1976d0ae2095d1c9234fdf5fb5f4de824bb9748",
-    "status": "pass"
+    "family_qa_sha": "422a0aa6361cee9efd8ee895b008d8d3797456d3",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/127.txt",
@@ -30,7 +30,7 @@
   "qa": {
     "path": "qa/chapter-0127.md",
     "blob_sha": "bb304c0befa9e21cd4cfd2cc533af50e2a91080b",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-26",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/130.txt",
     "chinese_sha": "75953e6055debc0292ed261a08a471ff27486894",
     "english_path": "source/chapters/chapter-129.xhtml",
     "english_sha": "f5e7eb7711468542d89e43edc619d4c81adf015b",
     "purpose": "both begin The Freshman Talent Show (1), target130"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      126,
+      129
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged; rebound to refreshed family QA"
   }
 }

@@ -28,11 +28,11 @@ The rebuild preserves the established source/continuity decisions:
 |---|---|---|---|---|---|
 | 314 | `ae00acfd7d29e79e5055112d21a861a0c19dd94e` | E312 | `54a23a03180b9d7ab51236bf65f570627742b704` | `bac2d559329f0e3d8d76858ff662a354e168b1e1` | `fd01c40fa6b0915303aaa89f32b735be8111cea7` |
 | 315 | `b6f09321a33c2baaff388cb126cf217dd567e3b1` | E313 | `56474f261242b50cd8eda828a0cfb70c2d80eb2a` | `de500cbca868380c7ed869f3569314b4d68e1105` | `922d416afe41913c06597516db6a6e17e1b96313` |
-| 316 | `6beb3b2933ecc0d87886e950e1a45a3d532e5b90` | E314 | `0b5b9b04b8c7ecd083a615735e3cef66d251e009` | `230dd7b3235fed5d89878c958da1605dc9476b96` | `f5c2f064fcd546341362f607fcee77685089e014` |
+| 316 | `6beb3b2933ecc0d87886e950e1a45a3d532e5b90` | E314 | `0b5b9b04b8c7ecd083a615735e3cef66d251e009` | `ab740e9ce6de17485ba87ecda9a2779acbe3d75f` | `fbb32554dfd0dbbec8fc859357485825f75d8161` |
 | 317 | `0c9d607a25df08e4c7ea7855ac02a280b4dd056c` | E315 | `26ddec821179c46aeef098d474352537f68d40a7` | `338766c8b3e590630e63a8eb0269408e24457472` | `f1875cf23d7797c7d83b7c7d557c959b77ece011` |
-| 318 | `38ef5288206b7352ee3c351e6809cc8c5b7a0531` | E316 | `98b96618af4078a444a20820c8bfa93e8bf5211c` | `ed56507739adc402ac458c8265b2c65ef4f9d0b7` | `b2013893e7893c745eca70438444f4ee82ab8942` |
+| 318 | `38ef5288206b7352ee3c351e6809cc8c5b7a0531` | E316 | `98b96618af4078a444a20820c8bfa93e8bf5211c` | `88dd57e091f170a93b87c7f69d632eee69f57d75` | `da1874b6e00553743e0a4f1a4e1ee1553c53ade5` |
 | 319 | `f8011a0234edb2b1f7fb55fd3ecc1022e6b18ecf` | E317 | `241a68b57f52fe3b8ca61a2b99c5cc505fd7c93d` | `849e2e677964cbacc5136d7448d8dae5a659d4da` | `c09e380b130e7a05d0fc09d705ace8f258f7805a` |
-| 320 | `7b64f92ffb09cc043cee6851490651685dbfce96` | E318 | `c36ae9bf69e084568950b90775593f0a0fda7dd3` | `068b3a43b80e9e383c995f69a52cf9bd5060816e` | `02ae382cc58af27cb4dfa06af3ceed759bdbc697` |
+| 320 | `7b64f92ffb09cc043cee6851490651685dbfce96` | E318 | `c36ae9bf69e084568950b90775593f0a0fda7dd3` | `893a5861dfd7b129feb9d56127913c07f9bf82e9` | `8246b63560ce86856bfe02339f256f90d7cb941f` |
 
 Mapping remains **314→E312 through 320→E318**.
 
@@ -119,3 +119,20 @@ Mapping remains **314→E312 through 320→E318**.
 ## Verdict
 
 **PASS.** Chapters 314–320 have been rebuilt for complete Chinese-source coverage. All seven initial-priority targets are resolved. Confirmed failures **316 and 319** are resolved and may be returned to accepted status.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapters 314–315 were reread and remain complete without manuscript changes.
+- Chapter 316 restores the mob's **bloodshot eyes** and **spittle-flying** agitation while bargaining over human lives.
+- Chapter 317 was reread and remains complete without manuscript change.
+- Chapter 318 restores the Daylily root explicitly **licking across Vikir's chest and along the waist/hip contours** while appraising him as food.
+- Chapter 319 was reread and remains complete without manuscript change.
+- Chapter 320 restores the Conversion Bug's bodily **eat/excrete/excrement** mechanic rather than abstracting it into clean interface output.
+- Sanitization fidelity and completeness were rerun across Chapters 314–320.
+- Shifted mapping remains **314→E312 through 320→E318**; target 321 begins *Underdogma (1)*.
+
+**Phase-4 disposition:** family clear; continue to **Underdogma (321–325)**.

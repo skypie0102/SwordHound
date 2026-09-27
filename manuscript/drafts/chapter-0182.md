@@ -274,15 +274,13 @@ Pigi—
 
 made the three of them more efficient than they had ever been alone.
 
-“See?”
+Pigi grinned despite the pressure.
 
-Tudor shouted.
-
-“I told you Pigi was good!”
-
-“No one argued.”
+“I told you I was good at command.”
 
 Sancho laughed.
+
+“No one ever argued with that.”
 
 The battle accelerated.
 
@@ -406,11 +404,13 @@ A new first-year record.
 
 The four tore half out of their HP suits and shouted.
 
-“First!”
+“First place! Yes!”
 
-“Yes!”
+“Everyone worked hard.”
 
-“We did it!”
+“Really? We're first? Hooray!”
+
+“You all did well.”
 
 Even Bianca looked satisfied.
 

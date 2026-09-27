@@ -14,7 +14,7 @@ howl—
 
 The screams of monsters burning in oil split the night.
 
-The smell of living flesh being scorched rolled out of the tunnels.
+A nauseating smell of animals burning alive rolled out of the tunnels.
 
 Gnolls that somehow escaped emerged covered in boiling oil.
 
@@ -168,7 +168,7 @@ Foam poured from its mouth.
 
 The Poison Gnoll collapsed.
 
-Fluid escaped from both ends of its body.
+Internal contents sprayed from its mouth and anus.
 
 Then—
 

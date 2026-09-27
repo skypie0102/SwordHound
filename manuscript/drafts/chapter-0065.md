@@ -238,7 +238,7 @@ Vikir's eyes narrowed.
 
 *Did Morgue or Baskerville authorities knowingly tolerate this?*
 
-Weakening Ballak through dependency and chronic illness would certainly benefit the Empire strategically.
+Weakening Ballak's warriors through cheap narcotics—and leaving the next generation at risk of congenital deformities—would certainly benefit the Empire strategically.
 
 Vikir did not care.
 
@@ -379,6 +379,8 @@ The cause now seemed obvious.
 The drug-laced glass bead.
 
 Without Vikir's intervention, the tribe might have continued buying the same products while Aheul and others grew steadily worse.
+
+Aheul could eventually have been left severely debilitated. Continued exposure could also cause congenital harm in a later generation—or even kill her.
 
 Stopping the trade had likely protected far more than one girl.
 

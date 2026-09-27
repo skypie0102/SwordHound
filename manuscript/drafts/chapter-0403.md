@@ -8,9 +8,9 @@ Vikir ate alone in the mess hall on one of his rare off-duty days.
 
 Black bread.
 
-Pickled sardines.
+Pickled anchovies.
 
-Wilted greens.
+Wilted enoki mushrooms.
 
 Nothing else.
 
@@ -190,7 +190,6 @@ Kirko moved to another rumor.
 
 “She was sent here without trial.”
 
-“Straight to Level Nine.”
 
 “And once Level Ten is finished—
 

@@ -49,6 +49,16 @@ Ch. 42 ends with Camus Morgue appearing after seven years and looking down at Vi
 
 PASS. The assassination attempts, captured-tribal labor context, plan to turn Morgue and frontier tribes against each other, burned/impaled warning corpses, planned tribal ambush, six-way fight, burns, impalement injuries, and Vikir's cynical internal reactions remain present. Recovered-English-only additions absent from Chinese were excluded.
 
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** The complete family was reread against Chinese-primary source. Chapter 40 now preserves the close-range chest **stabbing** before Vikir's defenses reduce it to a faint scratch. Chapter 42 now preserves the continuity-supported **single-finger** injury rather than the unsupported “a few fingers.” Chapter 41 required no manuscript change. Both primary Cycle-2 gates now pass across Chapters 40–42, and the Phase-3 boundary/alignment PASS remains valid.
+
+### Refreshed Phase-4 evidence
+
+- Chapter 40 draft: `012ba6328766dde491ca6e740baddfe28cb6e021`; QA: `3290546ba9677cbe786f0788d497bb193ceca354`
+- Chapter 41 draft: `51282f4dc00cd391bdc602e00d221d8bfc896478`; QA: `2331dbecb297a4e3e153f7090edbe5363b1d43fc`
+- Chapter 42 draft: `5119e7cfca100792d08d9f4d3e8a8ef2e5716e94`; QA: `7c5b35245b0797eb9f00306a8be52d5f2573db4e`
+
 ## Family acceptance result
 
-**PASS.** Chapters 40–42 form one complete, internally continuous title family and are ready for provenance/acceptance binding.
+**PASS after Phase-4 remediation. Chapters 40–42 may be accepted together.**

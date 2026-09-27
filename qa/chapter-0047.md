@@ -32,3 +32,11 @@ Target 47 → recovered English 47 is verified by the full raid sequence: Ballak
 ## Corruption / spoiler check
 
 Recovered English `Gradient`, male Camus pronouns, `camel/camouflage`, and `brother` are rejected as corruption. The woman's name **Aiyen** is intentionally withheld until Ch. 49's source-level reveal/setup.
+
+## Cycle-2 Phase 4 family revalidation
+
+**Resolved 2026-09-26.** Full-family Phase 4 reread confirmed Chapter 47 requires no manuscript correction. Sanitization and completeness remain clear.
+
+## Phase-4 decision
+
+**PASS at chapter level after Phase-4 family revalidation.** Final acceptance requires the refreshed Chapters 46–51 family QA.

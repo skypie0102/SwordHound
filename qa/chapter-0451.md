@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/451.txt` — `39a2b9a510405e291943cd7492bd61d27aec454e`
 - English witness: **E449** — `133086489d750469e7ff5e61fd5569d40e42bdc8`
-- Draft: `manuscript/drafts/chapter-0451.md` — `6d27d4797ee80be5d5dbd8b933f8e3646b92d331`
+- Draft: `manuscript/drafts/chapter-0451.md` — `8016396c5ed0c500f2db3b7c4b2e8919f116f0e6`
 
 ## Checks
 - PASS — Fresh Fandom indexing confirms Raspane Morgue as Morgue matriarch.
@@ -18,3 +18,14 @@
 - PASS — Multiple plausible targets are discussed before Hugo names Tochka.
 - PASS — Chapter ends on Hugo’s simple rationale: Vikir is there.
 - CANON — fresh Fandom indexing confirms Juskin de Leviathan, Hopps de Leviathan, Raspane Morgue, and the later canonical Corpse roster; later true-name information is reveal-guarded unless the chapter itself exposes it.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the source-present succession beat: **Dirakium** never recovered from Sadi’s attack and died, after which **Basilios** became the new Varangian Training Hall director.
+
+The complete Declaration of War family was reread after remediation. Chapter 452 remains unchanged and passes both Cycle-2 content gates. Shifted mapping remains **450→E448 through 453→E451**; target 454/E452 begins *Infiltration of the Water Source (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Declaration of War family QA.

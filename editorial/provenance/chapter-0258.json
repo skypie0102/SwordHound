@@ -9,8 +9,8 @@
       260
     ],
     "family_qa_path": "qa/families/grave-of-swords-0255-0260.md",
-    "family_qa_sha": "1f3b1edbeea68c948f7445158f0e0fdcb1bca3f6",
-    "status": "pass"
+    "family_qa_sha": "1c7c93e6586f3b9903915ddf5902dc1c2f6a6f9f",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/258.txt",
@@ -29,9 +29,20 @@
   "qa": {
     "path": "qa/chapter-0258.md",
     "blob_sha": "e88b02f6c4471ce129cb1393b1dc4c7d5e333b60",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained unavailable; established glossary forms were reused and no new wiki-only forms asserted.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      255,
+      260
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

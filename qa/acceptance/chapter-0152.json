@@ -2,8 +2,8 @@
   "chapter": 152,
   "title": "The Drinking Game (1)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Drinking Game",
     "range": [
@@ -11,8 +11,8 @@
       154
     ],
     "family_qa_path": "qa/families/drinking-game-0152-0154.md",
-    "family_qa_sha": "45747a29f4164d5b928e0d6ab697604c5acff359",
-    "status": "pass"
+    "family_qa_sha": "fb43a12daed632cf6452f5709f04c2bfb7261adb",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/152.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-151.xhtml",
     "english_reference_sha": "55107beb518be3473b627551ec88399ce113f688",
     "draft_path": "manuscript/drafts/chapter-0152.md",
-    "draft_sha": "64ee1d4f880fc20ea7b7c4818540e2c6ba4e4cc9",
+    "draft_sha": "44b8d1edf44f8e6a07de6c800a8bd84be73e2679",
     "qa_path": "qa/chapter-0152.md",
-    "qa_sha": "96c8c5df16cb840909255c3c4e29f83749f4cd85",
+    "qa_sha": "035f70317ea835ef467df8ebbd67d3af10fbef2d",
     "provenance_path": "editorial/provenance/chapter-0152.json",
-    "provenance_sha": "6987be795649f1937bebf29baaa7645822c20176"
+    "provenance_sha": "5e8b2cc722eebefb2a7a1b904ea1a00cadd282f6"
   },
   "canonical_checks": [
     "Yut",
@@ -39,5 +39,12 @@
     "Tudor/Bianca teasing follows Chinese flirting-game register, not recovered vulgar escalation.",
     "Pigi remains male and Sinclaire remains female.",
     "Dolores believes the drink is soda until the source reveals otherwise in target153."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored five-minute Hill Seven waits and Sinclaire tank-top/shorts description"
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "notice": "FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT CYCLE 2 ACTIVE. Phases 1 sanitization, 2 completeness, and 3 boundary/alignment are complete across 500/500. Phase 3 closed at 53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED across 118/118 families with 0 manuscript edits. Structural FAILs: 273, 283. Phase 4 remediation is ready but not started; begin with Camus Morgue (20–25), earliest failing target 22. Historical accepted state remains 500/500 evidence only; EPUB assembly stays blocked until Cycle 2 closes.",
+  "notice": "Cycle 2 Phase 4 remediation active; 195/273 remediation chapters complete and 78 remain. Next affected family: Poseidon (375-376), earliest remaining target 376.",
   "target_chapter_count": 500,
   "accepted_count": 500,
   "staged_count": 0,
@@ -283,7 +283,7 @@
       "qa": "qa/chapter-0020.md",
       "provenance": "editorial/provenance/chapter-0020.json",
       "acceptance": "qa/acceptance/chapter-0020.json",
-      "acceptance_sha": "22eb767bce2f4ae28d668276b8e406c86dc2e9c0",
+      "acceptance_sha": "e1fcd28f51e06fc1fc72be28b779deb81c7f2d18",
       "family_qa": "qa/families/camus-morgue-0020-0025.md"
     },
     {
@@ -297,7 +297,7 @@
       "qa": "qa/chapter-0021.md",
       "provenance": "editorial/provenance/chapter-0021.json",
       "acceptance": "qa/acceptance/chapter-0021.json",
-      "acceptance_sha": "5ad09ddc620ff7c891bbc981323e4b923d33bf0a",
+      "acceptance_sha": "9eec4addbe3b6ff36fa3acfba2a9ec8a7f809053",
       "family_qa": "qa/families/camus-morgue-0020-0025.md"
     },
     {
@@ -311,7 +311,7 @@
       "qa": "qa/chapter-0022.md",
       "provenance": "editorial/provenance/chapter-0022.json",
       "acceptance": "qa/acceptance/chapter-0022.json",
-      "acceptance_sha": "dc3de53413f9fd13374349d151e8b38327bbf999",
+      "acceptance_sha": "81ae654d7d3041c61ae32bf742b19460dd9cb007",
       "family_qa": "qa/families/camus-morgue-0020-0025.md"
     },
     {
@@ -325,7 +325,7 @@
       "qa": "qa/chapter-0023.md",
       "provenance": "editorial/provenance/chapter-0023.json",
       "acceptance": "qa/acceptance/chapter-0023.json",
-      "acceptance_sha": "34436625a1589dab8034d9dfbc49783aa582f1d3",
+      "acceptance_sha": "3c97f70f65bfb30f44879e4e00b36fc921558b72",
       "family_qa": "qa/families/camus-morgue-0020-0025.md"
     },
     {
@@ -339,7 +339,7 @@
       "qa": "qa/chapter-0024.md",
       "provenance": "editorial/provenance/chapter-0024.json",
       "acceptance": "qa/acceptance/chapter-0024.json",
-      "acceptance_sha": "69671aec11ba4c4dc750909a4fc086a9fc0c52e4",
+      "acceptance_sha": "29feff8e9ebe79dd86b6b919229a14c0c5f9b8f0",
       "family_qa": "qa/families/camus-morgue-0020-0025.md"
     },
     {
@@ -353,7 +353,7 @@
       "qa": "qa/chapter-0025.md",
       "provenance": "editorial/provenance/chapter-0025.json",
       "acceptance": "qa/acceptance/chapter-0025.json",
-      "acceptance_sha": "b443fa796d780d644a824c0892bf55fdff24f7b1",
+      "acceptance_sha": "cb614c29745a7824cc4cfe8826e1b73551f56478",
       "family_qa": "qa/families/camus-morgue-0020-0025.md"
     },
     {
@@ -493,7 +493,7 @@
       "qa": "qa/chapter-0035.md",
       "provenance": "editorial/provenance/chapter-0035.json",
       "acceptance": "qa/acceptance/chapter-0035.json",
-      "acceptance_sha": "66add4984a60dfe9ce680b486932f40467a9f3e2",
+      "acceptance_sha": "2dff7f8e70f70f860d84969d45be240d32aae078",
       "family_qa": "qa/families/slave-auction-0035-0037.md"
     },
     {
@@ -507,7 +507,7 @@
       "qa": "qa/chapter-0036.md",
       "provenance": "editorial/provenance/chapter-0036.json",
       "acceptance": "qa/acceptance/chapter-0036.json",
-      "acceptance_sha": "ca02aef8dad869d7c08b4b2bb5092cbff43ca825",
+      "acceptance_sha": "8de569255a75127c11f456eb373b5eac565895bb",
       "family_qa": "qa/families/slave-auction-0035-0037.md"
     },
     {
@@ -521,7 +521,7 @@
       "qa": "qa/chapter-0037.md",
       "provenance": "editorial/provenance/chapter-0037.json",
       "acceptance": "qa/acceptance/chapter-0037.json",
-      "acceptance_sha": "03c01f4bb4487246a5b5a8f3ac219d67284ac536",
+      "acceptance_sha": "c590e74c46cf295eb00841fc17470ff8c0f46469",
       "family_qa": "qa/families/slave-auction-0035-0037.md"
     },
     {
@@ -563,7 +563,7 @@
       "qa": "qa/chapter-0040.md",
       "provenance": "editorial/provenance/chapter-0040.json",
       "acceptance": "qa/acceptance/chapter-0040.json",
-      "acceptance_sha": "2b4d632c3e0d0567b165d176754146b88c1b3c19",
+      "acceptance_sha": "ff2a109b14906eb53141727367a1fb5454734ccb",
       "family_qa": "qa/families/morgue-united-front-0040-0042.md"
     },
     {
@@ -577,7 +577,7 @@
       "qa": "qa/chapter-0041.md",
       "provenance": "editorial/provenance/chapter-0041.json",
       "acceptance": "qa/acceptance/chapter-0041.json",
-      "acceptance_sha": "854bc53dfe0c57c599d6cf3204dd94bbab927b1c",
+      "acceptance_sha": "8a046819344d27ade8c3b15c0c1be7cff8b55268",
       "family_qa": "qa/families/morgue-united-front-0040-0042.md"
     },
     {
@@ -591,7 +591,7 @@
       "qa": "qa/chapter-0042.md",
       "provenance": "editorial/provenance/chapter-0042.json",
       "acceptance": "qa/acceptance/chapter-0042.json",
-      "acceptance_sha": "e87982c1e809003c355c8b9015a2ad15f50c2e1e",
+      "acceptance_sha": "37363a42d61780b1c931110af0ec47c6a59121a2",
       "family_qa": "qa/families/morgue-united-front-0040-0042.md"
     },
     {
@@ -647,7 +647,7 @@
       "qa": "qa/chapter-0046.md",
       "provenance": "editorial/provenance/chapter-0046.json",
       "acceptance": "qa/acceptance/chapter-0046.json",
-      "acceptance_sha": "929db290d14d4123900fc820696faf7d8544849d",
+      "acceptance_sha": "02ebb93ca095d6ca9db50509e48bd3d92d0d9015",
       "family_qa": "qa/families/husband-hunt-0046-0051.md"
     },
     {
@@ -661,7 +661,7 @@
       "qa": "qa/chapter-0047.md",
       "provenance": "editorial/provenance/chapter-0047.json",
       "acceptance": "qa/acceptance/chapter-0047.json",
-      "acceptance_sha": "f6620ca22741e66fba363406eacf3c55ffa6026c",
+      "acceptance_sha": "4c04eeba3413ca199765b47ec71687aaa745a0ef",
       "family_qa": "qa/families/husband-hunt-0046-0051.md"
     },
     {
@@ -675,7 +675,7 @@
       "qa": "qa/chapter-0048.md",
       "provenance": "editorial/provenance/chapter-0048.json",
       "acceptance": "qa/acceptance/chapter-0048.json",
-      "acceptance_sha": "201da26e8770734bf6b218e69138c2af03ffe193",
+      "acceptance_sha": "92d89ebabcd2b76cdd7a83765ef2dd048cc6c763",
       "family_qa": "qa/families/husband-hunt-0046-0051.md"
     },
     {
@@ -689,7 +689,7 @@
       "qa": "qa/chapter-0049.md",
       "provenance": "editorial/provenance/chapter-0049.json",
       "acceptance": "qa/acceptance/chapter-0049.json",
-      "acceptance_sha": "03241ea5a3a846cccc86aa847b0fee7128556b9e",
+      "acceptance_sha": "958d08de4bfb7a429d6ecff3480c607ca9831000",
       "family_qa": "qa/families/husband-hunt-0046-0051.md"
     },
     {
@@ -703,7 +703,7 @@
       "qa": "qa/chapter-0050.md",
       "provenance": "editorial/provenance/chapter-0050.json",
       "acceptance": "qa/acceptance/chapter-0050.json",
-      "acceptance_sha": "156bb34c1737475ba749508d00c3c5ddcccae463",
+      "acceptance_sha": "b7bef41fdd4d3d858241c22edca28155442f3ad0",
       "family_qa": "qa/families/husband-hunt-0046-0051.md"
     },
     {
@@ -717,7 +717,7 @@
       "qa": "qa/chapter-0051.md",
       "provenance": "editorial/provenance/chapter-0051.json",
       "acceptance": "qa/acceptance/chapter-0051.json",
-      "acceptance_sha": "08ecec3e0fbeb844ad4ccf94e652949ae622bf55",
+      "acceptance_sha": "265e23018428b85901dcefbe1e694a966d61ff6d",
       "family_qa": "qa/families/husband-hunt-0046-0051.md"
     },
     {
@@ -731,7 +731,7 @@
       "qa": "qa/chapter-0052.md",
       "provenance": "editorial/provenance/chapter-0052.json",
       "acceptance": "qa/acceptance/chapter-0052.json",
-      "acceptance_sha": "eece5f129c7d7f06d8bfc22f319f77c132054ef9",
+      "acceptance_sha": "c41662f645cee9a0bcca9f080d215a1b7a326f32",
       "family_qa": "qa/families/slaves-savage-tribe-0052-0054.md"
     },
     {
@@ -745,7 +745,7 @@
       "qa": "qa/chapter-0053.md",
       "provenance": "editorial/provenance/chapter-0053.json",
       "acceptance": "qa/acceptance/chapter-0053.json",
-      "acceptance_sha": "1e71b783e085df4c8b5b8a6385bfc431f707f5c6",
+      "acceptance_sha": "7f996d8b5f1119ff55bc2615674d2a9ae7c01968",
       "family_qa": "qa/families/slaves-savage-tribe-0052-0054.md"
     },
     {
@@ -759,7 +759,7 @@
       "qa": "qa/chapter-0054.md",
       "provenance": "editorial/provenance/chapter-0054.json",
       "acceptance": "qa/acceptance/chapter-0054.json",
-      "acceptance_sha": "ab1dd4ed64c3630d8d3a9d5cd0e1a1c01905873c",
+      "acceptance_sha": "cb0d0cdba6c226a2f14931e96e504f4a3c298b7d",
       "family_qa": "qa/families/slaves-savage-tribe-0052-0054.md"
     },
     {
@@ -773,7 +773,7 @@
       "qa": "qa/chapter-0055.md",
       "provenance": "editorial/provenance/chapter-0055.json",
       "acceptance": "qa/acceptance/chapter-0055.json",
-      "acceptance_sha": "c5acf3cea4af93e4804cecfebe40b87a27bd5795",
+      "acceptance_sha": "71a970644573381c7c1e9a773f0434d2592d5eab",
       "family_qa": "qa/families/hunter-hunted-0055-0060.md"
     },
     {
@@ -787,7 +787,7 @@
       "qa": "qa/chapter-0056.md",
       "provenance": "editorial/provenance/chapter-0056.json",
       "acceptance": "qa/acceptance/chapter-0056.json",
-      "acceptance_sha": "3d0422ee2ce93d038307a042d390cfbb87ac5632",
+      "acceptance_sha": "1d4fc90a716e62f66ab52516fa86773631987830",
       "family_qa": "qa/families/hunter-hunted-0055-0060.md"
     },
     {
@@ -801,7 +801,7 @@
       "qa": "qa/chapter-0057.md",
       "provenance": "editorial/provenance/chapter-0057.json",
       "acceptance": "qa/acceptance/chapter-0057.json",
-      "acceptance_sha": "b12cd0115470deecb58c63147ec2d485c7058c5a",
+      "acceptance_sha": "50a1742d2f2f0a2843033bed4f0ae6aae49fdf95",
       "family_qa": "qa/families/hunter-hunted-0055-0060.md"
     },
     {
@@ -815,7 +815,7 @@
       "qa": "qa/chapter-0058.md",
       "provenance": "editorial/provenance/chapter-0058.json",
       "acceptance": "qa/acceptance/chapter-0058.json",
-      "acceptance_sha": "239ba21967293a98462be6982c4f8cc1963bbece",
+      "acceptance_sha": "02011c467f4a3a3d8a01d0f394f9761d6cb2a9a2",
       "family_qa": "qa/families/hunter-hunted-0055-0060.md"
     },
     {
@@ -829,7 +829,7 @@
       "qa": "qa/chapter-0059.md",
       "provenance": "editorial/provenance/chapter-0059.json",
       "acceptance": "qa/acceptance/chapter-0059.json",
-      "acceptance_sha": "9e550fa5d92639bea6cae1220a99d5d8887f9a48",
+      "acceptance_sha": "02944b3fa91bee08319b2d2e55fdf79053ca71c2",
       "family_qa": "qa/families/hunter-hunted-0055-0060.md",
       "completeness_audit": "residual_rebuilt_and_passed_2026-09-20"
     },
@@ -844,7 +844,7 @@
       "qa": "qa/chapter-0060.md",
       "provenance": "editorial/provenance/chapter-0060.json",
       "acceptance": "qa/acceptance/chapter-0060.json",
-      "acceptance_sha": "8d10788b97c95dd2340a2ec7b98cd0cd02e539ad",
+      "acceptance_sha": "dd7920685ca57eb9eee54a307e4ba0d352a5e139",
       "family_qa": "qa/families/hunter-hunted-0055-0060.md"
     },
     {
@@ -858,7 +858,7 @@
       "qa": "qa/chapter-0061.md",
       "provenance": "editorial/provenance/chapter-0061.json",
       "acceptance": "qa/acceptance/chapter-0061.json",
-      "acceptance_sha": "afc6ef3cb86bae4c71b1fae831cba3dfdd1e248d",
+      "acceptance_sha": "4dcbaeb5921a879c23dd22f98cd66e971c174474",
       "family_qa": "qa/families/protagonist-hunting-0061-0063.md"
     },
     {
@@ -872,7 +872,7 @@
       "qa": "qa/chapter-0062.md",
       "provenance": "editorial/provenance/chapter-0062.json",
       "acceptance": "qa/acceptance/chapter-0062.json",
-      "acceptance_sha": "7344c28f19984bdae2865c1bfb198b11b6942247",
+      "acceptance_sha": "6855e50be0e095f2de3269100c64c38d9e940497",
       "family_qa": "qa/families/protagonist-hunting-0061-0063.md"
     },
     {
@@ -886,7 +886,7 @@
       "qa": "qa/chapter-0063.md",
       "provenance": "editorial/provenance/chapter-0063.json",
       "acceptance": "qa/acceptance/chapter-0063.json",
-      "acceptance_sha": "4ddaebcbe1b03c59738706bd9d17e4bba5be5828",
+      "acceptance_sha": "ef674b0dcb5e331d75ef3f46f356a855fc6d44c5",
       "family_qa": "qa/families/protagonist-hunting-0061-0063.md"
     },
     {
@@ -900,7 +900,7 @@
       "qa": "qa/chapter-0064.md",
       "provenance": "editorial/provenance/chapter-0064.json",
       "acceptance": "qa/acceptance/chapter-0064.json",
-      "acceptance_sha": "6dfe76171b38a6de05f775cd3d91f7c049abd93d",
+      "acceptance_sha": "048725a387260b81b4ad362a26581239d579cb26",
       "family_qa": "qa/families/unfair-trade-0064-0067.md"
     },
     {
@@ -914,7 +914,7 @@
       "qa": "qa/chapter-0065.md",
       "provenance": "editorial/provenance/chapter-0065.json",
       "acceptance": "qa/acceptance/chapter-0065.json",
-      "acceptance_sha": "2256ea124680f4cdef30115c2344e67bb8afc8d9",
+      "acceptance_sha": "7ca3fa044676ddbf7b866b07d93deec444e122c3",
       "family_qa": "qa/families/unfair-trade-0064-0067.md"
     },
     {
@@ -928,7 +928,7 @@
       "qa": "qa/chapter-0066.md",
       "provenance": "editorial/provenance/chapter-0066.json",
       "acceptance": "qa/acceptance/chapter-0066.json",
-      "acceptance_sha": "6e69980dc3d042e307dd96c1da03826f852a53ab",
+      "acceptance_sha": "6a1a4d5bba74da883d8f562562cae98f1c9f0b30",
       "family_qa": "qa/families/unfair-trade-0064-0067.md"
     },
     {
@@ -942,7 +942,7 @@
       "qa": "qa/chapter-0067.md",
       "provenance": "editorial/provenance/chapter-0067.json",
       "acceptance": "qa/acceptance/chapter-0067.json",
-      "acceptance_sha": "cdc82006c84247150e99d14897c151c684fa0156",
+      "acceptance_sha": "9dcd5b54994b5c5506ba504b8ef4cc28ebac07cc",
       "family_qa": "qa/families/unfair-trade-0064-0067.md"
     },
     {
@@ -956,7 +956,7 @@
       "qa": "qa/chapter-0068.md",
       "provenance": "editorial/provenance/chapter-0068.json",
       "acceptance": "qa/acceptance/chapter-0068.json",
-      "acceptance_sha": "b481541f858c84673fe21d457d2a962a78082a4a",
+      "acceptance_sha": "9cd94d85778ede84590084f8849e03eb38fb5334",
       "family_qa": "qa/families/blood-relatives-0068-0071.md"
     },
     {
@@ -970,7 +970,7 @@
       "qa": "qa/chapter-0069.md",
       "provenance": "editorial/provenance/chapter-0069.json",
       "acceptance": "qa/acceptance/chapter-0069.json",
-      "acceptance_sha": "38b274533c9c5bf533e3aa5a48a1ee748b8f72b6",
+      "acceptance_sha": "017f75be7deeac50961340a939a1d9249e7e21c2",
       "family_qa": "qa/families/blood-relatives-0068-0071.md"
     },
     {
@@ -984,7 +984,7 @@
       "qa": "qa/chapter-0070.md",
       "provenance": "editorial/provenance/chapter-0070.json",
       "acceptance": "qa/acceptance/chapter-0070.json",
-      "acceptance_sha": "a3f0d276f01d8544f2a5038708a1f76b8b395d61",
+      "acceptance_sha": "ad855d46827c45b439a7237879819b5e0b6732f7",
       "family_qa": "qa/families/blood-relatives-0068-0071.md"
     },
     {
@@ -998,7 +998,7 @@
       "qa": "qa/chapter-0071.md",
       "provenance": "editorial/provenance/chapter-0071.json",
       "acceptance": "qa/acceptance/chapter-0071.json",
-      "acceptance_sha": "f6c6ee3efcdd7e2237145c3d542859d6dce20492",
+      "acceptance_sha": "6aadd674d48fdddd5378d2a44b2df70f00a7f503",
       "family_qa": "qa/families/blood-relatives-0068-0071.md"
     },
     {
@@ -1012,7 +1012,7 @@
       "qa": "qa/chapter-0072.md",
       "provenance": "editorial/provenance/chapter-0072.json",
       "acceptance": "qa/acceptance/chapter-0072.json",
-      "acceptance_sha": "04955b9aec18004377023adc563487d61043961c",
+      "acceptance_sha": "59b2c3dfff52839028e15f09ae837cccab95654a",
       "family_qa": "qa/families/red-death-0072-0074.md"
     },
     {
@@ -1026,7 +1026,7 @@
       "qa": "qa/chapter-0073.md",
       "provenance": "editorial/provenance/chapter-0073.json",
       "acceptance": "qa/acceptance/chapter-0073.json",
-      "acceptance_sha": "47dd866c3e02361fee8b64891b61adc2a52113ae",
+      "acceptance_sha": "98f8abcf56ea271cc085183fb2cf20dd6be053e4",
       "family_qa": "qa/families/red-death-0072-0074.md"
     },
     {
@@ -1040,7 +1040,7 @@
       "qa": "qa/chapter-0074.md",
       "provenance": "editorial/provenance/chapter-0074.json",
       "acceptance": "qa/acceptance/chapter-0074.json",
-      "acceptance_sha": "3abad2669c4b91c49959e3d085e819fac4cab8f5",
+      "acceptance_sha": "23ca139b57edcd3f6855ac9a1c7504e5f69ee56d",
       "family_qa": "qa/families/red-death-0072-0074.md"
     },
     {
@@ -1054,7 +1054,7 @@
       "qa": "qa/chapter-0075.md",
       "provenance": "editorial/provenance/chapter-0075.json",
       "acceptance": "qa/acceptance/chapter-0075.json",
-      "acceptance_sha": "328c7ad3ba41eeee00e93e63775a3ca99ac21edf",
+      "acceptance_sha": "03be8397600b4836dd264f81c2d12313cce72ccb",
       "family_qa": "qa/families/hound-night-0075-0077.md"
     },
     {
@@ -1068,7 +1068,7 @@
       "qa": "qa/chapter-0076.md",
       "provenance": "editorial/provenance/chapter-0076.json",
       "acceptance": "qa/acceptance/chapter-0076.json",
-      "acceptance_sha": "fbe936505d510ff62c73f619ec53f6a2e4f10558",
+      "acceptance_sha": "52ea738c39caa226afcb78ba0a6e9569fef9a76c",
       "family_qa": "qa/families/hound-night-0075-0077.md"
     },
     {
@@ -1082,7 +1082,7 @@
       "qa": "qa/chapter-0077.md",
       "provenance": "editorial/provenance/chapter-0077.json",
       "acceptance": "qa/acceptance/chapter-0077.json",
-      "acceptance_sha": "054bb498e70fe1345c3f1a874e4ec710bb5c511e",
+      "acceptance_sha": "e092b496e96d059564b59502a207a01572084564",
       "family_qa": "qa/families/hound-night-0075-0077.md"
     },
     {
@@ -1096,7 +1096,7 @@
       "qa": "qa/chapter-0078.md",
       "provenance": "editorial/provenance/chapter-0078.json",
       "acceptance": "qa/acceptance/chapter-0078.json",
-      "acceptance_sha": "0acf3fc2a5fea9cab97203338723414dbc2f7121",
+      "acceptance_sha": "c2f4b400bfac48a2e47d72acd44ca768d4ab30ed",
       "family_qa": "qa/families/saintess-0078-0082.md"
     },
     {
@@ -1110,7 +1110,7 @@
       "qa": "qa/chapter-0079.md",
       "provenance": "editorial/provenance/chapter-0079.json",
       "acceptance": "qa/acceptance/chapter-0079.json",
-      "acceptance_sha": "3818b12df4898b576933aeb86642d3b857db3ee4",
+      "acceptance_sha": "c54db8430ddd35673016714ec2751bb618e95932",
       "family_qa": "qa/families/saintess-0078-0082.md"
     },
     {
@@ -1124,7 +1124,7 @@
       "qa": "qa/chapter-0080.md",
       "provenance": "editorial/provenance/chapter-0080.json",
       "acceptance": "qa/acceptance/chapter-0080.json",
-      "acceptance_sha": "e0b1a7e484e96a7976e5ae4b1c01ede6a2334fb6",
+      "acceptance_sha": "520d58baa4c41de3f85f05bf6bc0a4b22cec7b7a",
       "family_qa": "qa/families/saintess-0078-0082.md"
     },
     {
@@ -1138,7 +1138,7 @@
       "qa": "qa/chapter-0081.md",
       "provenance": "editorial/provenance/chapter-0081.json",
       "acceptance": "qa/acceptance/chapter-0081.json",
-      "acceptance_sha": "0f44d61c32e3edd02123e0f6522a5b4a5d3f6568",
+      "acceptance_sha": "7f0c12b6ca0762a2862c5caabc693b673b7db62e",
       "family_qa": "qa/families/saintess-0078-0082.md"
     },
     {
@@ -1152,7 +1152,7 @@
       "qa": "qa/chapter-0082.md",
       "provenance": "editorial/provenance/chapter-0082.json",
       "acceptance": "qa/acceptance/chapter-0082.json",
-      "acceptance_sha": "48f5e4e4d9c6834e14d8ed1937f4e2e42da5021b",
+      "acceptance_sha": "25984999d934a180b2e2c98e2ab882b022bcfca3",
       "family_qa": "qa/families/saintess-0078-0082.md"
     },
     {
@@ -1166,7 +1166,7 @@
       "qa": "qa/chapter-0083.md",
       "provenance": "editorial/provenance/chapter-0083.json",
       "acceptance": "qa/acceptance/chapter-0083.json",
-      "acceptance_sha": "d880865f818064d5065f27427d7c7266350cd88b",
+      "acceptance_sha": "c09b264fb2f538e86956c0b815f640b237203514",
       "family_qa": "qa/families/lovesickness-0083-0084.md"
     },
     {
@@ -1180,7 +1180,7 @@
       "qa": "qa/chapter-0084.md",
       "provenance": "editorial/provenance/chapter-0084.json",
       "acceptance": "qa/acceptance/chapter-0084.json",
-      "acceptance_sha": "5cf72011eaa4032826408f7a1753a23a87b4ae0d",
+      "acceptance_sha": "ff68e33143ef09649b7045fb8481687e413cbe7e",
       "family_qa": "qa/families/lovesickness-0083-0084.md"
     },
     {
@@ -1269,7 +1269,7 @@
       "qa": "qa/chapter-0090.md",
       "provenance": "editorial/provenance/chapter-0090.json",
       "acceptance": "qa/acceptance/chapter-0090.json",
-      "acceptance_sha": "3ec0877c3bcb8520d564ab0e1d9168318d97f41b",
+      "acceptance_sha": "a1875e358c2e462f6afeb474078733506169b99a",
       "family_qa": "qa/families/ghosts-ancestors-0090-0094.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -1284,7 +1284,7 @@
       "qa": "qa/chapter-0091.md",
       "provenance": "editorial/provenance/chapter-0091.json",
       "acceptance": "qa/acceptance/chapter-0091.json",
-      "acceptance_sha": "b0f9ecade4f42ae1d36316570edd3658f464c172",
+      "acceptance_sha": "bd524fd82eff681e524f44cac4f88e9c305be3fb",
       "family_qa": "qa/families/ghosts-ancestors-0090-0094.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -1299,7 +1299,7 @@
       "qa": "qa/chapter-0092.md",
       "provenance": "editorial/provenance/chapter-0092.json",
       "acceptance": "qa/acceptance/chapter-0092.json",
-      "acceptance_sha": "04d4c5d45bf9fb5d04f221eab4dc747fa1dc7c64",
+      "acceptance_sha": "f9133ddaa8b8236cc2ca2baab08f038cde99b333",
       "family_qa": "qa/families/ghosts-ancestors-0090-0094.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -1314,7 +1314,7 @@
       "qa": "qa/chapter-0093.md",
       "provenance": "editorial/provenance/chapter-0093.json",
       "acceptance": "qa/acceptance/chapter-0093.json",
-      "acceptance_sha": "f78e1a025429f7aa2af8efc4dd49ea594db75b08",
+      "acceptance_sha": "484f07f1cd6d0cfd92c5d70ddc50993f81a2885a",
       "family_qa": "qa/families/ghosts-ancestors-0090-0094.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -1329,7 +1329,7 @@
       "qa": "qa/chapter-0094.md",
       "provenance": "editorial/provenance/chapter-0094.json",
       "acceptance": "qa/acceptance/chapter-0094.json",
-      "acceptance_sha": "ccffc4aae299d4c487c87d981babc6160ea2e5c7",
+      "acceptance_sha": "a75bd5d0a84b1e91da0c850771c23dc657a3fe7f",
       "family_qa": "qa/families/ghosts-ancestors-0090-0094.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -1434,7 +1434,7 @@
       "qa": "qa/chapter-0101.md",
       "provenance": "editorial/provenance/chapter-0101.json",
       "acceptance": "qa/acceptance/chapter-0101.json",
-      "acceptance_sha": "bf24f0092bc9d409c714058bf71380d32eda8e0d",
+      "acceptance_sha": "1b3b0e99caaa9b02c691b659c5af70f5d61d7b05",
       "family_qa": "qa/families/nostalgia-0101-0104.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -1449,7 +1449,7 @@
       "qa": "qa/chapter-0102.md",
       "provenance": "editorial/provenance/chapter-0102.json",
       "acceptance": "qa/acceptance/chapter-0102.json",
-      "acceptance_sha": "fd69bd0c87bbc8b432c0f5e13610b66e365404a6",
+      "acceptance_sha": "b37b3b8042feb7ab7fd58ccfc309498cdac646e5",
       "family_qa": "qa/families/nostalgia-0101-0104.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -1464,7 +1464,7 @@
       "qa": "qa/chapter-0103.md",
       "provenance": "editorial/provenance/chapter-0103.json",
       "acceptance": "qa/acceptance/chapter-0103.json",
-      "acceptance_sha": "f4ebb1e5fef8eea6615bf194e8f574d5616d70d4",
+      "acceptance_sha": "3c31db40c1b0809206b3d09f2796c4a248aca778",
       "family_qa": "qa/families/nostalgia-0101-0104.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -1479,7 +1479,7 @@
       "qa": "qa/chapter-0104.md",
       "provenance": "editorial/provenance/chapter-0104.json",
       "acceptance": "qa/acceptance/chapter-0104.json",
-      "acceptance_sha": "c2e1815eb12a145c8e9566c53950bccdeabf406c",
+      "acceptance_sha": "ef2689ba553ca2d58645dc90c1666837dcd73dab",
       "family_qa": "qa/families/nostalgia-0101-0104.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -1788,7 +1788,7 @@
       "qa": "qa/chapter-0126.md",
       "provenance": "editorial/provenance/chapter-0126.json",
       "acceptance": "qa/acceptance/chapter-0126.json",
-      "acceptance_sha": "37f6d34d99954eebb9f173352eb953011295f0cc",
+      "acceptance_sha": "baea04ca1036f1518aaa9c7981d64c95e2f662fe",
       "family_qa": "qa/families/admission-academy-0126-0129.md"
     },
     {
@@ -1802,7 +1802,7 @@
       "qa": "qa/chapter-0127.md",
       "provenance": "editorial/provenance/chapter-0127.json",
       "acceptance": "qa/acceptance/chapter-0127.json",
-      "acceptance_sha": "bb3d26b186e3798e2d929eca452fa1c4c3aaa04c",
+      "acceptance_sha": "1c1786cdaf1fffe4a6972452d5f1a369b96e73de",
       "family_qa": "qa/families/admission-academy-0126-0129.md"
     },
     {
@@ -1816,7 +1816,7 @@
       "qa": "qa/chapter-0128.md",
       "provenance": "editorial/provenance/chapter-0128.json",
       "acceptance": "qa/acceptance/chapter-0128.json",
-      "acceptance_sha": "35cbcdb57cd5bd7e2c044e50405c9a06b047ef4e",
+      "acceptance_sha": "b105df85240abf9c042a50a90dd1ac1e15cb07cb",
       "family_qa": "qa/families/admission-academy-0126-0129.md"
     },
     {
@@ -1830,7 +1830,7 @@
       "qa": "qa/chapter-0129.md",
       "provenance": "editorial/provenance/chapter-0129.json",
       "acceptance": "qa/acceptance/chapter-0129.json",
-      "acceptance_sha": "2f1ced6855dfe4d02cde36a6387ac30738dc3422",
+      "acceptance_sha": "9bf94dced66ce5ae0ff1c22a78ddfdfbec0ee2d8",
       "family_qa": "qa/families/admission-academy-0126-0129.md"
     },
     {
@@ -1844,7 +1844,7 @@
       "qa": "qa/chapter-0130.md",
       "provenance": "editorial/provenance/chapter-0130.json",
       "acceptance": "qa/acceptance/chapter-0130.json",
-      "acceptance_sha": "a10f57f37aedd60cf37c892e622496681461a04b",
+      "acceptance_sha": "4c0f6bbdffd689c332c1aff26434cf861823b8fb",
       "family_qa": "qa/families/freshman-talent-show-0130-0132.md"
     },
     {
@@ -1858,7 +1858,7 @@
       "qa": "qa/chapter-0131.md",
       "provenance": "editorial/provenance/chapter-0131.json",
       "acceptance": "qa/acceptance/chapter-0131.json",
-      "acceptance_sha": "0db884f14b13c856320243c5222abeb96a727a9f",
+      "acceptance_sha": "585f108d83a7291f48ffafa1246e877eaff30120",
       "family_qa": "qa/families/freshman-talent-show-0130-0132.md"
     },
     {
@@ -1872,7 +1872,7 @@
       "qa": "qa/chapter-0132.md",
       "provenance": "editorial/provenance/chapter-0132.json",
       "acceptance": "qa/acceptance/chapter-0132.json",
-      "acceptance_sha": "9f74c53e069464ffe2f8427a5d46119db5ad2f3f",
+      "acceptance_sha": "f0086c6cfd2a3335f4d957637842ace1c4358601",
       "family_qa": "qa/families/freshman-talent-show-0130-0132.md"
     },
     {
@@ -1886,7 +1886,7 @@
       "qa": "qa/chapter-0133.md",
       "provenance": "editorial/provenance/chapter-0133.json",
       "acceptance": "qa/acceptance/chapter-0133.json",
-      "acceptance_sha": "e4300294e7e48d5dc5a81353a1bdf2697d6bf847",
+      "acceptance_sha": "7b935874e6bc22429171282fe0145e729a4593c8",
       "family_qa": "qa/families/test-your-skills-0133-0138.md"
     },
     {
@@ -1900,7 +1900,7 @@
       "qa": "qa/chapter-0134.md",
       "provenance": "editorial/provenance/chapter-0134.json",
       "acceptance": "qa/acceptance/chapter-0134.json",
-      "acceptance_sha": "b71bdde8ef557b057c6fe08dd03d713ad5fd1195",
+      "acceptance_sha": "0876675fab84c4b003e4de8b9c173ee3ecd37845",
       "family_qa": "qa/families/test-your-skills-0133-0138.md"
     },
     {
@@ -1914,7 +1914,7 @@
       "qa": "qa/chapter-0135.md",
       "provenance": "editorial/provenance/chapter-0135.json",
       "acceptance": "qa/acceptance/chapter-0135.json",
-      "acceptance_sha": "6b99990ba59a53ffaaedc1e30272643ae8f276d1",
+      "acceptance_sha": "89489369894b891c4fc0df4bdfa189cf2e00d63c",
       "family_qa": "qa/families/test-your-skills-0133-0138.md"
     },
     {
@@ -1928,7 +1928,7 @@
       "qa": "qa/chapter-0136.md",
       "provenance": "editorial/provenance/chapter-0136.json",
       "acceptance": "qa/acceptance/chapter-0136.json",
-      "acceptance_sha": "90b21ce4881bd313c88297cbfd9017e5005ac00c",
+      "acceptance_sha": "36ab92a1ef5e659ffe44605bf8e4948a62326792",
       "family_qa": "qa/families/test-your-skills-0133-0138.md"
     },
     {
@@ -1942,7 +1942,7 @@
       "qa": "qa/chapter-0137.md",
       "provenance": "editorial/provenance/chapter-0137.json",
       "acceptance": "qa/acceptance/chapter-0137.json",
-      "acceptance_sha": "0835c41a5750218a3ae66a1cc994cd5b20b34443",
+      "acceptance_sha": "b04c76cdcabc5f01ee1d2f3d7bbeb9eabca496b7",
       "family_qa": "qa/families/test-your-skills-0133-0138.md"
     },
     {
@@ -1956,7 +1956,7 @@
       "qa": "qa/chapter-0138.md",
       "provenance": "editorial/provenance/chapter-0138.json",
       "acceptance": "qa/acceptance/chapter-0138.json",
-      "acceptance_sha": "75756f2335d6713cba3f939c79440cb86ef47bf3",
+      "acceptance_sha": "628a8b17546103056006eb0ceb8741d26894070a",
       "family_qa": "qa/families/test-your-skills-0133-0138.md"
     },
     {
@@ -1970,7 +1970,7 @@
       "qa": "qa/chapter-0139.md",
       "provenance": "editorial/provenance/chapter-0139.json",
       "acceptance": "qa/acceptance/chapter-0139.json",
-      "acceptance_sha": "a6f7b4114a8b7bc568e00a81dcee8f06a6aea100",
+      "acceptance_sha": "9a0ee3254397f0b21f0a49860ab625a46a7426f0",
       "family_qa": "qa/families/men-are-power-0139-0140.md"
     },
     {
@@ -1984,7 +1984,7 @@
       "qa": "qa/chapter-0140.md",
       "provenance": "editorial/provenance/chapter-0140.json",
       "acceptance": "qa/acceptance/chapter-0140.json",
-      "acceptance_sha": "2e2ff02e1e13c6b8cde0115697ea9485009e9bd4",
+      "acceptance_sha": "2b5ae44c40203f95e0be03f1d8b0e847810e21d8",
       "family_qa": "qa/families/men-are-power-0139-0140.md"
     },
     {
@@ -1998,7 +1998,7 @@
       "qa": "qa/chapter-0141.md",
       "provenance": "editorial/provenance/chapter-0141.json",
       "acceptance": "qa/acceptance/chapter-0141.json",
-      "acceptance_sha": "3b43b9acc2eb233b8b8c85f9d44f4369587e4cb1",
+      "acceptance_sha": "51a6041e4983119674eb0c706304cc08b4afc9ec",
       "family_qa": "qa/families/identity-villain-0141-0143.md"
     },
     {
@@ -2012,7 +2012,7 @@
       "qa": "qa/chapter-0142.md",
       "provenance": "editorial/provenance/chapter-0142.json",
       "acceptance": "qa/acceptance/chapter-0142.json",
-      "acceptance_sha": "79f4e117fd72cee11b7182d4e3f673b2caf77cff",
+      "acceptance_sha": "212f39de0ba0f7b67b8e5703e53df64c5125e5c3",
       "family_qa": "qa/families/identity-villain-0141-0143.md"
     },
     {
@@ -2026,7 +2026,7 @@
       "qa": "qa/chapter-0143.md",
       "provenance": "editorial/provenance/chapter-0143.json",
       "acceptance": "qa/acceptance/chapter-0143.json",
-      "acceptance_sha": "6d21df2275bf509c06be32d8adbed4352f7852a9",
+      "acceptance_sha": "115376be124985c024c3d0323f1a89653f360f14",
       "family_qa": "qa/families/identity-villain-0141-0143.md"
     },
     {
@@ -2124,7 +2124,7 @@
       "qa": "qa/chapter-0150.md",
       "provenance": "editorial/provenance/chapter-0150.json",
       "acceptance": "qa/acceptance/chapter-0150.json",
-      "acceptance_sha": "57fa1d67f18374601902b755b5660382245de957",
+      "acceptance_sha": "67f7462c290ff7a95761f9a778f9b27f8d787a4f",
       "family_qa": "qa/families/not-brother-0150-0151.md"
     },
     {
@@ -2138,7 +2138,7 @@
       "qa": "qa/chapter-0151.md",
       "provenance": "editorial/provenance/chapter-0151.json",
       "acceptance": "qa/acceptance/chapter-0151.json",
-      "acceptance_sha": "f3f5eaf9ce3a2c19840716e49922bdea0a2903df",
+      "acceptance_sha": "f8338fa6ed3ae804e7ab44709fed4547987ef13a",
       "family_qa": "qa/families/not-brother-0150-0151.md"
     },
     {
@@ -2152,7 +2152,7 @@
       "qa": "qa/chapter-0152.md",
       "provenance": "editorial/provenance/chapter-0152.json",
       "acceptance": "qa/acceptance/chapter-0152.json",
-      "acceptance_sha": "38d015be197f92201005ac47ce386c2dbbd75b76",
+      "acceptance_sha": "4c1d1d0e6f10028c2085167841349866a2e3868b",
       "family_qa": "qa/families/drinking-game-0152-0154.md"
     },
     {
@@ -2166,7 +2166,7 @@
       "qa": "qa/chapter-0153.md",
       "provenance": "editorial/provenance/chapter-0153.json",
       "acceptance": "qa/acceptance/chapter-0153.json",
-      "acceptance_sha": "939e0fa9aaa14f8bd2cd97978dc56b2954de2fa5",
+      "acceptance_sha": "dc128966157947fa8b945cce00a383100bc138db",
       "family_qa": "qa/families/drinking-game-0152-0154.md"
     },
     {
@@ -2180,7 +2180,7 @@
       "qa": "qa/chapter-0154.md",
       "provenance": "editorial/provenance/chapter-0154.json",
       "acceptance": "qa/acceptance/chapter-0154.json",
-      "acceptance_sha": "a87de4a2d0a447d00378c597a5ff36f8a87dd238",
+      "acceptance_sha": "a90125552a0227902ce3f7c67c84d33b3b53eada",
       "family_qa": "qa/families/drinking-game-0152-0154.md"
     },
     {
@@ -2194,7 +2194,7 @@
       "qa": "qa/chapter-0155.md",
       "provenance": "editorial/provenance/chapter-0155.json",
       "acceptance": "qa/acceptance/chapter-0155.json",
-      "acceptance_sha": "9e6fcf9e58a995c1da42016036aeccfd4f2b8ffa",
+      "acceptance_sha": "2ae6cd835ba22f84ffbaf96914a4c95e37a7a008",
       "family_qa": "qa/families/night-shift-safety-0155-0157.md"
     },
     {
@@ -2208,7 +2208,7 @@
       "qa": "qa/chapter-0156.md",
       "provenance": "editorial/provenance/chapter-0156.json",
       "acceptance": "qa/acceptance/chapter-0156.json",
-      "acceptance_sha": "05200a0d945ba80aea8139c52bd7245b7842828c",
+      "acceptance_sha": "98dc1551980e1e2301b3fe527c1603653a8705b9",
       "family_qa": "qa/families/night-shift-safety-0155-0157.md"
     },
     {
@@ -2222,7 +2222,7 @@
       "qa": "qa/chapter-0157.md",
       "provenance": "editorial/provenance/chapter-0157.json",
       "acceptance": "qa/acceptance/chapter-0157.json",
-      "acceptance_sha": "2596f7eba9215447c384be0982b3e3b5af0c8929",
+      "acceptance_sha": "86326bb79fa08e1f20b3041ef52c3022ece7efb5",
       "family_qa": "qa/families/night-shift-safety-0155-0157.md"
     },
     {
@@ -2236,7 +2236,7 @@
       "qa": "qa/chapter-0158.md",
       "provenance": "editorial/provenance/chapter-0158.json",
       "acceptance": "qa/acceptance/chapter-0158.json",
-      "acceptance_sha": "56f74b0837ea612a49daefbd3ccf44e2954899f2",
+      "acceptance_sha": "f806ecf24b21c96a2f1efe825694b12731efb20d",
       "family_qa": "qa/families/familiar-face-0158-0161.md"
     },
     {
@@ -2250,7 +2250,7 @@
       "qa": "qa/chapter-0159.md",
       "provenance": "editorial/provenance/chapter-0159.json",
       "acceptance": "qa/acceptance/chapter-0159.json",
-      "acceptance_sha": "a4b331e5640409b93d760b2a39b3d578a81128d1",
+      "acceptance_sha": "1a12ad0e2c763a14abd9b0994ed978d2b352379d",
       "family_qa": "qa/families/familiar-face-0158-0161.md"
     },
     {
@@ -2264,7 +2264,7 @@
       "qa": "qa/chapter-0160.md",
       "provenance": "editorial/provenance/chapter-0160.json",
       "acceptance": "qa/acceptance/chapter-0160.json",
-      "acceptance_sha": "b37b33ec7fb1b5d921d49c9fd4041f76d406925b",
+      "acceptance_sha": "e29ce27b41a22410775b20d133c05f6c148c5def",
       "family_qa": "qa/families/familiar-face-0158-0161.md"
     },
     {
@@ -2278,7 +2278,7 @@
       "qa": "qa/chapter-0161.md",
       "provenance": "editorial/provenance/chapter-0161.json",
       "acceptance": "qa/acceptance/chapter-0161.json",
-      "acceptance_sha": "56c72d70d080aece494e3837ca07e9a08919b0c0",
+      "acceptance_sha": "1b903ba06cc99bdd677cc0774d59e724bf9f2510",
       "family_qa": "qa/families/familiar-face-0158-0161.md"
     },
     {
@@ -2292,7 +2292,7 @@
       "qa": "qa/chapter-0162.md",
       "provenance": "editorial/provenance/chapter-0162.json",
       "acceptance": "qa/acceptance/chapter-0162.json",
-      "acceptance_sha": "c826e06f6febd167767b26dee7c2fc4117d0b874",
+      "acceptance_sha": "3ccc86473330985c3fbd1d1609e2c1f6706dc8a7",
       "family_qa": "qa/families/sin-punishment-0162-0169.md"
     },
     {
@@ -2306,7 +2306,7 @@
       "qa": "qa/chapter-0163.md",
       "provenance": "editorial/provenance/chapter-0163.json",
       "acceptance": "qa/acceptance/chapter-0163.json",
-      "acceptance_sha": "393807614c96a1df07a9ca9f2ed61ede6720f33e",
+      "acceptance_sha": "1e738b4c529d0b1a840eedf0923b569e7905fa88",
       "family_qa": "qa/families/sin-punishment-0162-0169.md"
     },
     {
@@ -2320,7 +2320,7 @@
       "qa": "qa/chapter-0164.md",
       "provenance": "editorial/provenance/chapter-0164.json",
       "acceptance": "qa/acceptance/chapter-0164.json",
-      "acceptance_sha": "5472354b97d0241b479dceabbeb1b01ebe5876be",
+      "acceptance_sha": "342296ea4ff9f7737bb3c718e9f4acbc6b81ad9d",
       "family_qa": "qa/families/sin-punishment-0162-0169.md"
     },
     {
@@ -2334,7 +2334,7 @@
       "qa": "qa/chapter-0165.md",
       "provenance": "editorial/provenance/chapter-0165.json",
       "acceptance": "qa/acceptance/chapter-0165.json",
-      "acceptance_sha": "e1b9cb54f38c2fde88cd1df222e79ec4db41298a",
+      "acceptance_sha": "b16bd34276a82c7f870664373c4611c2ea1519f4",
       "family_qa": "qa/families/sin-punishment-0162-0169.md"
     },
     {
@@ -2348,7 +2348,7 @@
       "qa": "qa/chapter-0166.md",
       "provenance": "editorial/provenance/chapter-0166.json",
       "acceptance": "qa/acceptance/chapter-0166.json",
-      "acceptance_sha": "c9c8c1a30d1d4cd86b0da0c2d00e94dd2813a375",
+      "acceptance_sha": "d495038f69477d93ff240536f956e1d9eea3a449",
       "family_qa": "qa/families/sin-punishment-0162-0169.md"
     },
     {
@@ -2362,7 +2362,7 @@
       "qa": "qa/chapter-0167.md",
       "provenance": "editorial/provenance/chapter-0167.json",
       "acceptance": "qa/acceptance/chapter-0167.json",
-      "acceptance_sha": "9a5d2a3800a31f587fa67f485096427c4330407d",
+      "acceptance_sha": "f56fcc02d58896fdfb704f3be74ce384551f80ea",
       "family_qa": "qa/families/sin-punishment-0162-0169.md"
     },
     {
@@ -2376,7 +2376,7 @@
       "qa": "qa/chapter-0168.md",
       "provenance": "editorial/provenance/chapter-0168.json",
       "acceptance": "qa/acceptance/chapter-0168.json",
-      "acceptance_sha": "1f890e06e5be2bf975a16a8d04df896e7faf1da4",
+      "acceptance_sha": "6ad28f50b6695badfd47356f72975b0bb28bbfe9",
       "family_qa": "qa/families/sin-punishment-0162-0169.md"
     },
     {
@@ -2390,7 +2390,7 @@
       "qa": "qa/chapter-0169.md",
       "provenance": "editorial/provenance/chapter-0169.json",
       "acceptance": "qa/acceptance/chapter-0169.json",
-      "acceptance_sha": "08edcc902314005e912325dfaf5079bf432f016c",
+      "acceptance_sha": "ba1f47efd4d6659fc0763489fb79a87dfb77cc21",
       "family_qa": "qa/families/sin-punishment-0162-0169.md"
     },
     {
@@ -2432,7 +2432,7 @@
       "qa": "qa/chapter-0172.md",
       "provenance": "editorial/provenance/chapter-0172.json",
       "acceptance": "qa/acceptance/chapter-0172.json",
-      "acceptance_sha": "ec9578de21fcb8230b5c215c6ebea40918ea593e",
+      "acceptance_sha": "ce5bef68324e939077d2f9988a91fd774008ba3c",
       "family_qa": "qa/families/anti-columnist-0172-0175.md"
     },
     {
@@ -2446,7 +2446,7 @@
       "qa": "qa/chapter-0173.md",
       "provenance": "editorial/provenance/chapter-0173.json",
       "acceptance": "qa/acceptance/chapter-0173.json",
-      "acceptance_sha": "4c1d69c91dd0e905259de76b4391797691f89c9b",
+      "acceptance_sha": "de736fd61d1b19883ec48a5fe34b79a21c93d96a",
       "family_qa": "qa/families/anti-columnist-0172-0175.md"
     },
     {
@@ -2460,7 +2460,7 @@
       "qa": "qa/chapter-0174.md",
       "provenance": "editorial/provenance/chapter-0174.json",
       "acceptance": "qa/acceptance/chapter-0174.json",
-      "acceptance_sha": "22b91848db871c218c135921e2424a4c25201313",
+      "acceptance_sha": "51c453489ce474fe47d0e4919c6a5bb766af2c25",
       "family_qa": "qa/families/anti-columnist-0172-0175.md"
     },
     {
@@ -2474,7 +2474,7 @@
       "qa": "qa/chapter-0175.md",
       "provenance": "editorial/provenance/chapter-0175.json",
       "acceptance": "qa/acceptance/chapter-0175.json",
-      "acceptance_sha": "988edebd2ea8829d4f4583872113aadb5ed34a8f",
+      "acceptance_sha": "f29388dc493a3580f763faf8367937a8e3615604",
       "family_qa": "qa/families/anti-columnist-0172-0175.md"
     },
     {
@@ -2488,7 +2488,7 @@
       "qa": "qa/chapter-0176.md",
       "provenance": "editorial/provenance/chapter-0176.json",
       "acceptance": "qa/acceptance/chapter-0176.json",
-      "acceptance_sha": "ba96f117ab294c58947394803e645f0c2fe9efb3",
+      "acceptance_sha": "1503aaf7fa95c076b72b6fc1e8e2084d5b6018a7",
       "family_qa": "qa/families/99-hits-0176-0178.md"
     },
     {
@@ -2502,7 +2502,7 @@
       "qa": "qa/chapter-0177.md",
       "provenance": "editorial/provenance/chapter-0177.json",
       "acceptance": "qa/acceptance/chapter-0177.json",
-      "acceptance_sha": "60719da499ddc48a1a4f787555d5491ab467288e",
+      "acceptance_sha": "e1d0d68d9685fe779bfb92d9c0c9dae992a9a669",
       "family_qa": "qa/families/99-hits-0176-0178.md"
     },
     {
@@ -2516,7 +2516,7 @@
       "qa": "qa/chapter-0178.md",
       "provenance": "editorial/provenance/chapter-0178.json",
       "acceptance": "qa/acceptance/chapter-0178.json",
-      "acceptance_sha": "9538561acd676dbb1187b64b998033331da6d8c2",
+      "acceptance_sha": "8040055d5c6ca615fc5fefe334b27e68f7f5d4ad",
       "family_qa": "qa/families/99-hits-0176-0178.md"
     },
     {
@@ -2530,7 +2530,7 @@
       "qa": "qa/chapter-0179.md",
       "provenance": "editorial/provenance/chapter-0179.json",
       "acceptance": "qa/acceptance/chapter-0179.json",
-      "acceptance_sha": "28717227ea7ae06cbf7b5fc925f40ca79b39adea",
+      "acceptance_sha": "a39658acbb551e978e7be9f6062d6f5dd8f9061d",
       "family_qa": "qa/families/midterm-random-defense-0179-0185.md"
     },
     {
@@ -2544,7 +2544,7 @@
       "qa": "qa/chapter-0180.md",
       "provenance": "editorial/provenance/chapter-0180.json",
       "acceptance": "qa/acceptance/chapter-0180.json",
-      "acceptance_sha": "dc9f0d48e4a1dfe7636924941eb97f26a8adc0b1",
+      "acceptance_sha": "8350ab3876bcf0eb11df29bdb197d9862982cba3",
       "family_qa": "qa/families/midterm-random-defense-0179-0185.md"
     },
     {
@@ -2558,7 +2558,7 @@
       "qa": "qa/chapter-0181.md",
       "provenance": "editorial/provenance/chapter-0181.json",
       "acceptance": "qa/acceptance/chapter-0181.json",
-      "acceptance_sha": "ca35b88617f6f2396ec2679ab1a08e52fcb65647",
+      "acceptance_sha": "2381a55b8c7beab36440e3b1abc16c54b7fae266",
       "family_qa": "qa/families/midterm-random-defense-0179-0185.md"
     },
     {
@@ -2572,7 +2572,7 @@
       "qa": "qa/chapter-0182.md",
       "provenance": "editorial/provenance/chapter-0182.json",
       "acceptance": "qa/acceptance/chapter-0182.json",
-      "acceptance_sha": "2042dbde1f762ce50241ea88be446063866ed72d",
+      "acceptance_sha": "71a09e3524755744e5055654c2e2ea6bc9a7a6e7",
       "family_qa": "qa/families/midterm-random-defense-0179-0185.md"
     },
     {
@@ -2586,7 +2586,7 @@
       "qa": "qa/chapter-0183.md",
       "provenance": "editorial/provenance/chapter-0183.json",
       "acceptance": "qa/acceptance/chapter-0183.json",
-      "acceptance_sha": "871c0811ff2701afa28f8b463dd4d9c1b56a819f",
+      "acceptance_sha": "8f0b295cb0081e762ad446bc2b11af2ce4605ee5",
       "family_qa": "qa/families/midterm-random-defense-0179-0185.md"
     },
     {
@@ -2600,7 +2600,7 @@
       "qa": "qa/chapter-0184.md",
       "provenance": "editorial/provenance/chapter-0184.json",
       "acceptance": "qa/acceptance/chapter-0184.json",
-      "acceptance_sha": "ef945c7d6f3aebded1166d8b8703e20850768c57",
+      "acceptance_sha": "4f0224a68a4b299c351d1a9c343f4a26130f9e52",
       "family_qa": "qa/families/midterm-random-defense-0179-0185.md"
     },
     {
@@ -2614,7 +2614,7 @@
       "qa": "qa/chapter-0185.md",
       "provenance": "editorial/provenance/chapter-0185.json",
       "acceptance": "qa/acceptance/chapter-0185.json",
-      "acceptance_sha": "8d5aba349ec3553983a0001c57c79e372ee788e3",
+      "acceptance_sha": "c07933c1fbc76614064ba9c60647be3e216d7103",
       "family_qa": "qa/families/midterm-random-defense-0179-0185.md"
     },
     {
@@ -2628,7 +2628,7 @@
       "qa": "qa/chapter-0186.md",
       "provenance": "editorial/provenance/chapter-0186.json",
       "acceptance": "qa/acceptance/chapter-0186.json",
-      "acceptance_sha": "6078c2468241c43a86b4e25747df0c959ad68bd8",
+      "acceptance_sha": "788e2e35d25cc7bb254af9640031e246b33b2a2e",
       "family_qa": "qa/families/aftermath-0186-0189.md"
     },
     {
@@ -2642,7 +2642,7 @@
       "qa": "qa/chapter-0187.md",
       "provenance": "editorial/provenance/chapter-0187.json",
       "acceptance": "qa/acceptance/chapter-0187.json",
-      "acceptance_sha": "4d1d69134139e93e87f29a2cfc6037b8891a686a",
+      "acceptance_sha": "3116aad772ed83d07ca15d7afbcf8cea01008a11",
       "family_qa": "qa/families/aftermath-0186-0189.md"
     },
     {
@@ -2656,7 +2656,7 @@
       "qa": "qa/chapter-0188.md",
       "provenance": "editorial/provenance/chapter-0188.json",
       "acceptance": "qa/acceptance/chapter-0188.json",
-      "acceptance_sha": "78a1129a5362c619ef4c2236745f856ae15df857",
+      "acceptance_sha": "fa11134e12f72096f748eb0d03fd5001c958678c",
       "family_qa": "qa/families/aftermath-0186-0189.md"
     },
     {
@@ -2670,7 +2670,7 @@
       "qa": "qa/chapter-0189.md",
       "provenance": "editorial/provenance/chapter-0189.json",
       "acceptance": "qa/acceptance/chapter-0189.json",
-      "acceptance_sha": "2705f3f334f0f45225b1b1bc8076f0fe58114168",
+      "acceptance_sha": "814ba1bd22071a515688103d952dbeea535f263b",
       "family_qa": "qa/families/aftermath-0186-0189.md"
     },
     {
@@ -2684,7 +2684,7 @@
       "qa": "qa/chapter-0190.md",
       "provenance": "editorial/provenance/chapter-0190.json",
       "acceptance": "qa/acceptance/chapter-0190.json",
-      "acceptance_sha": "717737fe4fd0eae57265e8ee16f6747c5d794042",
+      "acceptance_sha": "305e207655fa864a68eec9997e58c0add32a71fe",
       "family_qa": "qa/families/attack-land-0190-0196.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -2699,7 +2699,7 @@
       "qa": "qa/chapter-0191.md",
       "provenance": "editorial/provenance/chapter-0191.json",
       "acceptance": "qa/acceptance/chapter-0191.json",
-      "acceptance_sha": "090424a6c89784b975e0ba533e7f83cb32ed9459",
+      "acceptance_sha": "39ba383af923ef7ef1a9ce4386852efe4533a6bc",
       "family_qa": "qa/families/attack-land-0190-0196.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -2714,7 +2714,7 @@
       "qa": "qa/chapter-0192.md",
       "provenance": "editorial/provenance/chapter-0192.json",
       "acceptance": "qa/acceptance/chapter-0192.json",
-      "acceptance_sha": "007e1d212ff08de0973a67dd3670403a61ac377d",
+      "acceptance_sha": "423d92ee488a199ef543ddd5a056c3427b4fd832",
       "family_qa": "qa/families/attack-land-0190-0196.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -2729,7 +2729,7 @@
       "qa": "qa/chapter-0193.md",
       "provenance": "editorial/provenance/chapter-0193.json",
       "acceptance": "qa/acceptance/chapter-0193.json",
-      "acceptance_sha": "ec4fdcb8dc883ef76133751e20b6903945720772",
+      "acceptance_sha": "1b99185579a199132af61a9edffa6eca4805f30e",
       "family_qa": "qa/families/attack-land-0190-0196.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -2744,7 +2744,7 @@
       "qa": "qa/chapter-0194.md",
       "provenance": "editorial/provenance/chapter-0194.json",
       "acceptance": "qa/acceptance/chapter-0194.json",
-      "acceptance_sha": "ef2f1a5a147faa65691635ccf7568f408e6760af",
+      "acceptance_sha": "0ebefcd78d283d0273b9693a59a9e65ee12302a1",
       "family_qa": "qa/families/attack-land-0190-0196.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -2759,7 +2759,7 @@
       "qa": "qa/chapter-0195.md",
       "provenance": "editorial/provenance/chapter-0195.json",
       "acceptance": "qa/acceptance/chapter-0195.json",
-      "acceptance_sha": "1652039527b0994ce9daaa2a5e89bbb3ecb4671e",
+      "acceptance_sha": "f391aad45d34491ffa5299f69bec32cec12d9d98",
       "family_qa": "qa/families/attack-land-0190-0196.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -2774,7 +2774,7 @@
       "qa": "qa/chapter-0196.md",
       "provenance": "editorial/provenance/chapter-0196.json",
       "acceptance": "qa/acceptance/chapter-0196.json",
-      "acceptance_sha": "b103926936fc1fecd0910d330ecc2135bdca509b",
+      "acceptance_sha": "82294483048f99340f1d896b9003834f2b696a0b",
       "family_qa": "qa/families/attack-land-0190-0196.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -2789,7 +2789,7 @@
       "qa": "qa/chapter-0197.md",
       "provenance": "editorial/provenance/chapter-0197.json",
       "acceptance": "qa/acceptance/chapter-0197.json",
-      "acceptance_sha": "01c234e83b77a4e26060c21d6d48a90b3505d091",
+      "acceptance_sha": "9e5871c30c03f221131f62a7d1ff336fb217ab8c",
       "family_qa": "qa/families/preparing-festival-0197.md"
     },
     {
@@ -2803,7 +2803,7 @@
       "qa": "qa/chapter-0198.md",
       "provenance": "editorial/provenance/chapter-0198.json",
       "acceptance": "qa/acceptance/chapter-0198.json",
-      "acceptance_sha": "b7dec20a2523ed119a8fd7bc88c0b43dbff38d7a",
+      "acceptance_sha": "d42652451fa747d0ba0ba6aab396fba03e7bc115",
       "family_qa": "qa/families/corpse-queen-0198-0202.md"
     },
     {
@@ -2817,7 +2817,7 @@
       "qa": "qa/chapter-0199.md",
       "provenance": "editorial/provenance/chapter-0199.json",
       "acceptance": "qa/acceptance/chapter-0199.json",
-      "acceptance_sha": "500ecdc2df7b0a2667ce6f65405761014f648f07",
+      "acceptance_sha": "bf05aedc0596c4c413382b80b397694abdf3d3e0",
       "family_qa": "qa/families/corpse-queen-0198-0202.md"
     },
     {
@@ -2831,7 +2831,7 @@
       "qa": "qa/chapter-0200.md",
       "provenance": "editorial/provenance/chapter-0200.json",
       "acceptance": "qa/acceptance/chapter-0200.json",
-      "acceptance_sha": "7eb4848aa94d9d66a85b389c8e0c5bb8e2cb68e5",
+      "acceptance_sha": "b0123f203c5c342e1fb7a6c54c70b0e21395f24c",
       "family_qa": "qa/families/corpse-queen-0198-0202.md"
     },
     {
@@ -2845,7 +2845,7 @@
       "qa": "qa/chapter-0201.md",
       "provenance": "editorial/provenance/chapter-0201.json",
       "acceptance": "qa/acceptance/chapter-0201.json",
-      "acceptance_sha": "ee9026c236e444ccc8bfac9a8bd0268ac1f2ab1f",
+      "acceptance_sha": "131215d7d0961fdf895ae1165fb7f81127aa8c38",
       "family_qa": "qa/families/corpse-queen-0198-0202.md"
     },
     {
@@ -2859,7 +2859,7 @@
       "qa": "qa/chapter-0202.md",
       "provenance": "editorial/provenance/chapter-0202.json",
       "acceptance": "qa/acceptance/chapter-0202.json",
-      "acceptance_sha": "43bc612c07dc797c48404d220ab752752a85cd5e",
+      "acceptance_sha": "79f66840cd79a8de0030e0dfb38916542dfa623c",
       "family_qa": "qa/families/corpse-queen-0198-0202.md"
     },
     {
@@ -2873,7 +2873,7 @@
       "qa": "qa/chapter-0203.md",
       "provenance": "editorial/provenance/chapter-0203.json",
       "acceptance": "qa/acceptance/chapter-0203.json",
-      "acceptance_sha": "5178ed2de9f6bdded7b615ebf3cc301d0c5c4f70",
+      "acceptance_sha": "ea4254c50ef6fea475f4b538c3d5c79ae41334f8",
       "family_qa": "qa/families/mixed-bath-0203-0205.md"
     },
     {
@@ -2887,7 +2887,7 @@
       "qa": "qa/chapter-0204.md",
       "provenance": "editorial/provenance/chapter-0204.json",
       "acceptance": "qa/acceptance/chapter-0204.json",
-      "acceptance_sha": "63581a5bb408aa0309bb0b9f1c8ca72dfbd64f0d",
+      "acceptance_sha": "7bf3ccd21f809713d81d59d6a821c44a00d3efe2",
       "family_qa": "qa/families/mixed-bath-0203-0205.md"
     },
     {
@@ -2901,7 +2901,7 @@
       "qa": "qa/chapter-0205.md",
       "provenance": "editorial/provenance/chapter-0205.json",
       "acceptance": "qa/acceptance/chapter-0205.json",
-      "acceptance_sha": "c0a33f3358bc69ed91fcc1169be77f0406eaee74",
+      "acceptance_sha": "0a8d9276fad659556fa7ac5320b7d7ef32c04243",
       "family_qa": "qa/families/mixed-bath-0203-0205.md"
     },
     {
@@ -2915,7 +2915,7 @@
       "qa": "qa/chapter-0206.md",
       "provenance": "editorial/provenance/chapter-0206.json",
       "acceptance": "qa/acceptance/chapter-0206.json",
-      "acceptance_sha": "0c556a5aaeaa6374247860da0899d5c098c04902",
+      "acceptance_sha": "a7af775e0ea9cca009cea65ad406800bf4145dd5",
       "family_qa": "qa/families/festival-night-0206-0215.md"
     },
     {
@@ -2929,7 +2929,7 @@
       "qa": "qa/chapter-0207.md",
       "provenance": "editorial/provenance/chapter-0207.json",
       "acceptance": "qa/acceptance/chapter-0207.json",
-      "acceptance_sha": "818ee005042f128c7f716752fa58d660086e2711",
+      "acceptance_sha": "0f6d5c64787bf40bdf8180fe4445fed68c841e75",
       "family_qa": "qa/families/festival-night-0206-0215.md"
     },
     {
@@ -2943,7 +2943,7 @@
       "qa": "qa/chapter-0208.md",
       "provenance": "editorial/provenance/chapter-0208.json",
       "acceptance": "qa/acceptance/chapter-0208.json",
-      "acceptance_sha": "549825d92bb96ba96c13435e1ffcad86e9a1357d",
+      "acceptance_sha": "9777edd4099f767e060cd054a88d2e5c711c43a3",
       "family_qa": "qa/families/festival-night-0206-0215.md"
     },
     {
@@ -2957,7 +2957,7 @@
       "qa": "qa/chapter-0209.md",
       "provenance": "editorial/provenance/chapter-0209.json",
       "acceptance": "qa/acceptance/chapter-0209.json",
-      "acceptance_sha": "b72e72b4981c79e4b36299139fdf238e4aa4e557",
+      "acceptance_sha": "22e9ae125ee0dbffdea5311d745a0d61a4c7c136",
       "family_qa": "qa/families/festival-night-0206-0215.md"
     },
     {
@@ -2971,7 +2971,7 @@
       "qa": "qa/chapter-0210.md",
       "provenance": "editorial/provenance/chapter-0210.json",
       "acceptance": "qa/acceptance/chapter-0210.json",
-      "acceptance_sha": "5da1a32d96b99988d3a4288ff301eb5c20ba30ea",
+      "acceptance_sha": "a3ad8a1b9e568fbd2e2a8827487b1b86e04ed7d3",
       "family_qa": "qa/families/festival-night-0206-0215.md"
     },
     {
@@ -2985,7 +2985,7 @@
       "qa": "qa/chapter-0211.md",
       "provenance": "editorial/provenance/chapter-0211.json",
       "acceptance": "qa/acceptance/chapter-0211.json",
-      "acceptance_sha": "a593e9871aed5fd53061fb6e8452a6fde0d6306c",
+      "acceptance_sha": "7f120fb32ebd136ea42c8a0d129b938371d1f902",
       "family_qa": "qa/families/festival-night-0206-0215.md"
     },
     {
@@ -2999,7 +2999,7 @@
       "qa": "qa/chapter-0212.md",
       "provenance": "editorial/provenance/chapter-0212.json",
       "acceptance": "qa/acceptance/chapter-0212.json",
-      "acceptance_sha": "1a3c4c52ad235f60905d18979b8d2822fe4dfec5",
+      "acceptance_sha": "4a6dd07ed544acc2f3e07bd69b0c2c53370ff211",
       "family_qa": "qa/families/festival-night-0206-0215.md"
     },
     {
@@ -3013,7 +3013,7 @@
       "qa": "qa/chapter-0213.md",
       "provenance": "editorial/provenance/chapter-0213.json",
       "acceptance": "qa/acceptance/chapter-0213.json",
-      "acceptance_sha": "0a165bb5a72abc69c385adbfe163bb73b8db1fe3",
+      "acceptance_sha": "2f1019e737acb8b123051141838badb9c4c6667a",
       "family_qa": "qa/families/festival-night-0206-0215.md"
     },
     {
@@ -3027,7 +3027,7 @@
       "qa": "qa/chapter-0214.md",
       "provenance": "editorial/provenance/chapter-0214.json",
       "acceptance": "qa/acceptance/chapter-0214.json",
-      "acceptance_sha": "56cc07b4c6f9dc3c685d2add190085e7bc6be905",
+      "acceptance_sha": "3b8daf5d907c1393c6403dc0a14d668e477a5b4f",
       "family_qa": "qa/families/festival-night-0206-0215.md"
     },
     {
@@ -3041,7 +3041,7 @@
       "qa": "qa/chapter-0215.md",
       "provenance": "editorial/provenance/chapter-0215.json",
       "acceptance": "qa/acceptance/chapter-0215.json",
-      "acceptance_sha": "14660a908774f0e635d361a50b985cd7247f5aca",
+      "acceptance_sha": "e74be76439bb3d49c7fd61811875750741b8f2ff",
       "family_qa": "qa/families/festival-night-0206-0215.md"
     },
     {
@@ -3055,7 +3055,7 @@
       "qa": "qa/chapter-0216.md",
       "provenance": "editorial/provenance/chapter-0216.json",
       "acceptance": "qa/acceptance/chapter-0216.json",
-      "acceptance_sha": "0638b5bcd4556b8e1d1c66db3ad2586b6b61aa90",
+      "acceptance_sha": "2af81e4f63bfef8454b6bba55e8fc26548e14cff",
       "family_qa": "qa/families/my-neck-sheath-0216-0219.md"
     },
     {
@@ -3069,7 +3069,7 @@
       "qa": "qa/chapter-0217.md",
       "provenance": "editorial/provenance/chapter-0217.json",
       "acceptance": "qa/acceptance/chapter-0217.json",
-      "acceptance_sha": "588c98a09cd20b4c16d6e7f8cfaa1a9ef4895818",
+      "acceptance_sha": "27d57cce6b02f296bd87e64d54f43445777d5e4e",
       "family_qa": "qa/families/my-neck-sheath-0216-0219.md"
     },
     {
@@ -3083,7 +3083,7 @@
       "qa": "qa/chapter-0218.md",
       "provenance": "editorial/provenance/chapter-0218.json",
       "acceptance": "qa/acceptance/chapter-0218.json",
-      "acceptance_sha": "e2a8612cc9ca49573f2a9321f1bcce55ea5da916",
+      "acceptance_sha": "31efd977c2c0987f2b64f78c113f6953b8e3f4f5",
       "family_qa": "qa/families/my-neck-sheath-0216-0219.md"
     },
     {
@@ -3097,7 +3097,7 @@
       "qa": "qa/chapter-0219.md",
       "provenance": "editorial/provenance/chapter-0219.json",
       "acceptance": "qa/acceptance/chapter-0219.json",
-      "acceptance_sha": "5e8f3aeaba5538ff5ab1466e33b1e7f5feca7cf6",
+      "acceptance_sha": "86f08293dc3d7e47caef2d4a2494602bfa669077",
       "family_qa": "qa/families/my-neck-sheath-0216-0219.md"
     },
     {
@@ -3111,7 +3111,7 @@
       "qa": "qa/chapter-0220.md",
       "provenance": "editorial/provenance/chapter-0220.json",
       "acceptance": "qa/acceptance/chapter-0220.json",
-      "acceptance_sha": "8759c6b0eecdf917775b72e5a60c6039615661ea",
+      "acceptance_sha": "b18d931abd88ad53aa6aacab801485c609b7c6ec",
       "family_qa": "qa/families/that-day-him-me-0220-0224.md"
     },
     {
@@ -3125,7 +3125,7 @@
       "qa": "qa/chapter-0221.md",
       "provenance": "editorial/provenance/chapter-0221.json",
       "acceptance": "qa/acceptance/chapter-0221.json",
-      "acceptance_sha": "da10ba1ea2a0cbf21f8d59c1abde77fdb2559c94",
+      "acceptance_sha": "b15c0b277861d2d052a34631723e030179f18e95",
       "family_qa": "qa/families/that-day-him-me-0220-0224.md"
     },
     {
@@ -3139,7 +3139,7 @@
       "qa": "qa/chapter-0222.md",
       "provenance": "editorial/provenance/chapter-0222.json",
       "acceptance": "qa/acceptance/chapter-0222.json",
-      "acceptance_sha": "bcaf0428a2868fadada6995b871295eafcaca133",
+      "acceptance_sha": "cf300f3db52cc9c4374b7385cc6b81f49d8029ae",
       "family_qa": "qa/families/that-day-him-me-0220-0224.md"
     },
     {
@@ -3153,7 +3153,7 @@
       "qa": "qa/chapter-0223.md",
       "provenance": "editorial/provenance/chapter-0223.json",
       "acceptance": "qa/acceptance/chapter-0223.json",
-      "acceptance_sha": "2454c843caefe7e10f9350975a19998d2f72238a",
+      "acceptance_sha": "2601e9324e51b08604a89d944d490410ec29ac22",
       "family_qa": "qa/families/that-day-him-me-0220-0224.md"
     },
     {
@@ -3167,7 +3167,7 @@
       "qa": "qa/chapter-0224.md",
       "provenance": "editorial/provenance/chapter-0224.json",
       "acceptance": "qa/acceptance/chapter-0224.json",
-      "acceptance_sha": "4e425d9e177ab68e901d424feb5535ea04952ca0",
+      "acceptance_sha": "969690d5f9ce23eb62da8796bd636e728078f6e7",
       "family_qa": "qa/families/that-day-him-me-0220-0224.md"
     },
     {
@@ -3181,7 +3181,7 @@
       "qa": "qa/chapter-0225.md",
       "provenance": "editorial/provenance/chapter-0225.json",
       "acceptance": "qa/acceptance/chapter-0225.json",
-      "acceptance_sha": "e1d44d75a4e2da60f95dedb26c65de1182c48f29",
+      "acceptance_sha": "458f12e12860e2c9633daa467c8c568d093dc669",
       "family_qa": "qa/families/tuition-0225-0233.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -3196,7 +3196,7 @@
       "qa": "qa/chapter-0226.md",
       "provenance": "editorial/provenance/chapter-0226.json",
       "acceptance": "qa/acceptance/chapter-0226.json",
-      "acceptance_sha": "3251613218956d9b311371bb851d74eca077c166",
+      "acceptance_sha": "6b95356c9da3abd11d566d7779da6415c461bb83",
       "family_qa": "qa/families/tuition-0225-0233.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -3211,7 +3211,7 @@
       "qa": "qa/chapter-0227.md",
       "provenance": "editorial/provenance/chapter-0227.json",
       "acceptance": "qa/acceptance/chapter-0227.json",
-      "acceptance_sha": "192e1c5da076c004711539e034d05f214baf27db",
+      "acceptance_sha": "7a9aa06c4dc857cf0bce5fc6e968ab4d29e0b897",
       "family_qa": "qa/families/tuition-0225-0233.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -3226,7 +3226,7 @@
       "qa": "qa/chapter-0228.md",
       "provenance": "editorial/provenance/chapter-0228.json",
       "acceptance": "qa/acceptance/chapter-0228.json",
-      "acceptance_sha": "8c8d2d8fb9677cdeec41fa3065ebad2791e680bd",
+      "acceptance_sha": "ee673f5f8d38415de15da040b295397f9c8fa9ea",
       "family_qa": "qa/families/tuition-0225-0233.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -3241,7 +3241,7 @@
       "qa": "qa/chapter-0229.md",
       "provenance": "editorial/provenance/chapter-0229.json",
       "acceptance": "qa/acceptance/chapter-0229.json",
-      "acceptance_sha": "e720e9218ea757747053cd12888db6a317e82d71",
+      "acceptance_sha": "bc8d888ea52652929e4f17cd83e8915329a1992d",
       "family_qa": "qa/families/tuition-0225-0233.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -3256,7 +3256,7 @@
       "qa": "qa/chapter-0230.md",
       "provenance": "editorial/provenance/chapter-0230.json",
       "acceptance": "qa/acceptance/chapter-0230.json",
-      "acceptance_sha": "2d43cafb362145302c4f4e022ac2b33308f88266",
+      "acceptance_sha": "9a29cad9b5c03cd70aa1c7847ac52b96c57fb5c7",
       "family_qa": "qa/families/tuition-0225-0233.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -3271,7 +3271,7 @@
       "qa": "qa/chapter-0231.md",
       "provenance": "editorial/provenance/chapter-0231.json",
       "acceptance": "qa/acceptance/chapter-0231.json",
-      "acceptance_sha": "3c9b9327768c2754e4ad9af409f254a78af07448",
+      "acceptance_sha": "d9c704fadaa32ce4e137f4e4f932084bd5be79ca",
       "family_qa": "qa/families/tuition-0225-0233.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -3286,7 +3286,7 @@
       "qa": "qa/chapter-0232.md",
       "provenance": "editorial/provenance/chapter-0232.json",
       "acceptance": "qa/acceptance/chapter-0232.json",
-      "acceptance_sha": "a3de1ebc41c8fb2c5e515625b4395528c4659537",
+      "acceptance_sha": "279ca59f15f5bcd3d146b89fb756673d5a52446f",
       "family_qa": "qa/families/tuition-0225-0233.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -3301,7 +3301,7 @@
       "qa": "qa/chapter-0233.md",
       "provenance": "editorial/provenance/chapter-0233.json",
       "acceptance": "qa/acceptance/chapter-0233.json",
-      "acceptance_sha": "c305eb2bd9e192561209ee36f96e5d39cf34e000",
+      "acceptance_sha": "50e4c0d51eedf5ddb7eafcf33f2ebe09567b6f3b",
       "family_qa": "qa/families/tuition-0225-0233.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -3316,7 +3316,7 @@
       "qa": "qa/chapter-0234.md",
       "provenance": "editorial/provenance/chapter-0234.json",
       "acceptance": "qa/acceptance/chapter-0234.json",
-      "acceptance_sha": "99056382e53f66b350f9aac073ae1e735bac376b",
+      "acceptance_sha": "782d82b6af76dd5335d5f9750cf522a259b64a79",
       "family_qa": "qa/families/suspicion-0234-0235.md"
     },
     {
@@ -3330,7 +3330,7 @@
       "qa": "qa/chapter-0235.md",
       "provenance": "editorial/provenance/chapter-0235.json",
       "acceptance": "qa/acceptance/chapter-0235.json",
-      "acceptance_sha": "1afe09cba783a42eb36293e893578468c002676d",
+      "acceptance_sha": "fd4db13ef6f18a4e7bd5868209b78c42da5bedf0",
       "family_qa": "qa/families/suspicion-0234-0235.md"
     },
     {
@@ -3344,7 +3344,7 @@
       "qa": "qa/chapter-0236.md",
       "provenance": "editorial/provenance/chapter-0236.json",
       "acceptance": "qa/acceptance/chapter-0236.json",
-      "acceptance_sha": "20040e1721e41c1c8760996632392e67fe418563",
+      "acceptance_sha": "8937428f4b456980bea4d9ed985bbf2e6e8e32c2",
       "family_qa": "qa/families/national-university-league-0236-0244.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -3359,7 +3359,7 @@
       "qa": "qa/chapter-0237.md",
       "provenance": "editorial/provenance/chapter-0237.json",
       "acceptance": "qa/acceptance/chapter-0237.json",
-      "acceptance_sha": "83ea5962c4b5da3ede5848675d6a2c540dee3b3f",
+      "acceptance_sha": "d1f42af2ec37749177f21c7662bb44d0189e1c79",
       "family_qa": "qa/families/national-university-league-0236-0244.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -3374,7 +3374,7 @@
       "qa": "qa/chapter-0238.md",
       "provenance": "editorial/provenance/chapter-0238.json",
       "acceptance": "qa/acceptance/chapter-0238.json",
-      "acceptance_sha": "217133aae01aafa577bb41796c7117aaad81b64a",
+      "acceptance_sha": "61816a896fc1a7b15efc25be9f4a59ea418da573",
       "family_qa": "qa/families/national-university-league-0236-0244.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -3389,7 +3389,7 @@
       "qa": "qa/chapter-0239.md",
       "provenance": "editorial/provenance/chapter-0239.json",
       "acceptance": "qa/acceptance/chapter-0239.json",
-      "acceptance_sha": "156769276f98070e8ddd77e522686d2fe7fa4bb8",
+      "acceptance_sha": "eb75fb8078b66cfb5e26e7b02df84076ce1cfd6c",
       "family_qa": "qa/families/national-university-league-0236-0244.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -3404,7 +3404,7 @@
       "qa": "qa/chapter-0240.md",
       "provenance": "editorial/provenance/chapter-0240.json",
       "acceptance": "qa/acceptance/chapter-0240.json",
-      "acceptance_sha": "b5456e8d4b993b8505c9ed622673ca09024ba982",
+      "acceptance_sha": "43751a1262b0be419c6ed0e76a7cde08e697fbc1",
       "family_qa": "qa/families/national-university-league-0236-0244.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -3419,7 +3419,7 @@
       "qa": "qa/chapter-0241.md",
       "provenance": "editorial/provenance/chapter-0241.json",
       "acceptance": "qa/acceptance/chapter-0241.json",
-      "acceptance_sha": "f7570d0a76fcc3fa701feed2834cc4e1eeae6031",
+      "acceptance_sha": "d0604c9c302c059aa48e2217c99a29f724ab7504",
       "family_qa": "qa/families/national-university-league-0236-0244.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -3434,7 +3434,7 @@
       "qa": "qa/chapter-0242.md",
       "provenance": "editorial/provenance/chapter-0242.json",
       "acceptance": "qa/acceptance/chapter-0242.json",
-      "acceptance_sha": "8fd336e175b372d26e4873c65a2023a5992a02f3",
+      "acceptance_sha": "68cc11ecae449804179d9ca68e0f7c435cb54f1d",
       "family_qa": "qa/families/national-university-league-0236-0244.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -3449,7 +3449,7 @@
       "qa": "qa/chapter-0243.md",
       "provenance": "editorial/provenance/chapter-0243.json",
       "acceptance": "qa/acceptance/chapter-0243.json",
-      "acceptance_sha": "7b1052049aa90795f2e3bd7a407b7b25b09e847d",
+      "acceptance_sha": "d0e380c7b1aa0b743f590640c6ffb222cf1e3907",
       "family_qa": "qa/families/national-university-league-0236-0244.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -3464,7 +3464,7 @@
       "qa": "qa/chapter-0244.md",
       "provenance": "editorial/provenance/chapter-0244.json",
       "acceptance": "qa/acceptance/chapter-0244.json",
-      "acceptance_sha": "f000d8da3bfdab008d03ec27277209f697230e78",
+      "acceptance_sha": "af93d96e646035fea8acfacae8fca99f653e4fc3",
       "family_qa": "qa/families/national-university-league-0236-0244.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -3479,7 +3479,7 @@
       "qa": "qa/chapter-0245.md",
       "provenance": "editorial/provenance/chapter-0245.json",
       "acceptance": "qa/acceptance/chapter-0245.json",
-      "acceptance_sha": "c1809f5022d02651998a47a16523d5c1e63aaa9c",
+      "acceptance_sha": "7b3000ccd659decc06246cb0288bad33490e081e",
       "family_qa": "qa/families/survival-contest-0245-0249.md"
     },
     {
@@ -3493,7 +3493,7 @@
       "qa": "qa/chapter-0246.md",
       "provenance": "editorial/provenance/chapter-0246.json",
       "acceptance": "qa/acceptance/chapter-0246.json",
-      "acceptance_sha": "eaaec9bd0add0c7e17cc8d4c5e3f8a8f7b9acd62",
+      "acceptance_sha": "93fd09d6d8ee0a513b98721f926fc0a0cbd52245",
       "family_qa": "qa/families/survival-contest-0245-0249.md"
     },
     {
@@ -3507,7 +3507,7 @@
       "qa": "qa/chapter-0247.md",
       "provenance": "editorial/provenance/chapter-0247.json",
       "acceptance": "qa/acceptance/chapter-0247.json",
-      "acceptance_sha": "b80a2fec115798cb98e43ff1b4f87466c20fdab2",
+      "acceptance_sha": "f6af5160d988768bc8c7a23879335cd6a9ffbe68",
       "family_qa": "qa/families/survival-contest-0245-0249.md"
     },
     {
@@ -3521,7 +3521,7 @@
       "qa": "qa/chapter-0248.md",
       "provenance": "editorial/provenance/chapter-0248.json",
       "acceptance": "qa/acceptance/chapter-0248.json",
-      "acceptance_sha": "da0037e30fc4dce20efeacea664b2193b42307d1",
+      "acceptance_sha": "e8732a226b168511255628136aca40e2c363b447",
       "family_qa": "qa/families/survival-contest-0245-0249.md"
     },
     {
@@ -3535,7 +3535,7 @@
       "qa": "qa/chapter-0249.md",
       "provenance": "editorial/provenance/chapter-0249.json",
       "acceptance": "qa/acceptance/chapter-0249.json",
-      "acceptance_sha": "aa3285e8e2f7c96e013bec246eea3aee93434b99",
+      "acceptance_sha": "19d32bda63100ba8ca9598ca1ed1c7c449f52fa1",
       "family_qa": "qa/families/survival-contest-0245-0249.md"
     },
     {
@@ -3591,7 +3591,7 @@
       "qa": "qa/chapter-0253.md",
       "provenance": "editorial/provenance/chapter-0253.json",
       "acceptance": "qa/acceptance/chapter-0253.json",
-      "acceptance_sha": "9096f08cd877c793901bc90d1c56b5c1ae72fd5a",
+      "acceptance_sha": "9fdb0753d637108f43c448d6c3601d665475a979",
       "family_qa": "qa/families/five-stars-0253-0254.md"
     },
     {
@@ -3605,7 +3605,7 @@
       "qa": "qa/chapter-0254.md",
       "provenance": "editorial/provenance/chapter-0254.json",
       "acceptance": "qa/acceptance/chapter-0254.json",
-      "acceptance_sha": "b2055b772b10ac8296f62b1c32d23c9d2f9a07c6",
+      "acceptance_sha": "bb91346c9114c04f1038faeb91c9fb3b8d2ce4d1",
       "family_qa": "qa/families/five-stars-0253-0254.md"
     },
     {
@@ -3619,7 +3619,7 @@
       "qa": "qa/chapter-0255.md",
       "provenance": "editorial/provenance/chapter-0255.json",
       "acceptance": "qa/acceptance/chapter-0255.json",
-      "acceptance_sha": "faea1c5ad2fc51fbb00c7e0758e264982ade5a98",
+      "acceptance_sha": "3d12ab4cf73fb1cfb43513b775cfbf0092f49144",
       "family_qa": "qa/families/grave-of-swords-0255-0260.md"
     },
     {
@@ -3633,7 +3633,7 @@
       "qa": "qa/chapter-0256.md",
       "provenance": "editorial/provenance/chapter-0256.json",
       "acceptance": "qa/acceptance/chapter-0256.json",
-      "acceptance_sha": "2e577c23e25138f8ae6a75ede9543df2aa085017",
+      "acceptance_sha": "8b54574d37d7e9220f80dd240714db3bd0564f40",
       "family_qa": "qa/families/grave-of-swords-0255-0260.md"
     },
     {
@@ -3647,7 +3647,7 @@
       "qa": "qa/chapter-0257.md",
       "provenance": "editorial/provenance/chapter-0257.json",
       "acceptance": "qa/acceptance/chapter-0257.json",
-      "acceptance_sha": "74ee3acaa582b20b177cb22a8654e2eb1d92f7da",
+      "acceptance_sha": "d569319662cbf0c93f5bee650461d325c5c089b0",
       "family_qa": "qa/families/grave-of-swords-0255-0260.md"
     },
     {
@@ -3661,7 +3661,7 @@
       "qa": "qa/chapter-0258.md",
       "provenance": "editorial/provenance/chapter-0258.json",
       "acceptance": "qa/acceptance/chapter-0258.json",
-      "acceptance_sha": "1536b30feac361ea43ef8304325bb44c0d14ace0",
+      "acceptance_sha": "7ae8cf78b2a08263941220b1cec62915e7e7bcfa",
       "family_qa": "qa/families/grave-of-swords-0255-0260.md"
     },
     {
@@ -3675,7 +3675,7 @@
       "qa": "qa/chapter-0259.md",
       "provenance": "editorial/provenance/chapter-0259.json",
       "acceptance": "qa/acceptance/chapter-0259.json",
-      "acceptance_sha": "a1718b6aa89d73330675afdd2578512a3115f6d0",
+      "acceptance_sha": "aea9679ffa7d8ee81ec758ad6ba06fbd58075bd2",
       "family_qa": "qa/families/grave-of-swords-0255-0260.md"
     },
     {
@@ -3689,7 +3689,7 @@
       "qa": "qa/chapter-0260.md",
       "provenance": "editorial/provenance/chapter-0260.json",
       "acceptance": "qa/acceptance/chapter-0260.json",
-      "acceptance_sha": "638cce2bf8456ffe15e525cd36756408613e5eb7",
+      "acceptance_sha": "736dbba5502f4f7f91edab5e0ec011164edf324f",
       "family_qa": "qa/families/grave-of-swords-0255-0260.md"
     },
     {
@@ -3703,7 +3703,7 @@
       "qa": "qa/chapter-0261.md",
       "provenance": "editorial/provenance/chapter-0261.json",
       "acceptance": "qa/acceptance/chapter-0261.json",
-      "acceptance_sha": "b56ac5f05cba8f18a1416e000489143cadc62f8f",
+      "acceptance_sha": "51a2e25cb64b80679b765be85c718801e4f59ead",
       "family_qa": "qa/families/inverted-pentagram-0261-0263.md"
     },
     {
@@ -3717,7 +3717,7 @@
       "qa": "qa/chapter-0262.md",
       "provenance": "editorial/provenance/chapter-0262.json",
       "acceptance": "qa/acceptance/chapter-0262.json",
-      "acceptance_sha": "f9a88a9c431a5bd9363d4648c741a83bdb1c5cf6",
+      "acceptance_sha": "627d1ea1105b36b4b76afec8a2a43a6ede232296",
       "family_qa": "qa/families/inverted-pentagram-0261-0263.md"
     },
     {
@@ -3731,7 +3731,7 @@
       "qa": "qa/chapter-0263.md",
       "provenance": "editorial/provenance/chapter-0263.json",
       "acceptance": "qa/acceptance/chapter-0263.json",
-      "acceptance_sha": "fcdbe266434a0f671c7a77e8ac79b38f1e88ce87",
+      "acceptance_sha": "e3000a81c42c854697f34769984a928bc63252ea",
       "family_qa": "qa/families/inverted-pentagram-0261-0263.md"
     },
     {
@@ -3745,7 +3745,7 @@
       "qa": "qa/chapter-0264.md",
       "provenance": "editorial/provenance/chapter-0264.json",
       "acceptance": "qa/acceptance/chapter-0264.json",
-      "acceptance_sha": "7c4d097b210a7d3181fca47b37163bcb17a1be94",
+      "acceptance_sha": "e3cf3061044233dfde92acd16cea0890a25f4c50",
       "family_qa": "qa/families/season-redemption-0264-0267.md"
     },
     {
@@ -3759,7 +3759,7 @@
       "qa": "qa/chapter-0265.md",
       "provenance": "editorial/provenance/chapter-0265.json",
       "acceptance": "qa/acceptance/chapter-0265.json",
-      "acceptance_sha": "cd4a867f68dcb3a1d6d2dccc5125b335971a62ea",
+      "acceptance_sha": "0c629489e0f704904750f63e28c66be6cf419947",
       "family_qa": "qa/families/season-redemption-0264-0267.md"
     },
     {
@@ -3773,7 +3773,7 @@
       "qa": "qa/chapter-0266.md",
       "provenance": "editorial/provenance/chapter-0266.json",
       "acceptance": "qa/acceptance/chapter-0266.json",
-      "acceptance_sha": "3dea948af04e6452738f5f69f172e720a60cbc82",
+      "acceptance_sha": "cc02e16581b30501c5929979a20041325ca14481",
       "family_qa": "qa/families/season-redemption-0264-0267.md"
     },
     {
@@ -3787,7 +3787,7 @@
       "qa": "qa/chapter-0267.md",
       "provenance": "editorial/provenance/chapter-0267.json",
       "acceptance": "qa/acceptance/chapter-0267.json",
-      "acceptance_sha": "e3110ca9841decab5c7add89d5a08428f9b3b872",
+      "acceptance_sha": "6f430ab24fca180758133af474feeb92685fbce0",
       "family_qa": "qa/families/season-redemption-0264-0267.md"
     },
     {
@@ -3801,7 +3801,7 @@
       "qa": "qa/chapter-0268.md",
       "provenance": "editorial/provenance/chapter-0268.json",
       "acceptance": "qa/acceptance/chapter-0268.json",
-      "acceptance_sha": "55314321ab71b839a6902ac62d61b808203675c1",
+      "acceptance_sha": "34180b26aed67b8bbbc03533c171616da2fe7715",
       "family_qa": "qa/families/eucharist-0268-0269.md"
     },
     {
@@ -3815,7 +3815,7 @@
       "qa": "qa/chapter-0269.md",
       "provenance": "editorial/provenance/chapter-0269.json",
       "acceptance": "qa/acceptance/chapter-0269.json",
-      "acceptance_sha": "40eab33ade6fcbbd71d87faffe58b5b523539173",
+      "acceptance_sha": "41476f8f7a6a4841f76c5573776cc195fb6235e1",
       "family_qa": "qa/families/eucharist-0268-0269.md"
     },
     {
@@ -3829,7 +3829,7 @@
       "qa": "qa/chapter-0270.md",
       "provenance": "editorial/provenance/chapter-0270.json",
       "acceptance": "qa/acceptance/chapter-0270.json",
-      "acceptance_sha": "92e3cb75302dbe9be77bcbfd974f35f3a1bf0e5c",
+      "acceptance_sha": "1b75faf2060da58a9013fe7183404bd096514819",
       "family_qa": "qa/families/rich-friends-0270-0272.md"
     },
     {
@@ -3843,7 +3843,7 @@
       "qa": "qa/chapter-0271.md",
       "provenance": "editorial/provenance/chapter-0271.json",
       "acceptance": "qa/acceptance/chapter-0271.json",
-      "acceptance_sha": "1788befac822e159ff6957bd313f4f4a4bcdf738",
+      "acceptance_sha": "89571d9a5ad4eddf372a82449a6674fddd9bef72",
       "family_qa": "qa/families/rich-friends-0270-0272.md"
     },
     {
@@ -3857,7 +3857,7 @@
       "qa": "qa/chapter-0272.md",
       "provenance": "editorial/provenance/chapter-0272.json",
       "acceptance": "qa/acceptance/chapter-0272.json",
-      "acceptance_sha": "29b2f80cd3c767c83dc70a886f44664e044fb02f",
+      "acceptance_sha": "88b2406a3af7a47a0dd5cee002e2322ccd8716e9",
       "family_qa": "qa/families/rich-friends-0270-0272.md"
     },
     {
@@ -3871,7 +3871,7 @@
       "qa": "qa/chapter-0273.md",
       "provenance": "editorial/provenance/chapter-0273.json",
       "acceptance": "qa/acceptance/chapter-0273.json",
-      "acceptance_sha": "8f18d817230b422b2fb8a9d597e7afb2c77744cd",
+      "acceptance_sha": "276d03023dec254077cd9f2820f63d07f2b9e176",
       "family_qa": "qa/families/money-war-0273-0278.md"
     },
     {
@@ -3885,7 +3885,7 @@
       "qa": "qa/chapter-0274.md",
       "provenance": "editorial/provenance/chapter-0274.json",
       "acceptance": "qa/acceptance/chapter-0274.json",
-      "acceptance_sha": "e40b96744ad049ccf05c0bf6ba61b1af363a69d5",
+      "acceptance_sha": "462145495658e3b3cd86d2cc7325576fdf3945c1",
       "family_qa": "qa/families/money-war-0273-0278.md"
     },
     {
@@ -3899,7 +3899,7 @@
       "qa": "qa/chapter-0275.md",
       "provenance": "editorial/provenance/chapter-0275.json",
       "acceptance": "qa/acceptance/chapter-0275.json",
-      "acceptance_sha": "f63ac38b9348d7523c95f6355e943ce4c36ddf29",
+      "acceptance_sha": "e3c6259661d00f3c38688dcd467bbddcdd2018e6",
       "family_qa": "qa/families/money-war-0273-0278.md"
     },
     {
@@ -3913,7 +3913,7 @@
       "qa": "qa/chapter-0276.md",
       "provenance": "editorial/provenance/chapter-0276.json",
       "acceptance": "qa/acceptance/chapter-0276.json",
-      "acceptance_sha": "7d715f363a36603d9df6cb49362779f2c38cba88",
+      "acceptance_sha": "52bcba71af2d4d9a316b9a3362667b241ea0c686",
       "family_qa": "qa/families/money-war-0273-0278.md"
     },
     {
@@ -3927,7 +3927,7 @@
       "qa": "qa/chapter-0277.md",
       "provenance": "editorial/provenance/chapter-0277.json",
       "acceptance": "qa/acceptance/chapter-0277.json",
-      "acceptance_sha": "bb5bc88c1c4a814c4b370bb8e3a78d52be105b36",
+      "acceptance_sha": "7d209ea27f09fba07712faa030e848c61ddbd350",
       "family_qa": "qa/families/money-war-0273-0278.md"
     },
     {
@@ -3941,7 +3941,7 @@
       "qa": "qa/chapter-0278.md",
       "provenance": "editorial/provenance/chapter-0278.json",
       "acceptance": "qa/acceptance/chapter-0278.json",
-      "acceptance_sha": "678932b80645727b55a17ad944d872026b6c6603",
+      "acceptance_sha": "a102da7f7854538010cac667aef16846346e3aa4",
       "family_qa": "qa/families/money-war-0273-0278.md"
     },
     {
@@ -3955,7 +3955,7 @@
       "qa": "qa/chapter-0279.md",
       "provenance": "editorial/provenance/chapter-0279.json",
       "acceptance": "qa/acceptance/chapter-0279.json",
-      "acceptance_sha": "75a1a6e7cd3aba1d944005cedec7f1226aee40a4",
+      "acceptance_sha": "91e7115bf6619a95c66c128a36f62d8eca1f5ef1",
       "family_qa": "qa/families/what-money-cant-buy-0279-0282.md"
     },
     {
@@ -3969,7 +3969,7 @@
       "qa": "qa/chapter-0280.md",
       "provenance": "editorial/provenance/chapter-0280.json",
       "acceptance": "qa/acceptance/chapter-0280.json",
-      "acceptance_sha": "647606b2668e9ce2573310788e9b9c26b69803a3",
+      "acceptance_sha": "caf4459b9c6025e7201d413680c2714652833ab7",
       "family_qa": "qa/families/what-money-cant-buy-0279-0282.md"
     },
     {
@@ -3983,7 +3983,7 @@
       "qa": "qa/chapter-0281.md",
       "provenance": "editorial/provenance/chapter-0281.json",
       "acceptance": "qa/acceptance/chapter-0281.json",
-      "acceptance_sha": "e7619e2f53fd7ea1e6e990990027091dcac1de2b",
+      "acceptance_sha": "3d1ecd07914e86ab3f6f1287a9495a499be14d46",
       "family_qa": "qa/families/what-money-cant-buy-0279-0282.md"
     },
     {
@@ -3997,7 +3997,7 @@
       "qa": "qa/chapter-0282.md",
       "provenance": "editorial/provenance/chapter-0282.json",
       "acceptance": "qa/acceptance/chapter-0282.json",
-      "acceptance_sha": "993225663138eb44b9265b7761e5a3fc37b41bbe",
+      "acceptance_sha": "025c98e2814b23fab26cb9503a5c7cc4820a5428",
       "family_qa": "qa/families/what-money-cant-buy-0279-0282.md"
     },
     {
@@ -4011,7 +4011,7 @@
       "qa": "qa/chapter-0283.md",
       "provenance": "editorial/provenance/chapter-0283.json",
       "acceptance": "qa/acceptance/chapter-0283.json",
-      "acceptance_sha": "1e02d73d18344df5f6b1c3575568d5fa9f1bc200",
+      "acceptance_sha": "1528d46f034cd7bc4339f1a1a0e0cec0fb467916",
       "family_qa": "qa/families/power-inflation-0283-0290.md"
     },
     {
@@ -4025,7 +4025,7 @@
       "qa": "qa/chapter-0284.md",
       "provenance": "editorial/provenance/chapter-0284.json",
       "acceptance": "qa/acceptance/chapter-0284.json",
-      "acceptance_sha": "5e2968058a1d54009c17d886986f913c9b006300",
+      "acceptance_sha": "49bf13e703b506d8e7d77ca69b9a1bc27a4c0f89",
       "family_qa": "qa/families/power-inflation-0283-0290.md"
     },
     {
@@ -4039,7 +4039,7 @@
       "qa": "qa/chapter-0285.md",
       "provenance": "editorial/provenance/chapter-0285.json",
       "acceptance": "qa/acceptance/chapter-0285.json",
-      "acceptance_sha": "8b21f56b23712674b46a5bbaf4cfddb73f26f38e",
+      "acceptance_sha": "4df5e01aba88161072a8f8ded25ce3d266c90911",
       "family_qa": "qa/families/power-inflation-0283-0290.md"
     },
     {
@@ -4053,7 +4053,7 @@
       "qa": "qa/chapter-0286.md",
       "provenance": "editorial/provenance/chapter-0286.json",
       "acceptance": "qa/acceptance/chapter-0286.json",
-      "acceptance_sha": "aa1608b6e420156c465f811f0be0abb10f3a9a38",
+      "acceptance_sha": "02b9acc9e9096fcde92b067216989c63ad241d62",
       "family_qa": "qa/families/power-inflation-0283-0290.md"
     },
     {
@@ -4067,7 +4067,7 @@
       "qa": "qa/chapter-0287.md",
       "provenance": "editorial/provenance/chapter-0287.json",
       "acceptance": "qa/acceptance/chapter-0287.json",
-      "acceptance_sha": "ebbc21a204b60f3f379a54b7024d3e6859aa3b2e",
+      "acceptance_sha": "c3ed814dc1519993eea4823e73568fbf2f47c336",
       "family_qa": "qa/families/power-inflation-0283-0290.md"
     },
     {
@@ -4081,7 +4081,7 @@
       "qa": "qa/chapter-0288.md",
       "provenance": "editorial/provenance/chapter-0288.json",
       "acceptance": "qa/acceptance/chapter-0288.json",
-      "acceptance_sha": "9eacde52320d6e08e1f08235858ccc90895e62d4",
+      "acceptance_sha": "76e61ca40f38b5f073f2b79a221b6785a3fd817f",
       "family_qa": "qa/families/power-inflation-0283-0290.md"
     },
     {
@@ -4095,7 +4095,7 @@
       "qa": "qa/chapter-0289.md",
       "provenance": "editorial/provenance/chapter-0289.json",
       "acceptance": "qa/acceptance/chapter-0289.json",
-      "acceptance_sha": "cb0ee11f56103fd35ab14eef009f2ab71e0131f2",
+      "acceptance_sha": "64d59bd1c91d9c9dca26410407df0b9d94a8712e",
       "family_qa": "qa/families/power-inflation-0283-0290.md"
     },
     {
@@ -4109,7 +4109,7 @@
       "qa": "qa/chapter-0290.md",
       "provenance": "editorial/provenance/chapter-0290.json",
       "acceptance": "qa/acceptance/chapter-0290.json",
-      "acceptance_sha": "55f3634ca2d5f59661a296c85553a40e4c3ffbd7",
+      "acceptance_sha": "b5e2db4bfded40857350bce52f435c1243d75758",
       "family_qa": "qa/families/power-inflation-0283-0290.md"
     },
     {
@@ -4123,7 +4123,7 @@
       "qa": "qa/chapter-0291.md",
       "provenance": "editorial/provenance/chapter-0291.json",
       "acceptance": "qa/acceptance/chapter-0291.json",
-      "acceptance_sha": "8ff3e7dbbf7bd2dd79490b1c0c707dfc05c367bd",
+      "acceptance_sha": "9d0331274e5ab5e7863ab8fd0b26dbf822dacb00",
       "family_qa": "qa/families/successors-0291-0292.md"
     },
     {
@@ -4137,7 +4137,7 @@
       "qa": "qa/chapter-0292.md",
       "provenance": "editorial/provenance/chapter-0292.json",
       "acceptance": "qa/acceptance/chapter-0292.json",
-      "acceptance_sha": "fb3c4e4cbb2dae59684a1bd750275d572c9f910e",
+      "acceptance_sha": "e2ba2a1f267d2573309f620e07bb37c411fa94b8",
       "family_qa": "qa/families/successors-0291-0292.md"
     },
     {
@@ -4151,7 +4151,7 @@
       "qa": "qa/chapter-0293.md",
       "provenance": "editorial/provenance/chapter-0293.json",
       "acceptance": "qa/acceptance/chapter-0293.json",
-      "acceptance_sha": "e1cb28ffaf7182f60477a206e1297984a8604821",
+      "acceptance_sha": "cc2a165b51e086e0a48db820f3ea8ed18944d887",
       "family_qa": "qa/families/confessions-0293-0295.md"
     },
     {
@@ -4165,7 +4165,7 @@
       "qa": "qa/chapter-0294.md",
       "provenance": "editorial/provenance/chapter-0294.json",
       "acceptance": "qa/acceptance/chapter-0294.json",
-      "acceptance_sha": "770908f223f7e2e5d3d2c2de0a02c8b95e267559",
+      "acceptance_sha": "d98d96e3e1f01284331eeaaeaec4f6fc63d8f299",
       "family_qa": "qa/families/confessions-0293-0295.md"
     },
     {
@@ -4179,7 +4179,7 @@
       "qa": "qa/chapter-0295.md",
       "provenance": "editorial/provenance/chapter-0295.json",
       "acceptance": "qa/acceptance/chapter-0295.json",
-      "acceptance_sha": "08a66b47addffaa4f2c6d9a52fdd5bf034da0059",
+      "acceptance_sha": "ad9f7c2ba0a9864c6e25a3145485cf6f9579131d",
       "family_qa": "qa/families/confessions-0293-0295.md"
     },
     {
@@ -4193,7 +4193,7 @@
       "qa": "qa/chapter-0296.md",
       "provenance": "editorial/provenance/chapter-0296.json",
       "acceptance": "qa/acceptance/chapter-0296.json",
-      "acceptance_sha": "34b639124cd6db1ac79be8eb8ae4c2e7114f833a",
+      "acceptance_sha": "e656ac3c0c2c1dc32362b5d987cf2156ae65a551",
       "family_qa": "qa/families/last-semester-0296-0298.md"
     },
     {
@@ -4207,7 +4207,7 @@
       "qa": "qa/chapter-0297.md",
       "provenance": "editorial/provenance/chapter-0297.json",
       "acceptance": "qa/acceptance/chapter-0297.json",
-      "acceptance_sha": "2d696c291c6e30fbfefe4cfe8ba5d7940f5a8f10",
+      "acceptance_sha": "42b6ca3a0df8b20fe7735eb21f5c373d683660fd",
       "family_qa": "qa/families/last-semester-0296-0298.md"
     },
     {
@@ -4221,7 +4221,7 @@
       "qa": "qa/chapter-0298.md",
       "provenance": "editorial/provenance/chapter-0298.json",
       "acceptance": "qa/acceptance/chapter-0298.json",
-      "acceptance_sha": "687bb62332e14099d5a4d19317006f72609a63fc",
+      "acceptance_sha": "d2667f5fbba93d1660e7f2f8e4dc36f737a91527",
       "family_qa": "qa/families/last-semester-0296-0298.md"
     },
     {
@@ -4235,7 +4235,7 @@
       "qa": "qa/chapter-0299.md",
       "provenance": "editorial/provenance/chapter-0299.json",
       "acceptance": "qa/acceptance/chapter-0299.json",
-      "acceptance_sha": "b532595f8a7fc35bf4556604d9a406ca8f489768",
+      "acceptance_sha": "6e4d2626a01bef64d1104835a7bcf451cf3bb5b6",
       "family_qa": "qa/families/age-warmonger-0299-0306.md"
     },
     {
@@ -4249,7 +4249,7 @@
       "qa": "qa/chapter-0300.md",
       "provenance": "editorial/provenance/chapter-0300.json",
       "acceptance": "qa/acceptance/chapter-0300.json",
-      "acceptance_sha": "bb6a9734b0fbdda5e74d5d520301e129b5b6209c",
+      "acceptance_sha": "c715d9dd0475c54e9572dd6a1e13849c27a3ebec",
       "family_qa": "qa/families/age-warmonger-0299-0306.md"
     },
     {
@@ -4263,7 +4263,7 @@
       "qa": "qa/chapter-0301.md",
       "provenance": "editorial/provenance/chapter-0301.json",
       "acceptance": "qa/acceptance/chapter-0301.json",
-      "acceptance_sha": "5851519e258d009903a60101cd5be98e00ea0871",
+      "acceptance_sha": "e63947030c969e3589ca17ec42d29f32637a2262",
       "family_qa": "qa/families/age-warmonger-0299-0306.md"
     },
     {
@@ -4277,7 +4277,7 @@
       "qa": "qa/chapter-0302.md",
       "provenance": "editorial/provenance/chapter-0302.json",
       "acceptance": "qa/acceptance/chapter-0302.json",
-      "acceptance_sha": "077e1b3fa99a1ef76e78a7d1e4284bb8cc6ec586",
+      "acceptance_sha": "5762508fec2a6e017a1e9982fc25c7a397043704",
       "family_qa": "qa/families/age-warmonger-0299-0306.md"
     },
     {
@@ -4291,7 +4291,7 @@
       "qa": "qa/chapter-0303.md",
       "provenance": "editorial/provenance/chapter-0303.json",
       "acceptance": "qa/acceptance/chapter-0303.json",
-      "acceptance_sha": "a6712fba93478683fbdfc5241838dd414f9c2888",
+      "acceptance_sha": "f031bd697521fca4581dcfd70f995e852760e95b",
       "family_qa": "qa/families/age-warmonger-0299-0306.md"
     },
     {
@@ -4305,7 +4305,7 @@
       "qa": "qa/chapter-0304.md",
       "provenance": "editorial/provenance/chapter-0304.json",
       "acceptance": "qa/acceptance/chapter-0304.json",
-      "acceptance_sha": "d146f2ebe260b9c8d86eb320d4fc3824be6fff32",
+      "acceptance_sha": "ef9a312dc32c99a8f02227f1a043332beabd7960",
       "family_qa": "qa/families/age-warmonger-0299-0306.md"
     },
     {
@@ -4319,7 +4319,7 @@
       "qa": "qa/chapter-0305.md",
       "provenance": "editorial/provenance/chapter-0305.json",
       "acceptance": "qa/acceptance/chapter-0305.json",
-      "acceptance_sha": "9b9f17139c1c20496c12b7656f97e4fab3674f26",
+      "acceptance_sha": "bcc2b4c40a266b62a340703cb60de4eed42b28a2",
       "family_qa": "qa/families/age-warmonger-0299-0306.md"
     },
     {
@@ -4333,7 +4333,7 @@
       "qa": "qa/chapter-0306.md",
       "provenance": "editorial/provenance/chapter-0306.json",
       "acceptance": "qa/acceptance/chapter-0306.json",
-      "acceptance_sha": "f8284e961f4aa8ae9efb345db23c7140e29e5cec",
+      "acceptance_sha": "0c1d52502fac1c881cc578fae30bded4dff6252d",
       "family_qa": "qa/families/age-warmonger-0299-0306.md"
     },
     {
@@ -4347,7 +4347,7 @@
       "qa": "qa/chapter-0307.md",
       "provenance": "editorial/provenance/chapter-0307.json",
       "acceptance": "qa/acceptance/chapter-0307.json",
-      "acceptance_sha": "79fc832e58b181389379e7cc1f2fffa72dfbd1f2",
+      "acceptance_sha": "40cea36daeeb4edd64552739c2e7b55a34d90ab8",
       "family_qa": "qa/families/hell-tree-0307-0313.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4362,7 +4362,7 @@
       "qa": "qa/chapter-0308.md",
       "provenance": "editorial/provenance/chapter-0308.json",
       "acceptance": "qa/acceptance/chapter-0308.json",
-      "acceptance_sha": "9d2fa09ce5dfe51321d65ee5d23b83ab45ccc5c3",
+      "acceptance_sha": "1ceecf4bfee0b9f7a9561fa8bbad03ff551951d0",
       "family_qa": "qa/families/hell-tree-0307-0313.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4377,7 +4377,7 @@
       "qa": "qa/chapter-0309.md",
       "provenance": "editorial/provenance/chapter-0309.json",
       "acceptance": "qa/acceptance/chapter-0309.json",
-      "acceptance_sha": "4696820fe0a415568926c3281f7a545eef4511ba",
+      "acceptance_sha": "09acfd3ba0a6089250bf4dd14f25223e2df10ebb",
       "family_qa": "qa/families/hell-tree-0307-0313.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4392,7 +4392,7 @@
       "qa": "qa/chapter-0310.md",
       "provenance": "editorial/provenance/chapter-0310.json",
       "acceptance": "qa/acceptance/chapter-0310.json",
-      "acceptance_sha": "11482b3acd4b6612a27ae8399ed4d0febb801cf1",
+      "acceptance_sha": "35c8ac37b222f421d6f6f994110056a16099b37e",
       "family_qa": "qa/families/hell-tree-0307-0313.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4407,7 +4407,7 @@
       "qa": "qa/chapter-0311.md",
       "provenance": "editorial/provenance/chapter-0311.json",
       "acceptance": "qa/acceptance/chapter-0311.json",
-      "acceptance_sha": "ae836bcbfd1495b726755556a6289ba81bc5788e",
+      "acceptance_sha": "d68da60a3daeca61771fac07db15c42f1deec4f3",
       "family_qa": "qa/families/hell-tree-0307-0313.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4422,7 +4422,7 @@
       "qa": "qa/chapter-0312.md",
       "provenance": "editorial/provenance/chapter-0312.json",
       "acceptance": "qa/acceptance/chapter-0312.json",
-      "acceptance_sha": "a43918a6c8713972699caeb1599876181c3a2558",
+      "acceptance_sha": "149e6c90300e89996eabd51ef460a2ce55d48a2d",
       "family_qa": "qa/families/hell-tree-0307-0313.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4437,7 +4437,7 @@
       "qa": "qa/chapter-0313.md",
       "provenance": "editorial/provenance/chapter-0313.json",
       "acceptance": "qa/acceptance/chapter-0313.json",
-      "acceptance_sha": "f35cf877152ee4a410c8b598a1c156a7577f6103",
+      "acceptance_sha": "6195a625cfce88240a4bb5000165db1ef01d0bce",
       "family_qa": "qa/families/hell-tree-0307-0313.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4452,7 +4452,7 @@
       "qa": "qa/chapter-0314.md",
       "provenance": "editorial/provenance/chapter-0314.json",
       "acceptance": "qa/acceptance/chapter-0314.json",
-      "acceptance_sha": "24623c68a7682089de0e40fea3214d35f5f5a109",
+      "acceptance_sha": "8209240a2af6df9f63aa32451c73f3fa52782699",
       "family_qa": "qa/families/surplus-man-0314-0320.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4467,7 +4467,7 @@
       "qa": "qa/chapter-0315.md",
       "provenance": "editorial/provenance/chapter-0315.json",
       "acceptance": "qa/acceptance/chapter-0315.json",
-      "acceptance_sha": "8adffc062924ccdc92c1410b03b12ae8496529f8",
+      "acceptance_sha": "850f0d171d643096161dbd505b1a82294bb6e5a8",
       "family_qa": "qa/families/surplus-man-0314-0320.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4482,7 +4482,7 @@
       "qa": "qa/chapter-0316.md",
       "provenance": "editorial/provenance/chapter-0316.json",
       "acceptance": "qa/acceptance/chapter-0316.json",
-      "acceptance_sha": "541a985637ccdffe8d9a10c61163c2a737c316cf",
+      "acceptance_sha": "bc1f7fa28e243c4ed981a1c454003706a4f63883",
       "family_qa": "qa/families/surplus-man-0314-0320.md",
       "previous_status": "accepted",
       "completeness_audit": "rebuilt_and_passed_2026-09-20",
@@ -4499,7 +4499,7 @@
       "qa": "qa/chapter-0317.md",
       "provenance": "editorial/provenance/chapter-0317.json",
       "acceptance": "qa/acceptance/chapter-0317.json",
-      "acceptance_sha": "b86a7b915b8f48a15aadb972ff3dadf7957d49bd",
+      "acceptance_sha": "49541bfc9ff2b93df74fba9764bd6bb61182083f",
       "family_qa": "qa/families/surplus-man-0314-0320.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4514,7 +4514,7 @@
       "qa": "qa/chapter-0318.md",
       "provenance": "editorial/provenance/chapter-0318.json",
       "acceptance": "qa/acceptance/chapter-0318.json",
-      "acceptance_sha": "bd04964f13d2c9f9f80a3b6246a48ece5568f469",
+      "acceptance_sha": "96ed241b36a81cfb2a8d8c0a94c7bff06375b3a3",
       "family_qa": "qa/families/surplus-man-0314-0320.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4529,7 +4529,7 @@
       "qa": "qa/chapter-0319.md",
       "provenance": "editorial/provenance/chapter-0319.json",
       "acceptance": "qa/acceptance/chapter-0319.json",
-      "acceptance_sha": "5103d7492e7fc779b5d9828084773e810b09115f",
+      "acceptance_sha": "8ec0c565d660516ed638ff8efcc55fe03f171039",
       "family_qa": "qa/families/surplus-man-0314-0320.md",
       "previous_status": "accepted",
       "completeness_audit": "rebuilt_and_passed_2026-09-20",
@@ -4546,7 +4546,7 @@
       "qa": "qa/chapter-0320.md",
       "provenance": "editorial/provenance/chapter-0320.json",
       "acceptance": "qa/acceptance/chapter-0320.json",
-      "acceptance_sha": "ffcdec3e2db7ad1a5056a7b0b604231e1b4878da",
+      "acceptance_sha": "b503a13e720c5d63b9d66cd9ff98614cbb3a4e50",
       "family_qa": "qa/families/surplus-man-0314-0320.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4561,7 +4561,7 @@
       "qa": "qa/chapter-0321.md",
       "provenance": "editorial/provenance/chapter-0321.json",
       "acceptance": "qa/acceptance/chapter-0321.json",
-      "acceptance_sha": "530fa44a90d399ea97605b38d80f1c1e52a50136",
+      "acceptance_sha": "9edc7af233a4767bda552377b25e03955cccf3ee",
       "family_qa": "qa/families/underdogma-0321-0325.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4576,7 +4576,7 @@
       "qa": "qa/chapter-0322.md",
       "provenance": "editorial/provenance/chapter-0322.json",
       "acceptance": "qa/acceptance/chapter-0322.json",
-      "acceptance_sha": "85efab5bc5c3ba02f7c35ae9bcf4da7b8aee3240",
+      "acceptance_sha": "ee525e3b24c334db99b9f2e6265ad533f1fb24d4",
       "family_qa": "qa/families/underdogma-0321-0325.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4591,7 +4591,7 @@
       "qa": "qa/chapter-0323.md",
       "provenance": "editorial/provenance/chapter-0323.json",
       "acceptance": "qa/acceptance/chapter-0323.json",
-      "acceptance_sha": "7e715a18ea1980d2d97696ff78a0eb651e010770",
+      "acceptance_sha": "809c77ad6978b97df17da4119eb518d56027649c",
       "family_qa": "qa/families/underdogma-0321-0325.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4606,7 +4606,7 @@
       "qa": "qa/chapter-0324.md",
       "provenance": "editorial/provenance/chapter-0324.json",
       "acceptance": "qa/acceptance/chapter-0324.json",
-      "acceptance_sha": "b2dacee136909527a8fc396c5cab554e4ac04e69",
+      "acceptance_sha": "dec082781dfc22cb0c045a741a771818f1ad6c61",
       "family_qa": "qa/families/underdogma-0321-0325.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4621,7 +4621,7 @@
       "qa": "qa/chapter-0325.md",
       "provenance": "editorial/provenance/chapter-0325.json",
       "acceptance": "qa/acceptance/chapter-0325.json",
-      "acceptance_sha": "84721ce0f11a619ff3adb4d738498bd8e358bdca",
+      "acceptance_sha": "c468c881cbaa6c4ba6635c0a28e3cc95dd9a7eaa",
       "family_qa": "qa/families/underdogma-0321-0325.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4636,7 +4636,7 @@
       "qa": "qa/chapter-0326.md",
       "provenance": "editorial/provenance/chapter-0326.json",
       "acceptance": "qa/acceptance/chapter-0326.json",
-      "acceptance_sha": "55e235dccff9eea92d85a8639072d61526700a1f",
+      "acceptance_sha": "55821ed20021ffe51a30d1823c294d6d9504a2b9",
       "family_qa": "qa/families/shadowless-king-black-sea-0326-0330.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4651,7 +4651,7 @@
       "qa": "qa/chapter-0327.md",
       "provenance": "editorial/provenance/chapter-0327.json",
       "acceptance": "qa/acceptance/chapter-0327.json",
-      "acceptance_sha": "806715b57e0dd9acb347208f3d7be37d1e2650a5",
+      "acceptance_sha": "a0bbff712d7fd7baccf56c160eb753eefb05d550",
       "family_qa": "qa/families/shadowless-king-black-sea-0326-0330.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4666,7 +4666,7 @@
       "qa": "qa/chapter-0328.md",
       "provenance": "editorial/provenance/chapter-0328.json",
       "acceptance": "qa/acceptance/chapter-0328.json",
-      "acceptance_sha": "60c22c2be49a00070173957197ebe9e653ed44ca",
+      "acceptance_sha": "91511659d7b9918cf5c526213f84f93a3a9c0684",
       "family_qa": "qa/families/shadowless-king-black-sea-0326-0330.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4681,7 +4681,7 @@
       "qa": "qa/chapter-0329.md",
       "provenance": "editorial/provenance/chapter-0329.json",
       "acceptance": "qa/acceptance/chapter-0329.json",
-      "acceptance_sha": "b15fb5588bf0ec9e55aac1c8339f0c9c4738d3b0",
+      "acceptance_sha": "c85a2e670ff75c404391922f64e56e9d5dcd2348",
       "family_qa": "qa/families/shadowless-king-black-sea-0326-0330.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4696,7 +4696,7 @@
       "qa": "qa/chapter-0330.md",
       "provenance": "editorial/provenance/chapter-0330.json",
       "acceptance": "qa/acceptance/chapter-0330.json",
-      "acceptance_sha": "ef2eb1870f44121b39053b5c7a4372c45e44ca0f",
+      "acceptance_sha": "379750bdd76d1dbabc06859b476438176b7b1949",
       "family_qa": "qa/families/shadowless-king-black-sea-0326-0330.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4711,7 +4711,7 @@
       "qa": "qa/chapter-0331.md",
       "provenance": "editorial/provenance/chapter-0331.json",
       "acceptance": "qa/acceptance/chapter-0331.json",
-      "acceptance_sha": "180583b9ff32a35cb2883a42f2193218441f3d07",
+      "acceptance_sha": "4dd190a21ece377d8e9e8bf83ba476a9a853ea89",
       "family_qa": "qa/families/draw-0331-0332.md"
     },
     {
@@ -4725,7 +4725,7 @@
       "qa": "qa/chapter-0332.md",
       "provenance": "editorial/provenance/chapter-0332.json",
       "acceptance": "qa/acceptance/chapter-0332.json",
-      "acceptance_sha": "073b08a3c21ab19a2dde40518d018e12c68da765",
+      "acceptance_sha": "9cdcb7d23d6a1c971d6905a8e91b98e3d541ffc4",
       "family_qa": "qa/families/draw-0331-0332.md"
     },
     {
@@ -4739,7 +4739,7 @@
       "qa": "qa/chapter-0333.md",
       "provenance": "editorial/provenance/chapter-0333.json",
       "acceptance": "qa/acceptance/chapter-0333.json",
-      "acceptance_sha": "6743a0165721f0ba2f72bd5738f4cb63280aa2e2",
+      "acceptance_sha": "90c6196153bc3077ec71e950c28b1354f3a429fe",
       "family_qa": "qa/families/mating-room-0333-0338.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4754,7 +4754,7 @@
       "qa": "qa/chapter-0334.md",
       "provenance": "editorial/provenance/chapter-0334.json",
       "acceptance": "qa/acceptance/chapter-0334.json",
-      "acceptance_sha": "3a19d4ea4059890c756bd30119132e2592ea2652",
+      "acceptance_sha": "800f94bde38793b679fdfb957bf37e413bd72274",
       "family_qa": "qa/families/mating-room-0333-0338.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4769,7 +4769,7 @@
       "qa": "qa/chapter-0335.md",
       "provenance": "editorial/provenance/chapter-0335.json",
       "acceptance": "qa/acceptance/chapter-0335.json",
-      "acceptance_sha": "7ad24aec7f8373270d70590ada9087ebd9db1591",
+      "acceptance_sha": "c2551ee23b749b112001708ebd40eb47440efa07",
       "family_qa": "qa/families/mating-room-0333-0338.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4784,7 +4784,7 @@
       "qa": "qa/chapter-0336.md",
       "provenance": "editorial/provenance/chapter-0336.json",
       "acceptance": "qa/acceptance/chapter-0336.json",
-      "acceptance_sha": "72d469073b84b2f8ae903abcdfe1479cfbadb931",
+      "acceptance_sha": "7c2be5c4fa10f495648add60dfdc76c1994172db",
       "family_qa": "qa/families/mating-room-0333-0338.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4799,7 +4799,7 @@
       "qa": "qa/chapter-0337.md",
       "provenance": "editorial/provenance/chapter-0337.json",
       "acceptance": "qa/acceptance/chapter-0337.json",
-      "acceptance_sha": "9cd55a4260d041d2b98af6fe6bbcc8ea9adbeedf",
+      "acceptance_sha": "e64fbd077688df385e6567086a9da9ffe515c97b",
       "family_qa": "qa/families/mating-room-0333-0338.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4814,7 +4814,7 @@
       "qa": "qa/chapter-0338.md",
       "provenance": "editorial/provenance/chapter-0338.json",
       "acceptance": "qa/acceptance/chapter-0338.json",
-      "acceptance_sha": "573bd16338f4bfd0df8a4a97e2f30903286666aa",
+      "acceptance_sha": "bb05b6e38f3c1f86839385d162f103f4fb00abac",
       "family_qa": "qa/families/mating-room-0333-0338.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -4829,7 +4829,7 @@
       "qa": "qa/chapter-0339.md",
       "provenance": "editorial/provenance/chapter-0339.json",
       "acceptance": "qa/acceptance/chapter-0339.json",
-      "acceptance_sha": "e08e8ca25a7f777ab0ba7ec420e52f2eab567326",
+      "acceptance_sha": "14be2d3c2fd73d2ab42ac536315482a09156433c",
       "family_qa": "qa/families/trap-0339-0340.md"
     },
     {
@@ -4843,7 +4843,7 @@
       "qa": "qa/chapter-0340.md",
       "provenance": "editorial/provenance/chapter-0340.json",
       "acceptance": "qa/acceptance/chapter-0340.json",
-      "acceptance_sha": "166e69727f5ef2732a86ee7b97091c70fca7fa50",
+      "acceptance_sha": "c2c0145e3362615c4714514c4f69ebbe979da1a0",
       "family_qa": "qa/families/trap-0339-0340.md"
     },
     {
@@ -4857,7 +4857,7 @@
       "qa": "qa/chapter-0341.md",
       "provenance": "editorial/provenance/chapter-0341.json",
       "acceptance": "qa/acceptance/chapter-0341.json",
-      "acceptance_sha": "e8cac488e273bbeda14b442fec02091f92e13385",
+      "acceptance_sha": "fa7315ef04513d18421c435b6d314ef5d53d4873",
       "family_qa": "qa/families/private-life-0341-0342.md"
     },
     {
@@ -4871,7 +4871,7 @@
       "qa": "qa/chapter-0342.md",
       "provenance": "editorial/provenance/chapter-0342.json",
       "acceptance": "qa/acceptance/chapter-0342.json",
-      "acceptance_sha": "abfdbe422d2afbaf7c321761e9ccc491bb22500d",
+      "acceptance_sha": "53044e47aa2d7e31c11447599644693bdd941a95",
       "family_qa": "qa/families/private-life-0341-0342.md"
     },
     {
@@ -4885,7 +4885,7 @@
       "qa": "qa/chapter-0343.md",
       "provenance": "editorial/provenance/chapter-0343.json",
       "acceptance": "qa/acceptance/chapter-0343.json",
-      "acceptance_sha": "73df0cbea7ff8e080b71a04770d91ad9ab906214",
+      "acceptance_sha": "861b2c43f3b17095b51f7e14c61d7351b66d2df9",
       "family_qa": "qa/families/ballak-0343-0347.md"
     },
     {
@@ -4899,7 +4899,7 @@
       "qa": "qa/chapter-0344.md",
       "provenance": "editorial/provenance/chapter-0344.json",
       "acceptance": "qa/acceptance/chapter-0344.json",
-      "acceptance_sha": "fb76412dea8e444b07d75ce5a919309907dfce3c",
+      "acceptance_sha": "8b391f17620866d85ef6ac733582123289f1e4fe",
       "family_qa": "qa/families/ballak-0343-0347.md"
     },
     {
@@ -4913,7 +4913,7 @@
       "qa": "qa/chapter-0345.md",
       "provenance": "editorial/provenance/chapter-0345.json",
       "acceptance": "qa/acceptance/chapter-0345.json",
-      "acceptance_sha": "c7912b85ed18143fe2fec82a3a61d3fbfc3f44df",
+      "acceptance_sha": "42bec9e0bac6c5d55e39d74d28dda04491616c20",
       "family_qa": "qa/families/ballak-0343-0347.md"
     },
     {
@@ -4927,7 +4927,7 @@
       "qa": "qa/chapter-0346.md",
       "provenance": "editorial/provenance/chapter-0346.json",
       "acceptance": "qa/acceptance/chapter-0346.json",
-      "acceptance_sha": "6fb40678d36a1ea8654e67241b55945f1664c848",
+      "acceptance_sha": "870706c6c071a720885823089ab0cf3de9214b2a",
       "family_qa": "qa/families/ballak-0343-0347.md"
     },
     {
@@ -4941,7 +4941,7 @@
       "qa": "qa/chapter-0347.md",
       "provenance": "editorial/provenance/chapter-0347.json",
       "acceptance": "qa/acceptance/chapter-0347.json",
-      "acceptance_sha": "8fa0ce45372cfe0635f0eed1ffea33f23b7c9408",
+      "acceptance_sha": "05d585281a24ac8affdf34376ce3b66c13d5fd46",
       "family_qa": "qa/families/ballak-0343-0347.md"
     },
     {
@@ -4955,7 +4955,7 @@
       "qa": "qa/chapter-0348.md",
       "provenance": "editorial/provenance/chapter-0348.json",
       "acceptance": "qa/acceptance/chapter-0348.json",
-      "acceptance_sha": "e3ca3663ae784106118dc71eb89d09e3c5432024",
+      "acceptance_sha": "c1494c72526a2f3e0b0202e8280b94668b97c159",
       "family_qa": "qa/families/key-man-0348-0350.md"
     },
     {
@@ -4969,7 +4969,7 @@
       "qa": "qa/chapter-0349.md",
       "provenance": "editorial/provenance/chapter-0349.json",
       "acceptance": "qa/acceptance/chapter-0349.json",
-      "acceptance_sha": "b1892025de0afa5d888fe920bdffd6a518c2736e",
+      "acceptance_sha": "2eeb4e519af582b0cea0e279db9de361c58df959",
       "family_qa": "qa/families/key-man-0348-0350.md"
     },
     {
@@ -4983,7 +4983,7 @@
       "qa": "qa/chapter-0350.md",
       "provenance": "editorial/provenance/chapter-0350.json",
       "acceptance": "qa/acceptance/chapter-0350.json",
-      "acceptance_sha": "dba16189b02e6e865e54e90bcbdb5539e900bb10",
+      "acceptance_sha": "0e5659b60ec54b5ade2f1ede3bd3294bb6218a79",
       "family_qa": "qa/families/key-man-0348-0350.md"
     },
     {
@@ -4997,7 +4997,7 @@
       "qa": "qa/chapter-0351.md",
       "provenance": "editorial/provenance/chapter-0351.json",
       "acceptance": "qa/acceptance/chapter-0351.json",
-      "acceptance_sha": "7889b0602e9908e30fc4b5019bcca3f4345ba2cd",
+      "acceptance_sha": "0fd7ac057ddd49460a1c1bf0875ffd11ae198629",
       "family_qa": "qa/families/outside-tower-0351-0355.md"
     },
     {
@@ -5011,7 +5011,7 @@
       "qa": "qa/chapter-0352.md",
       "provenance": "editorial/provenance/chapter-0352.json",
       "acceptance": "qa/acceptance/chapter-0352.json",
-      "acceptance_sha": "1fb01901011b8508de32043306adeacb22ed337f",
+      "acceptance_sha": "7d00c331d72159cb6e05a79532fa9e222ca3848b",
       "family_qa": "qa/families/outside-tower-0351-0355.md"
     },
     {
@@ -5025,7 +5025,7 @@
       "qa": "qa/chapter-0353.md",
       "provenance": "editorial/provenance/chapter-0353.json",
       "acceptance": "qa/acceptance/chapter-0353.json",
-      "acceptance_sha": "dde95484e83452441389cd2b4146f89fb32edc5f",
+      "acceptance_sha": "af214be839b668fb644fcda1268a59b03ab40de6",
       "family_qa": "qa/families/outside-tower-0351-0355.md"
     },
     {
@@ -5039,7 +5039,7 @@
       "qa": "qa/chapter-0354.md",
       "provenance": "editorial/provenance/chapter-0354.json",
       "acceptance": "qa/acceptance/chapter-0354.json",
-      "acceptance_sha": "e959bed6313f25770fc81524a1ae6365a9c28b8d",
+      "acceptance_sha": "dca093af368cf1c5221f38241d682cab26ea678a",
       "family_qa": "qa/families/outside-tower-0351-0355.md"
     },
     {
@@ -5053,7 +5053,7 @@
       "qa": "qa/chapter-0355.md",
       "provenance": "editorial/provenance/chapter-0355.json",
       "acceptance": "qa/acceptance/chapter-0355.json",
-      "acceptance_sha": "d563e8117ae3eb219b71186012b992a0a35974c8",
+      "acceptance_sha": "ad41b4615ade0a9734b93ed4241d944c9c39de6e",
       "family_qa": "qa/families/outside-tower-0351-0355.md"
     },
     {
@@ -5067,7 +5067,7 @@
       "qa": "qa/chapter-0356.md",
       "provenance": "editorial/provenance/chapter-0356.json",
       "acceptance": "qa/acceptance/chapter-0356.json",
-      "acceptance_sha": "6c2737c9dc829ef46611b4df262536d1703a389a",
+      "acceptance_sha": "3bdaddeec783da6c34003ff437ec3e5c12ee71b8",
       "family_qa": "qa/families/crime-punishment-0356-0358.md"
     },
     {
@@ -5081,7 +5081,7 @@
       "qa": "qa/chapter-0357.md",
       "provenance": "editorial/provenance/chapter-0357.json",
       "acceptance": "qa/acceptance/chapter-0357.json",
-      "acceptance_sha": "1599ce0624f6b730b92956922466a9dfea5470e8",
+      "acceptance_sha": "7878518c8408acde4bb7665534a72f52ee907d0d",
       "family_qa": "qa/families/crime-punishment-0356-0358.md"
     },
     {
@@ -5095,7 +5095,7 @@
       "qa": "qa/chapter-0358.md",
       "provenance": "editorial/provenance/chapter-0358.json",
       "acceptance": "qa/acceptance/chapter-0358.json",
-      "acceptance_sha": "be4fd2c8c810db214288aa63279103e216e22278",
+      "acceptance_sha": "22aeebde3fbd088b636c9cf6aa3e6d05c2c32678",
       "family_qa": "qa/families/crime-punishment-0356-0358.md"
     },
     {
@@ -5109,7 +5109,7 @@
       "qa": "qa/chapter-0359.md",
       "provenance": "editorial/provenance/chapter-0359.json",
       "acceptance": "qa/acceptance/chapter-0359.json",
-      "acceptance_sha": "71d4ac3ffe3ebeeeda888ac533d8cbcea9110f09",
+      "acceptance_sha": "c1da07c0bfd7c951530a39171a8598c2326438c4",
       "family_qa": "qa/families/voluntary-escort-0359-0362.md"
     },
     {
@@ -5123,7 +5123,7 @@
       "qa": "qa/chapter-0360.md",
       "provenance": "editorial/provenance/chapter-0360.json",
       "acceptance": "qa/acceptance/chapter-0360.json",
-      "acceptance_sha": "2d77bc8852da28027b2c212ed09d3cd159d4a172",
+      "acceptance_sha": "da23288f04fe1a66342e4fe28eaa5ddf6ae94138",
       "family_qa": "qa/families/voluntary-escort-0359-0362.md"
     },
     {
@@ -5137,7 +5137,7 @@
       "qa": "qa/chapter-0361.md",
       "provenance": "editorial/provenance/chapter-0361.json",
       "acceptance": "qa/acceptance/chapter-0361.json",
-      "acceptance_sha": "4b267e74bf3d353bd32973ed0333ce239115085c",
+      "acceptance_sha": "cb0073ff79fe2e8fcbf26771f3571c015b4eb120",
       "family_qa": "qa/families/voluntary-escort-0359-0362.md"
     },
     {
@@ -5151,7 +5151,7 @@
       "qa": "qa/chapter-0362.md",
       "provenance": "editorial/provenance/chapter-0362.json",
       "acceptance": "qa/acceptance/chapter-0362.json",
-      "acceptance_sha": "f362c846c394bab9daf11a6151a94407d8c64a88",
+      "acceptance_sha": "c1bfc302788fd95e5fdc5c21aacb3199c5fefdc2",
       "family_qa": "qa/families/voluntary-escort-0359-0362.md"
     },
     {
@@ -5165,7 +5165,7 @@
       "qa": "qa/chapter-0363.md",
       "provenance": "editorial/provenance/chapter-0363.json",
       "acceptance": "qa/acceptance/chapter-0363.json",
-      "acceptance_sha": "0cc110333a574fb28156198c9addc1347a3fdea6",
+      "acceptance_sha": "d15bb0f0e5ae99350d8b76503bfb5d2f155da666",
       "family_qa": "qa/families/ghost-castle-0363-0365.md"
     },
     {
@@ -5179,7 +5179,7 @@
       "qa": "qa/chapter-0364.md",
       "provenance": "editorial/provenance/chapter-0364.json",
       "acceptance": "qa/acceptance/chapter-0364.json",
-      "acceptance_sha": "52ec0cc07028cdeb2aa507a81ef17c8e7f183f08",
+      "acceptance_sha": "ed20d2c40e68c9f5b53e9906331e77072407d341",
       "family_qa": "qa/families/ghost-castle-0363-0365.md"
     },
     {
@@ -5193,7 +5193,7 @@
       "qa": "qa/chapter-0365.md",
       "provenance": "editorial/provenance/chapter-0365.json",
       "acceptance": "qa/acceptance/chapter-0365.json",
-      "acceptance_sha": "218aa218c119dc86974538d2af5e320f773054a9",
+      "acceptance_sha": "20372bb6c518c86871990dc10569b684064a9ed2",
       "family_qa": "qa/families/ghost-castle-0363-0365.md"
     },
     {
@@ -5207,7 +5207,7 @@
       "qa": "qa/chapter-0366.md",
       "provenance": "editorial/provenance/chapter-0366.json",
       "acceptance": "qa/acceptance/chapter-0366.json",
-      "acceptance_sha": "d12552f4e09b02fc1e9d605e928de9b85cb19b43",
+      "acceptance_sha": "811079b6873ef60d0c76cf2e14955ebfd0c35678",
       "family_qa": "qa/families/underground-extension-0366-0368.md"
     },
     {
@@ -5221,7 +5221,7 @@
       "qa": "qa/chapter-0367.md",
       "provenance": "editorial/provenance/chapter-0367.json",
       "acceptance": "qa/acceptance/chapter-0367.json",
-      "acceptance_sha": "6ac63a0680f95c79de808de1a44b6f771174f0d3",
+      "acceptance_sha": "06c52918ad40cdf516b0bc45bd88ca1ed5c6f123",
       "family_qa": "qa/families/underground-extension-0366-0368.md"
     },
     {
@@ -5235,7 +5235,7 @@
       "qa": "qa/chapter-0368.md",
       "provenance": "editorial/provenance/chapter-0368.json",
       "acceptance": "qa/acceptance/chapter-0368.json",
-      "acceptance_sha": "9075fe3e3971fd01d44b848f15d6eb042fa4ca53",
+      "acceptance_sha": "8a173f04fa192f893f1222389c4ee3d8ee953177",
       "family_qa": "qa/families/underground-extension-0366-0368.md"
     },
     {
@@ -5249,7 +5249,7 @@
       "qa": "qa/chapter-0369.md",
       "provenance": "editorial/provenance/chapter-0369.json",
       "acceptance": "qa/acceptance/chapter-0369.json",
-      "acceptance_sha": "abe63cd7712bc3c575223bcde7129f6e5f14acf2",
+      "acceptance_sha": "523b1cd7b80203b5595d9e98a2ba9f418684952f",
       "family_qa": "qa/families/servant-0369-0370.md"
     },
     {
@@ -5263,7 +5263,7 @@
       "qa": "qa/chapter-0370.md",
       "provenance": "editorial/provenance/chapter-0370.json",
       "acceptance": "qa/acceptance/chapter-0370.json",
-      "acceptance_sha": "70f3dbb8bc3802733f6edc02534c7d0ffeddb08a",
+      "acceptance_sha": "d4fd63380d7a0752e3dc526ea4e335d4c67177d9",
       "family_qa": "qa/families/servant-0369-0370.md"
     },
     {
@@ -5277,7 +5277,7 @@
       "qa": "qa/chapter-0371.md",
       "provenance": "editorial/provenance/chapter-0371.json",
       "acceptance": "qa/acceptance/chapter-0371.json",
-      "acceptance_sha": "72f86d63a08b965490653530baa361e2f2356cc0",
+      "acceptance_sha": "fcc2cee98e9b54b026d8da42d6110620c5e6fe94",
       "family_qa": "qa/families/solitary-confinement-0371-0372.md"
     },
     {
@@ -5291,7 +5291,7 @@
       "qa": "qa/chapter-0372.md",
       "provenance": "editorial/provenance/chapter-0372.json",
       "acceptance": "qa/acceptance/chapter-0372.json",
-      "acceptance_sha": "c5ecc8be92df1660b7f2177c5374e31437f43187",
+      "acceptance_sha": "c512274468cef6047e449083869f8c8d565c6945",
       "family_qa": "qa/families/solitary-confinement-0371-0372.md"
     },
     {
@@ -5305,7 +5305,7 @@
       "qa": "qa/chapter-0373.md",
       "provenance": "editorial/provenance/chapter-0373.json",
       "acceptance": "qa/acceptance/chapter-0373.json",
-      "acceptance_sha": "9cba0974692b0537a1fd47fd832d93ff3ebbfca1",
+      "acceptance_sha": "c3ae34f996149f3092a1f58d53a7cca53f1291bb",
       "family_qa": "qa/families/sucker-shark-0373-0374.md"
     },
     {
@@ -5319,7 +5319,7 @@
       "qa": "qa/chapter-0374.md",
       "provenance": "editorial/provenance/chapter-0374.json",
       "acceptance": "qa/acceptance/chapter-0374.json",
-      "acceptance_sha": "21312dc0742b70868273274d7823ce698df2b154",
+      "acceptance_sha": "e94a748cd572f3d4ab4ecca2d09873bec8824897",
       "family_qa": "qa/families/sucker-shark-0373-0374.md"
     },
     {
@@ -5333,7 +5333,7 @@
       "qa": "qa/chapter-0375.md",
       "provenance": "editorial/provenance/chapter-0375.json",
       "acceptance": "qa/acceptance/chapter-0375.json",
-      "acceptance_sha": "46a94e190bfbfd7bf102f23f139552eb8d52ce7c",
+      "acceptance_sha": "b57bb9b39fdd00233266b579ff204305c24df03c",
       "family_qa": "qa/families/poseidon-0375-0376.md"
     },
     {
@@ -5347,7 +5347,7 @@
       "qa": "qa/chapter-0376.md",
       "provenance": "editorial/provenance/chapter-0376.json",
       "acceptance": "qa/acceptance/chapter-0376.json",
-      "acceptance_sha": "437a3ce7652408b955b504ba01c13c8c881db5a0",
+      "acceptance_sha": "8c84e1292c2c56d0701e0464e7b5203dd9d1f808",
       "family_qa": "qa/families/poseidon-0375-0376.md"
     },
     {
@@ -5361,7 +5361,7 @@
       "qa": "qa/chapter-0377.md",
       "provenance": "editorial/provenance/chapter-0377.json",
       "acceptance": "qa/acceptance/chapter-0377.json",
-      "acceptance_sha": "4546962357530b1bbca1be74065377afde1606c7",
+      "acceptance_sha": "b1c98e25f2294a94b50b93adfd209a55f9dd8b7e",
       "family_qa": "qa/families/hounds-nouvelle-vague-0377-0381.md"
     },
     {
@@ -5375,7 +5375,7 @@
       "qa": "qa/chapter-0378.md",
       "provenance": "editorial/provenance/chapter-0378.json",
       "acceptance": "qa/acceptance/chapter-0378.json",
-      "acceptance_sha": "4261101b04d9b02b7f7edb8e1e517724665b69d4",
+      "acceptance_sha": "c22e9b58dc3623aeed39a3344a97e67492953ca2",
       "family_qa": "qa/families/hounds-nouvelle-vague-0377-0381.md"
     },
     {
@@ -5389,7 +5389,7 @@
       "qa": "qa/chapter-0379.md",
       "provenance": "editorial/provenance/chapter-0379.json",
       "acceptance": "qa/acceptance/chapter-0379.json",
-      "acceptance_sha": "af86fd1648810360ff06d3c467ee9d9d1d4d5e5b",
+      "acceptance_sha": "0d2dd97c28296f04f011dea9d629ef72058709c7",
       "family_qa": "qa/families/hounds-nouvelle-vague-0377-0381.md"
     },
     {
@@ -5403,7 +5403,7 @@
       "qa": "qa/chapter-0380.md",
       "provenance": "editorial/provenance/chapter-0380.json",
       "acceptance": "qa/acceptance/chapter-0380.json",
-      "acceptance_sha": "570d8004f918db269318b475f46a0211905e8a8d",
+      "acceptance_sha": "b683f972636654430980390c2e14e5239bfadcde",
       "family_qa": "qa/families/hounds-nouvelle-vague-0377-0381.md"
     },
     {
@@ -5417,7 +5417,7 @@
       "qa": "qa/chapter-0381.md",
       "provenance": "editorial/provenance/chapter-0381.json",
       "acceptance": "qa/acceptance/chapter-0381.json",
-      "acceptance_sha": "8feaedac1976fe4c93ab7fe30024a4ed0fce2563",
+      "acceptance_sha": "ab700a6be19137bf4051696ed66e19da3b656a44",
       "family_qa": "qa/families/hounds-nouvelle-vague-0377-0381.md"
     },
     {
@@ -5431,7 +5431,7 @@
       "qa": "qa/chapter-0382.md",
       "provenance": "editorial/provenance/chapter-0382.json",
       "acceptance": "qa/acceptance/chapter-0382.json",
-      "acceptance_sha": "41f531e82de671d4d5d22ac32e1f552d6bc5ffd8",
+      "acceptance_sha": "47b2676619619bdc52a6a05277f53511bd7e130c",
       "family_qa": "qa/families/kennel-0382-0384.md"
     },
     {
@@ -5445,7 +5445,7 @@
       "qa": "qa/chapter-0383.md",
       "provenance": "editorial/provenance/chapter-0383.json",
       "acceptance": "qa/acceptance/chapter-0383.json",
-      "acceptance_sha": "d6a4eece3880ce819e9a6f9cae0e1b7f3af1fe71",
+      "acceptance_sha": "64ebe09ee60084833b88665c8c8fcb16d8209e57",
       "family_qa": "qa/families/kennel-0382-0384.md"
     },
     {
@@ -5459,7 +5459,7 @@
       "qa": "qa/chapter-0384.md",
       "provenance": "editorial/provenance/chapter-0384.json",
       "acceptance": "qa/acceptance/chapter-0384.json",
-      "acceptance_sha": "62a496b794db016add2e9120b3801064922e26ae",
+      "acceptance_sha": "666e5830ab64526acbd9066dde892de0a8f7c6c9",
       "family_qa": "qa/families/kennel-0382-0384.md"
     },
     {
@@ -5473,7 +5473,7 @@
       "qa": "qa/chapter-0385.md",
       "provenance": "editorial/provenance/chapter-0385.json",
       "acceptance": "qa/acceptance/chapter-0385.json",
-      "acceptance_sha": "5a5341e470902073ad78335afd4065b8dedeb1fd",
+      "acceptance_sha": "2eaac1cfb39a5af7b259035209ad320a4f3daf9b",
       "family_qa": "qa/families/rotten-dog-0385-0389.md"
     },
     {
@@ -5487,7 +5487,7 @@
       "qa": "qa/chapter-0386.md",
       "provenance": "editorial/provenance/chapter-0386.json",
       "acceptance": "qa/acceptance/chapter-0386.json",
-      "acceptance_sha": "5cf997206ed985fd803f4ce69c5f322cb6da6847",
+      "acceptance_sha": "71ad59c522d7226a54fa0bb0aaf26b7f8b2979f4",
       "family_qa": "qa/families/rotten-dog-0385-0389.md"
     },
     {
@@ -5501,7 +5501,7 @@
       "qa": "qa/chapter-0387.md",
       "provenance": "editorial/provenance/chapter-0387.json",
       "acceptance": "qa/acceptance/chapter-0387.json",
-      "acceptance_sha": "d56477a20d60f17755dc87b5792b451c9c32362b",
+      "acceptance_sha": "99e53a7f6f7075be780f4cc10a03bf5b726178cf",
       "family_qa": "qa/families/rotten-dog-0385-0389.md"
     },
     {
@@ -5515,7 +5515,7 @@
       "qa": "qa/chapter-0388.md",
       "provenance": "editorial/provenance/chapter-0388.json",
       "acceptance": "qa/acceptance/chapter-0388.json",
-      "acceptance_sha": "bc0909cf252a18104e59e84ba74c80bd89b7fd3c",
+      "acceptance_sha": "71928fd6944e19cdd68fc3d9942e9bb194d4092a",
       "family_qa": "qa/families/rotten-dog-0385-0389.md"
     },
     {
@@ -5529,7 +5529,7 @@
       "qa": "qa/chapter-0389.md",
       "provenance": "editorial/provenance/chapter-0389.json",
       "acceptance": "qa/acceptance/chapter-0389.json",
-      "acceptance_sha": "69a3073cc59ca27012665e11caf0dbc96d3163f0",
+      "acceptance_sha": "da44191f6471fa622d534dcdd8399fe73550fa91",
       "family_qa": "qa/families/rotten-dog-0385-0389.md"
     },
     {
@@ -5543,7 +5543,7 @@
       "qa": "qa/chapter-0390.md",
       "provenance": "editorial/provenance/chapter-0390.json",
       "acceptance": "qa/acceptance/chapter-0390.json",
-      "acceptance_sha": "7ba514c7c891aea597bca19e5e40e67dce2b11ae",
+      "acceptance_sha": "c11ac7404b2bb2b929760f7745f4228b07158fda",
       "family_qa": "qa/families/worst-torture-0390-0395.md"
     },
     {
@@ -5557,7 +5557,7 @@
       "qa": "qa/chapter-0391.md",
       "provenance": "editorial/provenance/chapter-0391.json",
       "acceptance": "qa/acceptance/chapter-0391.json",
-      "acceptance_sha": "d87ed16c23ff4fb2328c1f13230ec225bb01a50f",
+      "acceptance_sha": "6263551df5662626dbad2f3bac819382779807a3",
       "family_qa": "qa/families/worst-torture-0390-0395.md"
     },
     {
@@ -5571,7 +5571,7 @@
       "qa": "qa/chapter-0392.md",
       "provenance": "editorial/provenance/chapter-0392.json",
       "acceptance": "qa/acceptance/chapter-0392.json",
-      "acceptance_sha": "c52897b1fda16ca62dbef197a9c64f6987af06a5",
+      "acceptance_sha": "a774a2e97123e970760c39a5ff08fd4c0141f605",
       "family_qa": "qa/families/worst-torture-0390-0395.md"
     },
     {
@@ -5585,7 +5585,7 @@
       "qa": "qa/chapter-0393.md",
       "provenance": "editorial/provenance/chapter-0393.json",
       "acceptance": "qa/acceptance/chapter-0393.json",
-      "acceptance_sha": "9b253d3d18cbe106ab586f96f913ffcc7f8ddb3b",
+      "acceptance_sha": "c219ce8c3864d9d2b604cea239ef2d7a6533d94c",
       "family_qa": "qa/families/worst-torture-0390-0395.md"
     },
     {
@@ -5599,7 +5599,7 @@
       "qa": "qa/chapter-0394.md",
       "provenance": "editorial/provenance/chapter-0394.json",
       "acceptance": "qa/acceptance/chapter-0394.json",
-      "acceptance_sha": "8d830a7eb36e6843fa33e3f43db4dfd526a5c0d9",
+      "acceptance_sha": "6c428aa6f542b96897f5a12a02f29a7e5cd30b39",
       "family_qa": "qa/families/worst-torture-0390-0395.md"
     },
     {
@@ -5613,7 +5613,7 @@
       "qa": "qa/chapter-0395.md",
       "provenance": "editorial/provenance/chapter-0395.json",
       "acceptance": "qa/acceptance/chapter-0395.json",
-      "acceptance_sha": "12dec4cb421b70b8c7dbb399baa08fd18162d41e",
+      "acceptance_sha": "20759db5f34d07664fc8b52306c56a12881eb4c8",
       "family_qa": "qa/families/worst-torture-0390-0395.md"
     },
     {
@@ -5627,7 +5627,7 @@
       "qa": "qa/chapter-0396.md",
       "provenance": "editorial/provenance/chapter-0396.json",
       "acceptance": "qa/acceptance/chapter-0396.json",
-      "acceptance_sha": "23600019174f0cba769955ac4008bbe4d6073ed6",
+      "acceptance_sha": "71c08764b3f44adf3fde7423dbf4937a2747229d",
       "family_qa": "qa/families/dead-man-walking-0396-0398.md"
     },
     {
@@ -5641,7 +5641,7 @@
       "qa": "qa/chapter-0397.md",
       "provenance": "editorial/provenance/chapter-0397.json",
       "acceptance": "qa/acceptance/chapter-0397.json",
-      "acceptance_sha": "a06fc2d4c3d5fbc17796e585440e3dc61e04a26a",
+      "acceptance_sha": "555ef0cf74c7dccb87377660b51413d27c1ecbdd",
       "family_qa": "qa/families/dead-man-walking-0396-0398.md"
     },
     {
@@ -5655,7 +5655,7 @@
       "qa": "qa/chapter-0398.md",
       "provenance": "editorial/provenance/chapter-0398.json",
       "acceptance": "qa/acceptance/chapter-0398.json",
-      "acceptance_sha": "7fe448017c80f08aa2f623cbabc5de11c6573d56",
+      "acceptance_sha": "6a1b40f27d34965f858a5b81dcc5e0f5615943cb",
       "family_qa": "qa/families/dead-man-walking-0396-0398.md"
     },
     {
@@ -5669,7 +5669,7 @@
       "qa": "qa/chapter-0399.md",
       "provenance": "editorial/provenance/chapter-0399.json",
       "acceptance": "qa/acceptance/chapter-0399.json",
-      "acceptance_sha": "cedabeae2d881475633e561b03e608506fe7b5ba",
+      "acceptance_sha": "32f13a99b82f16b78a45ca09f77e2cb5411c21ad",
       "family_qa": "qa/families/black-tongue-0399-0402.md"
     },
     {
@@ -5683,7 +5683,7 @@
       "qa": "qa/chapter-0400.md",
       "provenance": "editorial/provenance/chapter-0400.json",
       "acceptance": "qa/acceptance/chapter-0400.json",
-      "acceptance_sha": "c44d0e3c23f3271eaac96c79f4be76b8e4661d87",
+      "acceptance_sha": "2e347bcf5f2e65aa631064dc5b7d9aeb23610809",
       "family_qa": "qa/families/black-tongue-0399-0402.md"
     },
     {
@@ -5697,7 +5697,7 @@
       "qa": "qa/chapter-0401.md",
       "provenance": "editorial/provenance/chapter-0401.json",
       "acceptance": "qa/acceptance/chapter-0401.json",
-      "acceptance_sha": "5bbbc999e6e7195e5c1135ab0620c1694876db9d",
+      "acceptance_sha": "2278982174c3df3505efa934e33e43698cdafc7e",
       "family_qa": "qa/families/black-tongue-0399-0402.md"
     },
     {
@@ -5711,7 +5711,7 @@
       "qa": "qa/chapter-0402.md",
       "provenance": "editorial/provenance/chapter-0402.json",
       "acceptance": "qa/acceptance/chapter-0402.json",
-      "acceptance_sha": "240a63891d32c3c93c450d0166db1409452e4211",
+      "acceptance_sha": "da9c7db7a85e7ff868f290e249a077943fa5c549",
       "family_qa": "qa/families/black-tongue-0399-0402.md"
     },
     {
@@ -5725,7 +5725,7 @@
       "qa": "qa/chapter-0403.md",
       "provenance": "editorial/provenance/chapter-0403.json",
       "acceptance": "qa/acceptance/chapter-0403.json",
-      "acceptance_sha": "755abbd73eed5f106130531f1a37ab6b49b57fa0",
+      "acceptance_sha": "3197e1f9bf385cf46485ede85c14d25b7bb21448",
       "family_qa": "qa/families/jailbreaker-0403-0408.md"
     },
     {
@@ -5739,7 +5739,7 @@
       "qa": "qa/chapter-0404.md",
       "provenance": "editorial/provenance/chapter-0404.json",
       "acceptance": "qa/acceptance/chapter-0404.json",
-      "acceptance_sha": "9b8d0228591fc9c95b5b79cef68a19b74b90cd99",
+      "acceptance_sha": "a989334fadc47c937135635015999670de210650",
       "family_qa": "qa/families/jailbreaker-0403-0408.md"
     },
     {
@@ -5753,7 +5753,7 @@
       "qa": "qa/chapter-0405.md",
       "provenance": "editorial/provenance/chapter-0405.json",
       "acceptance": "qa/acceptance/chapter-0405.json",
-      "acceptance_sha": "555cfe92459a31fb67710f66cb62c88c8c88081f",
+      "acceptance_sha": "73cf663793a04e4440109434556984ec0c4a05f2",
       "family_qa": "qa/families/jailbreaker-0403-0408.md"
     },
     {
@@ -5767,7 +5767,7 @@
       "qa": "qa/chapter-0406.md",
       "provenance": "editorial/provenance/chapter-0406.json",
       "acceptance": "qa/acceptance/chapter-0406.json",
-      "acceptance_sha": "1293005b3f2c83439ae016bc365238b826d06b7c",
+      "acceptance_sha": "db0dfb2f5fbeb1aaba114e571d92df4349ea1c9d",
       "family_qa": "qa/families/jailbreaker-0403-0408.md"
     },
     {
@@ -5781,7 +5781,7 @@
       "qa": "qa/chapter-0407.md",
       "provenance": "editorial/provenance/chapter-0407.json",
       "acceptance": "qa/acceptance/chapter-0407.json",
-      "acceptance_sha": "ba537325748639d73122654b2d6940a997521166",
+      "acceptance_sha": "d3d3b8bbf6e2612a3bc098b4c714bc970562854e",
       "family_qa": "qa/families/jailbreaker-0403-0408.md"
     },
     {
@@ -5795,7 +5795,7 @@
       "qa": "qa/chapter-0408.md",
       "provenance": "editorial/provenance/chapter-0408.json",
       "acceptance": "qa/acceptance/chapter-0408.json",
-      "acceptance_sha": "d93899f52f923f3126fdc03d19c0d5fa584fcba3",
+      "acceptance_sha": "d791d15996e8a71ac99da6c38a9f282e143c16f4",
       "family_qa": "qa/families/jailbreaker-0403-0408.md"
     },
     {
@@ -5809,7 +5809,7 @@
       "qa": "qa/chapter-0409.md",
       "provenance": "editorial/provenance/chapter-0409.json",
       "acceptance": "qa/acceptance/chapter-0409.json",
-      "acceptance_sha": "0dc244e1431ea0202266e0b96fc53765c00b52f6",
+      "acceptance_sha": "7e9f931fac137f7e9e54fac27ca7ea3a888b731b",
       "family_qa": "qa/families/end-game-0409-0418.md"
     },
     {
@@ -5823,7 +5823,7 @@
       "qa": "qa/chapter-0410.md",
       "provenance": "editorial/provenance/chapter-0410.json",
       "acceptance": "qa/acceptance/chapter-0410.json",
-      "acceptance_sha": "5e661d7cdc2caed48fe3ef73c911f506f33f65ae",
+      "acceptance_sha": "cae001ccb016b6fa2023160a53e0f4b5e53d256f",
       "family_qa": "qa/families/end-game-0409-0418.md"
     },
     {
@@ -5837,7 +5837,7 @@
       "qa": "qa/chapter-0411.md",
       "provenance": "editorial/provenance/chapter-0411.json",
       "acceptance": "qa/acceptance/chapter-0411.json",
-      "acceptance_sha": "51496a92b10493bcb952070f08da336ff0728bf5",
+      "acceptance_sha": "6047f2e933f06bfe020d31762045fb5a3987b841",
       "family_qa": "qa/families/end-game-0409-0418.md"
     },
     {
@@ -5851,7 +5851,7 @@
       "qa": "qa/chapter-0412.md",
       "provenance": "editorial/provenance/chapter-0412.json",
       "acceptance": "qa/acceptance/chapter-0412.json",
-      "acceptance_sha": "d2f5bb21a459f6bf4add6aa3a9a5cd200689ef88",
+      "acceptance_sha": "fbcd848b2aa172e054dcb8febb64dad1ba036095",
       "family_qa": "qa/families/end-game-0409-0418.md"
     },
     {
@@ -5865,7 +5865,7 @@
       "qa": "qa/chapter-0413.md",
       "provenance": "editorial/provenance/chapter-0413.json",
       "acceptance": "qa/acceptance/chapter-0413.json",
-      "acceptance_sha": "e68417db5402c708f883e573bfe114f1d1190805",
+      "acceptance_sha": "8d5875632b5278df31fbcfd909d930e69bc6cad9",
       "family_qa": "qa/families/end-game-0409-0418.md"
     },
     {
@@ -5879,7 +5879,7 @@
       "qa": "qa/chapter-0414.md",
       "provenance": "editorial/provenance/chapter-0414.json",
       "acceptance": "qa/acceptance/chapter-0414.json",
-      "acceptance_sha": "cbab0b59289362125029f4348a938f6346eb61c5",
+      "acceptance_sha": "97a28bd38195493e95e6deaa52be92d0f52ef7e8",
       "family_qa": "qa/families/end-game-0409-0418.md"
     },
     {
@@ -5893,7 +5893,7 @@
       "qa": "qa/chapter-0415.md",
       "provenance": "editorial/provenance/chapter-0415.json",
       "acceptance": "qa/acceptance/chapter-0415.json",
-      "acceptance_sha": "15dd2b83e19a58fdcb3e5945c5dcba4d9832ecf1",
+      "acceptance_sha": "36f6534f7c3ea0c6f4157f5510195ee710311bfa",
       "family_qa": "qa/families/end-game-0409-0418.md"
     },
     {
@@ -5907,7 +5907,7 @@
       "qa": "qa/chapter-0416.md",
       "provenance": "editorial/provenance/chapter-0416.json",
       "acceptance": "qa/acceptance/chapter-0416.json",
-      "acceptance_sha": "d6446cfe5774ad394de860587d11bff3f26bac94",
+      "acceptance_sha": "1cb6b5e9669df07d902c830063c66d5a329abe25",
       "family_qa": "qa/families/end-game-0409-0418.md"
     },
     {
@@ -5921,7 +5921,7 @@
       "qa": "qa/chapter-0417.md",
       "provenance": "editorial/provenance/chapter-0417.json",
       "acceptance": "qa/acceptance/chapter-0417.json",
-      "acceptance_sha": "e4991dcd166f7a40804f2b10b7aa93a3727aa5b7",
+      "acceptance_sha": "2b5f1435adfcea1affa8bc864c3a86f052b4ddf6",
       "family_qa": "qa/families/end-game-0409-0418.md"
     },
     {
@@ -5935,7 +5935,7 @@
       "qa": "qa/chapter-0418.md",
       "provenance": "editorial/provenance/chapter-0418.json",
       "acceptance": "qa/acceptance/chapter-0418.json",
-      "acceptance_sha": "2e80b708e0179d70257cc0499599d34926192146",
+      "acceptance_sha": "c8253069b6433416b587699c248dc9c9832c1b46",
       "family_qa": "qa/families/end-game-0409-0418.md"
     },
     {
@@ -5949,7 +5949,7 @@
       "qa": "qa/chapter-0419.md",
       "provenance": "editorial/provenance/chapter-0419.json",
       "acceptance": "qa/acceptance/chapter-0419.json",
-      "acceptance_sha": "0b125df22d6167f1fbdffabe4c674d870b734db9",
+      "acceptance_sha": "32cdce99463f0697c649ac6b8a018156f1541bc7",
       "family_qa": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -5964,7 +5964,7 @@
       "qa": "qa/chapter-0420.md",
       "provenance": "editorial/provenance/chapter-0420.json",
       "acceptance": "qa/acceptance/chapter-0420.json",
-      "acceptance_sha": "3b920c9bbc678c313db358d6136a806288b6fdeb",
+      "acceptance_sha": "b3e6049f2fd242c870e270f6671958e1f94dce3d",
       "family_qa": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
       "previous_status": "accepted",
       "completeness_audit": "rebuilt_and_passed_2026-09-20",
@@ -5981,7 +5981,7 @@
       "qa": "qa/chapter-0421.md",
       "provenance": "editorial/provenance/chapter-0421.json",
       "acceptance": "qa/acceptance/chapter-0421.json",
-      "acceptance_sha": "00434c1b15da57efe45280c146e38032f39f31de",
+      "acceptance_sha": "6dce8ef5dda13292cfd174d493d18799c388e57b",
       "family_qa": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -5996,7 +5996,7 @@
       "qa": "qa/chapter-0422.md",
       "provenance": "editorial/provenance/chapter-0422.json",
       "acceptance": "qa/acceptance/chapter-0422.json",
-      "acceptance_sha": "2a8009afb919b81daef7d28111b54156192df1de",
+      "acceptance_sha": "10087df756fe81eaa361927647dc1638b7939272",
       "family_qa": "qa/families/wandering-knight-0422-0424.md"
     },
     {
@@ -6010,7 +6010,7 @@
       "qa": "qa/chapter-0423.md",
       "provenance": "editorial/provenance/chapter-0423.json",
       "acceptance": "qa/acceptance/chapter-0423.json",
-      "acceptance_sha": "f6968176526cdd667815f4d94e9f642ac2ee0790",
+      "acceptance_sha": "7056979394ceecb5277fd73a56f434da998520d2",
       "family_qa": "qa/families/wandering-knight-0422-0424.md"
     },
     {
@@ -6024,7 +6024,7 @@
       "qa": "qa/chapter-0424.md",
       "provenance": "editorial/provenance/chapter-0424.json",
       "acceptance": "qa/acceptance/chapter-0424.json",
-      "acceptance_sha": "d0d86835acf4191f921e3fb9272cad67c64a768b",
+      "acceptance_sha": "58213bf8f89ae357c5ed8a6256a5e3a0ac68ce45",
       "family_qa": "qa/families/wandering-knight-0422-0424.md"
     },
     {
@@ -6038,7 +6038,7 @@
       "qa": "qa/chapter-0425.md",
       "provenance": "editorial/provenance/chapter-0425.json",
       "acceptance": "qa/acceptance/chapter-0425.json",
-      "acceptance_sha": "6efc355528bb363d3cb6736eec673100a855622d",
+      "acceptance_sha": "3f58975c6a1d466d4d2dfa45c38b488cff061666",
       "family_qa": "qa/families/night-walkers-0425-0429.md"
     },
     {
@@ -6052,7 +6052,7 @@
       "qa": "qa/chapter-0426.md",
       "provenance": "editorial/provenance/chapter-0426.json",
       "acceptance": "qa/acceptance/chapter-0426.json",
-      "acceptance_sha": "0c3f9724ce24df987aaa6c14e25a806fd3bd1079",
+      "acceptance_sha": "7a04b2f2328df15729860d20f257731066fab728",
       "family_qa": "qa/families/night-walkers-0425-0429.md"
     },
     {
@@ -6066,7 +6066,7 @@
       "qa": "qa/chapter-0427.md",
       "provenance": "editorial/provenance/chapter-0427.json",
       "acceptance": "qa/acceptance/chapter-0427.json",
-      "acceptance_sha": "2b371c39b8ca25c20cde9ba1b487d81f25f181cd",
+      "acceptance_sha": "56b4fa89898a1125d5d801d0913855c44c4f704e",
       "family_qa": "qa/families/night-walkers-0425-0429.md"
     },
     {
@@ -6080,7 +6080,7 @@
       "qa": "qa/chapter-0428.md",
       "provenance": "editorial/provenance/chapter-0428.json",
       "acceptance": "qa/acceptance/chapter-0428.json",
-      "acceptance_sha": "b64d7414458a33ca9e7815722d922a9e8d82b35a",
+      "acceptance_sha": "f582363ee107d845c876dfb81665793d9ab3bb50",
       "family_qa": "qa/families/night-walkers-0425-0429.md"
     },
     {
@@ -6094,7 +6094,7 @@
       "qa": "qa/chapter-0429.md",
       "provenance": "editorial/provenance/chapter-0429.json",
       "acceptance": "qa/acceptance/chapter-0429.json",
-      "acceptance_sha": "6f66c696428f86372a68f36a314c6b8e3610c91c",
+      "acceptance_sha": "9e1ec5e655e7c82c37891eadf5de677049f5442f",
       "family_qa": "qa/families/night-walkers-0425-0429.md"
     },
     {
@@ -6108,7 +6108,7 @@
       "qa": "qa/chapter-0430.md",
       "provenance": "editorial/provenance/chapter-0430.json",
       "acceptance": "qa/acceptance/chapter-0430.json",
-      "acceptance_sha": "0ccd599813cadf8dc44784be37aac90489ace220",
+      "acceptance_sha": "1415f3652cca877fa3093e614288c628e82cee6c",
       "family_qa": "qa/families/lion-king-0430-0433.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -6123,7 +6123,7 @@
       "qa": "qa/chapter-0431.md",
       "provenance": "editorial/provenance/chapter-0431.json",
       "acceptance": "qa/acceptance/chapter-0431.json",
-      "acceptance_sha": "e28805abc33ed5873b9d7d78134d996078777f24",
+      "acceptance_sha": "bddc03bf6dff823b5d91ec7d1214fa2c03d8167d",
       "family_qa": "qa/families/lion-king-0430-0433.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -6138,7 +6138,7 @@
       "qa": "qa/chapter-0432.md",
       "provenance": "editorial/provenance/chapter-0432.json",
       "acceptance": "qa/acceptance/chapter-0432.json",
-      "acceptance_sha": "0cfbc9fe26041e6448c2490503e3ad37fc17bfff",
+      "acceptance_sha": "ffd221711ddbb0cf38afcdb53848fd13a3182186",
       "family_qa": "qa/families/lion-king-0430-0433.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -6153,7 +6153,7 @@
       "qa": "qa/chapter-0433.md",
       "provenance": "editorial/provenance/chapter-0433.json",
       "acceptance": "qa/acceptance/chapter-0433.json",
-      "acceptance_sha": "d9dd5b0f3fda2062b777a78f5375cd9bfa803867",
+      "acceptance_sha": "edaea8ad4aa297525b4bd30ced49e09fc83f5749",
       "family_qa": "qa/families/lion-king-0430-0433.md",
       "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
@@ -6168,7 +6168,7 @@
       "qa": "qa/chapter-0434.md",
       "provenance": "editorial/provenance/chapter-0434.json",
       "acceptance": "qa/acceptance/chapter-0434.json",
-      "acceptance_sha": "31cee72fd9b1b845cbf59f0fbed5132b9332ce35",
+      "acceptance_sha": "4e8037821ae19d912b46932a953414f74b03b732",
       "family_qa": "qa/families/returned-hound-0434-0436.md"
     },
     {
@@ -6182,7 +6182,7 @@
       "qa": "qa/chapter-0435.md",
       "provenance": "editorial/provenance/chapter-0435.json",
       "acceptance": "qa/acceptance/chapter-0435.json",
-      "acceptance_sha": "879fa493b7bf469d0e658a8e8a9d1fac46ae903b",
+      "acceptance_sha": "7725ce5ba23d72d2904e77d89f74907e9b5965f8",
       "family_qa": "qa/families/returned-hound-0434-0436.md"
     },
     {
@@ -6196,7 +6196,7 @@
       "qa": "qa/chapter-0436.md",
       "provenance": "editorial/provenance/chapter-0436.json",
       "acceptance": "qa/acceptance/chapter-0436.json",
-      "acceptance_sha": "522dae3df011d9693263538668d8430bcce616b9",
+      "acceptance_sha": "4315c15739e6b0a30badb5d4ea3d18ebd4202dde",
       "family_qa": "qa/families/returned-hound-0434-0436.md"
     },
     {
@@ -6210,7 +6210,7 @@
       "qa": "qa/chapter-0437.md",
       "provenance": "editorial/provenance/chapter-0437.json",
       "acceptance": "qa/acceptance/chapter-0437.json",
-      "acceptance_sha": "f4959d975e296a128fbc2bd197630dabc0d9ece5",
+      "acceptance_sha": "e5c9e6b2479f0c05e328fc7acd08eb9cf71aed1c",
       "family_qa": "qa/families/dreaming-impossible-dream-0437-0440.md"
     },
     {
@@ -6224,7 +6224,7 @@
       "qa": "qa/chapter-0438.md",
       "provenance": "editorial/provenance/chapter-0438.json",
       "acceptance": "qa/acceptance/chapter-0438.json",
-      "acceptance_sha": "bb39a67053e103e93ff25c1072fb5194e2337c2b",
+      "acceptance_sha": "690db4d9d238eda7cfaa0d16d55102375fc2e24c",
       "family_qa": "qa/families/dreaming-impossible-dream-0437-0440.md"
     },
     {
@@ -6238,7 +6238,7 @@
       "qa": "qa/chapter-0439.md",
       "provenance": "editorial/provenance/chapter-0439.json",
       "acceptance": "qa/acceptance/chapter-0439.json",
-      "acceptance_sha": "30a51d0d1e50e050598720360c5d2dba3d852e3e",
+      "acceptance_sha": "6df45530c3a9d69e70990accbdd4659a02421489",
       "family_qa": "qa/families/dreaming-impossible-dream-0437-0440.md"
     },
     {
@@ -6252,7 +6252,7 @@
       "qa": "qa/chapter-0440.md",
       "provenance": "editorial/provenance/chapter-0440.json",
       "acceptance": "qa/acceptance/chapter-0440.json",
-      "acceptance_sha": "cc72704d2aa17254f1ba0c51d9c862808200ee6a",
+      "acceptance_sha": "78398784006e18df1dbf18fa0e600f75cb2e5e7e",
       "family_qa": "qa/families/dreaming-impossible-dream-0437-0440.md"
     },
     {
@@ -6266,7 +6266,7 @@
       "qa": "qa/chapter-0441.md",
       "provenance": "editorial/provenance/chapter-0441.json",
       "acceptance": "qa/acceptance/chapter-0441.json",
-      "acceptance_sha": "6ee99d6628ced1095e9b897da2969e77aac8be5d",
+      "acceptance_sha": "4c33dff6e9339d0dc4a2266e24812842dcbac148",
       "family_qa": "qa/families/fall-of-usher-0441-0449.md"
     },
     {
@@ -6280,7 +6280,7 @@
       "qa": "qa/chapter-0442.md",
       "provenance": "editorial/provenance/chapter-0442.json",
       "acceptance": "qa/acceptance/chapter-0442.json",
-      "acceptance_sha": "fe211ff787b2f2f59a0b603c121d884c7f404cc5",
+      "acceptance_sha": "7eef807443f356bfe25b9402fbcf8f5040025ff4",
       "family_qa": "qa/families/fall-of-usher-0441-0449.md"
     },
     {
@@ -6294,7 +6294,7 @@
       "qa": "qa/chapter-0443.md",
       "provenance": "editorial/provenance/chapter-0443.json",
       "acceptance": "qa/acceptance/chapter-0443.json",
-      "acceptance_sha": "34d27ebf3358f36248679cc0d116b41889a72785",
+      "acceptance_sha": "190db91e3895eeb404a5174874356ad350b5de47",
       "family_qa": "qa/families/fall-of-usher-0441-0449.md"
     },
     {
@@ -6308,7 +6308,7 @@
       "qa": "qa/chapter-0444.md",
       "provenance": "editorial/provenance/chapter-0444.json",
       "acceptance": "qa/acceptance/chapter-0444.json",
-      "acceptance_sha": "7482f9c98d1a36cff5cb36bb1e19cfc010c04f02",
+      "acceptance_sha": "e22933a46083cfb22db1f0c81299d0ad7a90687b",
       "family_qa": "qa/families/fall-of-usher-0441-0449.md"
     },
     {
@@ -6322,7 +6322,7 @@
       "qa": "qa/chapter-0445.md",
       "provenance": "editorial/provenance/chapter-0445.json",
       "acceptance": "qa/acceptance/chapter-0445.json",
-      "acceptance_sha": "2fb409c5e0b0aa983e5697a0f742d72abd7fe913",
+      "acceptance_sha": "477bf0099a904268cc77831186ee8b6a7bd54527",
       "family_qa": "qa/families/fall-of-usher-0441-0449.md"
     },
     {
@@ -6336,7 +6336,7 @@
       "qa": "qa/chapter-0446.md",
       "provenance": "editorial/provenance/chapter-0446.json",
       "acceptance": "qa/acceptance/chapter-0446.json",
-      "acceptance_sha": "9e21521dd10540f95178d613c46f194333a0aa3a",
+      "acceptance_sha": "7e73e640f1560bc963be49c1e10ad5b61658c36b",
       "family_qa": "qa/families/fall-of-usher-0441-0449.md"
     },
     {
@@ -6350,7 +6350,7 @@
       "qa": "qa/chapter-0447.md",
       "provenance": "editorial/provenance/chapter-0447.json",
       "acceptance": "qa/acceptance/chapter-0447.json",
-      "acceptance_sha": "051f0b366fd36f03771b11622088fdd78bf2d8c1",
+      "acceptance_sha": "9c6315f0caf658327674ff1bf74d52aa27ced98c",
       "family_qa": "qa/families/fall-of-usher-0441-0449.md"
     },
     {
@@ -6364,7 +6364,7 @@
       "qa": "qa/chapter-0448.md",
       "provenance": "editorial/provenance/chapter-0448.json",
       "acceptance": "qa/acceptance/chapter-0448.json",
-      "acceptance_sha": "7b92f27456bfa305c23459c37f9f808c9380fabe",
+      "acceptance_sha": "efecb4a710ab736414c6cdba6ede580414d98b4e",
       "family_qa": "qa/families/fall-of-usher-0441-0449.md"
     },
     {
@@ -6378,7 +6378,7 @@
       "qa": "qa/chapter-0449.md",
       "provenance": "editorial/provenance/chapter-0449.json",
       "acceptance": "qa/acceptance/chapter-0449.json",
-      "acceptance_sha": "da772d15f5f46be7ca591266e76d29e9413df9ae",
+      "acceptance_sha": "ab305fb434e60125a8983f63f36cc8206734e34d",
       "family_qa": "qa/families/fall-of-usher-0441-0449.md"
     },
     {
@@ -6392,7 +6392,7 @@
       "qa": "qa/chapter-0450.md",
       "provenance": "editorial/provenance/chapter-0450.json",
       "acceptance": "qa/acceptance/chapter-0450.json",
-      "acceptance_sha": "e70180db02c38839e125d46ea69509f375e86d00",
+      "acceptance_sha": "f0cf8410ccbc458108a2698de9dfd9c8ac77f368",
       "family_qa": "qa/families/declaration-of-war-0450-0453.md"
     },
     {
@@ -6406,7 +6406,7 @@
       "qa": "qa/chapter-0451.md",
       "provenance": "editorial/provenance/chapter-0451.json",
       "acceptance": "qa/acceptance/chapter-0451.json",
-      "acceptance_sha": "9b7907807254e054776678811ef4d0b1c66c50d2",
+      "acceptance_sha": "97a9d0c47fdc081f3f8b63e6db2587cdde1742fc",
       "family_qa": "qa/families/declaration-of-war-0450-0453.md"
     },
     {
@@ -6420,7 +6420,7 @@
       "qa": "qa/chapter-0452.md",
       "provenance": "editorial/provenance/chapter-0452.json",
       "acceptance": "qa/acceptance/chapter-0452.json",
-      "acceptance_sha": "4c363a5ef4e9ae3052c2f9ea2bb57ae34088e04a",
+      "acceptance_sha": "a9a6e570d34c8a810cc188e50ea0950cd559dbaf",
       "family_qa": "qa/families/declaration-of-war-0450-0453.md"
     },
     {
@@ -6434,7 +6434,7 @@
       "qa": "qa/chapter-0453.md",
       "provenance": "editorial/provenance/chapter-0453.json",
       "acceptance": "qa/acceptance/chapter-0453.json",
-      "acceptance_sha": "5da32c9b7dea80d7d0265676688f117083233fce",
+      "acceptance_sha": "05a6ecf2825b5aadaa23ef0662979c06fb45bfcd",
       "family_qa": "qa/families/declaration-of-war-0450-0453.md"
     },
     {
@@ -6448,7 +6448,7 @@
       "qa": "qa/chapter-0454.md",
       "provenance": "editorial/provenance/chapter-0454.json",
       "acceptance": "qa/acceptance/chapter-0454.json",
-      "acceptance_sha": "246ee72bc76d03b8bad22a2e205508864ca9ca35",
+      "acceptance_sha": "92377e92ef4fe05096aaed7590b40439b714291e",
       "family_qa": "qa/families/infiltration-water-source-0454-0464.md"
     },
     {
@@ -6462,7 +6462,7 @@
       "qa": "qa/chapter-0455.md",
       "provenance": "editorial/provenance/chapter-0455.json",
       "acceptance": "qa/acceptance/chapter-0455.json",
-      "acceptance_sha": "8b2e47ce3f8a3527a02977d87075b54da7916bce",
+      "acceptance_sha": "c7c14a414972f31f88d7747384f4b2274eb9fac7",
       "family_qa": "qa/families/infiltration-water-source-0454-0464.md"
     },
     {
@@ -6476,7 +6476,7 @@
       "qa": "qa/chapter-0456.md",
       "provenance": "editorial/provenance/chapter-0456.json",
       "acceptance": "qa/acceptance/chapter-0456.json",
-      "acceptance_sha": "8036b7fbbed085e4d37eec240c29a483ac332f32",
+      "acceptance_sha": "2eecff78563fc83536160ffe21911e6beac2871c",
       "family_qa": "qa/families/infiltration-water-source-0454-0464.md"
     },
     {
@@ -6490,7 +6490,7 @@
       "qa": "qa/chapter-0457.md",
       "provenance": "editorial/provenance/chapter-0457.json",
       "acceptance": "qa/acceptance/chapter-0457.json",
-      "acceptance_sha": "9c839de19ff9ef2cf90a88a834b63e78d66702e6",
+      "acceptance_sha": "63788d0c2fc0627d8698804fd58332eba4373d1a",
       "family_qa": "qa/families/infiltration-water-source-0454-0464.md"
     },
     {
@@ -6504,7 +6504,7 @@
       "qa": "qa/chapter-0458.md",
       "provenance": "editorial/provenance/chapter-0458.json",
       "acceptance": "qa/acceptance/chapter-0458.json",
-      "acceptance_sha": "7236251da5bcda5f11e9e0aea9b4f0f1d8529c47",
+      "acceptance_sha": "f4d5d8eeca2e42a721ad3a6e5774538aa269c57c",
       "family_qa": "qa/families/infiltration-water-source-0454-0464.md"
     },
     {
@@ -6518,7 +6518,7 @@
       "qa": "qa/chapter-0459.md",
       "provenance": "editorial/provenance/chapter-0459.json",
       "acceptance": "qa/acceptance/chapter-0459.json",
-      "acceptance_sha": "6cf5377f7c1da32c00bc1dd577e96b9a02a51d71",
+      "acceptance_sha": "a62902ad42e8b78271f3ace571d6c7d4bd48332c",
       "family_qa": "qa/families/infiltration-water-source-0454-0464.md"
     },
     {
@@ -6532,7 +6532,7 @@
       "qa": "qa/chapter-0460.md",
       "provenance": "editorial/provenance/chapter-0460.json",
       "acceptance": "qa/acceptance/chapter-0460.json",
-      "acceptance_sha": "260b620dc63435af8c101cf2b5f0db657130d24b",
+      "acceptance_sha": "afe0e34f391f4df626da6c8077a5ff9d9ced9ef7",
       "family_qa": "qa/families/infiltration-water-source-0454-0464.md"
     },
     {
@@ -6546,7 +6546,7 @@
       "qa": "qa/chapter-0461.md",
       "provenance": "editorial/provenance/chapter-0461.json",
       "acceptance": "qa/acceptance/chapter-0461.json",
-      "acceptance_sha": "ff8e3655771cb290540c2e3b8b5fadfc9ba039ef",
+      "acceptance_sha": "30c5755ef0f8d23ff53987b2b14d504747de1397",
       "family_qa": "qa/families/infiltration-water-source-0454-0464.md"
     },
     {
@@ -6560,7 +6560,7 @@
       "qa": "qa/chapter-0462.md",
       "provenance": "editorial/provenance/chapter-0462.json",
       "acceptance": "qa/acceptance/chapter-0462.json",
-      "acceptance_sha": "21be577892c5e5d4269ac0b40cf1c60577a7242d",
+      "acceptance_sha": "2eb6d777149562c4b847e45b4ba171a5981a3ee6",
       "family_qa": "qa/families/infiltration-water-source-0454-0464.md"
     },
     {
@@ -6574,7 +6574,7 @@
       "qa": "qa/chapter-0463.md",
       "provenance": "editorial/provenance/chapter-0463.json",
       "acceptance": "qa/acceptance/chapter-0463.json",
-      "acceptance_sha": "65b3f1c5bfc4a7bf12abee3ccd2f8328dff00a83",
+      "acceptance_sha": "b3b173dd71a61dab56449ad80882454d7bde438a",
       "family_qa": "qa/families/infiltration-water-source-0454-0464.md"
     },
     {
@@ -6588,7 +6588,7 @@
       "qa": "qa/chapter-0464.md",
       "provenance": "editorial/provenance/chapter-0464.json",
       "acceptance": "qa/acceptance/chapter-0464.json",
-      "acceptance_sha": "1f7eb7a24bc61ff8f227352e1b9405701a698dc7",
+      "acceptance_sha": "29ea55d0a4923d71fd64dd74e51566f439aea6bb",
       "family_qa": "qa/families/infiltration-water-source-0454-0464.md"
     },
     {
@@ -6602,7 +6602,7 @@
       "qa": "qa/chapter-0465.md",
       "provenance": "editorial/provenance/chapter-0465.json",
       "acceptance": "qa/acceptance/chapter-0465.json",
-      "acceptance_sha": "ec6a8483976e49c83a14fac17ccadd8f7f327f82",
+      "acceptance_sha": "4ecc76f5b52b02713833903735279a878dbf81ae",
       "family_qa": "qa/families/prelude-counterattack-0465-0470.md"
     },
     {
@@ -6616,7 +6616,7 @@
       "qa": "qa/chapter-0466.md",
       "provenance": "editorial/provenance/chapter-0466.json",
       "acceptance": "qa/acceptance/chapter-0466.json",
-      "acceptance_sha": "9786df1820763e6495442b1870dc3dfabdeb2e6f",
+      "acceptance_sha": "1739d463d8ea9693d8b80f3675532df9649d7fbf",
       "family_qa": "qa/families/prelude-counterattack-0465-0470.md"
     },
     {
@@ -6630,7 +6630,7 @@
       "qa": "qa/chapter-0467.md",
       "provenance": "editorial/provenance/chapter-0467.json",
       "acceptance": "qa/acceptance/chapter-0467.json",
-      "acceptance_sha": "1c61e38adf155393c301c5d370a3ac4729d48fad",
+      "acceptance_sha": "0c9c2549280c6ff2f043d7f2051fc831cccb24f6",
       "family_qa": "qa/families/prelude-counterattack-0465-0470.md"
     },
     {
@@ -6644,7 +6644,7 @@
       "qa": "qa/chapter-0468.md",
       "provenance": "editorial/provenance/chapter-0468.json",
       "acceptance": "qa/acceptance/chapter-0468.json",
-      "acceptance_sha": "9a32a2261f6402dc52d7c5486d33c84458671d0d",
+      "acceptance_sha": "9ffc239f14cf9b0d1354758331279fc906ac4d76",
       "family_qa": "qa/families/prelude-counterattack-0465-0470.md"
     },
     {
@@ -6658,7 +6658,7 @@
       "qa": "qa/chapter-0469.md",
       "provenance": "editorial/provenance/chapter-0469.json",
       "acceptance": "qa/acceptance/chapter-0469.json",
-      "acceptance_sha": "eee8c8023f7f862026b0cfb0a3e338abcefe6461",
+      "acceptance_sha": "a8994c8be801e383b28eecb79571b2fe49f18e8e",
       "family_qa": "qa/families/prelude-counterattack-0465-0470.md"
     },
     {
@@ -6672,7 +6672,7 @@
       "qa": "qa/chapter-0470.md",
       "provenance": "editorial/provenance/chapter-0470.json",
       "acceptance": "qa/acceptance/chapter-0470.json",
-      "acceptance_sha": "b149a767c05a58d6e274d256f6df18a7ae9f354e",
+      "acceptance_sha": "ed7196c256f1dcc5021791c835a73891b03d7001",
       "family_qa": "qa/families/prelude-counterattack-0465-0470.md"
     },
     {
@@ -6686,7 +6686,7 @@
       "qa": "qa/chapter-0471.md",
       "provenance": "editorial/provenance/chapter-0471.json",
       "acceptance": "qa/acceptance/chapter-0471.json",
-      "acceptance_sha": "b28bf3fc71d754b75c5303974353de7fc0181314",
+      "acceptance_sha": "17a19d8dd7d7faa3b0de6d88c2a6cd47844e9cb2",
       "family_qa": "qa/families/tochka-annihilation-0471-0475.md"
     },
     {
@@ -6700,7 +6700,7 @@
       "qa": "qa/chapter-0472.md",
       "provenance": "editorial/provenance/chapter-0472.json",
       "acceptance": "qa/acceptance/chapter-0472.json",
-      "acceptance_sha": "ecd75b324047797f502d106d88c1ab9b1439a0a7",
+      "acceptance_sha": "1d23c095f563733b500e5b299219255a2fcfe6ee",
       "family_qa": "qa/families/tochka-annihilation-0471-0475.md"
     },
     {
@@ -6714,7 +6714,7 @@
       "qa": "qa/chapter-0473.md",
       "provenance": "editorial/provenance/chapter-0473.json",
       "acceptance": "qa/acceptance/chapter-0473.json",
-      "acceptance_sha": "917908141642090b6058c8055be523191fac164c",
+      "acceptance_sha": "3c659d5e99f2337bc787309c80d932503a4e3956",
       "family_qa": "qa/families/tochka-annihilation-0471-0475.md"
     },
     {
@@ -6728,7 +6728,7 @@
       "qa": "qa/chapter-0474.md",
       "provenance": "editorial/provenance/chapter-0474.json",
       "acceptance": "qa/acceptance/chapter-0474.json",
-      "acceptance_sha": "df234cdcce19cb22aceeda9483dff82e0e6b7140",
+      "acceptance_sha": "357b178dc51c0dbdf2884a845f6beeaf81e32aec",
       "family_qa": "qa/families/tochka-annihilation-0471-0475.md"
     },
     {
@@ -6742,7 +6742,7 @@
       "qa": "qa/chapter-0475.md",
       "provenance": "editorial/provenance/chapter-0475.json",
       "acceptance": "qa/acceptance/chapter-0475.json",
-      "acceptance_sha": "3d6ef02798f0678a2eee0b26a00d2a3ced60b889",
+      "acceptance_sha": "2e4922d03fe72dd4a86e9edcc5693ae18611dc0f",
       "family_qa": "qa/families/tochka-annihilation-0471-0475.md"
     },
     {
@@ -6784,7 +6784,7 @@
       "qa": "qa/chapter-0478.md",
       "provenance": "editorial/provenance/chapter-0478.json",
       "acceptance": "qa/acceptance/chapter-0478.json",
-      "acceptance_sha": "3ac33e45b73e1515ade046f4d342be9aba654dae",
+      "acceptance_sha": "24fcb765c150d3c3ddb93932fc8bd45fddcf7b85",
       "family_qa": "qa/families/tochka-annihilation-0478.md"
     },
     {
@@ -6798,7 +6798,7 @@
       "qa": "qa/chapter-0479.md",
       "provenance": "editorial/provenance/chapter-0479.json",
       "acceptance": "qa/acceptance/chapter-0479.json",
-      "acceptance_sha": "ed1f55fef5d91223a70feffafccf58986f2aa6b6",
+      "acceptance_sha": "bedc47c515291867c3a0b14449b969f6c710d593",
       "family_qa": "qa/families/downtown-naval-warfare-0479-0482.md"
     },
     {
@@ -6812,7 +6812,7 @@
       "qa": "qa/chapter-0480.md",
       "provenance": "editorial/provenance/chapter-0480.json",
       "acceptance": "qa/acceptance/chapter-0480.json",
-      "acceptance_sha": "ec2609e2298e53a3a9bae3652bf694bd7c5bda02",
+      "acceptance_sha": "6858c2d8aaf46857687ebf379ad57ccbc083c6b4",
       "family_qa": "qa/families/downtown-naval-warfare-0479-0482.md"
     },
     {
@@ -6826,7 +6826,7 @@
       "qa": "qa/chapter-0481.md",
       "provenance": "editorial/provenance/chapter-0481.json",
       "acceptance": "qa/acceptance/chapter-0481.json",
-      "acceptance_sha": "f82443f192c7fac0b7995f0625e7df048c88d0b7",
+      "acceptance_sha": "cedcc37e6c19411d8fb8df78a1fbadfe7e6a7df0",
       "family_qa": "qa/families/downtown-naval-warfare-0479-0482.md"
     },
     {
@@ -6840,7 +6840,7 @@
       "qa": "qa/chapter-0482.md",
       "provenance": "editorial/provenance/chapter-0482.json",
       "acceptance": "qa/acceptance/chapter-0482.json",
-      "acceptance_sha": "657fd76cc366108a9226ae975f9a4c04c83d9544",
+      "acceptance_sha": "cda0bd172d5cfa6a85e977a7c78812f1a9d9e487",
       "family_qa": "qa/families/downtown-naval-warfare-0479-0482.md"
     },
     {
@@ -6854,7 +6854,7 @@
       "qa": "qa/chapter-0483.md",
       "provenance": "editorial/provenance/chapter-0483.json",
       "acceptance": "qa/acceptance/chapter-0483.json",
-      "acceptance_sha": "7a40acdfa33d13090571184751cbd4a11a2f7a6d",
+      "acceptance_sha": "6005b3e5b879536427eeed293de1872c9bbafdd2",
       "family_qa": "qa/families/marquis-discord-0483-0489.md"
     },
     {
@@ -6868,7 +6868,7 @@
       "qa": "qa/chapter-0484.md",
       "provenance": "editorial/provenance/chapter-0484.json",
       "acceptance": "qa/acceptance/chapter-0484.json",
-      "acceptance_sha": "0a1b2598e625f115db410def6ce2e38158c110fc",
+      "acceptance_sha": "bc2dc5ec3cd958658ca526fef18e20aac0fbed78",
       "family_qa": "qa/families/marquis-discord-0483-0489.md"
     },
     {
@@ -6882,7 +6882,7 @@
       "qa": "qa/chapter-0485.md",
       "provenance": "editorial/provenance/chapter-0485.json",
       "acceptance": "qa/acceptance/chapter-0485.json",
-      "acceptance_sha": "c193e1c09be6a8909adc279079d501615cd2a0b2",
+      "acceptance_sha": "b89a6813826130c9a1e3fa60216d72a608604eeb",
       "family_qa": "qa/families/marquis-discord-0483-0489.md"
     },
     {
@@ -6896,7 +6896,7 @@
       "qa": "qa/chapter-0486.md",
       "provenance": "editorial/provenance/chapter-0486.json",
       "acceptance": "qa/acceptance/chapter-0486.json",
-      "acceptance_sha": "8b6a06427fe8d804497fe510bd99d4c744bb623d",
+      "acceptance_sha": "42dd141b33e529475bd0cea4de9d1371ac9ca76a",
       "family_qa": "qa/families/marquis-discord-0483-0489.md"
     },
     {
@@ -6910,7 +6910,7 @@
       "qa": "qa/chapter-0487.md",
       "provenance": "editorial/provenance/chapter-0487.json",
       "acceptance": "qa/acceptance/chapter-0487.json",
-      "acceptance_sha": "03e21336dd9597126d90c4382d67cfa3637e9ac2",
+      "acceptance_sha": "e33211c1e1d8d82be4a73aa08bf8a0f175ff5db5",
       "family_qa": "qa/families/marquis-discord-0483-0489.md"
     },
     {
@@ -6924,7 +6924,7 @@
       "qa": "qa/chapter-0488.md",
       "provenance": "editorial/provenance/chapter-0488.json",
       "acceptance": "qa/acceptance/chapter-0488.json",
-      "acceptance_sha": "0207de464c9da27e613702bce2eb026a642e74e7",
+      "acceptance_sha": "fcd91e2b8b20ef18dcbb57cfc6d502d0b7bd242e",
       "family_qa": "qa/families/marquis-discord-0483-0489.md"
     },
     {
@@ -6938,7 +6938,7 @@
       "qa": "qa/chapter-0489.md",
       "provenance": "editorial/provenance/chapter-0489.json",
       "acceptance": "qa/acceptance/chapter-0489.json",
-      "acceptance_sha": "5831e92fd95f9ace60ac508bd905b0ac811eb735",
+      "acceptance_sha": "6cba79c9c94534a5e3c91afff4c06451ef8df47c",
       "family_qa": "qa/families/marquis-discord-0483-0489.md"
     },
     {
@@ -7036,7 +7036,7 @@
       "qa": "qa/chapter-0496.md",
       "provenance": "editorial/provenance/chapter-0496.json",
       "acceptance": "qa/acceptance/chapter-0496.json",
-      "acceptance_sha": "dcbbad25fa727a19b7ee67edb0e4d3294aca8d9c",
+      "acceptance_sha": "bc96ec199eaea27d2d96fbf15197b3431a42ac61",
       "family_qa": "qa/families/side-stories-0496-0500.md"
     },
     {
@@ -7050,7 +7050,7 @@
       "qa": "qa/chapter-0497.md",
       "provenance": "editorial/provenance/chapter-0497.json",
       "acceptance": "qa/acceptance/chapter-0497.json",
-      "acceptance_sha": "3c348b8d547d282a1c8d512f96f876f3e06ea9d9",
+      "acceptance_sha": "12cace14550949327a773b929f00453166456813",
       "family_qa": "qa/families/side-stories-0496-0500.md"
     },
     {
@@ -7064,7 +7064,7 @@
       "qa": "qa/chapter-0498.md",
       "provenance": "editorial/provenance/chapter-0498.json",
       "acceptance": "qa/acceptance/chapter-0498.json",
-      "acceptance_sha": "002606e055f5bc0294185c0c0da0c05235d867e9",
+      "acceptance_sha": "7b05d6ebeb556b61e1377b2143b86f9086212109",
       "family_qa": "qa/families/side-stories-0496-0500.md"
     },
     {
@@ -7078,7 +7078,7 @@
       "qa": "qa/chapter-0499.md",
       "provenance": "editorial/provenance/chapter-0499.json",
       "acceptance": "qa/acceptance/chapter-0499.json",
-      "acceptance_sha": "c169846266bab9a215ed814fd93248743056dec0",
+      "acceptance_sha": "a4c75038dcb17f9499decd024bb80f7d4b9f5d22",
       "family_qa": "qa/families/side-stories-0496-0500.md"
     },
     {
@@ -7092,7 +7092,7 @@
       "qa": "qa/chapter-0500.md",
       "provenance": "editorial/provenance/chapter-0500.json",
       "acceptance": "qa/acceptance/chapter-0500.json",
-      "acceptance_sha": "92fed4c345bc80a6d473e67ca682a41625bc4093",
+      "acceptance_sha": "e961dc3f6b45cad1a0c7e4b332fc0bc9f740bea5",
       "family_qa": "qa/families/side-stories-0496-0500.md"
     }
   ],
@@ -7729,10 +7729,10 @@
     ],
     "current_phase": "phase_4_remediation_and_evidence_rebinding",
     "next_family": {
-      "name": "Camus Morgue",
+      "name": "The Hound of the Night",
       "range": [
-        20,
-        25
+        75,
+        77
       ]
     },
     "every_chapter_requires_direct_review": true,
@@ -7838,15 +7838,26 @@
       "baseline_rows_altered": 0
     },
     "phase3_families_exception_documented_count": 102,
-    "phase4_status": "ready_not_started",
+    "phase4_status": "active",
     "phase4_next_family": {
-      "name": "Camus Morgue",
+      "name": "The Hound of the Night",
       "range": [
-        20,
-        25
+        75,
+        77
       ]
     },
-    "phase4_earliest_remediation_chapter": 22,
-    "phase4_manuscript_edits": 0
+    "phase4_earliest_remediation_chapter": 75,
+    "phase4_manuscript_edits": 24,
+    "phase4_remediation_completed_chapters": 22,
+    "phase4_remediation_remaining_chapters": 251,
+    "phase4_families_completed": 10,
+    "phase4_last_completed_family": {
+      "name": "The Red Death",
+      "range": [
+        72,
+        74
+      ]
+    },
+    "phase4_evidence_rebind_status": "Phase 4 evidence rebound through The Red Death (72-74); 10 affected families complete"
   }
 }

@@ -9,9 +9,9 @@
 
 | Target | Chinese source | Chinese SHA | Recovered-English witness | English SHA | Draft SHA | QA SHA |
 |---|---|---|---|---|---|---|
-| 155 | 155.txt | `0443c1fb6b741512ddea3695e4307f9e918a91bc` | **E154** | `3fc2c9eb577199cc82fafb7bd5569b5cc2687d6c` | `56dd3fd684523b1c703f3883f3bd4c5469c53121` | `7166212e015c4ed81492cc19a4b5d818687dbdbc` |
-| 156 | 156.txt | `3997ce7e947b98e28f797031f1469073fa410c73` | **E155** | `7c8418bf3b000eac2df141a1f99a738c71185e7b` | `79433a20cf0eee5b9b2f39a98543f3d1c32a84cf` | `cc74216374ddba0729a3466ed32921d2c7801160` |
-| 157 | 157.txt | `7e5e07fa00343da715752b93615d4d7ed20c8ca1` | **E156** | `a8440def843925046fab5c6beff350b826e95fe4` | `0dc5ad3142fe6732d7367eb9f3a7a46d6648b525` | `c78cd146303698691f030df10811be0256314806` |
+| 155 | 155.txt | `0443c1fb6b741512ddea3695e4307f9e918a91bc` | **E154** | `3fc2c9eb577199cc82fafb7bd5569b5cc2687d6c` | `06bc6d34366fb1b38417d8673a32012a1238fe61` | `87176d79d9a2e07575554c0595f55294a2533901` |
+| 156 | 156.txt | `3997ce7e947b98e28f797031f1469073fa410c73` | **E155** | `7c8418bf3b000eac2df141a1f99a738c71185e7b` | `8cb72a8a808476619c893d7a70a95ba6a9c03bab` | `3c08b1b795c06e1df519967aea428d2bca3fcd22` |
+| 157 | 157.txt | `7e5e07fa00343da715752b93615d4d7ed20c8ca1` | **E156** | `a8440def843925046fab5c6beff350b826e95fe4` | `62a92764f5a52e98cb163e6f409515dc60a39694` | `4463c6180eb3442e745ac6a43a3e114caeb5829f` |
 | boundary 158 | 158.txt — *Familiar Face (1)* | `d0677ff2c2c232ad017287dd0223f04b90a00d3f` | **E157** | `91d67d8d59d68825a4779fe641605572fdff43ab` | next family | next family |
 | boundary 162 | 162.txt — *Sin and Punishment (1)* | `680770fdf7b23729571a227210cf1346b0a82774` | **E161** | `2cce07a6f2cc14c6860fee7a3ca615a3d70e001d` | later family | later family |
 
@@ -38,7 +38,7 @@ Target 157 ends when strange breathing invokes Rule 6 and **Ephebo** appears. Ta
 - **Laundry-room alibi:** Vikir's supposedly soiled clothing gives him a natural excuse to separate from the group.
 - **Infiltration infrastructure:** volunteer repairs were also route preparation—drainage handholds, roof recesses, access points, and memorized paths.
 - **Dormitory rings:** target 155 source bands are 17–19 / 13–16 / 8–12 / newborns moving inward toward Quilt's quarters.
-- **Safety notice:** all fourteen rules are preserved. Their contradictions are intentional horror mechanics and are not editorially “fixed.”
+- **Safety notice:** all fourteen rules are preserved. Rule 4 now follows the source exactly: emergency-exit stairs → crouch against the wall → close eyes → cover ears; Dolores's later forehead-to-wall posture remains a later scene action rather than part of the written rule. Contradictions remain intentional horror mechanics.
 - **Rule 3 correction:** Chinese `任何形式的性行为` bans **all sexual activity** regardless of gender/time/place. The recovered-English narrower rendering is rejected.
 - **Rules 4 and 14:** mutually contradictory meta-rules remain unresolved by design.
 - **Rule 11:** geometrically impossible stairwell wording stays conservative rather than inventing a clean architectural interpretation.
@@ -67,3 +67,18 @@ Target **162 → E161** begins **Sin and Punishment (1)**.
 PASS.
 
 Targets 155–157 form a complete three-part transition: Vikir converts the party disaster into operational cover → enters Indulgentia's rule-horror night layer → intersects with Dolores as Night Hound → reaches the first undead guard encounter. Chinese remains semantic authority, production naming corrects Peri and the rule scope, and later identities/relationships remain spoiler-guarded.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-26  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 155 restores the repeated accusation that Vikir **urinated on the Saintess's belly**.
+- Chapter 156 removes the invented forehead-to-wall instruction from Rule 4 and restores the source rule to **crouch against the wall**, close the eyes, and cover the ears.
+- Chapter 157 restores the **heart-flutter** reaction, the exaggerated **change his diaper and breastfeed him** maternal-comedy line, and Dolores's **heart-stirring** reaction to the Night Hound.
+- Sanitization fidelity and completeness were rerun across Chapters 155–157 after repair.
+- Shifted mapping remains **155→E154, 156→E155, 157→E156**; target 158/E157 begins *Familiar Face (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Familiar Face (158–161)**.

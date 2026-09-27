@@ -2,8 +2,8 @@
   "chapter": 331,
   "title": "Draw (1)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Draw",
     "range": [
@@ -11,8 +11,8 @@
       332
     ],
     "family_qa_path": "qa/families/draw-0331-0332.md",
-    "family_qa_sha": "4da0c4108b2f283f5561b7aa9f63a2120d8fe478",
-    "status": "pass"
+    "family_qa_sha": "849e0b66aa1bc944208c2fc219f3f19219489391",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/331.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-329.xhtml",
     "english_reference_sha": "ebcd84f7f2b506e628dbd86d5c781f9c1736c641",
     "draft_path": "manuscript/drafts/chapter-0331.md",
-    "draft_sha": "d1db8a32fc787502dc00793a6d32ac17f702000c",
+    "draft_sha": "a4f6e0e45149843f831cfc1919c36802dd529432",
     "qa_path": "qa/chapter-0331.md",
-    "qa_sha": "284c7f2c284632f23df41c6dd3c17c153c55b53f",
+    "qa_sha": "dc6a5427fb2c8efb6b66cb6b7b2628ac003b2c96",
     "provenance_path": "editorial/provenance/chapter-0331.json",
-    "provenance_sha": "d84fabbc193c7d9ee79c02742621fd3b2815c6a7"
+    "provenance_sha": "ed4822a19e768e0462df485ce3bb372bc153c120"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Mating Room material from target333 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored visible self-reproach/self-loathing after the commoners recognize their apology was self-preservation"
+  }
 }

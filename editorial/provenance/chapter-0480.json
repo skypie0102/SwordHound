@@ -9,8 +9,8 @@
       482
     ],
     "family_qa_path": "qa/families/downtown-naval-warfare-0479-0482.md",
-    "family_qa_sha": "c69cea1b8b595f0b92952cc496aa661957931dc6",
-    "status": "pass"
+    "family_qa_sha": "dcc1fdb5494ee06f5bc0095ca9439666b5b2db13",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/480.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0480.md",
-    "blob_sha": "7619817b4bb2a9790d17f850be126937df96597a"
+    "blob_sha": "f42e30442d69202e15c6a86143c29a84a389cdf7"
   },
   "qa": {
     "path": "qa/chapter-0480.md",
-    "blob_sha": "dba89aca7c709b0d3f711c25c16d3994f96945e3",
-    "status": "pass"
+    "blob_sha": "bcffb57ec1979171b646ee646b68e0c258d20df1",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; established glossary canon controls recurring forms and new source-local maritime terms remain unverified.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "reveal_guard": "Decarabia's gate-opener/gate-closer clue remains cryptic; do not identify either role early."
+  "accepted_date": "2026-09-28",
+  "reveal_guard": "Decarabia's gate-opener/gate-closer clue remains cryptic; do not identify either role early.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-28",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      479,
+      482
+    ],
+    "manuscript_changed": true,
+    "note": "restored peeled-sea-skin tsunami metaphor and removed unsupported Dolores interpretation"
+  }
 }

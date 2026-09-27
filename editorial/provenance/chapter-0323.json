@@ -9,8 +9,8 @@
       325
     ],
     "family_qa_path": "qa/families/underdogma-0321-0325.md",
-    "family_qa_sha": "43e8526ecc65f43bfa970d7641c90bcb77a19cb0",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "3e5376a445631aaafe49b0617288af3b0b058d93",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/323.txt",
@@ -24,16 +24,16 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0323.md",
-    "blob_sha": "3bd61ff5d59d1243dd3fad02a41937a29a1f9534"
+    "blob_sha": "b8ab3bec1f10949617bbe89a8c7a419c171c3e91"
   },
   "qa": {
     "path": "qa/chapter-0323.md",
-    "blob_sha": "ded0636911e436dd400faac590c5587215b2159e",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "b91dc1af5fdc9136423ed340f0d7b8e6ef2fa00e",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/race forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "historical_acceptance": {
     "accepted": true,
     "accepted_date": "2026-09-19",
@@ -46,5 +46,16 @@
     "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
     "family_evidence": "qa/families/underdogma-0321-0325.md",
     "initial_priority_target": true
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      321,
+      325
+    ],
+    "manuscript_changed": true,
+    "note": "corrected unsupported plural-hand threat to singular hand"
   }
 }

@@ -9,8 +9,8 @@
       185
     ],
     "family_qa_path": "qa/families/midterm-random-defense-0179-0185.md",
-    "family_qa_sha": "5e3faad9482fbac0eae393e1b5d7b98293ae7ede",
-    "status": "pass"
+    "family_qa_sha": "dafd62fa6916218737bbd547058b0695c4c74cb9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/184.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0184.md",
-    "blob_sha": "acfb720da06abdda78820febe7879a54451d3823"
+    "blob_sha": "ebd68bce44311318e84286447780fe8ea688fea4"
   },
   "qa": {
     "path": "qa/chapter-0184.md",
-    "blob_sha": "9045170989d9484c345ffebf9b0252219ce2f2da",
-    "status": "pass"
+    "blob_sha": "9853ea582f77131772f1d179e9697e94578514cb",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/186.txt",
     "chinese_sha": "50e4d6ed09229936a98c12da53190591ce11a402",
     "english_path": "source/chapters/chapter-184.xhtml",
     "english_sha": "7a87123315c4960cbf6dfccad9c5c8d866636f5c",
     "purpose": "both begin Aftermath (1), target186"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      179,
+      185
+    ],
+    "manuscript_changed": true,
+    "note": "restored >1000 Worker Ant comparison and escort/errand-runner prior role"
   }
 }

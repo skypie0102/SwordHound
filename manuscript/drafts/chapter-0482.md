@@ -89,7 +89,7 @@ lived in the human world.
 
 Its huge round head—
 
-covered in countless oysters, barnacles, coral, and seaweed—
+covered in countless shells, sea urchins, coral, and seaweed—
 
 looked from a distance like a rocky island.
 
@@ -123,7 +123,7 @@ It barely mattered.
 
 Centuries of accumulated shells—
 
-barnacles—
+sea urchins—
 
 coral—
 
@@ -171,11 +171,13 @@ D’Ordume’s attacks became a cutting vortex.
 
 Shells.
 
-Barnacles.
+Sea urchins.
 
 Coral.
 
 The accumulated armor began grinding away.
+
+Bodily fluid from living growths splashed outward while dead coral shattered.
 
 Souaré drew on dwarven power.
 

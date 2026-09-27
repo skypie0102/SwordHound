@@ -9,8 +9,8 @@
       424
     ],
     "family_qa_path": "qa/families/wandering-knight-0422-0424.md",
-    "family_qa_sha": "fbb3ffbc45a63d0ccc9c93fe77f5263b65cbe608",
-    "status": "pass"
+    "family_qa_sha": "98bc6b59d0fef78ec55ee1074e05d737df2473a6",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/424.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0424.md",
-    "blob_sha": "9d5b5f0a4790366fa442f78c26b2947dad3c6246"
+    "blob_sha": "21427baccbdac59ee7d773754eab53dc506b29f2"
   },
   "qa": {
     "path": "qa/chapter-0424.md",
-    "blob_sha": "b3b18d6206023a6143347351fc8e514f4615570b",
-    "status": "pass"
+    "blob_sha": "d1f76b7278fb9cb319b7e91355d406158b9f7d0e",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      422,
+      424
+    ],
+    "manuscript_changed": true,
+    "note": "restored burst-internal-organ detail, survival aphorism, and Tudor throat-tightening reaction"
+  }
 }

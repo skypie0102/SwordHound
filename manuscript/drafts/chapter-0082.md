@@ -22,9 +22,15 @@ Dolores stood before the three tiny vessels and recited a prayer of blessing and
 
 An old lament from the first Saintess.
 
-A mother grieving for her only son.
+“Look. Here is a woman with only one son.
 
-A holy sacrifice remembered through tears.
+“Do you know a mother's pain when she sees her son suffer?
+
+“Unfortunate me—I had to raise the son of God. From that night until the next evening, I wept while my heart ached beyond endurance.
+
+“Oh, my beautiful and noble son. This is the most sorrowful, most heart-rending day of my life……”
+
+The ancient lament had comforted generations who endured sacred sacrifice.
 
 As the prayer ended, all three drops began to shine.
 
@@ -160,13 +166,15 @@ Humbert stamped once.
 
 White marble cracked.
 
-Nearby stone supports shook.
+Two nearby stone pillars collapsed.
 
 “Prepare for holy war.”
 
 His voice shook with fury.
 
 “Poisoners and profiteers dare bring this filth into Quovadis territory?”
+
+The will of Quovadis carried enough political weight that even the Emperor yielded ground to it. For poisoners and profiteers to provoke the holy house so openly was an outrage.
 
 The Seven Great Clans had always fought through politics.
 

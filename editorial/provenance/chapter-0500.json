@@ -9,8 +9,8 @@
       500
     ],
     "family_qa_path": "qa/families/side-stories-0496-0500.md",
-    "family_qa_sha": "5500ac73073602383e7359b83196e9d2e32a2cd7",
-    "status": "pass"
+    "family_qa_sha": "0a89e3efd898bf8db486b03b293a1a631102da04",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/500.txt",
@@ -25,15 +25,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0500.md",
-    "blob_sha": "408536b7950511e4e847574d5ad7abdda38b7ce9"
+    "blob_sha": "277806b0e26c53ace2356185cc7df6152dfc34a2"
   },
   "qa": {
     "path": "qa/chapter-0500.md",
-    "blob_sha": "7c6640d97278b15721d5a5b00be444c1394e98fb",
-    "status": "pass"
+    "blob_sha": "3ec28757109211584d0d09dadd1a6d59a4ccd6f9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom page access remained robots-blocked; established glossary/indexed canon and the embedded E493 witness were used for late recurring forms.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "final_reveal_guard": "The final old man beyond the Five Fingers of the Creator remains unnamed; no identity is invented."
+  "accepted_date": "2026-09-28",
+  "final_reveal_guard": "The final old man beyond the Five Fingers of the Creator remains unnamed; no identity is invented.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-28",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      496,
+      500
+    ],
+    "manuscript_changed": true,
+    "note": "restored Hongmen, Grave-of-Swords flesh-cutting pain, and red/fishy blade droplets"
+  }
 }

@@ -304,6 +304,8 @@ A mountain of corpses.
 
 A sea of blood.
 
+A swamp made of blood and flesh.
+
 Human bodies.
 
 Demon bodies.
@@ -364,7 +366,7 @@ All speechless.
 
 “no wonder he became so cold.”
 
-“…Vikir.”
+“…It hurts to think about Vikir.”
 
 Sinclaire said nothing.
 

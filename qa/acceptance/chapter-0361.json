@@ -2,8 +2,8 @@
   "chapter": 361,
   "title": "Voluntary Escort (3)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Voluntary Escort",
     "range": [
@@ -11,8 +11,8 @@
       362
     ],
     "family_qa_path": "qa/families/voluntary-escort-0359-0362.md",
-    "family_qa_sha": "99bc680e15694db0fcb6ed22965693f3e71e34d4",
-    "status": "pass"
+    "family_qa_sha": "79a0832fe13b3a2070f883b785ddbc1ae2d25986",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/361.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-359.xhtml",
     "english_reference_sha": "31c5f6dc6f4bc1038a90329f47a56972088f7d0a",
     "draft_path": "manuscript/drafts/chapter-0361.md",
-    "draft_sha": "0f01ada1c4ae762472086f6872b5684b662ccd57",
+    "draft_sha": "e078b33d931191f557200c29e92bda500cbcdc7c",
     "qa_path": "qa/chapter-0361.md",
-    "qa_sha": "a3c4d61b32cb7844e614e0011a4d261af24f8cbd",
+    "qa_sha": "0d832a5147054388fe6f48ecf82976474fe89615",
     "provenance_path": "editorial/provenance/chapter-0361.json",
-    "provenance_sha": "61f1594f384d657bf1b8bd9a66fdebcd1883761b"
+    "provenance_sha": "f072484d4e097974e1b4db185965e6eb7d61affc"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Ghost Castle material from target363 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored repeated interrogation cuts to Pedro, Isolde, and Thomas with screams"
+  }
 }

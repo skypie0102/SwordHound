@@ -9,7 +9,7 @@
       82
     ],
     "family_qa_path": "qa/families/saintess-0078-0082.md",
-    "family_qa_sha": "31d39fa90f372040ba6b5867b68f4b5d7ffcf8a7",
+    "family_qa_sha": "a4c71d8d9a59bb0e20628d0e5576d9f454d12610",
     "status": "pass"
   },
   "primary_source": {
@@ -45,11 +45,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0080.md",
-    "blob_sha": "8587821735a14b453f53a71be1dbbf52823c92c7"
+    "blob_sha": "fc4716b18295763912140ab4b84f9a7bd6013479"
   },
   "qa": {
     "path": "qa/chapter-0080.md",
-    "blob_sha": "6de7aaa54e03f3babaa4e4b4bc2d399d1f9dc600",
+    "blob_sha": "75aa66ce2d1c52683f9f1cbc0a6a623ddafad44b",
     "status": "pass"
   },
   "documented_decisions": [
@@ -85,5 +85,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      78,
+      82
+    ],
+    "manuscript_changed": true,
+    "note": "restored secret patient-removal misconduct; underage sexualized gaze remains safety-limited"
+  }
 }

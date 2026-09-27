@@ -2,8 +2,8 @@
   "chapter": 156,
   "title": "How to Keep Your Night Shift Employees Safe (2)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "How to Keep Your Night Shift Employees Safe",
     "range": [
@@ -11,8 +11,8 @@
       157
     ],
     "family_qa_path": "qa/families/night-shift-safety-0155-0157.md",
-    "family_qa_sha": "62cf748051afcf6df30bf9b0bef0546443fea7f3",
-    "status": "pass"
+    "family_qa_sha": "64d41f456ca46f47eecc378de37cc60cde331898",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/156.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-155.xhtml",
     "english_reference_sha": "7c8418bf3b000eac2df141a1f99a738c71185e7b",
     "draft_path": "manuscript/drafts/chapter-0156.md",
-    "draft_sha": "79433a20cf0eee5b9b2f39a98543f3d1c32a84cf",
+    "draft_sha": "8cb72a8a808476619c893d7a70a95ba6a9c03bab",
     "qa_path": "qa/chapter-0156.md",
-    "qa_sha": "cc74216374ddba0729a3466ed32921d2c7801160",
+    "qa_sha": "3c08b1b795c06e1df519967aea428d2bca3fcd22",
     "provenance_path": "editorial/provenance/chapter-0156.json",
-    "provenance_sha": "7d5a9ed1a1a664c2b72ac89ed746d4346fc07a37"
+    "provenance_sha": "94eb75554bf0628357a7edb321543f138d5f469e"
   },
   "canonical_checks": [
     "Peri",
@@ -38,5 +38,12 @@
     "Rule 3 bans all sexual activity; recovered narrower wording is rejected.",
     "Contradictory Rules 4/14 remain unresolved by design.",
     "Peri uses canonical production naming."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "corrected Rule 4 to crouch against wall / close eyes / cover ears and removed invented forehead instruction"
+  }
 }

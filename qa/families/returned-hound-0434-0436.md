@@ -26,3 +26,18 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 434 restores the whole-body **meat-grinder / being-torn-apart** pain image during the empathy resonance.
+- Chapter 434 also restores Sinclaire's fuller remembered exchange: Vikir's goal is **very far away**, will take a **long time**, must therefore be a **grand dream**, and she asks about the day after all his wishes are fulfilled.
+- Chapters 435–436 were reread against their Chinese-primary sources and remain complete without manuscript changes.
+- Sanitization fidelity and completeness were rerun across Chapters 434–436 after repair.
+- Shifted mapping remains **434→E432, 435→E433, 436→E434**; target 437/E435 begins *Dreaming the Impossible Dream (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Dreaming the Impossible Dream (437–440)**, with queued remediation targets Chapters **438–439**.

@@ -286,15 +286,15 @@ Then—
 
 BOOM!
 
-Both disappeared.
+Both mutants burst into flying pieces of meat.
 
-One shredded by a storm of axe blades.
+One was shredded by a storm of axe blades.
 
 The other—
 
 impaled by stone spikes erupting from wall and ground.
 
-Two familiar men stood through the falling blood.
+Two familiar men stood beneath a rain of flesh and blood.
 
 “So.”
 

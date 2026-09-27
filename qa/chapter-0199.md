@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/199.txt` — `af39b1f20a77205138870bda8abd175a9b1dc95f`
 - English witness: **E197** — `38bbd0603ec78d734c1ba31f79aa2aca2f0219a3`
-- Draft: `manuscript/drafts/chapter-0199.md` — `e77124882fc36e521ab1b156ad05a441581d39d6`
+- Draft: `manuscript/drafts/chapter-0199.md` — `1f286025b383d63c8fa5996c86dc8a37c731b643`
 
 ## Checks
 - PASS — Seere is Eighth Corpse / Eighth Demon King with Chinese-primary **Danger Rating S+**.
@@ -19,3 +19,14 @@
 - PASS — Skeleton / Ghost / Ghoul windows preserve C / C / C+ ratings.
 - PASS — recovered-English “Nymphet” is normalized to established **Peri** on the gold necklace.
 - PASS — the skeleton wearing the necklace is not asserted to be Peri; source certainty stops at the necklace.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored Seere's **incomprehensible / unkillable** disaster descriptors and the source's female-identification basis from height plus **chest and hip proportions**.
+
+The complete Corpse Queen family was reread after remediation. Mapping remains **198→E196 through 202→E200**; target **203→E201** begins *Mixed Bath (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Corpse Queen family QA.

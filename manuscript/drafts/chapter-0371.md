@@ -272,7 +272,7 @@ Sunglasses.
 
 And—
 
-a magnificent mustache.
+a sexy mustache.
 
 Vikir recognized her immediately.
 
@@ -308,9 +308,7 @@ Her hand closed around Vikir’s neck.
 
 “Which solitary cell should I give you?”
 
-She shook him lightly—
-
-almost playfully.
+She asked in a seductive voice as she shook him lightly.
 
 Vikir frowned.
 

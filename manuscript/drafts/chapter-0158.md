@@ -258,7 +258,7 @@ Not to win points.
 
 Not to prove lineage.
 
-To end the enemy in the most efficient way possible.
+Its sole purpose was to make the enemy die painfully.
 
 A legendary practical killing technique from the Baskerville Ten Fangs—
 

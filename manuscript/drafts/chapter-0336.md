@@ -200,7 +200,7 @@ but the fear remained.
 
 Then she realized—
 
-she was unclothed.
+she was completely naked.
 
 Her hands moved immediately to cover herself.
 
@@ -212,9 +212,9 @@ Sinclaire turned.
 
 Vikir was behind her—
 
-also without wet clothing—
+also naked—
 
-holding her close from the back.
+holding her from behind so their bare bodies stayed in close contact for warmth.
 
 “B-Bro!?”
 
@@ -270,7 +270,7 @@ In a world this cold and dark—
 
 even one match-sized flame felt enormous.
 
-So did shared body heat.
+So did the direct skin-to-skin warmth keeping her body temperature up.
 
 Vikir asked—
 
@@ -342,11 +342,11 @@ Then—
 
 her behavior changed.
 
-She turned toward him.
+She turned her head.
 
-Reached for him with disoriented affection.
+Her lips brushed Vikir's neck.
 
-Vikir avoided the contact.
+Vikir immediately turned his head away, but under the mist's influence she continued touching his neck with her tongue, moving upward.
 
 *The timer.*
 

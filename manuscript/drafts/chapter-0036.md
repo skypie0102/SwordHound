@@ -154,7 +154,7 @@ Handcuffs and chains ripped like paper beneath Vikir's bare hands.
 
 Then Vikir extended those hands toward the speechless baron.
 
-“Turn around.”
+“Stick your ass out.”
 
 Gambino never had time to resist.
 
@@ -168,7 +168,7 @@ A horrible tearing sound filled the room.
 
 Gambino screamed like an animal being slaughtered as blood sprayed across the floor.
 
-The surrounding guests began screaming as well.
+The surrounding guests began screaming as well as they watched a man being torn apart alive.
 
 Mercenary guards rushed in.
 

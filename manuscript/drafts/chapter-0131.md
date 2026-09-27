@@ -572,6 +572,16 @@ Something easy to push around.
 
 Someone unlikely to resist.
 
+Cruel.
+
+Brutal.
+
+Merciless.
+
+Malicious.
+
+That violence was plain in the way the second-years looked at Pigi.
+
 Vikir watched from a short distance away.
 
 The second-years were smiling.

@@ -9,8 +9,8 @@
       185
     ],
     "family_qa_path": "qa/families/midterm-random-defense-0179-0185.md",
-    "family_qa_sha": "5e3faad9482fbac0eae393e1b5d7b98293ae7ede",
-    "status": "pass"
+    "family_qa_sha": "dafd62fa6916218737bbd547058b0695c4c74cb9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/179.txt",
@@ -30,7 +30,7 @@
   "qa": {
     "path": "qa/chapter-0179.md",
     "blob_sha": "82badcdeb2d2b6635fcd9a0bd0013964cecf87ed",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/186.txt",
     "chinese_sha": "50e4d6ed09229936a98c12da53190591ce11a402",
     "english_path": "source/chapters/chapter-184.xhtml",
     "english_sha": "7a87123315c4960cbf6dfccad9c5c8d866636f5c",
     "purpose": "both begin Aftermath (1), target186"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      179,
+      185
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
   }
 }

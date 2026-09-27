@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/202.txt` — `feb37b543cba6b8f777804cc5e13359e222988d2`
 - English witness: **E200** — `337a8fae1eace8e013fd482f29ed0c8f4399d8a7`
-- Draft: `manuscript/drafts/chapter-0202.md` — `b5a23f58bd8db5e1d80c7fefc80672bba00541e4`
+- Draft: `manuscript/drafts/chapter-0202.md` — `fe1946ecc43e279d449ef4235821060a3c88db07`
 - Boundary: C203 — `acd7fa44938fcb72c31431a2e4a93b2ec4ad8fc7` / E201 — `1837e0dd89b14ce0defcd2ab77b7d97cf24971ea` begin **Mixed Bath (1)**.
 
 ## Checks
@@ -24,3 +24,14 @@
 - PASS — Professor Sadi arrives with Imperial Guard forces; Vikir escapes with Silent Heel — Mushuhushu plus Baby Madam silk.
 - PASS — Vikir plans three days of recovery and returns toward the Academy in wounded Picaresque dog form.
 - PASS — raw C202 title drift is normalized to **The Corpse Queen (5)** by contiguous family evidence.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored Vikir's mouth expelling **thick blood clots and internal-organ fragments**, plus the false-resolution beat that three Ten Corpses would be gone, the Age of Destruction delayed, and a requiem offered to dead comrades before Geronto interrupts.
+
+The complete Corpse Queen family was reread after remediation. Mapping remains **198→E196 through 202→E200**; target **203→E201** begins *Mixed Bath (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Corpse Queen family QA.

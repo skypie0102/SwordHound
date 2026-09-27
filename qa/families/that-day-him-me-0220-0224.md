@@ -9,7 +9,7 @@
 | Target | Chinese SHA | English witness | English SHA | Draft SHA | QA SHA |
 |---|---|---|---|---|---|
 | 220 | `8f768db48cb1b62930c38bf5f924bb5176a6e63c` | E218 | `c6a798c3a8fbbda43ac8a729e6215ccf33dfcaf3` | `1f44c7100cd758a137522cf957c06cbacd26d096` | `8f50fd30c205a36bccc1e266490a6c5e569d5eb3` |
-| 221 | `5c67124d92986ba285a9ad4066f6fd377ca1a7df` | E219 | `0fc493c78cb6b42a2316ef4c45e9bf7b04362ced` | `a73b60fb8d76705b9024b66c59f1ab449803925d` | `2f4b4572eaa26568033e00977173208e7348e416` |
+| 221 | `5c67124d92986ba285a9ad4066f6fd377ca1a7df` | E219 | `0fc493c78cb6b42a2316ef4c45e9bf7b04362ced` | `7897a095e50e45e625901f9a51dbc3e17536baf7` | `e07754378753cf69ea503bd0d64ad4e3c7403a40` |
 | 222 | `c96a6345ce61611da8118ceb398308182145cf2b` | E220 | `6208c7e7e7d8a72f61f6869bd5e19a4a468302d5` | `71f7a59e082ac00c5403c99c07bd9833552d2659` | `f06df9076b7358fe374b3e07f80d2ebccfdb8132` |
 | 223 | `6d7d877a88b7c4c77a3a7e82b01b4fcf92a8293a` | E221 | `c65fcfff3f74c813d49085f4925c1b3e45440e3c` | `fbb2657e42bb794d3efda7e6a4dc69011ac4124a` | `18fc24560929e33ee64817ca7fe84a92dd09fadd` |
 | 224 | `3cf1ec76cff773b4b3cebcfaa2e89ea0ad39529d` | E222 | `14bf437cc427102138173d72f92c3aac54bf0659` | `603efdf1bfc303d45d318e43de1d8e175ea91ba7` | `dab919de099aaee12622e0d33a4c5e2b0c105366` |
@@ -55,3 +55,18 @@ Target **225 → E223** begins **Tuition (1)**.
 ## Family verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 221 restores Camus's source-explicit hatred toward the jungle natives she blames for Vikir's disappearance, including that even **tearing them apart would not satisfy her rage**.
+- The separately safety-limited age-17 sexual leverage passage remains brief/non-erotic and is not expanded.
+- Chapters 220 and 222–224 were reread against their Chinese-primary sources and remain complete without manuscript changes.
+- Sanitization fidelity and completeness were rerun across Chapters 220–224.
+- Shifted mapping remains **220→E218, 221→E219, 222→E220, 223→E221, 224→E222**; target 225/E223 begins *Tuition (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Tuition (225–233)**.

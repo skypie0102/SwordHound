@@ -218,9 +218,13 @@ Brutal childhood conditioning.
 
 Years surviving places that killed weaker people.
 
-And the powers held in **Beelzebub**—
+And the **three high-level monster souls trapped inside Beelzebub**—
 
-continually reinforcing a body already difficult to destroy.
+continually tempering and strengthening a body already difficult to destroy.
+
+The experience Vikir had accumulated while killing demons had also become valuable experience etched into him—
+
+strengthening his soul as well as his body.
 
 Muscle tore.
 

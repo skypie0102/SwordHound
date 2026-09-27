@@ -9,8 +9,8 @@
       421
     ],
     "family_qa_path": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
-    "family_qa_sha": "1bbf4a98983ffe688c08887880df40912ccd2aec",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "e0c02eb8a9c634d9bc2d3cf2d7723e36f31d4a3d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/421.txt",
@@ -24,16 +24,16 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0421.md",
-    "blob_sha": "a10d7bc9905a8b643241f4aa3364ace900debbb6"
+    "blob_sha": "49d692efbfa9fb4cca8e17ddc034152d7564a761"
   },
   "qa": {
     "path": "qa/chapter-0421.md",
-    "blob_sha": "3c5c77202543351ca967c9e5bd5c35d236545ada",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "4b7f5165f4cc25c239a26565a59aa68404c42a6e",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "documented_correction": "Local Basilisk-regeneration wording rejected as recurring drift; Immortality — Gargoyle (S) controls.",
   "historical_acceptance": {
     "accepted": true,
@@ -48,5 +48,16 @@
     "family_evidence": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
     "initial_priority_target": true
   },
-  "regeneration_guard": "Use Immortality — Gargoyle (S); local Basilisk drift rejected."
+  "regeneration_guard": "Use Immortality — Gargoyle (S); local Basilisk drift rejected.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      419,
+      421
+    ],
+    "manuscript_changed": true,
+    "note": "restored live-meat-paste ascent-pressure simile"
+  }
 }

@@ -18,3 +18,14 @@
 - PASS — whip trap, near-eye heel, broken ribs/internal injury, 19-point score, Dolores catch/healing, and scholarship despair are restored.
 - PASS — Sadi intentionally weaponizes the scholarship issue against Sinclaire after understanding its importance.
 - **Sequence correction:** C192's final roster call names Vikir, but E190 and C193 prove the next examinee is **Pigi**. The rebuilt chapter explicitly documents the slip and ends on Pigi being called.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the source's full injury extent: all of Sinclaire's ribs are broken, with some driven into internal organs.
+
+The complete Attack Land family was reread after remediation. Chapters 194–196 remain unchanged and pass both Cycle-2 content gates. Shifted mapping remains **190→E188 through 196→E194**; target 197/E195 begins *Preparing for the Festival*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Attack Land family QA.

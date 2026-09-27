@@ -2,8 +2,8 @@
   "chapter": 235,
   "title": "Suspicion (2)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Suspicion",
     "range": [
@@ -11,8 +11,8 @@
       235
     ],
     "family_qa_path": "qa/families/suspicion-0234-0235.md",
-    "family_qa_sha": "adcfea42120b332df0d35779d70bada3b8d460cc",
-    "status": "pass"
+    "family_qa_sha": "636faf73643794e32e8a95b8f6941b65ad8fbe4c",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/235.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-233.xhtml",
     "english_reference_sha": "b73f84a7236f067fe65185ef1f99d4c25819d765",
     "draft_path": "manuscript/drafts/chapter-0235.md",
-    "draft_sha": "e75417c4f949daabbbafd9c9ca2f8320e1469ab8",
+    "draft_sha": "676b74b5878b2039b10b5da633f000951e0d13a1",
     "qa_path": "qa/chapter-0235.md",
-    "qa_sha": "a49211dc195183e300c00183f94b3f66dadee288",
+    "qa_sha": "f2898418f3a97c494202e70eb65c337b9926a47a",
     "provenance_path": "editorial/provenance/chapter-0235.json",
-    "provenance_sha": "11d756c6329b706f0cf875ef080da2ebce3ec408"
+    "provenance_sha": "e16b48eb722b2440b17a69a10161437d59b8ce1f"
   },
   "canonical_checks": [
     "Dolores L. Quovadis",
@@ -40,5 +40,12 @@
     "Night Hound inside Academy is slim possibility only.",
     "Vikir is not identified as Night Hound/Choco."
   ],
-  "next_family_alignment_note": "National University League targets236-244: 236→E234 through244→E242. Target245→E243 begins Survival Contest (1)."
+  "next_family_alignment_note": "National University League targets236-244: 236→E234 through244→E242. Target245→E243 begins Survival Contest (1).",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored death threat, blood-covered aftermath, and chin/neck scent-check contact"
+  }
 }

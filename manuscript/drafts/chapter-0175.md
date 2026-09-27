@@ -316,7 +316,7 @@ Dolores's face heated.
 
 “no one believes me.”
 
-She had repeatedly insisted that *she* had caused the accident.
+She had repeatedly insisted that *she* was the one who had wet herself.
 
 Everyone laughed.
 
@@ -344,7 +344,7 @@ Thank him.
 
 For the work at the orphanage.
 
-For taking the humiliation onto himself.
+For taking the **“diaper”** nickname and reputation onto himself.
 
 Yet—
 
@@ -354,7 +354,7 @@ anger returned.
 
 Because to Dolores—
 
-the Night Hound had become one of the noblest people she had ever known.
+the Night Hound was the most noble and sublime existence she had ever known in her life.
 
 “But…”
 

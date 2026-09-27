@@ -2,8 +2,8 @@
   "chapter": 90,
   "title": "The Ghosts of the Ancestors (1)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "The Ghosts of the Ancestors",
     "range": [
@@ -11,8 +11,8 @@
       94
     ],
     "family_qa_path": "qa/families/ghosts-ancestors-0090-0094.md",
-    "family_qa_sha": "707b090616f74e8eaf90a959cdde17d9683329e3",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "af352a71814db16c4072dc5afdee4fd51600f0ff",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/090.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0090.md",
     "qa_sha": "02b9b7b08fc364816697611fbdaf59391ea668eb",
     "provenance_path": "editorial/provenance/chapter-0090.json",
-    "provenance_sha": "2ea0e8429a9caf177656bee31f2c18565025a62d"
+    "provenance_sha": "935afe3694b2754784c845c505dd1be91bf55b5e"
   },
   "canonical_checks": [
     "Oxbear",
@@ -51,5 +51,12 @@
     "reviewed_date": "2026-09-20",
     "result": "rebuilt_and_passed",
     "family_evidence": "qa/families/ghosts-ancestors-0090-0094.md"
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged; rebound to refreshed family QA"
   }
 }

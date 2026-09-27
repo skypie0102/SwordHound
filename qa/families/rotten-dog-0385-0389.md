@@ -37,3 +37,21 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 385 was reread unchanged; the shared C385 source-container/closing-gap exception remains correctly scoped.
+- Chapter 386 restores Garam's recurring source-explicit degrading nickname as **Dog Who Eats Shit / shit-eating dog**.
+- Chapter 387 restores Kirko's **garbage / parasitize society** dehumanization, Pal's **blood tears, snot, and sweat** aftermath, and the scatological Garam nickname.
+- Chapter 388 was reread unchanged and retains the full riot-suppression brutality already present.
+- Chapter 389 restores **“A dog can't change its habit of eating shit”** and Vikir's source-negative **gloomy, oppressive** birthday-time framing.
+- Sanitization fidelity and completeness were rerun across Chapters 385–389 after repair.
+- Shared-source handling remains unchanged for targets 385–386; shifted mapping remains **385→E383, 386→E384, 387→E385, 388→E386, 389→E387**.
+- Target 390/E388 cleanly begins *The Worst Torture (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **The Worst Torture (390–395)**.

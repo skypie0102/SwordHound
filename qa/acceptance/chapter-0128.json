@@ -2,8 +2,8 @@
   "chapter": 128,
   "title": "Admission to the Academy (3)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Admission to the Academy",
     "range": [
@@ -11,8 +11,8 @@
       129
     ],
     "family_qa_path": "qa/families/admission-academy-0126-0129.md",
-    "family_qa_sha": "d1976d0ae2095d1c9234fdf5fb5f4de824bb9748",
-    "status": "pass"
+    "family_qa_sha": "422a0aa6361cee9efd8ee895b008d8d3797456d3",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/128.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0128.md",
     "qa_sha": "a89ddb71c07ec5bd93da2a9bc8567af622369919",
     "provenance_path": "editorial/provenance/chapter-0128.json",
-    "provenance_sha": "a5f7b6c72aa798b4de37dd127989f609dbb543e8"
+    "provenance_sha": "76f10c7d769a0ba5a1aa46868c41280d02581d29"
   },
   "canonical_checks": [
     "Pigi",
@@ -40,5 +40,12 @@
     "Pigi prior-life suffering is limited to source-present memory.",
     "Sinclaire uses canonical female identity despite witness pronoun drift.",
     "Target128 stops before Ron Bartison warehouse scene."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

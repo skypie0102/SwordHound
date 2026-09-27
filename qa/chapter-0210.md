@@ -19,3 +19,14 @@
 - PASS — comparison with Professor Sadi is retained as Bianca's closest reference point for that presence.
 - PASS — Corpse Queen appears physically around Bianca's age but remains unidentified.
 - PASS — Bianca retreats toward Ryukeion / Vikir after abandoning flyer duty.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved/revalidated 2026-09-27.** The queued defect is the more sexualized female-lead/nosebleed adults-only-comic comparison involving Academy-age characters. It remains safety-limited; the existing non-explicit comparison and all unrelated source content remain intact.
+
+The complete Festival Night family was reread. Mapping remains **206→E204 through 215→E213**; target **216→E214** begins *My Neck Will Be Your Sheath (1)*.
+
+## Phase-4 decision
+
+**EXCEPTION-DOCUMENTED at chapter level after safety-limited revalidation.** Final family acceptance is rebound through the refreshed Festival Night family QA.

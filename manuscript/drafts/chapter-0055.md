@@ -54,7 +54,7 @@ Colorful tattoos showed beneath his dark robe.
 
 A shaman.
 
-“Receive my blessing before you leave, or I'll curse the lot of you.”
+“Receive my blessing before you leave, or I'll ring the warning bell.”
 
 He smeared black ash across the hunters' faces.
 

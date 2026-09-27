@@ -325,7 +325,7 @@ Amdusias threw her aside like refuse.
 
 She hit the wreckage.
 
-Coughed blood.
+Coughed up blood and fragments of internal organs.
 
 The broken horn aimed at her.
 

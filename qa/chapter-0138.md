@@ -5,7 +5,7 @@
 
 ## Evidence
 - Chinese: `source/chinese/chapters/138.txt` — `6c3c9c144ed48c23b470eac433ee48a6ea89f25c`
-- Draft: `manuscript/drafts/chapter-0138.md` — `fc2d439fc5c2a83b76640d055bc1f41e5a467f57`
+- Draft: `manuscript/drafts/chapter-0138.md` — `9bc3efd6d212ac22e6ad3df3347e634617225fa7`
 - Boundary: C139 / E138 begin **Men are Power (1)**.
 
 ## Checks
@@ -19,3 +19,14 @@
 - PASS — Banshee accepts Sinclaire's classification as a plausible new academic contribution.
 - PASS — Vikir's deliberately minimal report says Venomphion is closer to B+ if one avoids the tail stinger and a second abdominal stinger.
 - PASS — chapter ends on Banshee's confusion over the **second stinger**, before target-139 explanation.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored the materially broader crowd/newspaper attraction and search reaction in non-explicit English, and restored the Venomphion tail-venom figure to exactly **44 people**.
+
+The complete Test Your Skills family was reread after remediation. Chapter 134 remains unchanged and passes both Cycle-2 content gates. Shifted mapping remains **133→E132 through 138→E137**; target 139/E138 begins *Men are Power (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Test Your Skills family QA.

@@ -142,9 +142,7 @@ Mockery.
 
 Fear.
 
-Sometimes—
-
-hunger.
+Even a corpse could be reduced to chunks of meat swallowed in a few bites.
 
 That—
 

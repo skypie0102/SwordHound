@@ -2,7 +2,7 @@
   "chapter": 319,
   "title": "Surplus Man (6)",
   "accepted": true,
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Surplus Man",
     "range": [
@@ -10,8 +10,8 @@
       320
     ],
     "family_qa_path": "qa/families/surplus-man-0314-0320.md",
-    "family_qa_sha": "a752f27d99e0be65f4143aed12695b0a4f05a386",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "cfa70c820f5f0717135e28f0a0e256d640343e09",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/319.txt",
@@ -23,7 +23,7 @@
     "qa_path": "qa/chapter-0319.md",
     "qa_sha": "c09e380b130e7a05d0fc09d705ace8f258f7805a",
     "provenance_path": "editorial/provenance/chapter-0319.json",
-    "provenance_sha": "86bbc02aa0d40db74aad556f246ab39cfa81ed28"
+    "provenance_sha": "19d3a691c58a8fca676ef7e2e89c9f49f73f5354"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
@@ -37,7 +37,7 @@
     "qa_sha": "0a664e58859d22558285de58e82334b6b2de92c7",
     "provenance_sha": "a80e4c7ee76c2087c6951c9a3359a74e047ab405"
   },
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "completeness_audit": {
     "reviewed_date": "2026-09-20",
     "result": "rebuilt_and_passed",
@@ -45,5 +45,12 @@
     "initial_priority_target": true,
     "confirmed_failure_resolved": true
   },
-  "failure_resolution": "Confirmed Daylily-fight/pooled-material/reward-sequence compression failure fully rebuilt."
+  "failure_resolution": "Confirmed Daylily-fight/pooled-material/reward-sequence compression failure fully rebuilt.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }

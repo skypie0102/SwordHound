@@ -9,8 +9,8 @@
       244
     ],
     "family_qa_path": "qa/families/national-university-league-0236-0244.md",
-    "family_qa_sha": "945621a0210a6019557abe52f3b83afb2c11b86e",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "ce33215a3f9e3fa718d7c3234749dfa9879df3b9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/238.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0238.md",
-    "blob_sha": "f639b479296207218076e89e28d2b0bfd6f76a43"
+    "blob_sha": "9b566ef6a190385b05a3d08b6c87a34783c84d51"
   },
   "qa": {
     "path": "qa/chapter-0238.md",
-    "blob_sha": "599397cbd4c64e42e3aa03761319ad17fb4a1594",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "275ee1b2afa0e3fef4a46ccd8b664cbd9b824f18",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -45,7 +45,7 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/245.txt",
     "chinese_sha": "afea866ef9d8266e2d34944b884659a4a07b5094",
@@ -64,5 +64,16 @@
     "result": "rebuilt_and_passed",
     "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
     "family_evidence": "qa/families/national-university-league-0236-0244.md"
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      236,
+      244
+    ],
+    "manuscript_changed": true,
+    "note": "restored active hand-wound bleeding and Granola's tearful/crying state"
   }
 }

@@ -234,7 +234,7 @@ He knew something about this barrier.
 
 Not from the present.
 
-From the previous timeline.
+From the previous timeline, when he had remained at the Academy as an escort and errand runner.
 
 Baskerville students—
 
@@ -449,7 +449,7 @@ appeared between them.
 >
 > A mutated giant form with vastly reinforced exoskeleton.  
 > Seen only in enormous nests or colonies left undisturbed for long periods.  
-> A single Soldier Ant can overpower vast numbers of ordinary Worker Ants.
+> A single Soldier Ant can contend with **more than one thousand ordinary Worker Ants**.
 
 Mandibles clicked.
 

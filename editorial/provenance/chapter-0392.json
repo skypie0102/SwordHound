@@ -9,8 +9,8 @@
       395
     ],
     "family_qa_path": "qa/families/worst-torture-0390-0395.md",
-    "family_qa_sha": "f486932b5c01bf79dcbe536eb187ac1c59d67ce5",
-    "status": "pass"
+    "family_qa_sha": "fa32cfb1e4d2d1d87dd5caff0c32f156477bf150",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/392.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0392.md",
-    "blob_sha": "faa3c85f9cb321affc003a5c16fd80c02401bc7e"
+    "blob_sha": "5ca07cc1ae85a29f96f5e6986ac0bebc5f4ad2e2"
   },
   "qa": {
     "path": "qa/chapter-0392.md",
-    "blob_sha": "89d1869015c2c8d05b06ff95b9e99acf367c6ae6",
-    "status": "pass"
+    "blob_sha": "bc2bf438c976e1c7bcae1bb6d5031a6610c74e7e",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      390,
+      395
+    ],
+    "manuscript_changed": true,
+    "note": "restored five-horse dismemberment and full fear-response wording; contamination/fake-plague context kept non-operational"
+  }
 }

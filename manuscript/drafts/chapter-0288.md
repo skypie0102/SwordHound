@@ -200,7 +200,7 @@ It resembled the feeling from the Dantalian battle.
 
 No time to analyze it.
 
-[DIE!]
+[DIE, YOU SCUM!]
 
 Belial attacked again.
 
@@ -408,7 +408,7 @@ Eight fangs tore through the air.
 
 BOOM!
 
-Belial screamed.
+Belial let out a horrifying, desperate death cry.
 
 Smoke swallowed his body.
 

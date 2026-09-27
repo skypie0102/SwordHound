@@ -2,8 +2,8 @@
   "chapter": 271,
   "title": "Rich Friends (2)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Rich Friends",
     "range": [
@@ -11,8 +11,8 @@
       272
     ],
     "family_qa_path": "qa/families/rich-friends-0270-0272.md",
-    "family_qa_sha": "40835cea0a3e53dc8d4db523fe458d303d8ca602",
-    "status": "pass"
+    "family_qa_sha": "1b732ea7ca7a1da7aebf0ec80643c48d2034afac",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/271.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-269.xhtml",
     "english_reference_sha": "8ab8f53a25ed85da48bbbf427448e0648dd4918b",
     "draft_path": "manuscript/drafts/chapter-0271.md",
-    "draft_sha": "9e8bd0aa398d14e98752835446b0868b43342ccb",
+    "draft_sha": "9f0b8ff3659dd6e669b23164e531e45558685dbd",
     "qa_path": "qa/chapter-0271.md",
-    "qa_sha": "fe9c645ee8854d45cd4406704e37bbdfba454da3",
+    "qa_sha": "12973953fc15c584de60222d727462b92f03d51c",
     "provenance_path": "editorial/provenance/chapter-0271.json",
-    "provenance_sha": "88912b72a2be20cb4eb5744a894fba27fdf00699"
+    "provenance_sha": "9e24b7f57242a174391c80a4a4c15163d6e06abc"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Money War outcome from target273 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored full flyer terms including one-week deadline and poster self-expiration"
+  }
 }

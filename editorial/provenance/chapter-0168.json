@@ -9,8 +9,8 @@
       169
     ],
     "family_qa_path": "qa/families/sin-punishment-0162-0169.md",
-    "family_qa_sha": "257738c85f7bbfcd020660ae16039ae173acbd3e",
-    "status": "pass"
+    "family_qa_sha": "7d3de1fac432b46b7b3187df56d3ce19a8de336d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/168.txt",
@@ -21,12 +21,12 @@
   "witness_gap": "No recovered-English witness for target168 in current sequence; do not shift E167 or E168 to fill it.",
   "draft": {
     "path": "manuscript/drafts/chapter-0168.md",
-    "blob_sha": "3d9cf8f688bba00454bdb4d05fb45a2fcbadda03"
+    "blob_sha": "0a63151ec34f72ddc098bced58a135ffa47b2805"
   },
   "qa": {
     "path": "qa/chapter-0168.md",
-    "blob_sha": "9d74608ffba761dbe1920b49a3f7aaef26cc7f95",
-    "status": "pass"
+    "blob_sha": "b2bfa4ebaeed8a3bd114c8777724cda4cdc662dd",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -51,12 +51,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-26",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/170.txt",
     "chinese_sha": "c9640b7a5382c780d05bf0aadd6363dc202a6793",
     "english_path": "source/chapters/chapter-168.xhtml",
     "english_sha": "d0304c953deb7cfcc8dd7b6eb7d0a1eab0f3be2b",
     "purpose": "both begin Adorable Pet (1), target170"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      162,
+      169
+    ],
+    "manuscript_changed": true,
+    "note": "restored whimpering puppies and body-and-mind union/euphoria wording"
   }
 }

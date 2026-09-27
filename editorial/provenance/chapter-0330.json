@@ -9,8 +9,8 @@
       330
     ],
     "family_qa_path": "qa/families/shadowless-king-black-sea-0326-0330.md",
-    "family_qa_sha": "04dd54bfd7eba8c8c852aed92ff2ec629cf7a578",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "516fe17093e0673dae9ef1540b53b5e9de18457a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/330.txt",
@@ -24,16 +24,16 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0330.md",
-    "blob_sha": "f770a68fd3bcf27e846253812a4d4266c53a541e"
+    "blob_sha": "6205e2c913eea1e0d84c1b8629a0a5e5b992a366"
   },
   "qa": {
     "path": "qa/chapter-0330.md",
-    "blob_sha": "dc1ef0c8b14e6588a30f9ea660dc302382cb799c",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "e25df6dda6c25699f35a67845ae6ad343fa0122b",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local deep-sea/tower forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "key_reveal": "S-rank Shadowless King is killed by Daylily gas-sac chain ignition; Impossible achievement granted.",
   "historical_acceptance": {
     "accepted": true,
@@ -48,5 +48,16 @@
     "family_evidence": "qa/families/shadowless-king-black-sea-0326-0330.md",
     "initial_priority_target": false
   },
-  "reward_guard": "A+ Majin and S-rank Shadowless King system recognitions remain separate."
+  "reward_guard": "A+ Majin and S-rank Shadowless King system recognitions remain separate.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      326,
+      330
+    ],
+    "manuscript_changed": true,
+    "note": "restored no-more-than-ten Sword Masters count, Baby Madam butt-line origin, and slow-roasting fate"
+  }
 }

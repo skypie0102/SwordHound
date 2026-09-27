@@ -9,8 +9,8 @@
       313
     ],
     "family_qa_path": "qa/families/hell-tree-0307-0313.md",
-    "family_qa_sha": "a986e8c3052a9d6bc03fc1347ec9611720429da9",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "389a7262b3b1e5268f23529e44d7dfa40d31b8b0",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/312.txt",
@@ -29,11 +29,11 @@
   "qa": {
     "path": "qa/chapter-0312.md",
     "blob_sha": "fc2d11b347837109b6ad53cf5088052db0df043d",
-    "status": "pass_after_completeness_rebuild"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/item forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "documented_corrections": [
     "Local Chinese regeneration wording is not allowed to overwrite accepted Immortality — Gargoyle (S) continuity."
   ],
@@ -49,5 +49,16 @@
     "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
     "family_evidence": "qa/families/hell-tree-0307-0313.md",
     "initial_priority_target": true
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      307,
+      313
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
   }
 }

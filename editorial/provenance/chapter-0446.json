@@ -9,8 +9,8 @@
       449
     ],
     "family_qa_path": "qa/families/fall-of-usher-0441-0449.md",
-    "family_qa_sha": "0e77f91190c5c40973d293e4c289065460185c47",
-    "status": "pass"
+    "family_qa_sha": "eb58813e9f65cf30b850a97a5f9639853f6af7fb",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/446.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0446.md",
-    "blob_sha": "c229bde0381b3d82eba45fa3ba3547573321edfc"
+    "blob_sha": "74aeb05bd2068162e08c593567578dbbd62a4d7f"
   },
   "qa": {
     "path": "qa/chapter-0446.md",
-    "blob_sha": "7580862deac8a24e1f2aa236e453abc2a58a5189",
-    "status": "pass"
+    "blob_sha": "aa33acb8a2ca85c9e4c9c85572d1a2e22e9e6512",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Fresh Fandom search indexing confirmed Andrealphus/Madeline Usher, Roderick Usher, Isolde Usher, Masyaf, and Love Shield where applicable. Direct page access remains robots-limited; unsupported local forms remain explicitly source-local.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "canonical_decision": "Isolde Usher is canonical Fandom name; older shifted-witness order 'Usher P. Isolde' rejected."
+  "accepted_date": "2026-09-27",
+  "canonical_decision": "Isolde Usher is canonical Fandom name; older shifted-witness order 'Usher P. Isolde' rejected.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      441,
+      449
+    ],
+    "manuscript_changed": true,
+    "note": "restored altered-history Sade death/strategist causality"
+  }
 }

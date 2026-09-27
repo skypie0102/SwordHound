@@ -9,8 +9,8 @@
       196
     ],
     "family_qa_path": "qa/families/attack-land-0190-0196.md",
-    "family_qa_sha": "8220b5dc193098d15d50cdaa603aece714a7702d",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "452f95fd219d05522abb26135f1312dadfa64253",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/192.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0192.md",
-    "blob_sha": "770b1c0f1df669cf40a429b538ce73c3a470bdfb"
+    "blob_sha": "36f7488c32f5927b1f1a0d6ba087da2a51f16666"
   },
   "qa": {
     "path": "qa/chapter-0192.md",
-    "blob_sha": "66d1b0b6f1fa5f81b79ba5af7f76a39f410ed747",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "6889eb39ca2e4de217c433d772bb90e7c720ca7c",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,7 +55,7 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/197.txt",
     "chinese_sha": "38fc85cf2f23fa3794346eb2016bb9804e4d7b8a",
@@ -82,5 +82,16 @@
       "source/chinese/chapters/193.txt",
       "source/chapters/chapter-190.xhtml"
     ]
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      190,
+      196
+    ],
+    "manuscript_changed": true,
+    "note": "restored all-ribs-broken extent with internal-organ injury"
   }
 }

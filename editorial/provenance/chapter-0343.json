@@ -9,8 +9,8 @@
       347
     ],
     "family_qa_path": "qa/families/ballak-0343-0347.md",
-    "family_qa_sha": "23dd10c41cdfda4f929c7754c3d061e87c34dfe3",
-    "status": "pass"
+    "family_qa_sha": "53911e189ba3a72e0c32674c9e1d3ca985c6ebda",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/343.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0343.md",
-    "blob_sha": "98732921a4956672f343f1378d9549c049cfa026"
+    "blob_sha": "49d6e7947aeba5277fad826b597a6d3c9006119c"
   },
   "qa": {
     "path": "qa/chapter-0343.md",
-    "blob_sha": "14bfb49f191dae9c5cf1b885945699a35550d90e",
-    "status": "pass"
+    "blob_sha": "c0c6800a84e00853cc7e60e447a0089ba5de6e43",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established project glossary forms were reused and no source-local form was falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "documented_correction": "Local Chinese Basilisk-regeneration wording is not promoted over accepted Beelzebub Slot2 Immortality — Gargoyle (S); production keeps the recovery wording non-conflicting."
+  "accepted_date": "2026-09-27",
+  "documented_correction": "Local Chinese Basilisk-regeneration wording is not promoted over accepted Beelzebub Slot2 Immortality — Gargoyle (S); production keeps the recovery wording non-conflicting.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      343,
+      347
+    ],
+    "manuscript_changed": true,
+    "note": "restored almost-naked animal-skin/leaf state and explicit broken wrist"
+  }
 }

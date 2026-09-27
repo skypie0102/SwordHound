@@ -254,7 +254,7 @@ They were too weak.
 
 Too fragile.
 
-Many died within one year.
+Many died within one year—like short-lived insects.
 
 And to them—
 

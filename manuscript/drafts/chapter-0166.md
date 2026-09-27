@@ -84,6 +84,8 @@ Dantalian backed away—
 
 holding an abdomen reduced almost to rags.
 
+Blood, chunks of flesh, and fragments of internal organs spilled out and spread across the floor like asphalt.
+
 [Impossible!]
 
 [A human who has never loved anyone in his entire life!?]
@@ -120,9 +122,7 @@ was **Vikir Van Baskerville** in his previous life.
 
 The Age of Destruction had only made it worse.
 
-Hundreds of battles.
-
-Countless brushes with death.
+More than five hundred brushes with death.
 
 A world in which everything disappeared eventually.
 
@@ -194,7 +194,13 @@ Standing alone at a distance no one else could yet see.
 
 Tears warmed Dolores's eyes.
 
-She wanted to stand behind him.
+She wanted to embrace his wounded soul.
+
+To hold tightly to the feet cut by thorns.
+
+To take the hands scarred by blades in her own.
+
+To stand behind him.
 
 No.
 
@@ -208,7 +214,7 @@ Support him.
 
 Like the old stories of a priest traveling beside a hero on a Demon King subjugation.
 
-She wanted to tell him—
+And tell him—
 
 *you are not alone.*
 

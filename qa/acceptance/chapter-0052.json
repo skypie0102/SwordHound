@@ -2,8 +2,8 @@
   "chapter": 52,
   "title": "Slaves of the Savage Tribe (1)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_fandom_canonical",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase4",
   "title_family": {
     "name": "Slaves of the Savage Tribe",
     "range": [
@@ -11,7 +11,7 @@
       54
     ],
     "family_qa_path": "qa/families/slaves-savage-tribe-0052-0054.md",
-    "family_qa_sha": "ddde14abfe993392e9ea56dbfdb6f8e416896878",
+    "family_qa_sha": "4e50b641edc188aa9fc958a8b627910ed637a09c",
     "status": "pass"
   },
   "evidence": {
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-052.xhtml",
     "english_reference_sha": "bfb4389c3f6342b2426691d03ea07af21e3c30cf",
     "draft_path": "manuscript/drafts/chapter-0052.md",
-    "draft_sha": "55c7ca51c4886c8b70ccb4121b341155f8362886",
+    "draft_sha": "2362b01b00650b2debfb9e4bbf50250197637bb0",
     "qa_path": "qa/chapter-0052.md",
-    "qa_sha": "081f4684327d130cd87dcb20db5f13b298e8e752",
+    "qa_sha": "8fa90d057e51c40a54e2682b343b3783ec19510f",
     "provenance_path": "editorial/provenance/chapter-0052.json",
-    "provenance_sha": "7ac8c70900a00d99eb4b196ad12abed38e881b68"
+    "provenance_sha": "d92575086fe03eb73ac3385afc68c6d57a0337cb"
   },
   "canonical_checks": [
     "Ballak Tribe",
@@ -42,5 +42,12 @@
     "The Thorn-Tree Punishment remains explicit and source-descriptive rather than promoted as a canonical proper noun.",
     "Aiyen's bathing/nudity is retained only at the source's nonsexual level.",
     "Target 55 is not English-only: most of its body overlaps inside physical 054.txt; E55 supplies the missing opening/title boundary."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored source-explicit rib-fragment penetration into internal organs"
+  }
 }

@@ -2,16 +2,48 @@
   "chapter": 37,
   "title": "Slave Auction (3)",
   "accepted": true,
-  "accepted_date": "2026-09-17",
-  "review_mode": "chinese_primary_fandom_canonical",
-  "title_family": {"name":"Slave Auction","range":[35,37],"family_qa_path":"qa/families/slave-auction-0035-0037.md","family_qa_sha":"cf32e938cae2abdd3cc1892463b5edaf56b9ffba","status":"pass"},
-  "evidence": {
-    "primary_source_path":"source/chinese/chapters/037.txt","primary_source_sha":"fab7c365f52addab267414058f52bd31ba9515cb",
-    "english_reference_path":"source/chapters/chapter-037.xhtml","english_reference_sha":"ad9f97b0e15250e7cf96f301b0aa28c58a58796c",
-    "draft_path":"manuscript/drafts/chapter-0037.md","draft_sha":"bfd323d93a26d6307cf699779e22c519b227075c",
-    "qa_path":"qa/chapter-0037.md","qa_sha":"4de71f1c48bf06f2546367ed3306d13a6c1f6762",
-    "provenance_path":"editorial/provenance/chapter-0037.json","provenance_sha":"d70661435491c9711083740e26ae9d8d698a1051"
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase4",
+  "title_family": {
+    "name": "Slave Auction",
+    "range": [
+      35,
+      37
+    ],
+    "family_qa_path": "qa/families/slave-auction-0035-0037.md",
+    "family_qa_sha": "273889a0456685494cd0ce03c478d48f4ca1dc22",
+    "status": "pass"
   },
-  "canonical_checks": ["Boston Terrier Le Baskerville","Count","Pit Bull Knights","Sword Graduator","Aiyen identity withheld","Infernal Buffalo Murcielago source/aligned witness"],
-  "documented_limits": ["The tribal girl's later Fandom identity is intentionally withheld because Chinese Ch.35-37 does not reveal it.","Murcielago exact form is Chinese/transliteration plus aligned English, not asserted as a dedicated Fandom entry.","The wooden-fighting-cock phrase is descriptive source idiom, not promoted as a named technique."]
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/037.txt",
+    "primary_source_sha": "fab7c365f52addab267414058f52bd31ba9515cb",
+    "english_reference_path": "source/chapters/chapter-037.xhtml",
+    "english_reference_sha": "ad9f97b0e15250e7cf96f301b0aa28c58a58796c",
+    "draft_path": "manuscript/drafts/chapter-0037.md",
+    "draft_sha": "4dc4c20f894b7ff72a93f44bc05c20bb815bbea7",
+    "qa_path": "qa/chapter-0037.md",
+    "qa_sha": "0c1f8506542d0732d24e9234ea17eeb60491d9d4",
+    "provenance_path": "editorial/provenance/chapter-0037.json",
+    "provenance_sha": "8730befe38e6c3ddcfecf3bdfd7135c8a474dcb0"
+  },
+  "canonical_checks": [
+    "Boston Terrier Le Baskerville",
+    "Count",
+    "Pit Bull Knights",
+    "Sword Graduator",
+    "Aiyen identity withheld",
+    "Infernal Buffalo Murcielago source/aligned witness"
+  ],
+  "documented_limits": [
+    "The tribal girl's later Fandom identity is intentionally withheld because Chinese Ch.35-37 does not reveal it.",
+    "Murcielago exact form is Chinese/transliteration plus aligned English, not asserted as a dedicated Fandom entry.",
+    "The wooden-fighting-cock phrase is descriptive source idiom, not promoted as a named technique."
+  ],
+  "prior_accepted_date": "2026-09-17",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored explicit internal-organ spill"
+  }
 }

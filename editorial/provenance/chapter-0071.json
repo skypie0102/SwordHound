@@ -9,7 +9,7 @@
       71
     ],
     "family_qa_path": "qa/families/blood-relatives-0068-0071.md",
-    "family_qa_sha": "2b67aae2f051e09387447bd5503e5433b8d8a3bc",
+    "family_qa_sha": "847319fb4a4bd148e80c2915fddb0de0b8be5e75",
     "status": "pass"
   },
   "primary_source": {
@@ -82,11 +82,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0071.md",
-    "blob_sha": "1921fcb4fffd7e964d4f0f4c5542ae494cf81a16"
+    "blob_sha": "0a6f93f5277ce6da7e4f0b5411c853303af9988d"
   },
   "qa": {
     "path": "qa/chapter-0071.md",
-    "blob_sha": "efa244d6ddc5dc9a04649861ebd0650db5a9d5dd",
+    "blob_sha": "26f949793a5e0b8c66f2c20bcd7c8f375d185335",
     "status": "pass"
   },
   "documented_decisions": [
@@ -117,5 +117,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      68,
+      71
+    ],
+    "manuscript_changed": true,
+    "note": "restored Hugo's male-descendant combat preference and child-as-combat-tool characterization"
+  }
 }

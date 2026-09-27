@@ -200,7 +200,7 @@ Pigi began counting.
 
 “Singing.”
 
-“Raising exceptional beetles…”
+“Raising exceptional grasshoppers…”
 
 “There’ve been even more lately.”
 
@@ -256,7 +256,7 @@ He even kept track of the latest news about important people.
 
 Apparently—
 
-he had also won several insect-raising competitions.
+he had also won several outstanding earthworm-breeding competitions.
 
 *If Cindywendy saw him, she’d recruit him immediately.*
 
