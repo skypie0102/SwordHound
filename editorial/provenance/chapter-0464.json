@@ -9,8 +9,8 @@
       464
     ],
     "family_qa_path": "qa/families/infiltration-water-source-0454-0464.md",
-    "family_qa_sha": "95b46b995f843a4467756c139716f759468af4ad",
-    "status": "pass"
+    "family_qa_sha": "bbb073de678ceaf62268d2d5c0a853937007fa6a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/464.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0464.md",
-    "blob_sha": "d4c396706ecb5ca2b1c3b79e76f30c6181927578"
+    "blob_sha": "8c355f549b2394f526105a2f94f0f440e32dfa8e"
   },
   "qa": {
     "path": "qa/chapter-0464.md",
-    "blob_sha": "b90aea6e9ba352200bdcb21f3808776c3c99df89",
-    "status": "pass"
+    "blob_sha": "ef6fca0a3f93aa16e7a82012ebac3cba52a9a2a1",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; indexed Fandom evidence and established glossary forms used.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "boundary_guard": "Family closes on Tochka counterattack beginning; target465 starts The Prelude to a Counterattack."
+  "accepted_date": "2026-09-27",
+  "boundary_guard": "Family closes on Tochka counterattack beginning; target465 starts The Prelude to a Counterattack.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      454,
+      464
+    ],
+    "manuscript_changed": true,
+    "note": "restored meat-slice gore and Lieutenant Bastney command continuity"
+  }
 }
