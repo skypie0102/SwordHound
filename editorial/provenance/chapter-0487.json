@@ -9,8 +9,8 @@
       489
     ],
     "family_qa_path": "qa/families/marquis-discord-0483-0489.md",
-    "family_qa_sha": "c66f9e824e177b7b080755602464194b71d1756b",
-    "status": "pass"
+    "family_qa_sha": "e2fdcab9b47fb4998933f7d1c825fe9193dc3628",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/487.txt",
@@ -29,9 +29,20 @@
   "qa": {
     "path": "qa/chapter-0487.md",
     "blob_sha": "8db3facf849afb22ca5eb8f0bdf3e2097eb58e15",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom page access remained robots-blocked; established glossary/indexed forms were reused and new source-local forms were not falsely presented as freshly wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-28",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-28",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      483,
+      489
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
