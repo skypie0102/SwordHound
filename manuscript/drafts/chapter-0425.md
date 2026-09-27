@@ -206,13 +206,15 @@ She leaned closer and whispered so only Lolita could hear.
 
 “Don’t be stingy with divine power.”
 
-“Use everything you can.”
+“Use as much as you can.”
 
 “That person will pay it all back for us.”
 
 “In a crisis like this—
 
-think of it as a low-interest loan.”
+that’s my advice.”
+
+Dolores had learned quite a lot from the Old Testament priests.
 
 Lolita stared.
 
