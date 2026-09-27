@@ -68,7 +68,7 @@ And there were more than twenty Commoner Faction students nearby.
 
 “If you refuse to cooperate—
 
-we'll cut off your hands.”
+we'll cut off your hand.”
 
 The commoner students gathered quickly.
 
