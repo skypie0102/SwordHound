@@ -15,6 +15,8 @@ Phase 4 remediation and evidence rebinding is formally complete.
 - tracker entries present: **500 / 500**;
 - tracker acceptance-SHA mismatches: **0**;
 - closure checkpoint: `qa/cycle2-phase4-checkpoint-0500.md`;
+- Phase-4 integration PR: **#151 MERGED**;
+- Phase-4 integration merge commit: `7cc7f9e6c537ff25030c814ea3231948723f2db3`;
 - next stage: **Phase 5 — independent residual verification and consistency sweep**;
 - complete-EPUB assembly remains blocked until Phases 5 and 6 close.
 
