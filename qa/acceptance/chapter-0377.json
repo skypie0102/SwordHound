@@ -2,8 +2,8 @@
   "chapter": 377,
   "title": "The Hounds of Nouvelle Vague (1)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Hounds of Nouvelle Vague",
     "range": [
@@ -11,8 +11,8 @@
       381
     ],
     "family_qa_path": "qa/families/hounds-nouvelle-vague-0377-0381.md",
-    "family_qa_sha": "1b62fe323e66c7b1b144a1ad67b2d3a3badf8c4e",
-    "status": "pass"
+    "family_qa_sha": "853ebd96582ef5f8aa874a73a37d70ad32d8f662",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/377.txt",
@@ -20,13 +20,20 @@
     "english_reference_path": "source/chapters/chapter-375.xhtml",
     "english_reference_sha": "2f00783281b2a762f3bac69f21c7a3cbd9edb44d",
     "draft_path": "manuscript/drafts/chapter-0377.md",
-    "draft_sha": "1c4f978fb6587c396e27ee25939b64031860cd80",
+    "draft_sha": "b1fea486b49b53fbcbe6ea3931f7c7503b05a288",
     "qa_path": "qa/chapter-0377.md",
-    "qa_sha": "bcf80334a739bd5ab5d9b75713f0c5d816127f1e",
+    "qa_sha": "7927d334ddba70b6923d882e5b338658178794cb",
     "provenance_path": "editorial/provenance/chapter-0377.json",
-    "provenance_sha": "13903ad01cf416250e5ed1b82517a26e4da93158"
+    "provenance_sha": "c530b7c2d1068a7a2866fd60692125aa38a197ef"
   },
   "documented_limits": [
     "No Kennel-family material from target382 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored short-lived-insects comparison for frail Level-One prisoners"
+  }
 }
