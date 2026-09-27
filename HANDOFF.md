@@ -11,7 +11,7 @@
 **Cycle-2 completeness revalidated:** 500 / 500 — Phase 2 COMPLETE — 229 PASS / 271 FAIL
 **Cycle-2 boundary/alignment revalidated:** 500 / 500 — 53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED across 118 / 118 families  
 **Confirmed Cycle-2 failures:** 200 Phase-1 sanitization FAIL chapters plus 271 Phase-2 completeness FAIL chapters; 198 completeness failures overlap Phase-1 FAILs and 73 are additions beyond the Phase-1 FAIL queue (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499), for 273 unique remediation chapters; remediation deferred to Phase 4
-**Current audit stage:** Phase 4 ACTIVE — 55 affected families complete through Surplus Man (314–320); 162/273 remediation chapters complete; next affected family Underdogma (321–325)
+**Current audit stage:** Phase 4 ACTIVE — 56 affected families complete through Underdogma (321–325); 165/273 remediation chapters complete; next affected family The Shadowless King of the Black Sea (326–330)
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -161,21 +161,21 @@ Phase 4 is now active. **Camus Morgue (20–25)** has been completed as the firs
 
 ## Phase 4 progress
 
-- Completed affected families: **55**
-- Remediation chapters complete: **162 / 273**
-- Remaining remediation chapters: **111**
-- Phase-4 manuscript edits: **161**
-- Last completed affected family: **Surplus Man (314–320)**
-- Latest repaired chapters: **316, 318, 320**
-- Next affected family: **Underdogma (321–325)**
-- Earliest remaining remediation target: **322**
+- Completed affected families: **56**
+- Remediation chapters complete: **165 / 273**
+- Remaining remediation chapters: **108**
+- Phase-4 manuscript edits: **164**
+- Last completed affected family: **Underdogma (321–325)**
+- Latest repaired chapters: **322, 323, 325**
+- Next affected family: **The Shadowless King of the Black Sea (326–330)**
+- Earliest remaining remediation target: **326**
 - Both original Phase-3 structural failures (**273, 283**) remain resolved
 - EPUB assembly remains blocked
 
 ## Exact next actions
 
-1. Continue **Phase 4** with **Underdogma (321–325)**.
+1. Continue **Phase 4** with **The Shadowless King of the Black Sea (326–330)**.
 2. Reread the complete family against Chinese-primary sources and shifted English witnesses.
-3. Repair queued Chapters **322, 323, and 325**, then rerun both primary content gates across the family.
+3. Repair queued Chapters **326, 329, and 330**, then rerun both primary content gates across the family.
 4. Refresh chapter QA, family QA, provenance, acceptance, tracker, Cycle-2 ledger, and live docs before advancing.
 5. Keep EPUB assembly blocked until Phases 4–6 close.
