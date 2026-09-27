@@ -488,7 +488,7 @@ something appeared inside the void.
 
 A reservoir.
 
-A cloud containing more water than any world should hold.
+A cloud containing an amount of water equal to **140 trillion times all the water on Earth**.
 
 A vast fish—
 
