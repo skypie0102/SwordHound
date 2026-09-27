@@ -2,8 +2,8 @@
   "chapter": 338,
   "title": "The Mating Room (6)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "The Mating Room",
     "range": [
@@ -11,8 +11,8 @@
       338
     ],
     "family_qa_path": "qa/families/mating-room-0333-0338.md",
-    "family_qa_sha": "e76eff1e4193a6be648f650676db6dad0b8ed1a6",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "4ccd61a7352714147307affbe17e80ab7058b867",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/338.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0338.md",
     "qa_sha": "a7a2a0b9f76d4750a09f62d9774789bc37236620",
     "provenance_path": "editorial/provenance/chapter-0338.json",
-    "provenance_sha": "99ad118bc3973d9f6904e4320650da9b38836bf5"
+    "provenance_sha": "86701b5dffeaae61fbdb202cc5affa5c518d679d"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
@@ -47,5 +47,12 @@
     "family_evidence": "qa/families/mating-room-0333-0338.md",
     "initial_priority_target": false
   },
-  "regeneration_note": "Use Immortality — Gargoyle (S); local Basilisk drift rejected."
+  "regeneration_note": "Use Immortality — Gargoyle (S); local Basilisk drift rejected.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
