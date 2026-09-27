@@ -9,8 +9,8 @@
       313
     ],
     "family_qa_path": "qa/families/hell-tree-0307-0313.md",
-    "family_qa_sha": "a986e8c3052a9d6bc03fc1347ec9611720429da9",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "389a7262b3b1e5268f23529e44d7dfa40d31b8b0",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/307.txt",
@@ -24,16 +24,16 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0307.md",
-    "blob_sha": "2c307403e3c96e63e39a87147de64da5255aa335"
+    "blob_sha": "4a92db8b031fe88042acaaf47d45def2abdbe01a"
   },
   "qa": {
     "path": "qa/chapter-0307.md",
-    "blob_sha": "9ddc4dead4a467e6be06be4e35ff623d606bbc3f",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "c1f0fb32ad8fc50b7a95e8e49c1842fe73f13f32",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/item forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "historical_acceptance": {
     "accepted": true,
     "accepted_date": "2026-09-19",
@@ -46,5 +46,16 @@
     "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
     "family_evidence": "qa/families/hell-tree-0307-0313.md",
     "initial_priority_target": true
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      307,
+      313
+    ],
+    "manuscript_changed": true,
+    "note": "restored Camus childhood-friend/first-love strange-tree and nameless-old-books provenance"
   }
 }
