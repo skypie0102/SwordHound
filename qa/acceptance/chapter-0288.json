@@ -2,8 +2,8 @@
   "chapter": 288,
   "title": "Power Inflation (6)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Power Inflation",
     "range": [
@@ -11,8 +11,8 @@
       290
     ],
     "family_qa_path": "qa/families/power-inflation-0283-0290.md",
-    "family_qa_sha": "78ddf6929302c374c314a92bce47d49d262f96b3",
-    "status": "pass"
+    "family_qa_sha": "a73a5c489bd327a448d1b07e98682677ec0445a4",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/288.txt",
@@ -20,15 +20,22 @@
     "english_reference_path": "source/chapters/chapter-286.xhtml",
     "english_reference_sha": "ad0d183d8b8faa819745522dacb9b0df40bd86fc",
     "draft_path": "manuscript/drafts/chapter-0288.md",
-    "draft_sha": "291778fe4156e5bbaef3905d0013797079b70721",
+    "draft_sha": "b0aba5393b1831908c1acab2b08e541be09fcd41",
     "qa_path": "qa/chapter-0288.md",
-    "qa_sha": "cc0bb9bbb7efb4235b94c43ace18cfc3cf54e35a",
+    "qa_sha": "f7920983b054d4892322eebd94b3f42212bbf454",
     "provenance_path": "editorial/provenance/chapter-0288.json",
-    "provenance_sha": "958cfa07bad720d9fa6d5db7028ac109eed10c89"
+    "provenance_sha": "d5fead2262e6b54cc6d5e715c80750d35ec39fec"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
     "No The Successors material from target291 is imported."
   ],
-  "reveal_guard": "Dolores hears only the fragment 'Van'; do not expand to Vikir's full identity."
+  "reveal_guard": "Dolores hears only the fragment 'Van'; do not expand to Vikir's full identity.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored degrading scum insult and desperate death-cry force"
+  }
 }
