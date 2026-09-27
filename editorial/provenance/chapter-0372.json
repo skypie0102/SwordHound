@@ -9,8 +9,8 @@
       372
     ],
     "family_qa_path": "qa/families/solitary-confinement-0371-0372.md",
-    "family_qa_sha": "3077e0ce3a79de134d23b9bf8bc80cbe4983e4bc",
-    "status": "pass"
+    "family_qa_sha": "9ea9d7e5ae7dc232b98d0edc6c2de12c40256148",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/372.txt",
@@ -29,9 +29,20 @@
   "qa": {
     "path": "qa/chapter-0372.md",
     "blob_sha": "9ff9e7ab53b46de354dc196f0b77fa112cfb6aa5",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Souaré confirmed by designated Fandom index; no accessible Angajuman canonical page found. Alias retained; true identity guarded.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      371,
+      372
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
