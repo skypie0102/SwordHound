@@ -9,8 +9,8 @@
       398
     ],
     "family_qa_path": "qa/families/dead-man-walking-0396-0398.md",
-    "family_qa_sha": "45ec5003f1c8edd972f57c7039665348814d5a4c",
-    "status": "pass"
+    "family_qa_sha": "52bf167acb1086d43c17d34c747f570e29e9329c",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/397.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0397.md",
-    "blob_sha": "6b4ac9950456e83652b7c0becf817e0a276f8d02"
+    "blob_sha": "d9612e6d9e0e1ffd1cfd3b2e1246880bf62b9c60"
   },
   "qa": {
     "path": "qa/chapter-0397.md",
-    "blob_sha": "da0f2b24c2a1a2df8468cb0d95f7418385e52156",
-    "status": "pass"
+    "blob_sha": "e0a0f93179a60d3f77f1a68805eb677d2f2890b7",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "terminology_guard": "Brigadier General Flubber is the ancient Warden; Flubber is also the separate mucus/barrier substance produced by the creature."
+  "accepted_date": "2026-09-27",
+  "terminology_guard": "Brigadier General Flubber is the ancient Warden; Flubber is also the separate mucus/barrier substance produced by the creature.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      396,
+      398
+    ],
+    "manuscript_changed": true,
+    "note": "restored cavern-filling terror effect and fresh, wriggling piece-of-meat body-horror image"
+  }
 }
