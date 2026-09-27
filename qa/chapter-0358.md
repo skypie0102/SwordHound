@@ -19,3 +19,14 @@
 - PASS — Vikir distributes survival-preparation instructions: food stores, high-ground fortification, migration, final refuge/Tochka, then sends Picaresque Mask to Camus.
 - PASS — Family closes on the Age-of-Destruction warning: a great flood is coming; 'Prepare the ark.'
 - LIMIT — designated Fandom remains robots-blocked; established glossary canon is reused while source-local forms remain explicitly unverified.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Complete-family reread passed unchanged; flood/ark warning, relationship-ring correction, visitation structure, and transfer setup remain complete.
+
+The complete Crime and Punishment family was reread after remediation. Shifted mapping remains **356→E354, 357→E355, 358→E356**; target 359/E357 begins *Voluntary Escort (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Crime and Punishment family QA.
