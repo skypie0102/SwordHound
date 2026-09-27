@@ -9,8 +9,8 @@
       340
     ],
     "family_qa_path": "qa/families/trap-0339-0340.md",
-    "family_qa_sha": "2e975d71a8a9f2f4ca5eb694d9dd8beef90a29eb",
-    "status": "pass"
+    "family_qa_sha": "c44d34273daedc8025d48da8eb4c1ca478fafddd",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/339.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0339.md",
-    "blob_sha": "b6d7ed0453aee8b933ecefb175db6e083607070c"
+    "blob_sha": "26bf4fae0302fe558ee3c146bc76a36e1badc700"
   },
   "qa": {
     "path": "qa/chapter-0339.md",
-    "blob_sha": "9c1750c30daa6342255663152ccf8a06c17cd39d",
-    "status": "pass"
+    "blob_sha": "d6ea34fdbfba6e32d7d6aea553087f804849c5cc",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      339,
+      340
+    ],
+    "manuscript_changed": true,
+    "note": "restored explicit no-clothes/naked-skin waking state without erotic embellishment"
+  }
 }
