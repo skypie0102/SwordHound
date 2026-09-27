@@ -352,7 +352,9 @@ Leaves.
 
 The **Wraith Tree**.
 
-An ancient black-magic artifact associated with the legendary Morgue ancestor **Tzersi**.
+An ancient artifact Vikir had found in the **Grave of Spears**—
+
+one of the few relics left by the legendary black magician **Morgue Tzersi**.
 
 *So this is what it can really do.*
 
@@ -458,11 +460,7 @@ Damien knelt.
 
 “Daughter…”
 
-“I ignored what you wanted.”
-
-“I forced my own choices on you.”
-
-“I had no right.”
+“This incompetent father ignored what you wanted over a trivial reason and forced his own choices on you.”
 
 “You never have to forgive me.”
 
@@ -576,9 +574,9 @@ Damien’s face collapsed.
 
 “My son-in-law is about to leave forever!”
 
-“You’re the one who had him beaten.”
+“You killed him, and you’re blaming me?”
 
-“Don’t complain to me.”
+Damien’s mouth opened.
 
 Damien’s mouth opened.
 
