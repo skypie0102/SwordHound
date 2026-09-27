@@ -16,7 +16,7 @@ Tudor’s spear left clean wounds through heads and hearts.
 
 By the end—
 
-the battlefield had become a ruin of shattered bodies.
+the corpses showed burst internal organs amid the shattered bodies.
 
 The one-armed **Knight of the Night** sat on a corpse and breathed heavily.
 
@@ -250,6 +250,10 @@ Weakness did not automatically make someone kind.
 
 Reality was uglier than chivalric stories.
 
+It was not the strong who survived.
+
+Those who survived became stronger.
+
 He remembered an old line attributed to **Donquixote La Mancha Alonso Quijano**—
 
 the distant ancestor of his House.
@@ -289,6 +293,8 @@ Tudor stared.
 In this age—
 
 clean water and herbs were precious.
+
+His throat tightened with emotion.
 
 “Can you really give this away?”
 
