@@ -114,7 +114,7 @@ Lowbro—
 
 An official Sword Master.
 
-One of fewer than a handful publicly acknowledged across the Empire.
+According to official records, one of no more than ten across the entire Empire.
 
 Inside Baskerville—
 
@@ -376,7 +376,7 @@ As much as possible.
 
 The triplets were ready.
 
-A strand of **Baby Madam's silk** already connected Vikir's waist to shore.
+A strand extending from **Baby Madam's butt** already connected Vikir's waist to shore.
 
 Highbro pulled.
 
@@ -454,9 +454,9 @@ The Shadowless King tried to sink.
 
 Remaining air sacs kept it trapped at the surface.
 
-It could only burn—
+It could only be slowly roasted—
 
-exposed beneath the sky.
+exposed in the poison and fire above the surface.
 
 Vikir sat some distance away—
 
