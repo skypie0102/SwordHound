@@ -17,3 +17,14 @@
 - PASS — Decarabia provides shared vision, revealing the giant seaweed forest and ancient prison fortress.
 - PASS — Family ends with Nouvelle Vague itself coming into view; no Ghost Castle interior material is imported.
 - LIMIT — designated Fandom remains robots-blocked; established glossary canon is reused while source-local names/forms remain explicitly unverified.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Complete-family reread passed unchanged; Iron Maiden, deep-sea descent, oxygen behavior, Decarabia vision, and Nouvelle Vague reveal remain complete.
+
+The complete Voluntary Escort family was reread after remediation. Shifted mapping remains **359→E357, 360→E358, 361→E359, 362→E360**; target 363/E361 begins *Ghost Castle of the Ultra-Deep Sea (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Voluntary Escort family QA.
