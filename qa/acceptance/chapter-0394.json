@@ -2,8 +2,8 @@
   "chapter": 394,
   "title": "The Worst Torture (5)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Worst Torture",
     "range": [
@@ -11,8 +11,8 @@
       395
     ],
     "family_qa_path": "qa/families/worst-torture-0390-0395.md",
-    "family_qa_sha": "f486932b5c01bf79dcbe536eb187ac1c59d67ce5",
-    "status": "pass"
+    "family_qa_sha": "fa32cfb1e4d2d1d87dd5caff0c32f156477bf150",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/394.txt",
@@ -20,15 +20,22 @@
     "english_reference_path": "source/chapters/chapter-392.xhtml",
     "english_reference_sha": "0eb8a7b257bdbb2a267f1c01404df70f5eec381f",
     "draft_path": "manuscript/drafts/chapter-0394.md",
-    "draft_sha": "59009d9420560abd9d49fcb125f334361d67be77",
+    "draft_sha": "5b333276fef85a4fcd121870ab0cc9bffb31f2e4",
     "qa_path": "qa/chapter-0394.md",
-    "qa_sha": "f487838414a17cb617aabf32bc792a19e16f74d1",
+    "qa_sha": "c9cfc0b1cf9126632fb6e63e3eeee026db417e5d",
     "provenance_path": "editorial/provenance/chapter-0394.json",
-    "provenance_sha": "63905a728d0096bf0bcac4e5986225fac81104c4"
+    "provenance_sha": "a39cb6afd4f5abe5cd48041f2c1601a6ef2dac8d"
   },
   "documented_limits": [
     "Direct Fandom re-check remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
     "No Dead Man Walking material from target396 is imported."
   ],
-  "reveal_guard": "The Queen-sent-me story is knowingly fabricated by Vikir from real clues."
+  "reveal_guard": "The Queen-sent-me story is knowingly fabricated by Vikir from real clues.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored torture/beatings plus solitary-confinement wording"
+  }
 }
