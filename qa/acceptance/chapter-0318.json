@@ -2,8 +2,8 @@
   "chapter": 318,
   "title": "Surplus Man (5)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Surplus Man",
     "range": [
@@ -11,8 +11,8 @@
       320
     ],
     "family_qa_path": "qa/families/surplus-man-0314-0320.md",
-    "family_qa_sha": "a752f27d99e0be65f4143aed12695b0a4f05a386",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "cfa70c820f5f0717135e28f0a0e256d640343e09",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/318.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-316.xhtml",
     "english_reference_sha": "98b96618af4078a444a20820c8bfa93e8bf5211c",
     "draft_path": "manuscript/drafts/chapter-0318.md",
-    "draft_sha": "ed56507739adc402ac458c8265b2c65ef4f9d0b7",
+    "draft_sha": "88dd57e091f170a93b87c7f69d632eee69f57d75",
     "qa_path": "qa/chapter-0318.md",
-    "qa_sha": "b2013893e7893c745eca70438444f4ee82ab8942",
+    "qa_sha": "da1874b6e00553743e0a4f1a4e1ee1553c53ade5",
     "provenance_path": "editorial/provenance/chapter-0318.json",
-    "provenance_sha": "5ac70271e80b3c2bf31254e61cea28a7b1dba45d"
+    "provenance_sha": "b884d44bc28f566f256a48dd9673e00bf41cc6e1"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
@@ -44,5 +44,12 @@
     "family_evidence": "qa/families/surplus-man-0314-0320.md",
     "initial_priority_target": true,
     "confirmed_failure_resolved": false
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored Daylily licking contact across chest and waist/hip contours"
   }
 }
