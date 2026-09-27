@@ -134,7 +134,7 @@ But Penelope suddenly saw someone more important.
 
 “My baby!”
 
-She swept the six-or-seven-year-old girl into her arms.
+She swept the seven-or-eight-year-old girl into her arms.
 
 Hugo shoved his wet, mustached face close too.
 
@@ -269,72 +269,6 @@ Nearby—
 “Still strict as ever.”
 
 The two old men chatted.
-
-Then—
-
-BOOM!
-
-A practice ring exploded.
-
-“LET’S SETTLE THIS!”
-
-“I’LL CRUSH YOU!”
-
-Highbro Baskerville—
-
-against Highsis Morgue.
-
-“COME ON!”
-
-“You only repeat your brother, idiot!”
-
-Middlebro—
-
-against Middlesis.
-
-Highbro.
-
-Middlebro.
-
-Lowbro.
-
-Highsis.
-
-Middlesis.
-
-Lowsis.
-
-The two triplet sets—
-
-still competing furiously.
-
-Perhaps fighting through the same war—
-
-dying—
-
-and returning—
-
-had only strengthened the rivalry.
-
-BOOOOM!
-
-Of course—
-
-not every pair hated each other.
-
-“My brothers are idiots.”
-
-“They never get tired.”
-
-“My sisters too.”
-
-Lowbro and Lowsis—
-
-hands tightly linked—
-
-watched their siblings with identical sighs.
-
-A newspaper fluttered at their feet.
 
 **[EXTRA] MARQUIS DE SADE FAILS HIS 666TH PRISON BREAK!?**
 
