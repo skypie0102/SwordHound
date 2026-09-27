@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 4 ACTIVE — 236/273 remediation chapters complete; next affected family Dreaming the Impossible Dream (437–440)
+**Current stage:** Phase 4 ACTIVE — 243/273 remediation chapters complete; next affected family Declaration of War (450–453)
 
 ## Progress
 
@@ -88,11 +88,11 @@ Any new exception must be added to source/chinese/chapter-exceptions.tsv and ref
 
 **Status:** ACTIVE  
 **Remediation population:** 273 unique chapters  
-**Completed remediation chapters:** 236  
-**Remaining remediation chapters:** 37  
-**Completed affected families:** 85  
-**Current next family:** Dreaming the Impossible Dream (437–440)  
-**Earliest remaining target:** Chapter 438
+**Completed remediation chapters:** 243  
+**Remaining remediation chapters:** 30  
+**Completed affected families:** 87  
+**Current next family:** Declaration of War (450–453)  
+**Earliest remaining target:** Chapter 450
 
 **Goal:** repair all Cycle-2 failures without fragmenting family continuity.
 
@@ -179,10 +179,10 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 4 with **Dreaming the Impossible Dream (437–440)**.
-2. Repair queued Chapters **438–439** after a complete-family reread.
-3. Re-run both primary gates and refresh all evidence/hash bindings.
-4. Keep EPUB assembly blocked.
+1. Continue Phase 4 with **Declaration of War (450–453)**.
+2. Repair queued Chapters **450, 451, 453** after a complete-family reread.
+3. Re-run sanitization fidelity and completeness across the family.
+4. Refresh all evidence/hash bindings and keep EPUB assembly blocked.
 
 
 ## Phase 4 live checkpoint — 2026-09-27
@@ -190,12 +190,12 @@ Each checkpoint must report, at minimum:
 Phase 4 is **ACTIVE**.
 
 - remediation population: **273 unique chapters**;
-- completed remediation chapters: **236**;
-- remaining remediation chapters: **37**;
-- affected families completed: **85**;
-- manuscript edits: **235**;
-- last completed affected family: **The Returned Hound (434–436)**;
-- next affected family: **Dreaming the Impossible Dream (437–440)**;
-- earliest remaining target: **438**;
-- all completed affected families through Chapter 436 have refreshed evidence/hash bindings;
+- completed remediation chapters: **243**;
+- remaining remediation chapters: **30**;
+- affected families completed: **87**;
+- manuscript edits: **242**;
+- last completed affected family: **The Fall of Usher (441–449)**;
+- next affected family: **Declaration of War (450–453)**;
+- earliest remaining target: **450**;
+- all completed affected families through Chapter 449 have refreshed evidence/hash bindings;
 - EPUB assembly remains blocked until Phase 5 residual verification and Phase 6 closure.
