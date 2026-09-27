@@ -9,8 +9,8 @@
       278
     ],
     "family_qa_path": "qa/families/money-war-0273-0278.md",
-    "family_qa_sha": "55c4937edaf105e8beca016dc694d4fdedf415f0",
-    "status": "pass"
+    "family_qa_sha": "bddac9b4e79e2582574e8f216ef9549e3b9d354a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/275.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0275.md",
-    "blob_sha": "eac341322bf3fea51276e2543c69426a5c4aa058"
+    "blob_sha": "7d92c4443c714670a26b31fa0aecaad5aa3d45be"
   },
   "qa": {
     "path": "qa/chapter-0275.md",
-    "blob_sha": "66bdf4b06bd6221782606563e72ae46eedd047d5",
-    "status": "pass"
+    "blob_sha": "a0527e4ee8e29eb69cd4a82adb409320e1127bbb",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused. Bartolomeo / Sinan Saltsail / Puss in Boots / Juliet / Bahamut remain source-local pending direct access.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      273,
+      278
+    ],
+    "manuscript_changed": true,
+    "note": "restored exact 60,000-ton salt figure"
+  }
 }
