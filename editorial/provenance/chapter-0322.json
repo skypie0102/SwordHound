@@ -9,8 +9,8 @@
       325
     ],
     "family_qa_path": "qa/families/underdogma-0321-0325.md",
-    "family_qa_sha": "43e8526ecc65f43bfa970d7641c90bcb77a19cb0",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "3e5376a445631aaafe49b0617288af3b0b058d93",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/322.txt",
@@ -24,16 +24,16 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0322.md",
-    "blob_sha": "7ea050f837138402eb1fa77b152e43698ad04068"
+    "blob_sha": "d23230e267d5f9119e8331672818418f6807de8b"
   },
   "qa": {
     "path": "qa/chapter-0322.md",
-    "blob_sha": "c508f6a0e05be3a7d9934c2f3ace2c76b98cf9b3",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "471b981a7a169bb6d09f9b180e5c37873e715018",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/race forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "historical_acceptance": {
     "accepted": true,
     "accepted_date": "2026-09-19",
@@ -46,5 +46,16 @@
     "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
     "family_evidence": "qa/families/underdogma-0321-0325.md",
     "initial_priority_target": true
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      321,
+      325
+    ],
+    "manuscript_changed": true,
+    "note": "restored source-level extreme survival/humiliation examples"
   }
 }
