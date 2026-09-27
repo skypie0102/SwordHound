@@ -9,8 +9,8 @@
       260
     ],
     "family_qa_path": "qa/families/grave-of-swords-0255-0260.md",
-    "family_qa_sha": "1f3b1edbeea68c948f7445158f0e0fdcb1bca3f6",
-    "status": "pass"
+    "family_qa_sha": "1c7c93e6586f3b9903915ddf5902dc1c2f6a6f9f",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/259.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0259.md",
-    "blob_sha": "afe20c6359515662adff17f2192220f99cdf720e"
+    "blob_sha": "94610c3b8e300769199c18ab9bb598e52087a398"
   },
   "qa": {
     "path": "qa/chapter-0259.md",
-    "blob_sha": "2b6e460235d8b52db9521d6d2f07d2326daa40a3",
-    "status": "pass"
+    "blob_sha": "e725f6cfb2e120bf62d24d064f4997e3cb933073",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained unavailable; established glossary forms were reused and no new wiki-only forms asserted.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "documented_correction": "Beelzebub Slot 2 is Immortality — Gargoyle (S); shifted-English Basilisk rejected."
+  "accepted_date": "2026-09-27",
+  "documented_correction": "Beelzebub Slot 2 is Immortality — Gargoyle (S); shifted-English Basilisk rejected.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      255,
+      260
+    ],
+    "manuscript_changed": true,
+    "note": "restored all nine distinct Ninth-Fang destructive actions"
+  }
 }
