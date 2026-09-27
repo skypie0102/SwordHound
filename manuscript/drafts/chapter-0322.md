@@ -420,13 +420,17 @@ because surviving creates the chance to win later.”
 
 History contained endless examples.
 
-Men who sold themselves to wealthy patrons to fund armies.
+One man sold himself to an elderly male patron to raise money for a volunteer army.
 
-Men who crawled beneath another man's legs to avoid pointless death.
+Another crawled beneath a vagrant's crotch to deceive an enemy.
 
-Men who changed fathers three times for political survival.
+Another changed fathers three times for political survival.
 
-Men who committed acts so shameful later generations could barely repeat them—
+One man even cooked his own son to satisfy his ruler's taste.
+
+A physician ate an enemy's feces to monitor the man's health while waiting for a chance to assassinate him.
+
+They endured humiliations later generations could barely imagine—
 
 all because they needed one more day.
 
