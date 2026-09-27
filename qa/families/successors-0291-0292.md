@@ -29,3 +29,18 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 291 restores Bartolomeo's source-explicit **rag-like corpse** state after Belial dissolves.
+- Chapter 292 was reread against its Chinese-primary source and remains complete without manuscript changes.
+- Chapter 292 correctly retains the **recent mercenary-guild mergers** retrospective question; the displaced duplicate in Chapter 283 has already been removed.
+- Sanitization fidelity, completeness, and boundary alignment were rerun across Chapters 291–292.
+- Mapping remains **291→E289, 292→E290**; target 293/E291 begins *Confessions (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Confessions (293–295)**, with remediation target Chapter **295**.
