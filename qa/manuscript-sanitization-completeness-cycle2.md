@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 4 ACTIVE — 130/273 remediation chapters complete; next affected family Money War (273–278)
+**Current stage:** Phase 4 ACTIVE — 135/273 remediation chapters complete; next affected family What Money Can't Buy (279–282)
 
 ## Progress
 
@@ -59,7 +59,7 @@ Boundary/alignment review is complete. The immediate project focus is Phase 4 re
 - family EXCEPTION-DOCUMENTED: **102**;
 - genuine source-exception rows added during Phase 3: **429**;
 - manuscript edits during Phase 3: **0**;
-- open structural FAILs: **273, 283**;
+- original Phase-3 structural FAILs: **273, 283**; Chapter **273** is resolved in Phase 4; Chapter **283** remains open;
 - closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`;
 - next family: **none — Phase 3 complete**;
 - exception-table normalization: **75 redundant replay rows removed; all 36 baseline rows preserved**.
@@ -88,11 +88,11 @@ Any new exception must be added to source/chinese/chapter-exceptions.tsv and ref
 
 **Status:** ACTIVE  
 **Remediation population:** 273 unique chapters  
-**Completed remediation chapters:** 130  
-**Remaining remediation chapters:** 143  
-**Completed affected families:** 46  
-**Current next family:** Money War (273–278)  
-**Earliest remaining target:** Chapter 273
+**Completed remediation chapters:** 135  
+**Remaining remediation chapters:** 138  
+**Completed affected families:** 47  
+**Current next family:** What Money Can't Buy (279–282)  
+**Earliest remaining target:** Chapter 279
 
 **Goal:** repair all Cycle-2 failures without fragmenting family continuity.
 
@@ -179,9 +179,9 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 4 with **Money War (273–278)**.
-2. Resolve Chapter **273**'s Phase-3 structural/boundary failure alongside the family's Phase-1/2 content defects.
-3. Re-run sanitization, completeness, and boundary checks across the complete family.
+1. Continue Phase 4 with **What Money Can't Buy (279–282)**.
+2. Repair all source-supported queued defects after a complete-family reread.
+3. Re-run sanitization fidelity and completeness across the family.
 4. Refresh all evidence/hash bindings and keep EPUB assembly blocked.
 
 
@@ -190,13 +190,14 @@ Each checkpoint must report, at minimum:
 Phase 4 is **ACTIVE**.
 
 - remediation population: **273 unique chapters**;
-- completed remediation chapters: **130**;
-- remaining remediation chapters: **143**;
-- affected families completed: **46**;
-- manuscript edits: **129**;
-- last completed affected family: **Rich Friends (270–272)**;
-- next affected family: **Money War (273–278)**;
-- earliest remaining target: **273**;
-- Chapter 273 also carries a Phase-3 structural/boundary failure;
-- all completed affected families through Chapter 272 have refreshed evidence/hash bindings;
+- completed remediation chapters: **135**;
+- remaining remediation chapters: **138**;
+- affected families completed: **47**;
+- manuscript edits: **134**;
+- last completed affected family: **Money War (273–278)**;
+- Chapter **273** structural failure: **resolved**;
+- remaining open Phase-3 structural failure: **283**;
+- next affected family: **What Money Can't Buy (279–282)**;
+- earliest remaining target: **279**;
+- all completed affected families through Chapter 278 have refreshed evidence/hash bindings;
 - EPUB assembly remains blocked until Phase 5 residual verification and Phase 6 closure.
