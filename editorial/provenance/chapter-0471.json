@@ -9,8 +9,8 @@
       475
     ],
     "family_qa_path": "qa/families/tochka-annihilation-0471-0475.md",
-    "family_qa_sha": "08babc668e1137750285061091f293ee383f384c",
-    "status": "pass"
+    "family_qa_sha": "b0eba6403c8ea3ba230af8ce22578630048369f7",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/471.txt",
@@ -28,10 +28,21 @@
   },
   "qa": {
     "path": "qa/chapter-0471.md",
-    "blob_sha": "22e2fa13b6fc1b7868e0741ba1b7b93f025ea935",
-    "status": "pass"
+    "blob_sha": "ca9e2a2d633127779eb13c48bfcbee40e85a00c3",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; established glossary forms and indexed Fandom evidence used.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-28",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-28",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      471,
+      475
+    ],
+    "manuscript_changed": false,
+    "note": "Phase-2 700-knight finding resolved as C472 misattribution; C471 revalidated unchanged"
+  }
 }
