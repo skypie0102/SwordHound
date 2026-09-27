@@ -1,5 +1,18 @@
 # Reconstruction Progress
 
+## 2026-09-27 — Cycle 2 Phase 4 — The Returned Hound complete
+
+Phase 4 remediation/evidence rebinding advanced through **The Returned Hound (434–436)**.
+
+- remediation chapters complete: **236 / 273**;
+- remediation chapters remaining: **37**;
+- affected families complete: **85**;
+- manuscript edits: **235**;
+- Chapter **434** repaired and rebound;
+- Chapters **435–436** complete-family revalidated unchanged;
+- next affected family: **Dreaming the Impossible Dream (437–440)**, earliest remaining target **438**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-27 — Cycle 2 Phase 4 — Wandering Knight complete
 
 Phase 4 remediation/evidence rebinding advanced through **How to Become a Wandering Knight (422–424)**.
