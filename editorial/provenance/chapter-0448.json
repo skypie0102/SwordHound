@@ -9,8 +9,8 @@
       449
     ],
     "family_qa_path": "qa/families/fall-of-usher-0441-0449.md",
-    "family_qa_sha": "0e77f91190c5c40973d293e4c289065460185c47",
-    "status": "pass"
+    "family_qa_sha": "eb58813e9f65cf30b850a97a5f9639853f6af7fb",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/448.txt",
@@ -29,9 +29,20 @@
   "qa": {
     "path": "qa/chapter-0448.md",
     "blob_sha": "72b542dec204d28085b62c4981690b1689167265",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Fresh Fandom search indexing confirmed Andrealphus/Madeline Usher, Roderick Usher, Isolde Usher, Masyaf, and Love Shield where applicable. Direct page access remains robots-limited; unsupported local forms remain explicitly source-local.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      441,
+      449
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
