@@ -9,8 +9,8 @@
       362
     ],
     "family_qa_path": "qa/families/voluntary-escort-0359-0362.md",
-    "family_qa_sha": "99bc680e15694db0fcb6ed22965693f3e71e34d4",
-    "status": "pass"
+    "family_qa_sha": "79a0832fe13b3a2070f883b785ddbc1ae2d25986",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/362.txt",
@@ -28,10 +28,21 @@
   },
   "qa": {
     "path": "qa/chapter-0362.md",
-    "blob_sha": "56445cd7575b4346d64493cb1cc5f3688195cbb1",
-    "status": "pass"
+    "blob_sha": "cc7ce22078786c1aa8a8cb389cbbe78299e19957",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local names/forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      359,
+      362
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
