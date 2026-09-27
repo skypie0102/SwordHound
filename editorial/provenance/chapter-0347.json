@@ -9,8 +9,8 @@
       347
     ],
     "family_qa_path": "qa/families/ballak-0343-0347.md",
-    "family_qa_sha": "23dd10c41cdfda4f929c7754c3d061e87c34dfe3",
-    "status": "pass"
+    "family_qa_sha": "53911e189ba3a72e0c32674c9e1d3ca985c6ebda",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/347.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0347.md",
-    "blob_sha": "d6e41c139122aefa4bed4086a44a77d83f9089d9"
+    "blob_sha": "399a3602e5c105029ce35949906518a37581d361"
   },
   "qa": {
     "path": "qa/chapter-0347.md",
-    "blob_sha": "30d7accf2b7546586a420c455f2ef94bdb1e51e9",
-    "status": "pass"
+    "blob_sha": "4f196dc0c7c93cee037e5e4766ac4f9fc62ceb74",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established project glossary forms were reused and no source-local form was falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "reveal_guard": "Do not import Key man solution into the apparent mass-death cliffhanger; mission remains uncleared at chapter end."
+  "accepted_date": "2026-09-27",
+  "reveal_guard": "Do not import Key man solution into the apparent mass-death cliffhanger; mission remains uncleared at chapter end.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      343,
+      347
+    ],
+    "manuscript_changed": true,
+    "note": "restored Akwilla mortal wound and fear descriptor at apparent mass decapitation"
+  }
 }
