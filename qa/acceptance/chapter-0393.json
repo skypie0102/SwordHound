@@ -2,8 +2,8 @@
   "chapter": 393,
   "title": "The Worst Torture (4)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Worst Torture",
     "range": [
@@ -11,8 +11,8 @@
       395
     ],
     "family_qa_path": "qa/families/worst-torture-0390-0395.md",
-    "family_qa_sha": "f486932b5c01bf79dcbe536eb187ac1c59d67ce5",
-    "status": "pass"
+    "family_qa_sha": "fa32cfb1e4d2d1d87dd5caff0c32f156477bf150",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/393.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-391.xhtml",
     "english_reference_sha": "92d20ce231b3746ad0b22a5999134900661e1007",
     "draft_path": "manuscript/drafts/chapter-0393.md",
-    "draft_sha": "6fbf2ceee2e9a0396525f57362b6cbb48f1c8c28",
+    "draft_sha": "8cfde2bf5fc9af60827ad9e113bc1967171bffca",
     "qa_path": "qa/chapter-0393.md",
-    "qa_sha": "112b8a46f4ce1b0f18d7554c55ae87b48b13d09e",
+    "qa_sha": "cbc3a4fca77399602ac182e0d831d2437064f47d",
     "provenance_path": "editorial/provenance/chapter-0393.json",
-    "provenance_sha": "4e0c41e5b68783b845e6a7e57ecefe65ad6def95"
+    "provenance_sha": "d835f7a918c481d50248654d5f1fc133cb57f920"
   },
   "documented_limits": [
     "Direct Fandom re-check remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
     "No Dead Man Walking material from target396 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored confirmed fractures and named Level-Nine comparison set"
+  }
 }
