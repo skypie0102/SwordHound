@@ -2,8 +2,8 @@
   "chapter": 419,
   "title": "Goodbye, Nouvelle Vague (1)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Goodbye, Nouvelle Vague",
     "range": [
@@ -11,8 +11,8 @@
       421
     ],
     "family_qa_path": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
-    "family_qa_sha": "1bbf4a98983ffe688c08887880df40912ccd2aec",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "e0c02eb8a9c634d9bc2d3cf2d7723e36f31d4a3d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/419.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0419.md",
     "qa_sha": "bd86b849591c5e85aae2a54371f748c9ab7f0ded",
     "provenance_path": "editorial/provenance/chapter-0419.json",
-    "provenance_sha": "41e246d3b03bf7c706501fe62c57a42b757b95f4"
+    "provenance_sha": "adbc034396af6efae18bfd2ab6bd561531fc71b9"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
@@ -44,5 +44,12 @@
     "family_evidence": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
     "initial_priority_target": true
   },
-  "source_gap_note": "Chinese source visibly gaps after Kirko asks about Garam; only aligned E417 restoration used."
+  "source_gap_note": "Chinese source visibly gaps after Kirko asks about Garam; only aligned E417 restoration used.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged; Chapter 419 localized Chinese gap remains narrowly restored from aligned E417"
+  }
 }
