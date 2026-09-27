@@ -288,6 +288,30 @@ The other Camus was older—
 
 but not dramatically different.
 
+The Camus of this world ground her teeth.
+
+“Demons die.”
+
+“And anyone who uses demonic power dies too.”
+
+“All of them.”
+
+Flame and black iron spears erupted again.
+
+The other Camus yanked miniature Seere forward—
+
+still bound in the roots of the Wraith Tree—
+
+and used him as a shield.
+
+[AAAAAAAH! LADY CAMUS! IT HURTS!]
+
+[I’M NOT DECARABIAAAAA!]
+
+The Camus of this world stared in disbelief.
+
+“Believe me now?”
+
 Then—
 
 “Take this first.”
@@ -428,17 +452,45 @@ The Camus of this world blinked.
 
 “Then why are you here?”
 
-The other Camus answered.
+The Camus of this world answered.
 
-“Join hands with us.”
+“Join hands.”
 
-“Join hands?”
+“Hands?”
+
+The other Camus smirked.
+
+“What, are you trying to get a manicure?”
+
+“I’m you, and you’re me.”
+
+“You know my personality.”
+
+“Make one more sarcastic remark and I’ll kill you.”
+
+“If I’m you and you’re me—”
+
+“then you know my personality too.”
+
+The other Camus smiled.
+
+“Come on.”
+
+“Try to kill me.”
+
+“Hah. You little—”
+
+Vikir stepped between them again, as though he had expected exactly this.
+
+“We need to join forces.”
 
 “For what?”
 
 “To destroy demons?”
 
-“More fundamental than that.”
+“Not just that.”
+
+“Something more fundamental.”
 
 The Camus of this world frowned.
 
