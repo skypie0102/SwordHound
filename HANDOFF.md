@@ -11,7 +11,7 @@
 **Cycle-2 completeness revalidated:** 500 / 500 — Phase 2 COMPLETE — 229 PASS / 271 FAIL
 **Cycle-2 boundary/alignment revalidated:** 500 / 500 — 53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED across 118 / 118 families  
 **Confirmed Cycle-2 failures:** 200 Phase-1 sanitization FAIL chapters plus 271 Phase-2 completeness FAIL chapters; 198 completeness failures overlap Phase-1 FAILs and 73 are additions beyond the Phase-1 FAIL queue (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499), for 273 unique remediation chapters; remediation deferred to Phase 4
-**Current audit stage:** Phase 4 ACTIVE — 47 affected families complete through Money War (273–278); 135/273 remediation chapters complete; next affected family What Money Can't Buy (279–282)
+**Current audit stage:** Phase 4 ACTIVE — 54 affected families complete through Hell Tree (307–313); 159/273 remediation chapters complete; next affected family Surplus Man (314–320)
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -161,21 +161,20 @@ Phase 4 is now active. **Camus Morgue (20–25)** has been completed as the firs
 
 ## Phase 4 progress
 
-- Completed affected families: **47**
-- Remediation chapters complete: **135 / 273**
-- Remaining remediation chapters: **138**
-- Phase-4 manuscript edits: **134**
-- Last completed affected family: **Money War (273–278)**
-- Chapter **273** Phase-3 duplicated/displaced boundary failure: **RESOLVED**
-- Remaining open structural failure: **Chapter 283**
-- Next affected family: **What Money Can't Buy (279–282)**
-- Earliest remaining remediation target: **279**
+- Completed affected families: **54**
+- Remediation chapters complete: **159 / 273**
+- Remaining remediation chapters: **114**
+- Phase-4 manuscript edits: **158**
+- Last completed affected family: **Hell Tree (307–313)**
+- Resolved Phase-3 structural failures: **273, 283**
+- Open structural failures: **none**
+- Next affected family: **Surplus Man (314–320)**
+- Earliest remaining remediation target: **316**
 - EPUB assembly remains blocked
 
 ## Exact next actions
 
-1. Continue **Phase 4** with **What Money Can't Buy (279–282)**.
-2. Reread the complete family against Chinese-primary sources and shifted witnesses.
-3. Repair all queued ordinary sanitization/completeness defects, then rerun both primary gates.
-4. Refresh chapter QA, family QA, provenance, acceptance, tracker, Cycle-2 ledger, and live docs before advancing.
-5. Keep EPUB assembly blocked until Phases 4–6 close.
+1. Continue **Phase 4** with **Surplus Man (314–320)**, focusing on queued Chapters **316, 318, and 320** while rereading the full family.
+2. Re-run sanitization fidelity and completeness across the family after repairs.
+3. Refresh chapter QA, family QA, provenance, acceptance, tracker, Cycle-2 ledger, and live docs before advancing.
+4. Keep EPUB assembly blocked until Phases 4–6 close.
