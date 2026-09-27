@@ -1,5 +1,18 @@
 # Reconstruction Progress
 
+## 2026-09-27 — Cycle 2 Phase 4 — End game complete
+
+Phase 4 remediation/evidence rebinding advanced through **End game (409–418)**.
+
+- remediation chapters complete: **224 / 273**;
+- remediation chapters remaining: **49**;
+- affected families complete: **80**;
+- manuscript edits: **223**;
+- Chapters **409, 412, 413, 416, 417** repaired and rebound;
+- Chapters **410, 411, 414, 415, 418** complete-family revalidated unchanged;
+- next affected family: **Goodbye, Nouvelle Vague (419–421)**, earliest target **421**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-27 — Cycle 2 Phase 4 — Black Tongue complete
 
 Phase 4 remediation/evidence rebinding advanced through **Black Tongue (399–402)**.
