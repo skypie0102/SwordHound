@@ -9,8 +9,8 @@
       372
     ],
     "family_qa_path": "qa/families/solitary-confinement-0371-0372.md",
-    "family_qa_sha": "3077e0ce3a79de134d23b9bf8bc80cbe4983e4bc",
-    "status": "pass"
+    "family_qa_sha": "9ea9d7e5ae7dc232b98d0edc6c2de12c40256148",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/371.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0371.md",
-    "blob_sha": "7b1d8382b95a0827c48129a9e2036f36fc2195a5"
+    "blob_sha": "3df48aad794da452b8f6e78a24e828e71c7d1cc6"
   },
   "qa": {
     "path": "qa/chapter-0371.md",
-    "blob_sha": "d50e49d4643b1aad7522c464f52312244d63049e",
-    "status": "pass"
+    "blob_sha": "84eb7bc31f883d3900fcd2bfe0a2de4939e46dd3",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Souaré confirmed by designated Fandom index; no accessible Angajuman canonical page found. Alias retained; true identity guarded.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      371,
+      372
+    ],
+    "manuscript_changed": true,
+    "note": "restored Souaré's sexy-mustache wording and seductive delivery"
+  }
 }
