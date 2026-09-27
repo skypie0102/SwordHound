@@ -1,5 +1,23 @@
 # Reconstruction Progress
 
+## 2026-09-28 — Cycle 2 Phase 4 COMPLETE
+
+Phase 4 remediation and evidence rebinding is formally complete.
+
+- remediation population: **273 unique chapters**;
+- remediation chapters completed: **273 / 273**;
+- remediation chapters remaining: **0**;
+- affected title families completed: **95**;
+- manuscript edits during Phase 4: **271**;
+- original Phase-3 structural failures at Chapters **273** and **283**: **resolved**;
+- final affected family: **Side Stories (496–500)**;
+- acceptance artifacts present: **500 / 500**;
+- tracker entries present: **500 / 500**;
+- tracker acceptance-SHA mismatches: **0**;
+- closure checkpoint: `qa/cycle2-phase4-checkpoint-0500.md`;
+- next stage: **Phase 5 — independent residual verification and consistency sweep**;
+- complete-EPUB assembly remains blocked until Phases 5 and 6 close.
+
 ## 2026-09-27 — Cycle 2 Phase 4 — The Fall of Usher complete
 
 Phase 4 remediation/evidence rebinding advanced through **The Fall of Usher (441–449)**.
