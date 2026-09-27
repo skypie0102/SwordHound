@@ -24,3 +24,14 @@
 - PASS — Vikir deliberately stays Level1 because tower rewards scale unusually well when a system-classified weak entrant clears high-difficulty content.
 - PASS — his second reason is strategic: early Level gains later lose value, so ordinary candies/Level candies are better hoarded.
 - PASS — after **108 minutes**, Floor2 ends with **69 survivors**, all transferred to Basement Floor3 “Familiar Ground (2).”
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Corrected the Cerberus death image to sulfur and blood spraying from the burst abdomen, removed unsupported viscera, and restored bloodstains at the fairy's split mouth corners.
+
+The complete Hell Tree family was reread after remediation. Chapters 308–310 and 312 remain unchanged and pass both Cycle-2 content gates. Shifted mapping remains **307→E305 through 313→E311**; target 314 begins *Surplus Man (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Hell Tree family QA.
