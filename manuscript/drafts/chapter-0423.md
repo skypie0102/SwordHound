@@ -38,7 +38,7 @@ BANG!
 
 A closet door burst open.
 
-A man charged out with a pitchfork.
+A man charged out with an iron rod.
 
 “Get away!”
 
@@ -134,7 +134,7 @@ Then—
 
 THUNK!
 
-A pitchfork punched through its mouth.
+The iron rod punched through its mouth.
 
 “RUN!”
 
@@ -162,7 +162,7 @@ Then—
 
 CRACK!
 
-The gnoll biting the father’s leg lost its head.
+The gnoll biting the father’s leg had its head burst like a watermelon.
 
 A dark figure stood in front of the family.
 
@@ -219,6 +219,12 @@ Even so—
 his spear moved like a living thing.
 
 The backyard became silent.
+
+Shammua had stopped crying.
+
+She looked at the wandering knight with admiration and curiosity.
+
+The gratitude in her eyes was stronger than the fear that remained.
 
 Then the little girl opened the cellar door.
 
