@@ -9,8 +9,8 @@
       421
     ],
     "family_qa_path": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
-    "family_qa_sha": "1bbf4a98983ffe688c08887880df40912ccd2aec",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "e0c02eb8a9c634d9bc2d3cf2d7723e36f31d4a3d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/419.txt",
@@ -29,11 +29,11 @@
   "qa": {
     "path": "qa/chapter-0419.md",
     "blob_sha": "bd86b849591c5e85aae2a54371f748c9ab7f0ded",
-    "status": "pass_after_completeness_rebuild"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "source_exception": "Chinese visibly omits the Garam-answer sequence; only localized aligned-E417 details are restored.",
   "historical_acceptance": {
     "accepted": true,
@@ -48,5 +48,16 @@
     "family_evidence": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
     "initial_priority_target": true
   },
-  "source_gap_guard": "Chinese source visibly gaps after Kirko asks about Garam; only aligned E417 restoration is used."
+  "source_gap_guard": "Chinese source visibly gaps after Kirko asks about Garam; only aligned E417 restoration is used.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      419,
+      421
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged; Chapter 419 localized Chinese gap remains narrowly restored from aligned E417"
+  }
 }
