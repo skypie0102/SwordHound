@@ -9,8 +9,8 @@
       395
     ],
     "family_qa_path": "qa/families/worst-torture-0390-0395.md",
-    "family_qa_sha": "f486932b5c01bf79dcbe536eb187ac1c59d67ce5",
-    "status": "pass"
+    "family_qa_sha": "fa32cfb1e4d2d1d87dd5caff0c32f156477bf150",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/393.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0393.md",
-    "blob_sha": "6fbf2ceee2e9a0396525f57362b6cbb48f1c8c28"
+    "blob_sha": "8cfde2bf5fc9af60827ad9e113bc1967171bffca"
   },
   "qa": {
     "path": "qa/chapter-0393.md",
-    "blob_sha": "112b8a46f4ce1b0f18d7554c55ae87b48b13d09e",
-    "status": "pass"
+    "blob_sha": "cbc3a4fca77399602ac182e0d831d2437064f47d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      390,
+      395
+    ],
+    "manuscript_changed": true,
+    "note": "restored confirmed fractures and named Level-Nine comparison set"
+  }
 }
