@@ -1,5 +1,18 @@
 # Reconstruction Progress
 
+## 2026-09-27 — Cycle 2 Phase 4 — The Fall of Usher complete
+
+Phase 4 remediation/evidence rebinding advanced through **The Fall of Usher (441–449)**.
+
+- remediation chapters complete: **243 / 273**;
+- remediation chapters remaining: **30**;
+- affected families complete: **87**;
+- manuscript edits: **242**;
+- Chapters **444, 445, 446, 447, 449** repaired and rebound;
+- Chapters **441–443, 448** complete-family revalidated unchanged;
+- next affected family: **Declaration of War (450–453)**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-27 — Cycle 2 Phase 4 — The Returned Hound complete
 
 Phase 4 remediation/evidence rebinding advanced through **The Returned Hound (434–436)**.
