@@ -40,7 +40,7 @@ People who had fought beside him during the Age of Destruction.
 
 All dead.
 
-All staring at Vikir with blood running down their faces.
+All staring at Vikir as bloody tears ran down their faces.
 
 [You aren’t coming back?]
 
@@ -432,7 +432,7 @@ Then—
 
 A broken voice.
 
-Like organs tearing apart.
+Like a groan that could only come from rupturing intestines.
 
 Andras stopped.
 
@@ -508,9 +508,9 @@ Light struck his darkness-adapted eyes.
 
 [AAAAH!?]
 
-His eyelids burned.
+His tightly shut eyes burned.
 
-Smoke rose.
+Pungent smoke gushed from his eyelids.
 
 One point of light.
 
