@@ -494,22 +494,6 @@ The other six hundred twenty-five received a “down” prediction.
 
 Then the same process continued.
 
-Stocks.
-
-Gold.
-
-Beans.
-
-Wheat.
-
-Bronze.
-
-Orichalcum.
-
-Real estate.
-
-Bonds.
-
 The asset did not matter.
 
 Every prediction was divided between two opposite outcomes.
