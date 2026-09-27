@@ -16,7 +16,7 @@ Current checkpoint: **full manuscript sanitization + completeness audit — Cycl
 - Completeness-only additions beyond the Phase-1 FAIL queue: **73**
 - Combined Phase-4 remediation population: **273 unique chapters**
 - Cycle-2 boundary/alignment revalidated: **500 / 500** — **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED** across **118 / 118 families**
-- Current stage: **Phase 4 ACTIVE — 224/273 remediation chapters complete through End game (409–418); next affected family Goodbye, Nouvelle Vague (419–421)**
+- Current stage: **Phase 4 ACTIVE — 228/273 remediation chapters complete through How to Become a Wandering Knight (422–424); next affected family The Night Walkers (425–429)**
 - Active Cycle-2 plan: `qa/manuscript-sanitization-completeness-cycle2.md`
 - Phase-2 closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`
 - Historical post-500 audit record: `qa/manuscript-completeness-audit.md`
@@ -30,7 +30,7 @@ Phase 1 is complete across Chapters 1–500 at **282 PASS / 200 FAIL / 18 SAFETY
 
 Phase 3 is complete. Chapters **1–500** across **118 / 118** families are structurally resolved at **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED**, with **429 genuine new source-exception rows** after duplicate-ledger normalization and **0 manuscript edits**. Closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`. The structural FAILs at Chapters **273 and 283** have both been resolved during Phase 4.
 
-Phase 4 is active. Eighty affected families are remediated/revalidated and rebound through **End game (409–418)**. **224 / 273** remediation chapters are complete and **49** remain; Phase 4 has made **223** manuscript edits so far. Continue with **Goodbye, Nouvelle Vague (419–421)**, earliest remaining target Chapter **421**.
+Phase 4 is active. Eighty-two affected families are remediated/revalidated and rebound through **How to Become a Wandering Knight (422–424)**. **228 / 273** remediation chapters are complete and **45** remain; Phase 4 has made **227** manuscript edits so far. Continue with **The Night Walkers (425–429)**, earliest remaining target Chapter **425**.
 
 ## Current source policy
 
