@@ -6,7 +6,7 @@ Recovered source, reference, reconstruction, QA, and EPUB-preparation material f
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **full manuscript sanitization + completeness audit — Cycle 2, Phase 4 ACTIVE**.
+Current checkpoint: **full manuscript sanitization + completeness audit — Cycle 2, Phase 4 COMPLETE; Phase 5 NEXT**.
 
 - Target manuscript files present: **500 / 500**
 - Historical accepted state entering Cycle 2: **500 / 500**
