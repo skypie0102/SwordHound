@@ -9,8 +9,8 @@
       320
     ],
     "family_qa_path": "qa/families/surplus-man-0314-0320.md",
-    "family_qa_sha": "a752f27d99e0be65f4143aed12695b0a4f05a386",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "cfa70c820f5f0717135e28f0a0e256d640343e09",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/318.txt",
@@ -24,16 +24,16 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0318.md",
-    "blob_sha": "ed56507739adc402ac458c8265b2c65ef4f9d0b7"
+    "blob_sha": "88dd57e091f170a93b87c7f69d632eee69f57d75"
   },
   "qa": {
     "path": "qa/chapter-0318.md",
-    "blob_sha": "b2013893e7893c745eca70438444f4ee82ab8942",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "da1874b6e00553743e0a4f1a4e1ee1553c53ade5",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/item forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "historical_acceptance": {
     "accepted": true,
     "accepted_date": "2026-09-19",
@@ -48,5 +48,16 @@
     "family_evidence": "qa/families/surplus-man-0314-0320.md",
     "initial_priority_target": true,
     "confirmed_failure_resolved": false
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      314,
+      320
+    ],
+    "manuscript_changed": true,
+    "note": "restored Daylily licking contact across chest and waist/hip contours"
   }
 }
