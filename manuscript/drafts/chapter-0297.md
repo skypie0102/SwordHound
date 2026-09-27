@@ -402,7 +402,7 @@ Vikir took her hand.
 
 “Okay!”
 
-Pomeranian still obeyed him readily.
+Pomeranian would still obey Vikir—even if it cost her life.
 
 As they walked down the path—
 
