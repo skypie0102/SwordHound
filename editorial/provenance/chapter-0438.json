@@ -9,8 +9,8 @@
       440
     ],
     "family_qa_path": "qa/families/dreaming-impossible-dream-0437-0440.md",
-    "family_qa_sha": "fba1238c9a1e3f71257a0ad6fc9d296e49baa11a",
-    "status": "pass"
+    "family_qa_sha": "57a274733cd09bc95422502a2ded79332d2d852b",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/438.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0438.md",
-    "blob_sha": "8513d6b3644bff06756e8bbe4fc277789dedcdee"
+    "blob_sha": "0d5affa8120758209a9dc72803835e0ee144ce13"
   },
   "qa": {
     "path": "qa/chapter-0438.md",
-    "blob_sha": "f431280b4d5716129bee4d569f3a38d0c474b1b1",
-    "status": "pass"
+    "blob_sha": "4c834308e72cd8d0af912777cd9cfba95a5ccc44",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "reveal_guard": "Usher sniper encirclement is thinned by Marquis de Sade and Orca; deeper reason Bianca/Tudor were needed alive is not expanded beyond source."
+  "accepted_date": "2026-09-27",
+  "reveal_guard": "Usher sniper encirclement is thinned by Marquis de Sade and Orca; deeper reason Bianca/Tudor were needed alive is not expanded beyond source.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      437,
+      440
+    ],
+    "manuscript_changed": true,
+    "note": "restored mature-figure descriptor, sausage/pancake cavalry image, and full Orca insult"
+  }
 }
