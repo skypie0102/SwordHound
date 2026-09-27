@@ -2,7 +2,7 @@
 
 **Reviewed:** 2026-09-26  
 **Target range:** Chapters 283–290  
-**Disposition:** FAIL  
+**Disposition:** PASS AFTER PHASE 4 REMEDIATION  
 **Manuscript edits:** 0
 
 ## Witness / source mapping
@@ -14,10 +14,10 @@
 
 The 284/285 shared-container seam is valid. Target 284 ends after Bartolomeo asks who could frighten him and restores only the localized E282 bridge, “Here I am.” Target 285 begins with Night Hound's first red slash. No fight material is duplicated across that seam.
 
-## Structural integrity failure — Chapter 283
+## Phase-4 structural resolution — Chapter 283
 
-The live target-283 manuscript includes a “mergers with mercenary guilds” question. Chinese Chapter 283 lists economic trends, financial indicators, new-business criteria, promising small merchant guilds, and whether tycoons eat chicken — but **not** mercenary-guild mergers. Chinese Chapter 292 explicitly contains the recent mercenary-guild-merger item, and target 292 retains it again.
+The unsupported “mergers with mercenary guilds” question has been removed from target 283. That item remains only in target 292, where the Chinese source places it.
 
-This is duplicated/displaced source content from target 292 imported early into target 283.
+Fresh post-remediation review confirms that target 283 now matches its own source sequence, while the **284/285 shared-container seam remains valid and unchanged**: target 284 ends after Bartolomeo's challenge plus the localized E282 bridge, and target 285 begins with Night Hound's first red slash.
 
-**Phase-3 decision:** FAIL. Chapter 283 fails the duplicated/displaced-material integrity gate. The 284/285 combined raw itself passes structural revalidation. No manuscript repair is performed in Phase 3.
+**Current structural decision:** PASS AFTER PHASE 4 REMEDIATION. The Chapter-283 duplicated/displaced-material defect is resolved, and no open Phase-3 structural failure remains in this family.
