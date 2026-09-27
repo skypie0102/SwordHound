@@ -1561,7 +1561,7 @@
         "evidence": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
       }
     ],
-    "current_phase": "phase_4_remediation_and_evidence_rebinding",
+    "current_phase": "phase_5_independent_residual_verification",
     "next_family": {
       "name": "Camus Morgue",
       "range": [
@@ -1665,31 +1665,30 @@
       "baseline_rows_altered": 0
     },
     "phase3_families_exception_documented_count": 102,
-    "phase4_status": "active",
-    "phase4_next_family": {
-      "name": "Declaration of War",
-      "range": [
-        450,
-        453
-      ]
-    },
-    "phase4_earliest_remediation_chapter": 450,
-    "phase4_manuscript_edits": 242,
-    "phase4_remediation_completed_chapters": 243,
-    "phase4_remediation_remaining_chapters": 30,
-    "phase4_families_completed": 87,
+    "phase4_status": "complete",
+    "phase4_next_family": null,
+    "phase4_earliest_remediation_chapter": null,
+    "phase4_manuscript_edits": 271,
+    "phase4_remediation_completed_chapters": 273,
+    "phase4_remediation_remaining_chapters": 0,
+    "phase4_families_completed": 95,
     "phase4_last_completed_family": {
-      "name": "The Fall of Usher",
+      "name": "Side Story",
       "range": [
-        441,
-        449
+        496,
+        500
       ]
     },
-    "phase4_checkpoint_date": "2026-09-27",
+    "phase4_checkpoint_date": "2026-09-28",
     "phase4_open_structural_failures": [],
     "phase4_resolved_structural_failures": [
       273,
       283
-    ]
+    ],
+    "phase4_remediation_population": 273,
+    "phase4_closure_checkpoint": "qa/cycle2-phase4-checkpoint-0500.md",
+    "phase4_tracker_acceptance_sha_mismatches": 0,
+    "phase5_status": "ready",
+    "epub_assembly_status": "blocked_until_cycle2_closure"
   }
 }
