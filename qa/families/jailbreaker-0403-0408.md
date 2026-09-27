@@ -12,16 +12,16 @@ The previous live handoff incorrectly treated Jailbreaker as a four-part family 
 ## Family decisions
 
 - Vikir times the jailbreak around the mass induction ceremony, when guard attention is concentrated on new arrivals.
-- Surface supply degradation and huge prisoner intake indicate the Demon War is accelerating, but most Nouvelle Vague guards remain skeptical or indifferent.
-- Warden Orca, Colonel D’Ordume, and Colonel Souaré are returning with the unprecedented intake; the unidentified female high-risk prisoner remains reveal-guarded.
+- Surface supply degradation and huge prisoner intake indicate the Demon War is accelerating, but most Nouvelle Vague guards remain skeptical or indifferent. The source meal is retained as **black bread, pickled anchovies, and wilted enoki mushrooms**.
+- Warden Orca, Colonel D’Ordume, and Colonel Souaré are returning with the unprecedented intake; Chapter 403 keeps the incoming female high-risk prisoner reveal-guarded and does not prematurely import her Level-Nine placement. The Level-Nine/future-Level-Ten status is revealed later in-family.
 - Vikir directs Kirko and multiple lower-ranking guards toward the fifth-floor Gulper Eel area as a survival precaution.
 - The Gate of Good and Evil remains a 70 m × 5 m / 6,535-ton mithril-and-adamantium structure with copper anti-corrosion coating.
 - BDISSEM is the living source of Nouvelle Vague’s mana/strength-suppressing restraints and cell bars; Vikir’s plan is prison-wide removal, not merely personal escape.
-- Black Tongue identifies Vikir behind the Garam disguise through his blood.
+- Black Tongue identifies Vikir behind the Garam disguise through his blood; his repeated source-explicit address **“shit-eating dog”** is preserved.
 - The copy-form parasite is normalized to **doppelganger leech** from aligned E403; Black Tongue says he was authorized to use guards and prisoners as experimental subjects.
 - Black Tongue’s statement that Orca would even work with demons if it strengthened prison security remains Black Tongue’s speculation, not narrator-confirmed fact.
 - Oil-sucking and body-heat-sucking leeches create the corridor inferno; Decarabia blocks it.
-- Beelzebub’s abnormal vibration is same-kind resonance with **Asmodeus**, one of the Seven Demon Swords.
+- Beelzebub’s abnormal vibration is same-kind resonance with **Asmodeus**, one of the Seven Demon Swords. The source-present lore link that Asmodeus had once been one of the **First Corpse's sacrifices** is retained.
 - Black Tongue’s account of starving, drying, and grinding the living parasite into Asmodeus is preserved.
 - Local regeneration wording is not allowed to overwrite accepted **Beelzebub Slot 2 = Immortality — Gargoyle (S)** continuity.
 - Vikir’s apparent post-ear-injury mis-aim is deliberate corridor-cutting setup.
@@ -29,9 +29,9 @@ The previous live handoff incorrectly treated Jailbreaker as a four-part family 
 - Black Tongue dies after deep-sea expulsion; Asmodeus consumes his blood/desire, returns in living sea-serpent form, and is shattered into nine fragments by Black Sun.
 - The Seven Demon Swords count drops to six, while Vikir leaves open the theoretical possibility that Asmodeus fragments remain alive.
 - Vikir secures the doppelganger-leech eggs inside Andromalius’s barrier.
-- The final arriving female prisoner is escorted directly by D’Ordume and Souaré as Level Nine / future Level Ten; identity remains guarded.
+- The mass arrival retains the source's image of some prisoners reduced to **a pot of stew made from flesh mush and bloody water**. The final arriving female prisoner is escorted directly by D’Ordume and Souaré as Level Nine / future Level Ten; identity remains guarded.
 - BDISSEM is overpowered by the source-local **Daylily of the Blood Tree** (S), a demonic plant that preys on ordinary-world plants.
-- Vikir coerces rather than kills BDISSEM because he still needs two services from her.
+- Vikir coerces rather than kills BDISSEM because he still needs two services from her. He actually pushes Daylily seeds into her mouth, causing painful struggling before submission; the later fear response explicitly leaves her crotch yellow and her pants and upper clothing soaked.
 - First service: release every BDISSEM restraint and cell-bar system from Level One through Level Nine.
 - Second service: an instruction involving an unnamed person appearing outside the fifth-floor kennel window; the exact recipient/action remains reveal-guarded.
 - The family ends with the prison-wide restraint system collapsing and the unprecedented mass uprising beginning.
@@ -40,3 +40,21 @@ The previous live handoff incorrectly treated Jailbreaker as a four-part family 
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 403 restores **black bread, pickled anchovies, and wilted enoki mushrooms** and removes the prematurely imported Level-Nine reveal.
+- Chapter 404 restores Black Tongue's source-explicit **“shit-eating dog”** insult.
+- Chapter 405 restores the repeated insult plus **blood, flesh, and internal organs** scattering from severed leech-muscle fibers.
+- Chapter 406 restores Asmodeus's explicit connection as one of the **First Corpse's sacrifices**.
+- Chapter 407 restores the **flesh-mush and bloody-water stew** image for prisoners liquefied by the descent.
+- Chapter 408 restores actual Daylily-seed insertion into BDISSEM's mouth, her painful struggle, and explicit fear-incontinence/wet-clothing detail.
+- Sanitization fidelity and completeness were rerun across Chapters 403–408.
+- Shifted mapping remains **403→E401 through 408→E406**; target 409/E407 begins *End game (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **End game (409–418)**.
