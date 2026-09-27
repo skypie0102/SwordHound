@@ -102,7 +102,7 @@ Head of one of Donquixote’s maternal-side families.
 
 One of the wealthiest men in the north.
 
-A magnate who had built his fortune transporting tens of thousands of tons of salt across the Empire.
+A magnate who had built his fortune transporting **60,000 tons of salt** across the Empire.
 
 “Hehehe.”
 
