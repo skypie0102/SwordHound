@@ -146,6 +146,8 @@ Boston Terrier carved long red lines through the Poison Humans.
 
 Blood waves rolled across the ground.
 
+Blood rained from the sky.
+
 “Hehehe.”
 
 “I’ve probably killed the most.”
