@@ -224,9 +224,11 @@ Her eyes moved across the prisoners.
 
 “You cannot be educated.”
 
-“You preyed on systems ordinary people worked to build.”
+“You’re garbage.”
 
-“You endangered people who had done nothing to you.”
+“You parasitize the social systems ordinary citizens worked to build.”
+
+“You threaten their safety.”
 
 “And now you ask for rights?”
 
@@ -482,11 +484,11 @@ He pulled the baton free.
 
 Pal vomited.
 
-Blood.
+Blood tears.
 
-Saliva.
+Snot.
 
-Tears.
+Sweat.
 
 Then—
 
@@ -502,7 +504,7 @@ Kirko stammered.
 
 She had never imagined needing rescue from the man everyone called Stupid Garam.
 
-Rotten Dog.
+Dog Who Eats Shit.
 
 Then—
 
