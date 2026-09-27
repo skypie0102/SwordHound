@@ -9,8 +9,8 @@
       350
     ],
     "family_qa_path": "qa/families/key-man-0348-0350.md",
-    "family_qa_sha": "110ff172bc3f1dade8afa6cc0191200eb7e19227",
-    "status": "pass"
+    "family_qa_sha": "56c2212b539fa289c866953613a545f356e3180d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/348.txt",
@@ -29,10 +29,21 @@
   "qa": {
     "path": "qa/chapter-0348.md",
     "blob_sha": "f61c42d6e6ab621b05b1445f284a5f13e921e639",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local terms are not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "documented_correction": "Chinese 'we are not human' corrected to 'we are human' from immediate demon-gate context and aligned E346."
+  "accepted_date": "2026-09-27",
+  "documented_correction": "Chinese 'we are not human' corrected to 'we are human' from immediate demon-gate context and aligned E346.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      348,
+      350
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
