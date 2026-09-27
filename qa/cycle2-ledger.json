@@ -2840,7 +2840,15 @@
         340
       ],
       "boundary_review_file": "qa/cycle2/boundary/trap-0339-0340.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-27",
+      "phase4_manuscript_changed_chapters": [
+        339,
+        340
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapters 339-340 remediated and fully rebound."
     },
     {
       "index": 81,
@@ -24867,15 +24875,19 @@
         "Cycle 2 Phase 1 FAIL: the source explicitly states Vikir is not wearing clothes and his naked skin touches the bed; the draft softens this to vague 'uncovered skin.'",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/trap-0339-0340.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Vikir's source-explicit no-clothes/naked-skin state on waking in Lost Paradise is softened to vague uncovered skin."
       ],
       "completeness_review_file": "qa/cycle2/completeness/trap-0339-0340.md",
       "boundary_review_file": "qa/cycle2/boundary/trap-0339-0340.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 340,
@@ -24926,15 +24938,19 @@
         "Cycle 2 Phase 1 FAIL: Dolores's source-explicit affectionate/loving gaze toward Vikir is softened to generic warmth in her eyes.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/trap-0339-0340.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Dolores's explicitly affectionate/loving gaze is softened; the one-reply letter limit and Hugo's high-cholesterol bait detail are also omitted/generalized."
       ],
       "completeness_review_file": "qa/cycle2/completeness/trap-0339-0340.md",
       "boundary_review_file": "qa/cycle2/boundary/trap-0339-0340.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 341,
@@ -39283,22 +39299,22 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 174,
-    "remediation_remaining_chapters": 99,
-    "families_completed": 59,
+    "remediation_completed_chapters": 176,
+    "remediation_remaining_chapters": 97,
+    "families_completed": 60,
     "last_completed_family": {
-      "name": "The Mating Room",
-      "start": 333,
-      "end": 338
-    },
-    "next_family": {
       "name": "Trap",
       "start": 339,
       "end": 340
     },
-    "earliest_remediation_chapter": 339,
-    "manuscript_edits": 173,
-    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; The Drinking Game 152-154; and How to Keep Your Night Shift Employees Safe 155-157 complete; and Familiar Face 158-161 complete; Sin and Punishment 162-169 complete; The Anti-Columnist 172-175 complete; The 99 Hits With 100 Shots 176-178 complete; Midterm Random Defense 179-185 complete; Aftermath 186-189 complete; Attack Land 190-196 complete; Preparing for the Festival 197 complete; The Corpse Queen 198-202 complete; Mixed Bath 203-205 complete; Festival Night 206-215 complete; That Day, Him and Me 220-224 complete; Tuition 225-233 complete; Suspicion 234-235 complete; National University League 236-244 complete; Survival Contest 245-249 complete; Five Stars 253-254 complete; The Grave of Swords 255-260 complete; The Inverted Pentagram 261-263 complete; The Season of Redemption 264-267 complete; The Eucharist 268-269 complete; Rich Friends 270-272 complete; Money War 273-278 complete; What Money Can't Buy 279-282 complete; Power Inflation 283-290 complete; The Successors 291-292 complete; Confessions 293-295 complete; Last Semester 296-298 complete; The Shadowless King of the Black Sea 326-330 complete; Draw 331-332 complete; The Mating Room 333-338 complete",
+    "next_family": {
+      "name": "Private Life",
+      "start": 341,
+      "end": 342
+    },
+    "earliest_remediation_chapter": 341,
+    "manuscript_edits": 175,
+    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; The Drinking Game 152-154; and How to Keep Your Night Shift Employees Safe 155-157 complete; and Familiar Face 158-161 complete; Sin and Punishment 162-169 complete; The Anti-Columnist 172-175 complete; The 99 Hits With 100 Shots 176-178 complete; Midterm Random Defense 179-185 complete; Aftermath 186-189 complete; Attack Land 190-196 complete; Preparing for the Festival 197 complete; The Corpse Queen 198-202 complete; Mixed Bath 203-205 complete; Festival Night 206-215 complete; That Day, Him and Me 220-224 complete; Tuition 225-233 complete; Suspicion 234-235 complete; National University League 236-244 complete; Survival Contest 245-249 complete; Five Stars 253-254 complete; The Grave of Swords 255-260 complete; The Inverted Pentagram 261-263 complete; The Season of Redemption 264-267 complete; The Eucharist 268-269 complete; Rich Friends 270-272 complete; Money War 273-278 complete; What Money Can't Buy 279-282 complete; Power Inflation 283-290 complete; The Successors 291-292 complete; Confessions 293-295 complete; Last Semester 296-298 complete; The Shadowless King of the Black Sea 326-330 complete; Draw 331-332 complete; The Mating Room 333-338 complete; Trap 339-340 complete",
     "checkpoint_date": "2026-09-27",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits.",
     "open_structural_failures": [],
