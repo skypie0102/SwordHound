@@ -332,6 +332,8 @@ the boy humiliated a professor who deliberately asked impossible questions.
 
 Even that harsh professor acknowledged it.
 
+**931 out of 990.**
+
 A score far above the girl’s own.
 
 Her result—
@@ -354,7 +356,9 @@ for the first time in her life—
 
 she wanted to understand another person.
 
-The girl knew she was attractive.
+The girl knew she was pretty.
+
+She had a good figure.
 
 Smart.
 
@@ -694,7 +698,7 @@ she spoke faster.
 
 “I’m pretty.”
 
-“I’m healthy.”
+“I have a good figure.”
 
 “I’m young.”
 
