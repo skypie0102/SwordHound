@@ -16,6 +16,8 @@ Businesspeople held meetings.
 
 Young couples walked arm in arm.
 
+When a pretty girl or handsome boy hurried past, nearby gazes followed for several seconds before turning forward again.
+
 The smell of flowers drifted from one shop.
 
 Sweet egg bread from another.
