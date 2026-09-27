@@ -11,7 +11,7 @@
 **Cycle-2 completeness revalidated:** 500 / 500 — Phase 2 COMPLETE — 229 PASS / 271 FAIL
 **Cycle-2 boundary/alignment revalidated:** 500 / 500 — 53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED across 118 / 118 families  
 **Confirmed Cycle-2 failures:** 200 Phase-1 sanitization FAIL chapters plus 271 Phase-2 completeness FAIL chapters; 198 completeness failures overlap Phase-1 FAILs and 73 are additions beyond the Phase-1 FAIL queue (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499), for 273 unique remediation chapters; remediation deferred to Phase 4
-**Current audit stage:** Phase 4 ACTIVE — 77 affected families complete through Dead Man Walking (396–398); 210/273 remediation chapters complete; next affected family Black Tongue (399–402)
+**Current audit stage:** Phase 4 ACTIVE — 78 affected families complete through Black Tongue (399–402); 213/273 remediation chapters complete; next affected family Jailbreaker (403–408)
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -161,21 +161,21 @@ Phase 4 is now active. **Camus Morgue (20–25)** has been completed as the firs
 
 ## Phase 4 progress
 
-- Completed affected families: **77**
-- Remediation chapters complete: **210 / 273**
-- Remaining remediation chapters: **63**
-- Phase-4 manuscript edits: **209**
-- Last completed affected family: **Dead Man Walking (396–398)**
-- Latest repaired chapter: **397** — restored cavern-filling terror and the fresh, wriggling piece-of-meat body-horror image
-- Next affected family: **Black Tongue (399–402)**
-- Earliest remaining remediation target: **399**
+- Completed affected families: **78**
+- Remediation chapters complete: **213 / 273**
+- Remaining remediation chapters: **60**
+- Phase-4 manuscript edits: **212**
+- Last completed affected family: **Black Tongue (399–402)**
+- Latest repaired chapters: **399, 400, 401**
+- Next affected family: **Jailbreaker (403–408)**
+- Earliest remaining remediation target: **403**
 - Open structural failures: **none**
 - EPUB assembly remains blocked
 
 ## Exact next actions
 
-1. Continue **Phase 4** with **Black Tongue (399–402)**.
-2. Reread the complete family; remediate flagged Chapters **399–401** against Chinese-primary source while revalidating Chapter **402** unchanged if it remains complete.
-3. Re-run sanitization fidelity and completeness across the family.
+1. Continue **Phase 4** with **Jailbreaker (403–408)**.
+2. Reread the complete family and remediate queued Chapters **403–408** against Chinese-primary source.
+3. Re-run both content gates across all six chapters.
 4. Refresh chapter QA, family QA, provenance, acceptance, tracker, Cycle-2 ledger, and live docs before advancing.
 5. Keep EPUB assembly blocked until Phases 4–6 close.
