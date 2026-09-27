@@ -33,10 +33,10 @@ The rebuild preserves the established family guards:
 
 | Target | Chinese SHA | English witness | English SHA | Rebuilt draft SHA | Rebuilt QA SHA |
 |---|---|---|---|---|---|
-| 333 | `908166ea0e9826b84f08da0b2541b014b49d274f` | E331 | `27c756669761511c9092b03c19b5080a5b39c578` | `47dc62186bd820f6162d6354c06f776cfff965e1` | `0391168a99c32e8cb1bd012a9704ccf4ce44b9d9` |
-| 334 | `8399ca5769472cbd585656fd58b72f750656a1a7` | E332 | `00a9629964030ed509209c36623a267257e4b569` | `cc28c3db579cbb2f15d351cc51918b0a76d21c87` | `21270f42780165b7ed23dc022ea4d3dc3474c13f` |
-| 335 | `21d8ceda6aa1754b6c346e4c80841073bffa8df3` | E333 | `fa205b0d1f05c18a7ea4b5ef2ff2eda73a310eb7` | `9bc52e38f6637e5df4be4f405193a04d07bde31d` | `a4d70383fd4ce01e338081dbc7c8bb2726c700c8` |
-| 336 | `ee50f1b2a2affd75ae91b8b60da82928a16d6a38` | E334 | `a0d6f62e760747fb8e6597d31f11e5e04b296cde` | `1cf18fc771f33a10147b3cd053da2a438c455474` | `e1e07103bd689b7c892c55b26e5d921c5fca75dc` |
+| 333 | `908166ea0e9826b84f08da0b2541b014b49d274f` | E331 | `27c756669761511c9092b03c19b5080a5b39c578` | `ab7a14e8072c30b2b5a628555e379f6b54b480c9` | `d7ed19732a5a2cc0a8bfdfdec4e0fa64f0c691e7` |
+| 334 | `8399ca5769472cbd585656fd58b72f750656a1a7` | E332 | `00a9629964030ed509209c36623a267257e4b569` | `93d7716aadd71d8ebec6823aa74e6efb27672a92` | `a1fd4eb073217bb45310ac93a5ebd36c23f14f04` |
+| 335 | `21d8ceda6aa1754b6c346e4c80841073bffa8df3` | E333 | `fa205b0d1f05c18a7ea4b5ef2ff2eda73a310eb7` | `283a329774a088335a489ab32d21965db6befdbb` | `b09e359c9677cf545fbdc3954a393bacad4ac111` |
+| 336 | `ee50f1b2a2affd75ae91b8b60da82928a16d6a38` | E334 | `a0d6f62e760747fb8e6597d31f11e5e04b296cde` | `273735083efc1d913600949541637b5fb7946602` | `2eddc923332b178f3781070c4c633cc4f5cc2af7` |
 | 337 | `48614b8c2452f89b36f90fa9ec760515eab762b4` | E335 | `e9916ae95a1142a9fb2051ab6f7c5c1d79f76ab5` | `11229fda596cf61f833f264b8afb00b78b06ae7c` | `32ee84b252c53fc78ca8b3cc35677e426d1e71f3` |
 | 338 | `3d66fd957f85a924c748bfba90500637e809f89c` | E336 | `092580cebd87dacb818b94da1aedcc4009ac504d` | `77f14cbcb9076e52d5444e1f2a71def4ab00536b` | `a7a2a0b9f76d4750a09f62d9774789bc37236620` |
 
@@ -107,3 +107,20 @@ Mapping remains **333→E331 through 338→E336**.
 ## Verdict
 
 **PASS.** Chapters 333–338 have been rebuilt for complete Chinese-source coverage. Initial-priority targets **333 and 334** are resolved.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 333 restores the Collection Room prisoners as looking already **mad** and the source's direct reproductive-sexual-behavior definition of mating, kept as coercive laboratory mechanics rather than romance.
+- Chapter 334 restores the Giant Mantis pair's heavy/irregular breathing and blood-red appetite-like stare, the female's back/hindquarters presentation under the mist, Dragon Majin hindquarter restraint of both specimens, and the explicit forcibly-pregnant transfer to the Spawning Room.
+- Chapter 335 restores Sinclaire's **black sleeveless shirt** state and the Return Scroll consequence that a user is reclassified among prior occupants and may create future victims for later challengers.
+- Chapter 336 restores the source-explicit naked rear embrace / direct skin contact strictly as hypothermia treatment and restores the mist-driven neck-contact sequence in clinical coercive terms; no age is inferred beyond the source.
+- Chapters 337–338 were reread against Chinese-primary sources and remain complete without manuscript changes.
+- Sanitization fidelity and completeness were rerun across Chapters 333–338.
+- Mapping remains **333→E331 through 338→E336**; target 339 begins *Trap (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Trap (339–340)**.
