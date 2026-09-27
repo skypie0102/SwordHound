@@ -9,8 +9,8 @@
       278
     ],
     "family_qa_path": "qa/families/money-war-0273-0278.md",
-    "family_qa_sha": "55c4937edaf105e8beca016dc694d4fdedf415f0",
-    "status": "pass"
+    "family_qa_sha": "bddac9b4e79e2582574e8f216ef9549e3b9d354a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/276.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0276.md",
-    "blob_sha": "84dcae9e073c3407cae41ea5fe14be6ccf85ad8e"
+    "blob_sha": "0e1696a83e4ee3d747e0ca004a75b45288f974be"
   },
   "qa": {
     "path": "qa/chapter-0276.md",
-    "blob_sha": "3f603f83deb69810bda8cc00b9c375177881fd17",
-    "status": "pass"
+    "blob_sha": "8a9a288cbcddbcd5a005f63ade40d16b15a3c5f9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused. Bartolomeo / Sinan Saltsail / Puss in Boots / Juliet / Bahamut remain source-local pending direct access.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      273,
+      278
+    ],
+    "manuscript_changed": true,
+    "note": "restored end-times madness framing and explicit shameless/not-worth-sympathy condemnation"
+  }
 }
