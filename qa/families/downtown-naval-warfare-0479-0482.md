@@ -28,3 +28,18 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-28  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 480 restores the source's **peeled sea-skin** tsunami metaphor and removes an unsupported Dolores interpretation.
+- Chapter 482 restores Kraken's **shell / sea-urchin** surface details and the **living-organism bodily-fluid splatter** during D’Ordume's attack.
+- Chapters 479 and 481 were reread against their Chinese-primary sources and remain complete without manuscript changes.
+- Sanitization fidelity and completeness were rerun across Chapters 479–482.
+- Mapping remains **479→E477 through 482→E480**; target 483/E481 begins *The Marquis of Discord (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **The Marquis of Discord (483–489)**.
