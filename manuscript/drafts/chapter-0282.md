@@ -394,6 +394,12 @@ he was a nightmare.*
 
 the worse it becomes.*
 
+The Sixth Corpse—
+
+Dantalian—
+
+was the demon trying to swallow both **Quovadis and Bourgeois**.
+
 Now Vikir understood why the Sixth had chosen Bourgeois.
 
 Money—
@@ -416,7 +422,7 @@ Hugo’s father—
 
 had coveted Bartolomeo’s talent.
 
-*Then the body itself is exceptionally gifted.*
+*Then his physical qualities are nearly comparable to Hugo’s.*
 
 And now—
 
