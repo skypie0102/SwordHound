@@ -9,8 +9,8 @@
       489
     ],
     "family_qa_path": "qa/families/marquis-discord-0483-0489.md",
-    "family_qa_sha": "c66f9e824e177b7b080755602464194b71d1756b",
-    "status": "pass"
+    "family_qa_sha": "e2fdcab9b47fb4998933f7d1c825fe9193dc3628",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/485.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0485.md",
-    "blob_sha": "5cbe1b2ffec44202a202bf89b742825ac720511e"
+    "blob_sha": "04ec30ba8f96cff5dcc1fd82dba4972f4de586ba"
   },
   "qa": {
     "path": "qa/chapter-0485.md",
-    "blob_sha": "b15d8adc61a75b2b5245fabab3d26768572816a2",
-    "status": "pass"
+    "blob_sha": "6328a19ea52fd3a9fd67f8d7cf6812ce1ee7dcb1",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom page access remained robots-blocked; established glossary/indexed forms were reused and new source-local forms were not falsely presented as freshly wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-28",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-28",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      483,
+      489
+    ],
+    "manuscript_changed": true,
+    "note": "restored bloody tears, rupturing-intestines comparison, and pungent eyelid smoke"
+  }
 }
