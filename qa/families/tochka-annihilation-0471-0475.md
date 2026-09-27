@@ -33,3 +33,20 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-28  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 471 is a **discovery-note misattribution resolved without manuscript change**: the Phase-2 700-knight finding belongs to Chinese C472, not C471.
+- Chapter 472 restores **more than a dozen heads per Beelzebub swing** and exactly **700 knights** following the detachment turn.
+- Chapter 473 restores Vikir splitting a giant Poison Human's head **like a watermelon**.
+- Chapter 474 removes invented fingers/teeth/eyes injuries, restores enemies' **heads split open and bleeding**, and restores Juskin's **rain of flesh and blood**.
+- Chapter 475 restores the **incomprehensible and unkillable** calamity descriptor and Vikir **tearing into Flauros's heart**.
+- Sanitization fidelity and completeness were rerun across Chapters 471–475.
+- Mapping remains **471→E469 through 475→E473**; target 476/E474 begins *Knowing the Fate of My Father (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear. *Knowing the Fate of My Father (476–477)* has no Phase-4 remediation targets; continue to the separate affected target **Tochka Annihilation Battle (6) (478)**.
