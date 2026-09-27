@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/335.txt` — `21d8ceda6aa1754b6c346e4c80841073bffa8df3`
 - English witness: **E333** — `fa205b0d1f05c18a7ea4b5ef2ff2eda73a310eb7`
-- Rebuilt draft: `manuscript/drafts/chapter-0335.md` — `9bc52e38f6637e5df4be4f405193a04d07bde31d`
+- Rebuilt draft: `manuscript/drafts/chapter-0335.md` — `283a329774a088335a489ab32d21965db6befdbb`
 
 ## Completeness findings
 - Historical draft was closer than 333–334 but still compressed the full temperature-pressure setup, Floor5 mission text, first murder, Sinclaire's attempted action, Tudor's pre-regression parallel, Return Scroll implications, and Vikir's observation of neighboring cages.
@@ -21,3 +21,14 @@
 - PASS — Return Scroll resets Level to1 but preserves accumulated stats and future mission knowledge; survival remains more important than Level.
 - PASS — Vikir recognizes Sinclaire's hypothermia and studies adjacent cages to infer that the laboratory is trying to force body-heat sharing.
 - PASS — soaked clothing removal/body contact is framed only as survival treatment under coercive environmental pressure.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored Sinclaire's **black sleeveless shirt** state during the cold phase and the Return Scroll consequence that a user becomes classified among the tower's prior occupants and can create future victims for later challengers.
+
+The complete Mating Room family was reread after remediation. Chapters 337–338 remain manuscript-unchanged and pass both Cycle-2 content gates. Mapping remains **333→E331 through 338→E336**; target 339 begins *Trap (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Mating Room family QA.
