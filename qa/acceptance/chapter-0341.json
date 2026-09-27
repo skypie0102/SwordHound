@@ -2,8 +2,8 @@
   "chapter": 341,
   "title": "Private Life (1)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Private Life",
     "range": [
@@ -11,8 +11,8 @@
       342
     ],
     "family_qa_path": "qa/families/private-life-0341-0342.md",
-    "family_qa_sha": "16ec368c5a8b210a2b81391bf1434893f84147a1",
-    "status": "pass"
+    "family_qa_sha": "9665af7554cf8aec6d77516d5779fc90494d1759",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/341.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-339.xhtml",
     "english_reference_sha": "40a3d680cae8e17a3f464c1ec99a1903cdcdfe79",
     "draft_path": "manuscript/drafts/chapter-0341.md",
-    "draft_sha": "3b4cc4f4a71ef03e6816f4223e57ec3fd78ecb4a",
+    "draft_sha": "ffd16a2d606bd4c1c0804755d6bebf58e0019b03",
     "qa_path": "qa/chapter-0341.md",
-    "qa_sha": "44cdfc6c8537972e1ecd5d2de4b0ef86dd6cfe5e",
+    "qa_sha": "2460f4da60c5b1718ca0b8cab8c52efb72ef0009",
     "provenance_path": "editorial/provenance/chapter-0341.json",
-    "provenance_sha": "19595334237af081996977e6cefdaa50099b5a92"
+    "provenance_sha": "f9f5a423f04c3afc865a134754215d2d899f2ddc"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Ballak-family material from target343 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored tight-embrace bath entry and Daylily victims as food"
+  }
 }
