@@ -9,8 +9,8 @@
       384
     ],
     "family_qa_path": "qa/families/kennel-0382-0384.md",
-    "family_qa_sha": "77a570da8dbe91cebe52dfc242cc7da165367995",
-    "status": "pass"
+    "family_qa_sha": "8f824cb9ad094e7fdb4a2d9edaa99bbec8c4df24",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/383.txt",
@@ -29,8 +29,19 @@
   "qa": {
     "path": "qa/chapter-0383.md",
     "blob_sha": "fa42d9f9fa1a8f8621f4dd90899f413de8272ef7",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      382,
+      384
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
