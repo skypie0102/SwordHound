@@ -2,8 +2,8 @@
   "chapter": 432,
   "title": "The Lion King (3)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "The Lion King",
     "range": [
@@ -11,8 +11,8 @@
       433
     ],
     "family_qa_path": "qa/families/lion-king-0430-0433.md",
-    "family_qa_sha": "905fa2eded9bd217115181dd2fb730bb4f85d202",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "8c775da59f3dbb74656632fd35eb7866d8e2d705",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/432.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-430.xhtml",
     "english_reference_sha": "31254a3a4408772e5865d57b958d6c8dcbba8206",
     "draft_path": "manuscript/drafts/chapter-0432.md",
-    "draft_sha": "d6df6cbc9ed4f04e3df7e703b6b86c251eb81e16",
+    "draft_sha": "d1396a6771480a2719a164780d1f5d245ce39e4a",
     "qa_path": "qa/chapter-0432.md",
-    "qa_sha": "349f2d5f82034f17c7fbfed0ee3bd7c663b91efd",
+    "qa_sha": "172ae6d400f65bb6cd081e6fb88803f6487df578",
     "provenance_path": "editorial/provenance/chapter-0432.json",
-    "provenance_sha": "76efd9ed199793d2a14c324841dced8238ae4f99"
+    "provenance_sha": "5cf88102d70cdd1f39ccc748aa0e451512023a80"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
@@ -44,5 +44,12 @@
     "family_evidence": "qa/families/lion-king-0430-0433.md",
     "initial_priority_target": false
   },
-  "authority_note": "Chimeries induces recklessness/irrational confidence; prior human agency is not erased."
+  "authority_note": "Chimeries induces recklessness/irrational confidence; prior human agency is not erased.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored fresh-internal-organs and swallow-whole possession imagery"
+  }
 }
