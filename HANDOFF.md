@@ -11,7 +11,7 @@
 **Cycle-2 completeness revalidated:** 500 / 500 — Phase 2 COMPLETE — 229 PASS / 271 FAIL
 **Cycle-2 boundary/alignment revalidated:** 500 / 500 — 53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED across 118 / 118 families  
 **Confirmed Cycle-2 failures:** 200 Phase-1 sanitization FAIL chapters plus 271 Phase-2 completeness FAIL chapters; 198 completeness failures overlap Phase-1 FAILs and 73 are additions beyond the Phase-1 FAIL queue (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499), for 273 unique remediation chapters; remediation deferred to Phase 4
-**Current audit stage:** Phase 4 ACTIVE — 79 affected families complete through Jailbreaker (403–408); 219/273 remediation chapters complete; next affected family End game (409–418)
+**Current audit stage:** Phase 4 ACTIVE — 80 affected families complete through End game (409–418); 224/273 remediation chapters complete; next affected family Goodbye, Nouvelle Vague (419–421)
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -161,21 +161,20 @@ Phase 4 is now active. **Camus Morgue (20–25)** has been completed as the firs
 
 ## Phase 4 progress
 
-- Completed affected families: **79**
-- Remediation chapters complete: **219 / 273**
-- Remaining remediation chapters: **54**
-- Phase-4 manuscript edits: **218**
-- Last completed affected family: **Jailbreaker (403–408)**
-- Latest repaired chapters: **403–408**
-- Next affected family: **End game (409–418)**
-- Earliest remaining remediation target: **409**
+- Completed affected families: **80**
+- Remediation chapters complete: **224 / 273**
+- Remaining remediation chapters: **49**
+- Phase-4 manuscript edits: **223**
+- Last completed affected family: **End game (409–418)**
+- Latest repaired chapters: **409, 412, 413, 416, 417**
+- Next affected family: **Goodbye, Nouvelle Vague (419–421)**
+- Earliest remaining remediation target: **421**
 - Open structural failures: **none**
 - EPUB assembly remains blocked
 
 ## Exact next actions
 
-1. Continue **Phase 4** with **End game (409–418)**.
-2. Reread the complete family and remediate queued Chapters **409, 412, 413, 416, 417** while revalidating the remaining family members.
-3. Re-run both content gates across the full family.
-4. Refresh chapter QA, family QA, provenance, acceptance, tracker, Cycle-2 ledger, and live docs before advancing.
-5. Keep EPUB assembly blocked until Phases 4–6 close.
+1. Continue **Phase 4** with **Goodbye, Nouvelle Vague (419–421)**, focusing on queued Chapter **421** while rereading the complete family.
+2. Re-run sanitization and completeness across Chapters 419–421 after any repair.
+3. Refresh chapter QA, family QA, provenance, acceptance, tracker, Cycle-2 ledger, and live docs before advancing.
+4. Keep EPUB assembly blocked until Phases 4–6 close.
