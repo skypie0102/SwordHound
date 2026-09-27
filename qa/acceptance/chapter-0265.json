@@ -2,8 +2,8 @@
   "chapter": 265,
   "title": "The Season of Redemption (2)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Season of Redemption",
     "range": [
@@ -11,8 +11,8 @@
       267
     ],
     "family_qa_path": "qa/families/season-redemption-0264-0267.md",
-    "family_qa_sha": "d4e724f3a13b95f99493fe03e36c5c1d8eb6c2f8",
-    "status": "pass"
+    "family_qa_sha": "c8458b703c0e032a9d91ec3ce127bba8e220834f",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/265.txt",
@@ -20,13 +20,20 @@
     "english_reference_path": "source/chapters/chapter-263.xhtml",
     "english_reference_sha": "c9f5db6979be1014fa156617ad4a0f923cf70bb6",
     "draft_path": "manuscript/drafts/chapter-0265.md",
-    "draft_sha": "3934b934f330352f2ea34eaf4d71650e3cc1ddc6",
+    "draft_sha": "a21803b83bc20be4bf38c6428a05446373792465",
     "qa_path": "qa/chapter-0265.md",
-    "qa_sha": "9dfc222f0e59c22fef4c44d4bdf91dfb876a4514",
+    "qa_sha": "ff859ea495a0ee29c99f7ca4129a9c19a6f0f45d",
     "provenance_path": "editorial/provenance/chapter-0265.json",
-    "provenance_sha": "579b6937d3cd909f9942ab57f5bb755039d145af"
+    "provenance_sha": "539d0f5336eab9c1ebb25ecce6342fe538048a15"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored tongue-root curling / complete throat-blockage poison mechanism"
+  }
 }
