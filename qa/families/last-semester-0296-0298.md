@@ -8,19 +8,19 @@
 ## Family decisions
 
 - **Last Semester** is a three-part family.
-- Banshee’s serpent/unicorn nightmare remains symbolic setup only; no identity mapping is asserted.
+- Banshee’s serpent/unicorn nightmare remains symbolic setup only; the serpent’s left eye is **abnormally bright** with no unsupported color assignment, and no identity mapping is asserted.
 - Winston’s return centers on campus greening and mixed old/new magic-stone barrier reinforcement.
 - Winston personally makes bracelet keys that pass the new barriers.
 - Banshee’s crime analysis establishes an abnormal influx of criminals plus reduced arrest rates and possible advance warning / organized hiding support.
 - Winston refuses to postpone parent visitation because Colosseo will contain an unusually concentrated group of powerful faculty and families.
-- Professor Sadi’s disciplinary thread remains tied to deteriorated Imperial Guard performance and Winston’s continued protection.
+- Professor Sadi’s disciplinary thread remains tied to deteriorated Imperial Guard performance, Banshee’s explicit present-day **failure/loser** condemnation, and Winston’s continued protection.
 - Banshee’s private investigator links Winston’s protection of Sadi to the **Forty-Seven People Riot**, but the reason remains unrevealed.
 - Forty-Seven People / Forty-Seven Families Riot: 35 years ago, 47 family heads staged a coup; 46 were executed; one survivor remains in Nouvelle Vague; motive unresolved.
 - The new female Hot Department enrollee from House Morgue is announced but **not named** within this family.
 - Parent visitation preserves the Tudor/Bianca and Granola/Sinclaire final-match setup.
 - Dolores seeks Vikir’s help to speak with Sinclaire after the Bourgeois fallout.
 - Pomeranian’s “Daddy” shout is a comic misunderstanding from Dolores’s point of view; Vikir remains an uncle figure.
-- Pomeranian’s Wraith Tree continues growing and her nightmares remain part of the magical/spiritual thread.
+- Pomeranian’s Wraith Tree continues growing and her nightmares remain part of the magical/spiritual thread; her loyalty to Vikir is source-explicitly extreme enough that she would obey him **even at the cost of death**.
 - The elderly Quovadis visitor is source-revealed as **Nabokov I Quovadis**, Pope/head of Quovadis and oldest surviving classical Saintess.
 - Vikir’s remembered history says Humbert was believed to have poisoned Nabokov; Humbert’s disappearance changes that future.
 - Nabokov’s cracked-ladle parable is preserved without forcing a single interpretation.
@@ -33,3 +33,18 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 296 removes the unsupported **golden** serpent-eye color and restores Banshee’s direct condemnation of Sadi as a **failure** immersed in alcohol, complaining of unfair fate and escaping reality.
+- Chapter 297 restores Pomeranian’s source-level obedience statement: she would follow Vikir’s words **even at the cost of death**.
+- Chapter 298 was reread against its Chinese-primary source and remains complete without manuscript changes.
+- Sanitization fidelity, completeness, and boundary alignment were rerun across Chapters 296–298.
+- Mapping remains **296→E294, 297→E295, 298→E296**; target 299/E297 begins *The Age of the Warmonger (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **The Age of the Warmonger (299–306)**, with remediation targets Chapters **300, 301, 302, 303, 305, 306**.
