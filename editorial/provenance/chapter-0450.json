@@ -9,8 +9,8 @@
       453
     ],
     "family_qa_path": "qa/families/declaration-of-war-0450-0453.md",
-    "family_qa_sha": "5fa4025ba6ebac5aa2b050f55fbe56de31015113",
-    "status": "pass"
+    "family_qa_sha": "874f4da41c161cb93a09d05b1b37d04ba8bc490f",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/450.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0450.md",
-    "blob_sha": "3b8f754f0e3b8783bab07e88dc2045c918a7858e"
+    "blob_sha": "8ae4ebab70d84dcef81dd3e1d808aa74027c5fb5"
   },
   "qa": {
     "path": "qa/chapter-0450.md",
-    "blob_sha": "63b8269369f7877be4236d4033d26a125bdb5b5b",
-    "status": "pass"
+    "blob_sha": "ec1ad23e01fecca51c7d2340c535a863d8fd83bd",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Fresh Fandom indexing confirms Juskin de Leviathan, Hopps de Leviathan, Raspane Morgue, and later Corpse canon. Later true-name information is reveal-guarded unless exposed by the chapter.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "reveal_guard": "First Corpse and Second Corpse remain unnamed in production; portrait target remains unidentified."
+  "accepted_date": "2026-09-27",
+  "reveal_guard": "First Corpse and Second Corpse remain unnamed in production; portrait target remains unidentified.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      450,
+      453
+    ],
+    "manuscript_changed": true,
+    "note": "restored second-brother referent, grotesque transformation, and >10 prior companions"
+  }
 }
