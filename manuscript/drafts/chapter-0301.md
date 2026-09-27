@@ -6,9 +6,9 @@ BOOM!
 
 Aura spun like a wheel.
 
-Criminals disappeared beneath it.
+Countless criminals were ground into meat paste beneath it.
 
-A man stood silently in the rain of blood.
+A man stood silently in a downpour of blood and flesh.
 
 Black hair.
 
@@ -230,7 +230,7 @@ Axe.
 
 Too much force.
 
-The attacker died instantly.
+The attacker’s head and abdomen burst apart, killing him on the spot.
 
 Tudor froze.
 
@@ -416,7 +416,7 @@ Too late.
 
 KRRRRK!
 
-Black spikes burst upward.
+Black iron spikes burst from the ground, piercing the criminals from the lower body through the tops of their heads and hoisting them into the air.
 
 Then red fire.
 
