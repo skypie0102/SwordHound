@@ -29,3 +29,20 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-28  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 496 restores the omitted parallel-Camus clash, Seere-as-shield beat, Seere's “not Decarabia” protest, manicure joke, and reciprocal kill threats before Vikir mediates.
+- Chapter 497 restores the exact Full Revival material quantities and the count of **fifteen trace elements**.
+- Chapter 498 restores the Magic Abyss reservoir scale as **140 trillion times all the water on Earth**.
+- Chapter 499 corrects Pomeranian to **seven or eight years old** and removes the unsupported triplet-vs-triplet sparring insertion.
+- Chapter 500 restores **Hongmen / Great Door**, the whole-body flesh-cutting pain image on each Grave-of-Swords step, and the **red, fishy-smelling** blade droplets.
+- Sanitization fidelity and completeness were rerun across Chapters 496–500 after repair.
+- Target 496 retains the documented shared-raw split inside `source/chinese/chapters/495.txt`; E493 remains the segmented embedded English witness for Side Stories 1–5.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear. This empties the **273-chapter Phase-4 remediation queue**.
