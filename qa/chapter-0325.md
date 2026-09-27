@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/325.txt` — `77e4bb6811fc61a766c207f6b1868785ea18ceaf`
 - English witness: **E323** — `095731276976de1b760c434e81ae924522b42e4e`
-- Rebuilt draft: `manuscript/drafts/chapter-0325.md` — `4ace3d86094bcc148ecf463afc19702790a31393`
+- Rebuilt draft: `manuscript/drafts/chapter-0325.md` — `10312e94f938572446cbb848f0a88b7dd40c0562`
 
 ## Completeness findings
 - Historical draft compressed Dogma’s first-year flashback, Dolores umbrella conversation, transformation anatomy/profile, ally-resource logic, full Black Sea kill, reverse Candy Shop economics, Conversion Bug losses, and final white-candy unlock.
@@ -25,3 +25,14 @@
 - PASS — Baby Madam + Conversion Bug produces ~30 conversions, mostly poor red/blue rolls and about ten useful Agility results.
 - PASS — Highbro recovers 12 bloodstained candies from Dogma’s dead followers, enabling one final roll.
 - PASS — final white candy unlocks **Magic Resistance +1**, completing the sixth tower-stat slot.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the future partner's source-level **well-built** descriptor and the Conversion Bug's eat/excrete/rear-tremble bodily mechanic. Dolores's explicitly underage body-attractiveness phrase remains safety-limited and is not sexualized.
+
+The complete Underdogma family was reread after remediation. Chapters 321 and 324 remain manuscript-unchanged and pass both Cycle-2 content gates. Shifted mapping remains **321→E319 through 325→E323**; target 326 begins *The Shadowless King of the Black Sea (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Underdogma family QA.
