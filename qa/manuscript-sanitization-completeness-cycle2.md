@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 4 ACTIVE — 219/273 remediation chapters complete; next affected family End game (409–418)
+**Current stage:** Phase 4 ACTIVE — 224/273 remediation chapters complete; next affected family Goodbye, Nouvelle Vague (419–421)
 
 ## Progress
 
@@ -88,11 +88,11 @@ Any new exception must be added to source/chinese/chapter-exceptions.tsv and ref
 
 **Status:** ACTIVE  
 **Remediation population:** 273 unique chapters  
-**Completed remediation chapters:** 219  
-**Remaining remediation chapters:** 54  
-**Completed affected families:** 79  
-**Current next family:** End game (409–418)  
-**Earliest remaining target:** Chapter 409
+**Completed remediation chapters:** 224  
+**Remaining remediation chapters:** 49  
+**Completed affected families:** 80  
+**Current next family:** Goodbye, Nouvelle Vague (419–421)  
+**Earliest remaining target:** Chapter 421
 
 **Goal:** repair all Cycle-2 failures without fragmenting family continuity.
 
