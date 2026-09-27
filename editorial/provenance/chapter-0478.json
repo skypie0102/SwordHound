@@ -9,8 +9,8 @@
       478
     ],
     "family_qa_path": "qa/families/tochka-annihilation-0478.md",
-    "family_qa_sha": "acd55cbb09877b8564ad5e1e8b3ec5a8d016dad2",
-    "status": "pass"
+    "family_qa_sha": "505caedd9088d907e164682e22cadbc2f97efea7",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/478.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0478.md",
-    "blob_sha": "cf22a73df682478b39bd334136b4fa5e46295509"
+    "blob_sha": "304b67e28a98f75a8e0ae012dcd975a2b8a0f59c"
   },
   "qa": {
     "path": "qa/chapter-0478.md",
-    "blob_sha": "b08ddbf84b796856aa829c6429ae895b4a57793b",
-    "status": "pass"
+    "blob_sha": "8e06e59815bc3603e0e0b4412f12e4eff1fbd49d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; established glossary canon controls recurring forms.",
   "key_reveal": "Flauros transferred into Thomas de Leviathan but is ultimately destroyed by Le Rouge et Le Noir Mountain hazards and a soul-feeding mosquito.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-28",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-28",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      478,
+      478
+    ],
+    "manuscript_changed": true,
+    "note": "restored complete skull-shattering force of Oxbear strike"
+  }
 }
