@@ -17,7 +17,7 @@
 - Pedro/Isolde/Thomas demonize in target360 and are overwhelmed by Vikir’s post-tower Black Sun.
 - Pedro’s attempted escape/self-destruction is stopped in fantasy-combat terms only; no actionable real-world instructions are added.
 - Target361 reveals the three masters as Passamonte / Madeline / Hobbes and source-local demon true names **Chimeries / Andrealphus / Flauros**.
-- Interrogation remains narrative-only.
+- Interrogation remains narrative-only; the source-level sequence retains Vikir slowly cutting all three captives with a twisted iron shard and their repeated screams.
 - Banshee, Mozgus, and Lovebad independently urge Vikir to escape.
 - Isabella reveals Baskerville’s secret order to free Vikir even if the convoy must be sunk.
 - Vikir refuses every escape offer and states he has waited nineteen years to enter Nouvelle Vague.
@@ -33,3 +33,18 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapters 359 and 362 were reread against their Chinese-primary sources and remain complete without manuscript changes.
+- Chapter 360 restores the Black Sun aftermath in which **only Isolde's and Thomas's heads and torsos remain**.
+- Chapter 361 restores Vikir slowly cutting **Pedro, Isolde, and Thomas** with a twisted iron shard, with repeated screams of pain.
+- Sanitization fidelity and completeness were rerun across Chapters 359–362 after repair.
+- Shifted mapping remains **359→E357, 360→E358, 361→E359, 362→E360**; target 363/E361 begins *Ghost Castle of the Ultra-Deep Sea (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Ghost Castle of the Ultra-Deep Sea (363–365)**, with remediation target Chapter **364**.
