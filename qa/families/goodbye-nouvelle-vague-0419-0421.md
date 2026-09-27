@@ -35,7 +35,7 @@ The rebuild preserves all existing continuity guards:
 |---|---|---|---|---|---|
 | 419 | `bee81bcddd981b8c55e41e43325b5f226a30527e` | E417 | `09dd5376dac357eee75935aec25c58b9b11c6128` | `a194af717ea834cf6618d27f7d6bcea5c8747b45` | `bd86b849591c5e85aae2a54371f748c9ab7f0ded` |
 | 420 | `62bd87a75756c3e533f2500f7e7f1197b8306346` | E418 | `4a38069c366e1954569a965446c4a68fb9db2211` | `4115efe3d8f868425a36963f0090251cbdd45531` | `77e5fbf5376cf0216acfb3d01bb6c68d62585376` |
-| 421 | `4bfd6917f6aa7ef680e55dd85f5123f9a223c607` | E419 | `e0fd8dadb91bf4018ffca14d5b2933b345476b22` | `a10d7bc9905a8b643241f4aa3364ace900debbb6` | `3c5c77202543351ca967c9e5bd5c35d236545ada` |
+| 421 | `4bfd6917f6aa7ef680e55dd85f5123f9a223c607` | E419 | `e0fd8dadb91bf4018ffca14d5b2933b345476b22` | `49d692efbfa9fb4cca8e17ddc034152d7564a761` | `4b7f5165f4cc25c239a26565a59aa68404c42a6e` |
 
 Mapping remains **419→E417, 420→E418, 421→E419**.
 
@@ -81,3 +81,18 @@ Mapping remains **419→E417, 420→E418, 421→E419**.
 ## Verdict
 
 **PASS.** Chapters 419–421 have been rebuilt for complete Chinese-source coverage. Priority targets **419–421** are resolved. Confirmed completeness failure **420** is resolved.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapters 419–420 were reread against their governing source evidence and remain complete without manuscript changes.
+- Chapter 421 restores the source-explicit ascent-pressure image of the body being **turned alive into meat paste**.
+- The documented localized Chinese omission in Chapter 419 remains narrowly restored from aligned E417 only; no broader English-primary substitution is introduced.
+- Sanitization fidelity and completeness were rerun across Chapters 419–421.
+- Mapping remains **419→E417, 420→E418, 421→E419**; target **422→E420** begins *How to Become a Wandering Knight (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **How to Become a Wandering Knight (422–424)**.
