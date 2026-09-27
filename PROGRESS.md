@@ -1,5 +1,18 @@
 # Reconstruction Progress
 
+## 2026-09-27 — Cycle 2 Phase 4 — Key man and Outside the Tower complete
+
+Phase 4 remediation/evidence rebinding is authoritative through **Outside the Tower (351–355)**.
+
+- **Key man (348–350): COMPLETE** — Chapters 349–350 repaired; Chapter 348 revalidated unchanged.
+- **Outside the Tower (351–355): COMPLETE** — Chapters 353 and 355 repaired; Chapters 351, 352, and 354 revalidated unchanged.
+- remediation chapters complete: **185 / 273**;
+- remediation chapters remaining: **88**;
+- affected families complete: **64**;
+- manuscript edits: **184**;
+- next affected family: **Crime and Punishment (356–358)**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-27 — Cycle 2 Phase 4 — Private Life complete
 
 Phase 4 remediation/evidence rebinding advanced through **Private Life (341–342)**.
