@@ -180,11 +180,23 @@ could mean the end of the Empire itself.
 
 The two militiamen continued bickering.
 
-The First Prince was visible.
+“Of course the First Prince should take the throne!”
 
-Public.
+“He’s the eldest.”
 
-Active.
+“He’s appeared before the Imperial people for years and always led from the front.”
+
+“That’s how inheritance should work. In my family, the eldest son is expected to inherit everything too.”
+
+The other man laughed.
+
+“Your family is the same as the Imperial Family now?”
+
+“And isn’t your second son smarter than your eldest?”
+
+“What does my family have to do with this?!”
+
+“You brought it up first.”
 
 The Second Prince had not appeared before the people in years.
 
@@ -207,6 +219,8 @@ Donquixote was effectively ruled by the head’s younger brother.
 Usher—
 
 by the head’s younger sister.
+
+Both houses had relatively few direct-line members, which made collateral relatives unusually important in their internal politics.
 
 The argument was crude.
 
@@ -276,17 +290,35 @@ Stories said the Night Walkers could cross thousands of kilometers in a day.
 
 That they destroyed monster hordes.
 
-That refugees following them received food—
+One militiaman leaned forward.
 
-water—
+“I went to the city across from here.”
 
-even divine blessing.
+“They said the Night Walkers appeared, wiped out a monster pack, and led refugees away.”
 
-Whole neighborhoods had abandoned ruined towns to follow them.
+“People who followed them were promised food—”
 
-Some called the stories miracles.
+“water—”
 
-Others called them scams.
+“even divine blessing.”
+
+“About half the city went with them.”
+
+The other man frowned.
+
+“If heroes like that really exist, why haven’t they come here?”
+
+“We can barely survive the monsters anymore.”
+
+“…Maybe they just don’t have enough people.”
+
+“The disaster zone is too wide.”
+
+“Maybe.”
+
+He exhaled.
+
+“Still, having something like that to hope for helps people keep going.”
 
 But everyone knew the names.
 
@@ -316,11 +348,17 @@ Like the Pied Piper of old stories—
 
 the Night Walkers led desperate people toward a distant place of salvation.
 
-Some followed willingly.
+People waited for them with admiration and hope.
 
-Some feared them.
+Others watched with curiosity.
 
-Some mocked them.
+Some felt anxious.
+
+Some stayed vigilant.
+
+Some were afraid.
+
+And skeptics called the whole story ridiculous and mocked it every day.
 
 Everyone talked about them.
 
