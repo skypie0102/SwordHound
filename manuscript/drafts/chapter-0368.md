@@ -284,7 +284,7 @@ Vikir stepped down.
 
 CRUNCH.
 
-The man’s face hit the ground.
+He crushed the pursuing major's face underfoot.
 
 Vikir thought:
 
@@ -458,9 +458,9 @@ He slammed her into the ground.
 
 “Ghk—!”
 
-Kirko coughed—
+Kirko vomited—
 
-rolling.
+rolling across the ground.
 
 Vikir stepped past her.
 
