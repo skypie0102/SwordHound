@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/330.txt` — `922fb5229b5aab3d96370bf12087468e1ff764d2`
 - English witness: **E328** — `59c74dd123755ff13c7aef8557d9814446bc4b90`
-- Rebuilt draft: `manuscript/drafts/chapter-0330.md` — `f770a68fd3bcf27e846253812a4d4266c53a541e`
+- Rebuilt draft: `manuscript/drafts/chapter-0330.md` — `6205e2c913eea1e0d84c1b8629a0a5e5b992a366`
 
 ## Completeness findings
 - Historical draft compressed island-side Sword-Master inference, Commoner-Faction fear/mercy reasoning, field-knot construction, tentacle entanglement, silk extraction, chain ignition, Bianca precedent, and separate achievement notices.
@@ -19,3 +19,14 @@
 - PASS — Bianca's pre-regression flaming-arrow solution against a Daylily field is restored as Vikir's tactical precedent.
 - PASS — system separately recognizes earlier **A+ Majin** clear (Awe-Inspiring) and **S-rank Shadowless King** clear (Impossible).
 - PASS — family ends on the fairy nearly crying: “Who are you? Why are you doing this to me?”
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the official **no more than ten Sword Masters** figure, the line extending from **Baby Madam's butt**, and the Shadowless King being **slowly roasted** while trapped at the surface in poison and fire.
+
+The complete Shadowless King family was reread after remediation. Chapters 327–328 remain manuscript-unchanged and pass both Cycle-2 content gates. Shifted mapping remains **326→E324 through 330→E328**; target 331 begins *Draw (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Shadowless King family QA.
