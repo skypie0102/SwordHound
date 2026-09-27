@@ -9,8 +9,8 @@
       338
     ],
     "family_qa_path": "qa/families/mating-room-0333-0338.md",
-    "family_qa_sha": "e76eff1e4193a6be648f650676db6dad0b8ed1a6",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "4ccd61a7352714147307affbe17e80ab7058b867",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/334.txt",
@@ -24,16 +24,16 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0334.md",
-    "blob_sha": "cc28c3db579cbb2f15d351cc51918b0a76d21c87"
+    "blob_sha": "93d7716aadd71d8ebec6823aa74e6efb27672a92"
   },
   "qa": {
     "path": "qa/chapter-0334.md",
-    "blob_sha": "21270f42780165b7ed23dc022ea4d3dc3474c13f",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "a1fd4eb073217bb45310ac93a5ebd36c23f14f04",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local terms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "documented_corrections": [
     "Chinese post-window 'toad' slips are treated as extraction drift; the creatures remain Giant Mantises."
   ],
@@ -50,5 +50,16 @@
     "family_evidence": "qa/families/mating-room-0333-0338.md",
     "initial_priority_target": true
   },
-  "coercion_guard": "Breeding mechanics remain coercive laboratory specimen management; no romantic framing."
+  "coercion_guard": "Breeding mechanics remain coercive laboratory specimen management; no romantic framing.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      333,
+      338
+    ],
+    "manuscript_changed": true,
+    "note": "restored Giant Mantis mist reaction, hindquarter presentation/restraint, and forcibly-pregnant transfer wording"
+  }
 }
