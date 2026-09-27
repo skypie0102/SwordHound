@@ -23,3 +23,14 @@
 - PASS — selected offering is a socially isolated first-year with poor grades/athletics/no advocates.
 - PASS — his parents and younger siblings are explicitly restored to prevent “surplus” framing from becoming narrator endorsement.
 - PASS — chapter ends exactly when Vikir volunteers to become the food; no anti-Daylily plan is imported early.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the source's degrading mob-state imagery: students bargaining over human lives with **bloodshot eyes** and **spittle flying from their mouths**.
+
+The complete Surplus Man family was reread after remediation. Chapters 314, 315, 317, and 319 remain unchanged and pass both Cycle-2 content gates. Shifted mapping remains **314→E312 through 320→E318**; target 321 begins *Underdogma (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Surplus Man family QA.
