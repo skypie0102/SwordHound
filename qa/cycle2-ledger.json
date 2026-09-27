@@ -2686,7 +2686,16 @@
         325
       ],
       "boundary_review_file": "qa/cycle2/boundary/underdogma-0321-0325.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-27",
+      "phase4_manuscript_changed_chapters": [
+        322,
+        323,
+        325
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapters 322, 323, and 325 remediated and rebound; Chapters 321 and 324 complete-family revalidated unchanged. Chapter 325 retains a documented safety-limited underage body-attractiveness exception."
     },
     {
       "index": 77,
@@ -23705,7 +23714,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/underdogma-0321-0325.md",
       "boundary_review_file": "qa/cycle2/boundary/underdogma-0321-0325.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 322,
@@ -23756,15 +23769,19 @@
         "Cycle 2 Phase 1 FAIL: several source-explicit extreme humiliation examples are generalized/omitted, including the elderly male patron, vagrant-crotch, cooked-son, and feces-eating examples.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/underdogma-0321-0325.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source's elderly-male-patron, vagrant-crotch, cooked-son, and feces-eating historical humiliation examples are generalized or omitted."
       ],
       "completeness_review_file": "qa/cycle2/completeness/underdogma-0321-0325.md",
       "boundary_review_file": "qa/cycle2/boundary/underdogma-0321-0325.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 323,
@@ -23815,15 +23832,19 @@
         "Cycle 2 Phase 1 FAIL: Dogma's source threat to cut off Vikir's singular hand is intensified in the draft to cutting off both 'hands.'",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/underdogma-0321-0325.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Dogma's source threat to cut off Vikir's singular hand is intensified to cutting off both hands."
       ],
       "completeness_review_file": "qa/cycle2/completeness/underdogma-0321-0325.md",
       "boundary_review_file": "qa/cycle2/boundary/underdogma-0321-0325.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 324,
@@ -23882,7 +23903,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/underdogma-0321-0325.md",
       "boundary_review_file": "qa/cycle2/boundary/underdogma-0321-0325.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 325,
@@ -23933,15 +23958,19 @@
         "Cycle 2 Phase 1 FAIL: source-explicit good-figure/body attractiveness wording is sanitized, and Baby Madam's candy excretion/butt-trembling gag is abstracted into generic conversion/output language.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/underdogma-0321-0325.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: source body-attractiveness wording is weakened, and Baby Madam's explicit candy excretion/butt-trembling gag is abstracted into generic conversion language."
       ],
       "completeness_review_file": "qa/cycle2/completeness/underdogma-0321-0325.md",
       "boundary_review_file": "qa/cycle2/boundary/underdogma-0321-0325.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 326,
@@ -39175,21 +39204,21 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 162,
-    "remediation_remaining_chapters": 111,
-    "families_completed": 55,
+    "remediation_completed_chapters": 165,
+    "remediation_remaining_chapters": 108,
+    "families_completed": 56,
     "last_completed_family": {
-      "name": "Surplus Man",
-      "start": 314,
-      "end": 320
-    },
-    "next_family": {
       "name": "Underdogma",
       "start": 321,
       "end": 325
     },
-    "earliest_remediation_chapter": 322,
-    "manuscript_edits": 161,
+    "next_family": {
+      "name": "The Shadowless King of the Black Sea",
+      "start": 326,
+      "end": 330
+    },
+    "earliest_remediation_chapter": 326,
+    "manuscript_edits": 164,
     "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; The Drinking Game 152-154; and How to Keep Your Night Shift Employees Safe 155-157 complete; and Familiar Face 158-161 complete; Sin and Punishment 162-169 complete; The Anti-Columnist 172-175 complete; The 99 Hits With 100 Shots 176-178 complete; Midterm Random Defense 179-185 complete; Aftermath 186-189 complete; Attack Land 190-196 complete; Preparing for the Festival 197 complete; The Corpse Queen 198-202 complete; Mixed Bath 203-205 complete; Festival Night 206-215 complete; That Day, Him and Me 220-224 complete; Tuition 225-233 complete; Suspicion 234-235 complete; National University League 236-244 complete; Survival Contest 245-249 complete; Five Stars 253-254 complete; The Grave of Swords 255-260 complete; The Inverted Pentagram 261-263 complete; The Season of Redemption 264-267 complete; The Eucharist 268-269 complete; Rich Friends 270-272 complete; Money War 273-278 complete; What Money Can't Buy 279-282 complete; Power Inflation 283-290 complete; The Successors 291-292 complete; Confessions 293-295 complete; Last Semester 296-298 complete",
     "checkpoint_date": "2026-09-27",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits.",
