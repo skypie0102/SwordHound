@@ -1,5 +1,19 @@
 # Reconstruction Progress
 
+## 2026-09-27 — Cycle 2 Phase 4 — Warmonger and Hell Tree complete
+
+Phase 4 remediation/evidence rebinding advanced through **Hell Tree (307–313)**.
+
+- **The Age of the Warmonger (299–306): COMPLETE** — Chapters 300–303 and 305–306 repaired; 299 and 304 revalidated unchanged.
+- **Hell Tree (307–313): COMPLETE** — Chapters 307, 311, and 313 repaired; 308–310 and 312 revalidated unchanged.
+- remediation chapters complete: **159 / 273**;
+- remediation chapters remaining: **114**;
+- affected families complete: **54**;
+- manuscript edits: **158**;
+- both original Phase-3 structural failures (**273, 283**) are resolved;
+- next affected family: **Surplus Man (314–320)**, earliest remaining target **316**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-27 — Cycle 2 Phase 4 — Money War complete
 
 Phase 4 remediation/evidence rebinding advanced through **Money War (273–278)**.
