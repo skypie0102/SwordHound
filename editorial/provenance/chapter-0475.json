@@ -9,8 +9,8 @@
       475
     ],
     "family_qa_path": "qa/families/tochka-annihilation-0471-0475.md",
-    "family_qa_sha": "08babc668e1137750285061091f293ee383f384c",
-    "status": "pass"
+    "family_qa_sha": "b0eba6403c8ea3ba230af8ce22578630048369f7",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/475.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0475.md",
-    "blob_sha": "fc2f852ede99b1b0c7ebbb59398761df72e422c2"
+    "blob_sha": "ecb607b1a54d096b27e7136465537feb6a5d314d"
   },
   "qa": {
     "path": "qa/chapter-0475.md",
-    "blob_sha": "f51392923034f036165f20ecfb2c798fe8ad3326",
-    "status": "pass"
+    "blob_sha": "c434d05b9fea19ef3c4ebd2aa5509ccb868be841",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; established glossary forms and indexed Fandom evidence used.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "reveal_guard": "Flauros Gate-of-Destruction tether claim remains unverified because source frames him as a liar; Vikir's choice is withheld."
+  "accepted_date": "2026-09-28",
+  "reveal_guard": "Flauros Gate-of-Destruction tether claim remains unverified because source frames him as a liar; Vikir's choice is withheld.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-28",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      471,
+      475
+    ],
+    "manuscript_changed": true,
+    "note": "restored unkillable descriptor and heart-tearing action"
+  }
 }
