@@ -9,8 +9,8 @@
       338
     ],
     "family_qa_path": "qa/families/mating-room-0333-0338.md",
-    "family_qa_sha": "e76eff1e4193a6be648f650676db6dad0b8ed1a6",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "4ccd61a7352714147307affbe17e80ab7058b867",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/337.txt",
@@ -29,11 +29,11 @@
   "qa": {
     "path": "qa/chapter-0337.md",
     "blob_sha": "32ee84b252c53fc78ca8b3cc35677e426d1e71f3",
-    "status": "pass_after_completeness_rebuild"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local terms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "documented_corrections": [
     "Local/raw Basilisk regeneration drift rejected; established Beelzebub Slot2 Immortality — Gargoyle (S) retained."
   ],
@@ -52,5 +52,16 @@
     "initial_priority_target": false
   },
   "identity_timing_guard": "Vikir explicitly reveals 'I am Night Hound' only at target337 close.",
-  "regeneration_guard": "Use Immortality — Gargoyle (S); local Basilisk drift rejected."
+  "regeneration_guard": "Use Immortality — Gargoyle (S); local Basilisk drift rejected.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      333,
+      338
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
