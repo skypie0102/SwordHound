@@ -9,8 +9,8 @@
       272
     ],
     "family_qa_path": "qa/families/rich-friends-0270-0272.md",
-    "family_qa_sha": "40835cea0a3e53dc8d4db523fe458d303d8ca602",
-    "status": "pass"
+    "family_qa_sha": "1b732ea7ca7a1da7aebf0ec80643c48d2034afac",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/271.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0271.md",
-    "blob_sha": "9e8bd0aa398d14e98752835446b0868b43342ccb"
+    "blob_sha": "9f0b8ff3659dd6e669b23164e531e45558685dbd"
   },
   "qa": {
     "path": "qa/chapter-0271.md",
-    "blob_sha": "fe9c645ee8854d45cd4406704e37bbdfba454da3",
-    "status": "pass"
+    "blob_sha": "12973953fc15c584de60222d727462b92f03d51c",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused. Winston/Orwell/Nouvelle Vague remain source-local pending direct access.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "key_reveal": "Cindywendy explicitly reports that the head of House Bourgeois is a demon."
+  "accepted_date": "2026-09-27",
+  "key_reveal": "Cindywendy explicitly reports that the head of House Bourgeois is a demon.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      270,
+      272
+    ],
+    "manuscript_changed": true,
+    "note": "restored full flyer terms including one-week deadline and poster self-expiration"
+  }
 }
