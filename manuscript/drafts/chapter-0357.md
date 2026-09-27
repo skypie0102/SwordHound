@@ -454,7 +454,7 @@ A place so terrible—
 
 stories claimed even the souls of the dead remained trapped there.
 
-More feared than execution.
+A prison more cruel and more terrifying than the death penalty itself.
 
 And Vikir—
 
