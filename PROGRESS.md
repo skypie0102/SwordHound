@@ -1,5 +1,18 @@
 # Reconstruction Progress
 
+## 2026-09-27 — Cycle 2 Phase 4 — Grave of Swords complete
+
+Phase 4 remediation/evidence rebinding advanced through **The Grave of Swords (255–260)**.
+
+- remediation chapters complete: **121 / 273**;
+- remediation chapters remaining: **152**;
+- affected families complete: **42**;
+- manuscript edits: **121**;
+- Chapters **255, 256, 259, 260** repaired and rebound;
+- Chapters **257–258** complete-family revalidated unchanged;
+- next affected family: **The Inverted Pentagram (261–263)**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-27 — Cycle 2 Phase 4 — Five Stars complete
 
 Phase 4 remediation/evidence rebinding advanced through **Five Stars (253–254)**.
