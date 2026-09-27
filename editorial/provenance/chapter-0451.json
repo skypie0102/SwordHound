@@ -9,8 +9,8 @@
       453
     ],
     "family_qa_path": "qa/families/declaration-of-war-0450-0453.md",
-    "family_qa_sha": "5fa4025ba6ebac5aa2b050f55fbe56de31015113",
-    "status": "pass"
+    "family_qa_sha": "874f4da41c161cb93a09d05b1b37d04ba8bc490f",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/451.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0451.md",
-    "blob_sha": "6d27d4797ee80be5d5dbd8b933f8e3646b92d331"
+    "blob_sha": "8016396c5ed0c500f2db3b7c4b2e8919f116f0e6"
   },
   "qa": {
     "path": "qa/chapter-0451.md",
-    "blob_sha": "85512b6049949418301023d443ed8d1b6b4290ff",
-    "status": "pass"
+    "blob_sha": "eb46c6fa004ff96429395d950efefd6df589fd4a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Fresh Fandom indexing confirms Juskin de Leviathan, Hopps de Leviathan, Raspane Morgue, and later Corpse canon. Later true-name information is reveal-guarded unless exposed by the chapter.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      450,
+      453
+    ],
+    "manuscript_changed": true,
+    "note": "restored Dirakium's death and Basilios succession"
+  }
 }
