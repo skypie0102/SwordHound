@@ -36,15 +36,9 @@ CRACK!
 
 CRUNCH!
 
-Poison Humans climbing the walls lost fingers.
+Poison Humans climbing the walls had their heads split open and bleeding—
 
-Teeth.
-
-Eyes.
-
-Balance.
-
-Then fell.
+then tumbled back down.
 
 The effect resembled Andrealphus’s old hailstorm.
 
@@ -288,15 +282,9 @@ Exactly along the line Vikir had already created.
 
 Another Black Sun.
 
-Juskin’s giant body exploded apart.
+Juskin’s giant body exploded apart—
 
-Blood.
-
-Flesh.
-
-Bone.
-
-All scattered.
+under a rain of flesh and blood.
 
 And for the first time—
 
