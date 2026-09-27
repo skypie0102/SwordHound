@@ -1,5 +1,18 @@
 # Reconstruction Progress
 
+## 2026-09-27 — Cycle 2 Phase 4 — Rich Friends complete
+
+Phase 4 remediation/evidence rebinding advanced through **Rich Friends (270–272)**.
+
+- remediation chapters complete: **130 / 273**;
+- remediation chapters remaining: **143**;
+- affected families complete: **46**;
+- manuscript edits: **129**;
+- Chapters **270–272** repaired and rebound;
+- next affected family: **Money War (273–278)**;
+- Chapter **273** also carries a Phase-3 structural/boundary failure;
+- EPUB assembly remains blocked.
+
 ## 2026-09-27 — Cycle 2 Phase 4 — The Eucharist complete
 
 Phase 4 remediation/evidence rebinding advanced through **The Eucharist (268–269)**.
