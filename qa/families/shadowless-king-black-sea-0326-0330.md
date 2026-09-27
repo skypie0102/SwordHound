@@ -25,11 +25,11 @@ The rebuild preserves the established continuity/source guards:
 
 | Target | Chinese SHA | English witness | English SHA | Rebuilt draft SHA | Rebuilt QA SHA |
 |---|---|---|---|---|---|
-| 326 | `c8b718d73bbad080d7cae4b013c0dc7d0874de4c` | E324 | `14355b10ef022a68beed426b1dd4e4020a7d50cd` | `29883c38bad8c616412acc11e3e9e579b96f4731` | `3324bf27a3fa9e691a913c5705d53ac61d40f8d2` |
+| 326 | `c8b718d73bbad080d7cae4b013c0dc7d0874de4c` | E324 | `14355b10ef022a68beed426b1dd4e4020a7d50cd` | `bf2e839f3d827b28ed8cba41bfe9d02e10c7ec8a` | `5fce8615c54bb2048209c358425e56bf3940c136` |
 | 327 | `08aa73f4beb32cd71e35465e861ae58802a541bf` | E325 | `d6f0bccc082d49c4e7206f549ac4b840c77a400a` | `59fdedcde187e168674c01629eef24b8efa59a3e` | `20eb4a358128420456e52beac4e52c1b6c8d90e5` |
 | 328 | `f1a3945c7a3d6b35d9367c5b10c575c7a4f1b2f0` | E326 | `0d442405a5c5a2e0f89704ecee62a801d513314e` | `50b34c9c105087c9442a889176e99dfc611dc875` | `2e4203e9bfb8277e211203828d9fd6be6881d2ef` |
-| 329 | `5265fb5d9148f5edb54be0b304a5c1af5b3468bb` | E327 | `2ea483afbaaf67ab6fded55616eddbe826f073eb` | `5699fc3e9bc5acf8cb64ca2479144b0ff0fe3116` | `0be7cebbe4ce7d16ef3c291174e7aa02ddfaae83` |
-| 330 | `922fb5229b5aab3d96370bf12087468e1ff764d2` | E328 | `59c74dd123755ff13c7aef8557d9814446bc4b90` | `f770a68fd3bcf27e846253812a4d4266c53a541e` | `dc1ef0c8b14e6588a30f9ea660dc302382cb799c` |
+| 329 | `5265fb5d9148f5edb54be0b304a5c1af5b3468bb` | E327 | `2ea483afbaaf67ab6fded55616eddbe826f073eb` | `c4f5c22866850b9c7c9fbc1061318e6ddb59ff62` | `dfa3da608b4e3cb20061911984ec202af90430e8` |
+| 330 | `922fb5229b5aab3d96370bf12087468e1ff764d2` | E328 | `59c74dd123755ff13c7aef8557d9814446bc4b90` | `6205e2c913eea1e0d84c1b8629a0a5e5b992a366` | `e25df6dda6c25699f35a67845ae6ad343fa0122b` |
 
 Mapping remains **326→E324 through 330→E328**.
 
@@ -84,3 +84,18 @@ Mapping remains **326→E324 through 330→E328**.
 ## Verdict
 
 **PASS.** Chapters 326–330 have been rebuilt for complete Chinese-source coverage. Initial-priority target **328** is resolved.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 326 restores the explicit Magic Resistance shorthand: **enemy magical attacks are halved**, while internal mana rampage is suppressed.
+- Chapters 327–328 were reread against their Chinese-primary sources and remain complete without manuscript changes.
+- Chapter 329 restores the oil-paper bag's **Random Box** provenance aside and the source-level statement that the ship-flying Beetlemen **faint instantly** under the Shadowless King's killing intent.
+- Chapter 330 restores the official **no more than ten Sword Masters** count, the extraction line extending from **Baby Madam's butt**, and the Shadowless King being **slowly roasted** while trapped at the surface in poison and fire.
+- Sanitization fidelity and completeness were rerun across Chapters 326–330.
+- Shifted mapping remains **326→E324 through 330→E328**; target 331 begins *Draw (1)*.
+
+**Phase-4 disposition:** family clear; continue to **Draw (331–332)**.
