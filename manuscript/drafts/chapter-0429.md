@@ -68,7 +68,7 @@ took another hit.
 
 “GAAAH!?”
 
-The impact was so violent his eyes bulged outward.
+The impact made Pedro’s eyes feel as though they would pop out—and they actually did.
 
 He could no longer tell whether his vision was burning from holy power—
 
@@ -148,15 +148,9 @@ Pigi.
 
 Bianca.
 
-Attacked from every side.
+Attacked from every side—
 
-Arms.
-
-Legs.
-
-Mobility.
-
-All destroyed.
+and cut off Pedro’s hands and feet.
 
 Cindywendy’s mercenaries fired into the gaps.
 
