@@ -150,9 +150,9 @@ A large wooden tub sat filled with warm water.
 
 Splash.
 
-Dolores lifted Choco—
+Dolores held Choco tightly against herself—
 
-then entered with him.
+then entered the water with him.
 
 “Ahhh.”
 
@@ -320,7 +320,7 @@ Not the wetness in her voice.
 
 The weak—
 
-thrown to the Daylily.
+sacrificed to the Daylily as food.
 
 The strong—
 
