@@ -18,3 +18,14 @@
 - PASS — Solitary confinement below/aside from ordinary Level9 housing is foreshadowed, with only one prisoner rumored able to survive it.
 - PASS — Chapter closes on returning Level9 prisoners and Vikir's newspaper request; no Underground Extension Construction reveal is imported.
 - LIMIT — designated Fandom remains robots-blocked; established glossary canon is reused and source-local names are not falsely presented as wiki-confirmed.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Complete-family reread passed unchanged; Level Nine assignment, labor schedule, Level Ten excavation, and newspaper ending remain complete.
+
+The complete Ghost Castle of the Ultra-Deep Sea family was reread after remediation. Shifted mapping remains **363→E361, 364→E362, 365→E363**; target 366/E364 begins *The Underground Extension Construction (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Ghost Castle family QA.
