@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/475.txt` — `8302309c06412ecb3d9d9b7deffa4fd71da25340`
 - English witness: **E473** — `b0e2b54ff234aa03177b1dc6f649abcc0bd1b80b`
-- Draft: `manuscript/drafts/chapter-0475.md` — `fc2f852ede99b1b0c7ebbb59398761df72e422c2`
+- Draft: `manuscript/drafts/chapter-0475.md` — `ecb607b1a54d096b27e7136465537feb6a5d314d`
 
 ## Checks
 - PASS — Flauros true-form panel remains Second Corpse / S+ and Red Death becomes finite after Ouroboros destruction.
@@ -17,3 +17,14 @@
 - PASS — The claim is treated as an unresolved Lying-Leopard dilemma, not narrator-confirmed truth.
 - PASS — Family ends before Vikir chooses whether to kill or release Flauros.
 - LIMIT — direct Fandom browsing remains robots-restricted; established glossary canon and indexed Fandom evidence control names/terms.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-28.** Restored Flauros as one of the ten **incomprehensible and unkillable** calamities and restored Vikir **tearing into Flauros's heart** after severing both arms.
+
+The complete Tochka Annihilation Battle (471–475) family was reread after remediation. Mapping remains **471→E469 through 475→E473**; target 476/E474 begins *Knowing the Fate of My Father (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Tochka Annihilation Battle family QA.
