@@ -56,6 +56,12 @@ even more fragile.
 
 “Material!”
 
+“The two of you might barely make enough for the upper half of the coat.”
+
+“No… the Queen needs plenty of room in the chest.”
+
+“Maybe even this won’t be enough?”
+
 He approached carrying enormous scissors.
 
 “Don’t be scared.”
@@ -115,6 +121,8 @@ They fled.
 Vikir waited until they were out of sight.
 
 Then killed three more criminals chasing them.
+
+The Hound’s fangs pierced tough skin and tore through internal organs.
 
 A few exchanges later—
 
