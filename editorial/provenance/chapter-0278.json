@@ -9,8 +9,8 @@
       278
     ],
     "family_qa_path": "qa/families/money-war-0273-0278.md",
-    "family_qa_sha": "55c4937edaf105e8beca016dc694d4fdedf415f0",
-    "status": "pass"
+    "family_qa_sha": "bddac9b4e79e2582574e8f216ef9549e3b9d354a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/278.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0278.md",
-    "blob_sha": "8e9142afddcd49e63762eb9495701e31d0924393"
+    "blob_sha": "c64347cec3a4c0deb22d1da585f77d5137206af2"
   },
   "qa": {
     "path": "qa/chapter-0278.md",
-    "blob_sha": "a56790e3422a54354169b99bf5d5ae99ecfe96f4",
-    "status": "pass"
+    "blob_sha": "2c9269828bf517ffec2252a474dd02e7535168b5",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused. Bartolomeo / Sinan Saltsail / Puss in Boots / Juliet / Bahamut remain source-local pending direct access.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "reveal_guard": "Damien's death wish is surfaced, but its cause and the next-family payoff are not imported."
+  "accepted_date": "2026-09-27",
+  "reveal_guard": "Damien's death wish is surfaced, but its cause and the next-family payoff are not imported.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      273,
+      278
+    ],
+    "manuscript_changed": true,
+    "note": "restored true-killing-sword characterization and rival-or-exceed-Ouroboros danger comparison"
+  }
 }
