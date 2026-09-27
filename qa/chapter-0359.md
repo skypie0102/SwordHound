@@ -16,3 +16,14 @@
 - PASS — Thomas's BDISSEM powder disables Isabella/Banshee/Mozgus/Lovebad temporarily.
 - PASS — Chapter ends with Vikir breaking BDISSEM restraints/cage and insisting the ship must not sink because he needs to reach Nouvelle Vague.
 - LIMIT — designated Fandom remains robots-blocked; established glossary canon is reused while source-local names/forms remain explicitly unverified.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Complete-family reread passed unchanged; public transfer, suicide advice, BDISSEM sabotage, demon-aligned escort plot, and cage-breaking sequence remain complete.
+
+The complete Voluntary Escort family was reread after remediation. Shifted mapping remains **359→E357, 360→E358, 361→E359, 362→E360**; target 363/E361 begins *Ghost Castle of the Ultra-Deep Sea (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Voluntary Escort family QA.
