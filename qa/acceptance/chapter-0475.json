@@ -2,8 +2,8 @@
   "chapter": 475,
   "title": "Tochka Annihilation Battle (5)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-28",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Tochka Annihilation Battle",
     "range": [
@@ -11,8 +11,8 @@
       475
     ],
     "family_qa_path": "qa/families/tochka-annihilation-0471-0475.md",
-    "family_qa_sha": "08babc668e1137750285061091f293ee383f384c",
-    "status": "pass"
+    "family_qa_sha": "b0eba6403c8ea3ba230af8ce22578630048369f7",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/475.txt",
@@ -20,15 +20,22 @@
     "english_reference_path": "source/chapters/chapter-473.xhtml",
     "english_reference_sha": "b0e2b54ff234aa03177b1dc6f649abcc0bd1b80b",
     "draft_path": "manuscript/drafts/chapter-0475.md",
-    "draft_sha": "fc2f852ede99b1b0c7ebbb59398761df72e422c2",
+    "draft_sha": "ecb607b1a54d096b27e7136465537feb6a5d314d",
     "qa_path": "qa/chapter-0475.md",
-    "qa_sha": "f51392923034f036165f20ecfb2c798fe8ad3326",
+    "qa_sha": "c434d05b9fea19ef3c4ebd2aa5509ccb868be841",
     "provenance_path": "editorial/provenance/chapter-0475.json",
-    "provenance_sha": "bc991a4aa294e3a648c6ce4a780f3320db5aff38"
+    "provenance_sha": "e902fa99d1ffa27071e6981d2e946c7a70374c4b"
   },
   "documented_limits": [
     "Direct Fandom browsing remains robots-restricted; established glossary and indexed Fandom evidence control canonical forms.",
     "No target476+ material imported."
   ],
-  "reveal_guard": "Flauros's Gate-of-Destruction tether claim remains unverified because he is the Lying Leopard; Vikir's choice is withheld."
+  "reveal_guard": "Flauros's Gate-of-Destruction tether claim remains unverified because he is the Lying Leopard; Vikir's choice is withheld.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-28",
+    "manuscript_changed": true,
+    "note": "restored unkillable descriptor and heart-tearing action"
+  }
 }
