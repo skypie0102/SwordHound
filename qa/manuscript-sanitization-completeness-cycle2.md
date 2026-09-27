@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 4 ACTIVE — 165/273 remediation chapters complete; next affected family The Shadowless King of the Black Sea (326–330)
+**Current stage:** Phase 4 ACTIVE — 170/273 remediation chapters complete; next affected family The Mating Room (333–338)
 
 ## Progress
 
@@ -88,11 +88,11 @@ Any new exception must be added to source/chinese/chapter-exceptions.tsv and ref
 
 **Status:** ACTIVE  
 **Remediation population:** 273 unique chapters  
-**Completed remediation chapters:** 165  
-**Remaining remediation chapters:** 108  
-**Completed affected families:** 56  
-**Current next family:** The Shadowless King of the Black Sea (326–330)  
-**Earliest remaining target:** Chapter 326
+**Completed remediation chapters:** 170  
+**Remaining remediation chapters:** 103  
+**Completed affected families:** 58  
+**Current next family:** The Mating Room (333–338)  
+**Earliest remaining target:** Chapter 333
 
 **Goal:** repair all Cycle-2 failures without fragmenting family continuity.
 
