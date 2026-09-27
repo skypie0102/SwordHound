@@ -21,3 +21,14 @@
 - PASS — Vikir knows the tower through pre-regression hero memoirs rather than personal prior entry.
 - PASS — death/retirement nourishes Amdusias, but one successful escape can restore the fallen.
 - PASS — pre-regression Camus is identified as the exceptional escapee who ruined Amdusias's plan; Vikir deliberately allowed the event because the tower contains a growth opportunity.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored Camus's recollection that her childhood friend and first love brought her a strange tree and several nameless old books, preserving the source's relationship/provenance clue.
+
+The complete Hell Tree family was reread after remediation. Chapters 308–310 and 312 remain unchanged and pass both Cycle-2 content gates. Shifted mapping remains **307→E305 through 313→E311**; target 314 begins *Surplus Man (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Hell Tree family QA.
