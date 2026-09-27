@@ -54,6 +54,8 @@ And—
 
 they awakened.
 
+*That Random Box item turned out to be useful after all.*
+
 SWISH.
 
 Roots.
@@ -462,7 +464,7 @@ The hundreds of eyes under the jellyfish bell—
 
 filled with blood.
 
-Killing intent struck hard enough that several Beetlemen nearly stopped flying.
+Killing intent struck hard enough that the Beetlemen flying the ship fainted instantly.
 
 Vikir answered—
 
