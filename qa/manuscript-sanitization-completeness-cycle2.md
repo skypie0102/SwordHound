@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 4 ACTIVE — 210/273 remediation chapters complete; next affected family Black Tongue (399–402)
+**Current stage:** Phase 4 ACTIVE — 213/273 remediation chapters complete; next affected family Jailbreaker (403–408)
 
 ## Progress
 
@@ -88,11 +88,11 @@ Any new exception must be added to source/chinese/chapter-exceptions.tsv and ref
 
 **Status:** ACTIVE  
 **Remediation population:** 273 unique chapters  
-**Completed remediation chapters:** 210  
-**Remaining remediation chapters:** 63  
-**Completed affected families:** 77  
-**Current next family:** Black Tongue (399–402)  
-**Earliest remaining target:** Chapter 399
+**Completed remediation chapters:** 213  
+**Remaining remediation chapters:** 60  
+**Completed affected families:** 78  
+**Current next family:** Jailbreaker (403–408)  
+**Earliest remaining target:** Chapter 403
 
 **Goal:** repair all Cycle-2 failures without fragmenting family continuity.
 
@@ -179,10 +179,10 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 4 with **Black Tongue (399–402)**.
-2. Reread the complete family and remediate Chapters **399–401** where supported by Chinese-primary source.
-3. Revalidate Chapter **402** unchanged if no ordinary defect is found.
-4. Re-run both content gates, refresh all evidence/hash bindings, and keep EPUB assembly blocked.
+1. Continue Phase 4 with **Jailbreaker (403–408)**.
+2. Reread the complete family and repair all six queued chapters from Chinese-primary source.
+3. Re-run sanitization fidelity and completeness across the family.
+4. Refresh all evidence/hash bindings and keep EPUB assembly blocked.
 
 
 ## Phase 4 live checkpoint — 2026-09-27
@@ -190,13 +190,13 @@ Each checkpoint must report, at minimum:
 Phase 4 is **ACTIVE**.
 
 - remediation population: **273 unique chapters**;
-- completed remediation chapters: **210**;
-- remaining remediation chapters: **63**;
-- affected families completed: **77**;
-- manuscript edits: **209**;
-- last completed affected family: **Dead Man Walking (396–398)**;
-- next affected family: **Black Tongue (399–402)**;
-- earliest remaining target: **399**;
+- completed remediation chapters: **213**;
+- remaining remediation chapters: **60**;
+- affected families completed: **78**;
+- manuscript edits: **212**;
+- last completed affected family: **Black Tongue (399–402)**;
+- next affected family: **Jailbreaker (403–408)**;
+- earliest remaining target: **403**;
 - open structural failures: **none**;
-- all completed affected families through Chapter 398 have refreshed evidence/hash bindings;
+- all completed affected families through Chapter 402 have refreshed evidence/hash bindings;
 - EPUB assembly remains blocked until Phase 5 residual verification and Phase 6 closure.
