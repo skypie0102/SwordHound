@@ -474,6 +474,40 @@ Every smile.
 
 Every breath.
 
+Kirko’s sword flashed again.
+
+Then—
+
+Black Tongue's palm stretched like rubber.
+
+THUD!
+
+It struck Kirko hard in the abdomen.
+
+“Ghk!”
+
+She flew backward like a kite with a cut string—
+
+and slammed into the rear wall of the stone chamber.
+
+“…Ugh.”
+
+Several ribs seemed to have broken.
+
+Sharp fragments might already have driven deep into her internal organs.
+
+Black Tongue laughed.
+
+“Hehehehe. Your eyes are still alive.”
+
+“That must hurt.”
+
+Kirko clenched her teeth.
+
+If she was going to die—
+
+she would kill him first.
+
 Kirko’s aura thickened.
 
 Dense.
