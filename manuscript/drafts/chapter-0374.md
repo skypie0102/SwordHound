@@ -246,11 +246,11 @@ that Kirko girl catches the plague tomorrow.”
 
 “You like her, don’t you?”
 
-“You don’t want to see her lose control of her body—
+“You don’t want to see her become incontinent—
 
-dry up—
+shrivel up—
 
-and rot away.”
+and dry into jerky.”
 
 “….”
 
