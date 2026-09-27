@@ -45,3 +45,27 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+| Target | Draft SHA | QA SHA | Phase-4 manuscript result |
+|---|---|---|---|
+| 299 | `79aedf14e6e427f6cc9bcf1e120636ca3d640cbd` | `5a055805dfd417e2ceeec8cada482326b3ad905c` | revalidated unchanged |
+| 300 | `94e994913c19edeba96c9cdfe90cf37369fa4f61` | `c7a57cfd7c1c8296d94593a957efcbac88132d71` | restored sword/magic abolition and direct Winston-elimination motive |
+| 301 | `8880ebd1788115e9947b64d7e1c666fb02d30428` | `1ef57fc1b46e220256b50768e1a59da5e2bb83fa` | restored meat-paste, blood/flesh, burst-head/abdomen, and lower-body-to-head impalement gore |
+| 302 | `7398178514a614b804c5ac496fdff3caf2c3f8b0` | `42f5edd610414045f436d1dcf260a9537e82d5bf` | restored chest-room taunt and internal-organ tearing |
+| 303 | `ce5e55104252636df240e0b597a4a011ce705d3b` | `e531b7206fd7b00531a46f0e59391a8df5bc080d` | restored blood/internal-organ fragments after Sadi's impact |
+| 304 | `8b905b80c42af04746146483175e3a4ae23edf3a` | `1d7ec40aa3f6721290d97c6b0de6905320fb3ff1` | revalidated unchanged |
+| 305 | `68d7093673990cad82c7b21ad1adeb5f961bd862` | `0b5b79683ec511339efbc07668fc817f54e28bfe` | restored hot blood gushing whenever Vikir opens his mouth |
+| 306 | `5fd4d9ba4c326d350f003abcf4cec45ae9ee9ba3` | `2710e5363796bfa0c09383196d5dd3f0b661327d` | restored blood/internal-organ-fragment spray from Winston's lips |
+
+- Sanitization fidelity and completeness were rerun across Chapters 299–306 after repair.
+- Chapters **299** and **304** remain manuscript-unchanged and pass the complete-family reread.
+- Shifted mapping remains **299→E297 through 306→E304**; target 307/E305 begins *Hell Tree (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Hell Tree (307–313)**.
