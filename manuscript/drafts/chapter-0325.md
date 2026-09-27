@@ -110,7 +110,7 @@ The anger burst out.
 
 “Take an important position!”
 
-“Then you'll meet some handsome, tall, strong, proper, rich, well-born man—”
+“Then you'll meet some handsome, tall, well-built, proper, rich, well-born man—”
 
 “and live happily ever after!”
 
@@ -664,9 +664,13 @@ Then thousands.
 
 For every hundred same-color candies—
 
-one different-color candy emerged at random.
+Baby Madam ate them, and one different-color candy was excreted at random.
 
-Thirty conversions.
+After three thousand candies—
+
+she had excreted thirty candies.
+
+Vikir checked the colors coming from beneath her tail.
 
 The results—
 
@@ -736,13 +740,15 @@ One hundred candies went to Baby Madam.
 
 [Chik-chik.]
 
-The parasite processed them.
+She swallowed them.
 
 Then—
 
+her rear trembled.
+
 POP.
 
-One candy fell into Vikir's palm.
+One candy dropped into Vikir's palm.
 
 Pure white.
 
