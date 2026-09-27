@@ -17,3 +17,14 @@
 - PASS — Vikir's nail-in-mouth counterattack is preserved without sanitization.
 - PASS — Chapter closes with senior guards responding to Night Hound's disturbance; no worksite-riot continuation is imported.
 - CANON — designated Fandom index confirms Kirko Grimm, D'Ordume D'Orcdile, Garam Nord, Black Tongue, and Lieutenant Bastille where applicable; unrelated later spoilers are not imported.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Complete-family reread passed unchanged; labor-control, Sakkuth, poison leakage, and nail strike remain complete.
+
+The complete Underground Extension Construction family was reread after remediation. Shifted mapping remains **366→E364, 367→E365, 368→E366**; target 369/E367 begins *The Servant (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Underground Extension family QA.
