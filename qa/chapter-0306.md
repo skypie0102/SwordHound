@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/306.txt` — `d06b413bed0eae3d5fe65ee124c306e3aa75a23f`
 - English witness: **E304** — `8ca9b6b28c30eff375bd1753fefa3586c2f59e63`
-- Draft: `manuscript/drafts/chapter-0306.md` — `28a0412ad62848cf4cc0c14ab349cadf24131a76`
+- Draft: `manuscript/drafts/chapter-0306.md` — `5fd4d9ba4c326d350f003abcf4cec45ae9ee9ba3`
 
 ## Checks
 - PASS — Nabokov continues the Quovadis denial story with three declarations of love and Quo Vadis, Domine as family-name origin.
@@ -17,3 +17,14 @@
 - PASS — Winston’s bracelet/tree/magic-stone system becomes the delivery network for the black plant.
 - PASS — All Colosseo students are swallowed into the Hell Tree; family stops before any Hell Tree interior material.
 - LIMIT — direct Fandom verification remains robots-blocked; established glossary canon controls accepted forms and source-local names stay explicitly unverified where applicable.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored **blood and fragments of internal organs spraying from Winston's lips** after Nabokov's skull strike.
+
+The complete Age of the Warmonger family was reread after remediation. Chapters 299 and 304 remain unchanged and pass both Cycle-2 content gates. Shifted mapping remains **299→E297 through 306→E304**; target 307/E305 begins *Hell Tree (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Age of the Warmonger family QA.
