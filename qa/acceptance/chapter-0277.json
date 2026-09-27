@@ -2,8 +2,8 @@
   "chapter": 277,
   "title": "Money War (5)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Money War",
     "range": [
@@ -11,8 +11,8 @@
       278
     ],
     "family_qa_path": "qa/families/money-war-0273-0278.md",
-    "family_qa_sha": "55c4937edaf105e8beca016dc694d4fdedf415f0",
-    "status": "pass"
+    "family_qa_sha": "bddac9b4e79e2582574e8f216ef9549e3b9d354a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/277.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-275.xhtml",
     "english_reference_sha": "eb33e3fbb03625ce00f9371e7a22b936b301e272",
     "draft_path": "manuscript/drafts/chapter-0277.md",
-    "draft_sha": "06ab98be7725fa579bdb1bc4d400a7c91d64c056",
+    "draft_sha": "103008590d4a98536666d35655b9e35ee7a2c031",
     "qa_path": "qa/chapter-0277.md",
-    "qa_sha": "668f78316d31232be5fead6924f7345db587a2e6",
+    "qa_sha": "c5befa6fa4d276aa3cc83416833c9e98ad54f1ba",
     "provenance_path": "editorial/provenance/chapter-0277.json",
-    "provenance_sha": "06dfc7300416475cafe422f4fbc29b52cd885b56"
+    "provenance_sha": "cb429ade03f7822659b31e5939f1d7eb0f497420"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No What Money Can't Buy material from target279 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored death-or-exile-more-miserable-than-death succession stakes"
+  }
 }
