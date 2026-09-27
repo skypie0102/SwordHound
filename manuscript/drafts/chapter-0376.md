@@ -444,7 +444,7 @@ D'Ordume drove the point home.
 
 “The sooner Level Ten is completed—
 
-the sooner I beat that woman Souaré in the promotion evaluations.”
+the sooner I beat that bitch Souaré in the promotion evaluations.”
 
 “If I become the next prison head—
 
@@ -458,7 +458,7 @@ Bastille nodded.
 
 “If there is an accident—
 
-only prisoners die.”
+only those garbage prisoners die.”
 
 “If you’re worried—
 
