@@ -246,7 +246,9 @@ which means more room to grow.”
 
 “And mentally…”
 
-“far softer.”
+“more immature and fragile.”
+
+“Just right to swallow whole in one gulp.”
 
 Everyone understood.
 
@@ -326,7 +328,7 @@ Passamonte twisted aside.
 
 “Fine muscle.”
 
-“Healthy organs.”
+“Fresh internal organs.”
 
 “What an excellent body.”
 
