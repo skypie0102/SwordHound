@@ -2,8 +2,8 @@
   "chapter": 259,
   "title": "The Grave of Swords (5)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Grave of Swords",
     "range": [
@@ -11,8 +11,8 @@
       260
     ],
     "family_qa_path": "qa/families/grave-of-swords-0255-0260.md",
-    "family_qa_sha": "1f3b1edbeea68c948f7445158f0e0fdcb1bca3f6",
-    "status": "pass"
+    "family_qa_sha": "1c7c93e6586f3b9903915ddf5902dc1c2f6a6f9f",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/259.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-257.xhtml",
     "english_reference_sha": "91bb0e77ed6c0c27bdbd271586b770f9dbfc622e",
     "draft_path": "manuscript/drafts/chapter-0259.md",
-    "draft_sha": "afe20c6359515662adff17f2192220f99cdf720e",
+    "draft_sha": "94610c3b8e300769199c18ab9bb598e52087a398",
     "qa_path": "qa/chapter-0259.md",
-    "qa_sha": "2b6e460235d8b52db9521d6d2f07d2326daa40a3",
+    "qa_sha": "e725f6cfb2e120bf62d24d064f4997e3cb933073",
     "provenance_path": "editorial/provenance/chapter-0259.json",
-    "provenance_sha": "cadeff091198e67fb6d0be7d9f1cfc3b16c0438c"
+    "provenance_sha": "136f6a12bcc199b0cb5cc7fa3b346cbed6277c12"
   },
   "documented_limits": [
     "Direct Fandom re-check remained unavailable; established glossary forms were reused.",
@@ -32,5 +32,12 @@
   ],
   "corrections": [
     "Beelzebub Slot 2 = Immortality — Gargoyle (S), not shifted-English Basilisk."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored all nine distinct Ninth-Fang destructive actions"
+  }
 }
