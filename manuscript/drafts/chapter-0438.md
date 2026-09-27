@@ -8,6 +8,8 @@ Four years had changed Camus.
 
 She was taller.
 
+Slender now, with mature curves.
+
 Sharper.
 
 The childish softness had mostly disappeared.
@@ -202,7 +204,7 @@ Tudor’s expression tightened.
 
 If Camus had used the rods that way—
 
-the horses and riders would have been butchered.
+the horses and riders could have ended up skewered on the iron like sausages and flattened like pancakes.
 
 Instead—
 
