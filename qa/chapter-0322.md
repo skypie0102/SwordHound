@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/322.txt` — `8cd403a37cc07f37d3065a3e7054d51c80e65885`
 - English witness: **E320** — `93816a863d2c444ff66482775801cc4910ab1d33`
-- Rebuilt draft: `manuscript/drafts/chapter-0322.md` — `7ea050f837138402eb1fa77b152e43698ad04068`
+- Rebuilt draft: `manuscript/drafts/chapter-0322.md` — `d23230e267d5f9119e8331672818418f6807de8b`
 
 ## Completeness findings
 - Historical draft materially compressed the sap-distribution hierarchy, triplet enslavement, Dogma’s personal grievance chain, Dolores-drawing humiliation, Highbro’s historical-survival argument, and Dogma’s later insecurity about noble virtues.
@@ -21,3 +21,14 @@
 - PASS — Dogma recognizes that patient, disciplined nobles threaten his self-image because suffering/patience are not exclusive to the oppressed.
 - PASS — he recalls nobles/power-family students protecting weaker people on prior floors, which contradicts his simplified oppressor-victim model.
 - PASS — chapter ends as the triplets recognize Vikir at the sap root.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the source's deliberately extreme survival examples: selling oneself to an elderly male patron to fund a volunteer army, crawling beneath a vagrant's crotch, cooking one's own son for a ruler, and a physician eating an enemy's feces while waiting for an assassination chance.
+
+The complete Underdogma family was reread after remediation. Chapters 321 and 324 remain manuscript-unchanged and pass both Cycle-2 content gates. Shifted mapping remains **321→E319 through 325→E323**; target 326 begins *The Shadowless King of the Black Sea (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Underdogma family QA.
