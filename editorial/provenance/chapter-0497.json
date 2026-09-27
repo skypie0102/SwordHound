@@ -9,8 +9,8 @@
       500
     ],
     "family_qa_path": "qa/families/side-stories-0496-0500.md",
-    "family_qa_sha": "5500ac73073602383e7359b83196e9d2e32a2cd7",
-    "status": "pass"
+    "family_qa_sha": "0a89e3efd898bf8db486b03b293a1a631102da04",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/497.txt",
@@ -25,14 +25,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0497.md",
-    "blob_sha": "4321f793fbb7dd99353a6e3f178af10cbec820da"
+    "blob_sha": "155be107f75c2226221a1e440d27b326d082f6e2"
   },
   "qa": {
     "path": "qa/chapter-0497.md",
-    "blob_sha": "9a8785c3457319faab16dc6cea7e088f356a941d",
-    "status": "pass"
+    "blob_sha": "ff0732cd491f31a2eb4feb45e8a4a47dd851e4c1",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom page access remained robots-blocked; established glossary/indexed canon and the embedded E493 witness were used for late recurring forms.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-28",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-28",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      496,
+      500
+    ],
+    "manuscript_changed": true,
+    "note": "restored exact Full Revival material quantities and fifteen trace elements"
+  }
 }
