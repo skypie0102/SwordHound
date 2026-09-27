@@ -9,8 +9,8 @@
       338
     ],
     "family_qa_path": "qa/families/mating-room-0333-0338.md",
-    "family_qa_sha": "e76eff1e4193a6be648f650676db6dad0b8ed1a6",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "4ccd61a7352714147307affbe17e80ab7058b867",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/336.txt",
@@ -24,16 +24,16 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0336.md",
-    "blob_sha": "1cf18fc771f33a10147b3cd053da2a438c455474"
+    "blob_sha": "273735083efc1d913600949541637b5fb7946602"
   },
   "qa": {
     "path": "qa/chapter-0336.md",
-    "blob_sha": "e1e07103bd689b7c892c55b26e5d921c5fca75dc",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "2eddc923332b178f3781070c4c633cc4f5cc2af7",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local terms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "historical_acceptance": {
     "accepted": true,
     "accepted_date": "2026-09-19",
@@ -47,5 +47,16 @@
     "family_evidence": "qa/families/mating-room-0333-0338.md",
     "initial_priority_target": false
   },
-  "consent_guard": "Sinclaire's mist-affected behavior occurs under grief/trauma/drug exposure and is not reliable consent."
+  "consent_guard": "Sinclaire's mist-affected behavior occurs under grief/trauma/drug exposure and is not reliable consent.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      333,
+      338
+    ],
+    "manuscript_changed": true,
+    "note": "restored clinical hypothermia nudity/skin-contact details and mist-driven neck-contact sequence; no age inferred beyond source"
+  }
 }
