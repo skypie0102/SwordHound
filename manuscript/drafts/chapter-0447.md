@@ -40,7 +40,9 @@ CRUNCH.
 
 One Daylily closed its jaws.
 
-A demon disappeared halfway inside.
+A demon was crushed into a meat patty between them.
+
+It trembled as it stared at its lower body, mashed into something like minced meat.
 
 Black blood poured through crushed flesh and shattered bone.
 
@@ -180,6 +182,8 @@ The result—
 
 plants with reduced aggression toward humans.
 
+That selective breeding initially made individual Daylilies smaller, but later generations substantially compensated for the loss in size.
+
 And extreme appetite toward demonized blood.
 
 SPIT.
@@ -230,7 +234,9 @@ An arrow pierced between his brows.
 
 The skull cracked.
 
-Black matter spilled.
+The contents of the skull spilled out.
+
+Internal organs followed.
 
 Isolde remained alive.
 
@@ -266,7 +272,9 @@ CRUNCH.
 
 His death became the beginning of the purge.
 
-Daylilies swallowed demonized retainers one after another.
+Daylilies wrapped demon body fragments in their vines and swayed as if dancing with them.
+
+They swallowed demonized retainers one after another.
 
 The water grew blacker.
 
