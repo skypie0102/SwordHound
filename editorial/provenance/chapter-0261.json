@@ -9,8 +9,8 @@
       263
     ],
     "family_qa_path": "qa/families/inverted-pentagram-0261-0263.md",
-    "family_qa_sha": "eeffa8cb036b72104224f4c9bc2720c161a5f0b3",
-    "status": "pass"
+    "family_qa_sha": "6cf478f6c31d186da72a6e0b74cc2835536dcc1a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/261.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0261.md",
-    "blob_sha": "78b49f8a68aee7352bdcfa6be9345c837d504170"
+    "blob_sha": "08aa07244e1fa2d345cf7c2aedc650b4138d4f61"
   },
   "qa": {
     "path": "qa/chapter-0261.md",
-    "blob_sha": "d296d732bd1c290e2aee611417fa361dd2ed8987",
-    "status": "pass"
+    "blob_sha": "8f87433965a65e99a7ffeec09bcb2f200b15847c",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and no new wiki-only forms asserted.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      261,
+      263
+    ],
+    "manuscript_changed": true,
+    "note": "restored Shield of Love to source-supported limited-use wording"
+  }
 }
