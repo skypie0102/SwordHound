@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 4 ACTIVE — 243/273 remediation chapters complete; next affected family Declaration of War (450–453)
+**Current stage:** Phase 4 ACTIVE — 252/273 remediation chapters complete; next affected family The Prelude to a Counterattack (465–470)
 
 ## Progress
 
@@ -88,11 +88,11 @@ Any new exception must be added to source/chinese/chapter-exceptions.tsv and ref
 
 **Status:** ACTIVE  
 **Remediation population:** 273 unique chapters  
-**Completed remediation chapters:** 243  
-**Remaining remediation chapters:** 30  
-**Completed affected families:** 87  
-**Current next family:** Declaration of War (450–453)  
-**Earliest remaining target:** Chapter 450
+**Completed remediation chapters:** 252  
+**Remaining remediation chapters:** 21  
+**Completed affected families:** 89  
+**Current next family:** The Prelude to a Counterattack (465–470)  
+**Earliest remaining target:** Chapter 466
 
 **Goal:** repair all Cycle-2 failures without fragmenting family continuity.
 
@@ -179,8 +179,8 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 4 with **Declaration of War (450–453)**.
-2. Repair queued Chapters **450, 451, 453** after a complete-family reread.
+1. Continue Phase 4 with **The Prelude to a Counterattack (465–470)**.
+2. Repair queued Chapters **466–469** after a complete-family reread.
 3. Re-run sanitization fidelity and completeness across the family.
 4. Refresh all evidence/hash bindings and keep EPUB assembly blocked.
 
@@ -190,12 +190,12 @@ Each checkpoint must report, at minimum:
 Phase 4 is **ACTIVE**.
 
 - remediation population: **273 unique chapters**;
-- completed remediation chapters: **243**;
-- remaining remediation chapters: **30**;
-- affected families completed: **87**;
-- manuscript edits: **242**;
-- last completed affected family: **The Fall of Usher (441–449)**;
-- next affected family: **Declaration of War (450–453)**;
-- earliest remaining target: **450**;
-- all completed affected families through Chapter 449 have refreshed evidence/hash bindings;
+- completed remediation chapters: **252**;
+- remaining remediation chapters: **21**;
+- affected families completed: **89**;
+- manuscript edits: **251**;
+- last completed affected family: **Infiltration of the Water Source (454–464)**;
+- next affected family: **The Prelude to a Counterattack (465–470)**;
+- earliest remaining target: **466**;
+- all completed affected families through Chapter 464 have refreshed evidence/hash bindings;
 - EPUB assembly remains blocked until Phase 5 residual verification and Phase 6 closure.
