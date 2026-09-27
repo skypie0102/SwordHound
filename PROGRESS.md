@@ -1,5 +1,18 @@
 # Reconstruction Progress
 
+## 2026-09-27 — Cycle 2 Phase 4 — Dead Man Walking complete
+
+Phase 4 remediation/evidence rebinding advanced through **Dead Man Walking (396–398)**.
+
+- remediation chapters complete: **210 / 273**;
+- remediation chapters remaining: **63**;
+- affected families complete: **77**;
+- manuscript edits: **209**;
+- Chapter **397** repaired and rebound;
+- Chapters **396** and **398** complete-family revalidated unchanged;
+- next affected family: **Black Tongue (399–402)**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-27 — Cycle 2 Phase 4 — The Worst Torture complete
 
 Phase 4 remediation/evidence rebinding advanced through **The Worst Torture (390–395)**.
