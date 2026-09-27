@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-27 — Cycle 2 Phase 4 — advanced through The Servant
+
+Phase 4 remediation/evidence rebinding is authoritative through **The Servant (369–370)**.
+
+- remediation chapters complete: **193 / 273**;
+- remediation chapters remaining: **80**;
+- affected families complete: **69**;
+- manuscript edits: **192**;
+- recent completed families: **Crime and Punishment (356–358)**, **Voluntary Escort (359–362)**, **Ghost Castle of the Ultra-Deep Sea (363–365)**, **The Underground Extension Construction (366–368)**, **The Servant (369–370)**;
+- next affected family: **Solitary Confinement (371–372)**, earliest remaining target **371**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-27 — Cycle 2 Phase 4 — Key man and Outside the Tower complete
 
 Phase 4 remediation/evidence rebinding is authoritative through **Outside the Tower (351–355)**.
