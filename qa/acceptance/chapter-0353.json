@@ -2,8 +2,8 @@
   "chapter": 353,
   "title": "Outside the Tower (3)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Outside the Tower",
     "range": [
@@ -11,8 +11,8 @@
       355
     ],
     "family_qa_path": "qa/families/outside-tower-0351-0355.md",
-    "family_qa_sha": "cb78aaf960f448be3c02c5220421134e76b60119",
-    "status": "pass"
+    "family_qa_sha": "c6f728a659a063c031fdbc87bbb59a4c58434cb8",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/353.txt",
@@ -20,15 +20,22 @@
     "english_reference_path": "source/chapters/chapter-351.xhtml",
     "english_reference_sha": "82791260a8e5eeb632c82d14bb9bce385e23cac8",
     "draft_path": "manuscript/drafts/chapter-0353.md",
-    "draft_sha": "1bd4b2a62f939fd18ca5d052b482f92c61a6744c",
+    "draft_sha": "5b50300d00fc83e384da2d0d7d7febb7d8177a49",
     "qa_path": "qa/chapter-0353.md",
-    "qa_sha": "b8a18b939754c8e4f0d3bf1e98d07b98c28020f8",
+    "qa_sha": "9c4f36655d2579d2efcb047f60df183d0aab63a9",
     "provenance_path": "editorial/provenance/chapter-0353.json",
-    "provenance_sha": "cd2450af3d9d515704b00199eb06e23945c5bdd1"
+    "provenance_sha": "85b7e58051c14b3f0754d2fc6e9357b9715583b5"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Crime and Punishment material from target356 is imported."
   ],
-  "source_exception": "Shared raw 353.txt covers targets353-354 with explicit embedded Chapter354 marker."
+  "source_exception": "Shared raw 353.txt covers targets353-354 with explicit embedded Chapter354 marker.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored Winston host body bursting apart and disappearing"
+  }
 }
