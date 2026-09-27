@@ -1,5 +1,18 @@
 # Reconstruction Progress
 
+## 2026-09-27 — Cycle 2 Phase 4 — Season of Redemption complete
+
+Phase 4 remediation/evidence rebinding advanced through **The Season of Redemption (264–267)**.
+
+- remediation chapters complete: **126 / 273**;
+- remediation chapters remaining: **147**;
+- affected families complete: **44**;
+- manuscript edits: **125**;
+- Chapters **264–266** repaired and rebound;
+- Chapter **267** complete-family revalidated unchanged under the shared-source exception;
+- next affected family: **The Eucharist (268–269)**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-27 — Cycle 2 Phase 4 — Inverted Pentagram complete
 
 Phase 4 remediation/evidence rebinding advanced through **The Inverted Pentagram (261–263)**.
