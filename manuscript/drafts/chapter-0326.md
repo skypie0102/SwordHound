@@ -60,7 +60,7 @@ And helped suppress dangerous reverse-flow inside one's own body.
 
 *Put simply—*
 
-*it reduces hostile magical interference.*
+*it halves an enemy's magical attack.*
 
 *And restrains mana rampage.*
 
