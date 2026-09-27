@@ -132,13 +132,9 @@ THUD!
 
 THUD!
 
-Blood.
+Blood, flesh, and internal organs burst apart like firecrackers.
 
-Flesh.
-
-Organs.
-
-The water darkened.
+The water blackened instantly.
 
 BDISSEM narrowed her eyes.
 
