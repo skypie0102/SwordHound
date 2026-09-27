@@ -11,7 +11,7 @@
 **Cycle-2 completeness revalidated:** 500 / 500 — Phase 2 COMPLETE — 229 PASS / 271 FAIL
 **Cycle-2 boundary/alignment revalidated:** 500 / 500 — 53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED across 118 / 118 families  
 **Confirmed Cycle-2 failures:** 200 Phase-1 sanitization FAIL chapters plus 271 Phase-2 completeness FAIL chapters; 198 completeness failures overlap Phase-1 FAILs and 73 are additions beyond the Phase-1 FAIL queue (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499), for 273 unique remediation chapters; remediation deferred to Phase 4
-**Current audit stage:** Phase 4 ACTIVE — 87 affected families complete through The Fall of Usher (441–449); 243/273 remediation chapters complete; next affected family Declaration of War (450–453)
+**Current audit stage:** Phase 4 ACTIVE — 89 affected families complete through Infiltration of the Water Source (454–464); 252/273 remediation chapters complete; next affected family The Prelude to a Counterattack (465–470)
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -161,20 +161,20 @@ Phase 4 is now active. **Camus Morgue (20–25)** has been completed as the firs
 
 ## Phase 4 progress
 
-- Completed affected families: **87**
-- Remediation chapters complete: **243 / 273**
-- Remaining remediation chapters: **30**
-- Phase-4 manuscript edits: **242**
-- Last completed affected family: **The Fall of Usher (441–449)**
-- Latest repaired chapters: **444, 445, 446, 447, 449**
-- Next affected family: **Declaration of War (450–453)**
-- Earliest remaining remediation target: **450**
+- Completed affected families: **89**
+- Remediation chapters complete: **252 / 273**
+- Remaining remediation chapters: **21**
+- Phase-4 manuscript edits: **251**
+- Last completed affected family: **Infiltration of the Water Source (454–464)**
+- Latest repaired chapters: **455, 456, 459, 461, 463, 464**
+- Next affected family: **The Prelude to a Counterattack (465–470)**
+- Earliest remaining remediation target: **466**
 - EPUB assembly remains blocked
 
 ## Exact next actions
 
-1. Continue **Phase 4** with **Declaration of War (450–453)**, queued targets **450, 451, and 453**.
+1. Continue **Phase 4** with **The Prelude to a Counterattack (465–470)**, queued targets **466–469**.
 2. Reread the complete family against Chinese-primary sources and shifted English witnesses.
-3. Repair all source-supported ordinary sanitization/completeness defects and rerun both primary gates.
+3. Repair all source-supported ordinary defects and rerun both primary gates.
 4. Refresh chapter QA, family QA, provenance, acceptance, tracker, Cycle-2 ledger, and live docs before advancing.
 5. Keep EPUB assembly blocked until Phases 4–6 close.
