@@ -110,6 +110,8 @@ Complete-EPUB assembly, presentation QA, and final packaging are deferred until 
 - Tracker entries: **500 / 500**
 - Tracker acceptance-SHA mismatches: **0**
 - Closure checkpoint: `qa/cycle2-phase4-checkpoint-0500.md`
+- Integration PR: **#151 MERGED**
+- Integration merge commit: `7cc7f9e6c537ff25030c814ea3231948723f2db3`
 
 ## Current priority — Phase 5
 
