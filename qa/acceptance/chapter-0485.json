@@ -2,8 +2,8 @@
   "chapter": 485,
   "title": "The Marquis of Discord (3)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-28",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Marquis of Discord",
     "range": [
@@ -11,8 +11,8 @@
       489
     ],
     "family_qa_path": "qa/families/marquis-discord-0483-0489.md",
-    "family_qa_sha": "c66f9e824e177b7b080755602464194b71d1756b",
-    "status": "pass"
+    "family_qa_sha": "e2fdcab9b47fb4998933f7d1c825fe9193dc3628",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/485.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-483.xhtml",
     "english_reference_sha": "43c94ce6df8d64e628fbd9a798f23f34d3341281",
     "draft_path": "manuscript/drafts/chapter-0485.md",
-    "draft_sha": "5cbe1b2ffec44202a202bf89b742825ac720511e",
+    "draft_sha": "04ec30ba8f96cff5dcc1fd82dba4972f4de586ba",
     "qa_path": "qa/chapter-0485.md",
-    "qa_sha": "b15d8adc61a75b2b5245fabab3d26768572816a2",
+    "qa_sha": "6328a19ea52fd3a9fd67f8d7cf6812ce1ee7dcb1",
     "provenance_path": "editorial/provenance/chapter-0485.json",
-    "provenance_sha": "f10e41c6e62454edaaceac9130775cb358949a68"
+    "provenance_sha": "d0ff78e437352946feea114405d1c9eaba98fbc8"
   },
   "documented_limits": [
     "Direct Fandom page access remained robots-blocked; established glossary/indexed forms were reused.",
     "No Running Hound material from target490 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-28",
+    "manuscript_changed": true,
+    "note": "restored bloody tears, rupturing-intestines comparison, and pungent eyelid smoke"
+  }
 }
