@@ -2,8 +2,8 @@
   "chapter": 427,
   "title": "The Night Walkers (3)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Night Walkers",
     "range": [
@@ -11,8 +11,8 @@
       429
     ],
     "family_qa_path": "qa/families/night-walkers-0425-0429.md",
-    "family_qa_sha": "373ead880992aeca111e0358147b170df4da9168",
-    "status": "pass"
+    "family_qa_sha": "d4c5af14c23ba4f5ad1aa52ec3831b0e0c454002",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/427.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-425.xhtml",
     "english_reference_sha": "1b6c1be3b376e6d8ef5b533e9457401545a0f148",
     "draft_path": "manuscript/drafts/chapter-0427.md",
-    "draft_sha": "ce149690bfe03613680bce68ddc51d4d4d2b518c",
+    "draft_sha": "d653c7140212f0ba1840d1ac1bf7ff1269a7ddb8",
     "qa_path": "qa/chapter-0427.md",
-    "qa_sha": "a8de09ecdec09dbb5f85b7e92118c0a7b7500cd5",
+    "qa_sha": "9f8dd3b7178ec6ab52123d358cf83b94aca44b50",
     "provenance_path": "editorial/provenance/chapter-0427.json",
-    "provenance_sha": "59972f10471b1156e66f162101ca4a4304c4056d"
+    "provenance_sha": "1ee5b6df6efd41ac1a979b033b0db2b97f26c3a5"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Lion King material from target430 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored all-four-limbs-cut-off punishment"
+  }
 }
