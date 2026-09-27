@@ -9,8 +9,8 @@
       313
     ],
     "family_qa_path": "qa/families/hell-tree-0307-0313.md",
-    "family_qa_sha": "a986e8c3052a9d6bc03fc1347ec9611720429da9",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "389a7262b3b1e5268f23529e44d7dfa40d31b8b0",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/311.txt",
@@ -24,16 +24,16 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0311.md",
-    "blob_sha": "7d43d6850e1672a5223680a363e4a1b4db5b9355"
+    "blob_sha": "274afe7cbab724d7b1480a22be51804ee8c3b2a7"
   },
   "qa": {
     "path": "qa/chapter-0311.md",
-    "blob_sha": "fefbbfbeae82ce9f6bd6f47d0d1c9809350bc9a3",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "b0ee1517c3271cbb4f7f222af030bff2d7a8f1c2",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/item forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "historical_acceptance": {
     "accepted": true,
     "accepted_date": "2026-09-19",
@@ -46,5 +46,16 @@
     "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
     "family_evidence": "qa/families/hell-tree-0307-0313.md",
     "initial_priority_target": true
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      307,
+      313
+    ],
+    "manuscript_changed": true,
+    "note": "restored surviving Hell Hounds trembling and wetting themselves in fear"
   }
 }
