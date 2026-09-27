@@ -16,7 +16,7 @@ Current checkpoint: **full manuscript sanitization + completeness audit — Cycl
 - Completeness-only additions beyond the Phase-1 FAIL queue: **73**
 - Combined Phase-4 remediation population: **273 unique chapters**
 - Cycle-2 boundary/alignment revalidated: **500 / 500** — **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED** across **118 / 118 families**
-- Current stage: **Phase 4 ACTIVE — 252/273 remediation chapters complete through Infiltration of the Water Source (454–464); next affected family The Prelude to a Counterattack (465–470)**
+- Current stage: **Phase 4 COMPLETE — 273/273 remediation chapters across 95 affected families; Phase 5 independent residual verification next**
 - Active Cycle-2 plan: `qa/manuscript-sanitization-completeness-cycle2.md`
 - Phase-2 closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`
 - Historical post-500 audit record: `qa/manuscript-completeness-audit.md`
@@ -30,7 +30,7 @@ Phase 1 is complete across Chapters 1–500 at **282 PASS / 200 FAIL / 18 SAFETY
 
 Phase 3 is complete. Chapters **1–500** across **118 / 118** families are structurally resolved at **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED**, with **429 genuine new source-exception rows** after duplicate-ledger normalization and **0 manuscript edits**. Closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`. The structural FAILs at Chapters **273 and 283** have both been resolved during Phase 4.
 
-Phase 4 is active. Eighty-nine affected families are remediated/revalidated and rebound through **Infiltration of the Water Source (454–464)**. **252 / 273** remediation chapters are complete and **21** remain; Phase 4 has made **251** manuscript edits so far. Continue with **The Prelude to a Counterattack (465–470)**, earliest remaining target Chapter **466**.
+Phase 4 is **complete**. **273 / 273** remediation chapters across **95** affected title families were resolved and rebound, with **271** manuscript edits and **0** remediation targets remaining. All **500 / 500** tracker acceptance SHAs match the live acceptance artifacts. Closure checkpoint: `qa/cycle2-phase4-checkpoint-0500.md`. Phase 5 residual verification is next; EPUB assembly remains blocked.
 
 ## Current source policy
 
