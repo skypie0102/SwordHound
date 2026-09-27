@@ -1,5 +1,18 @@
 # Reconstruction Progress
 
+## 2026-09-27 — Cycle 2 Phase 4 — Rotten Dog of Nouvelle Vague complete
+
+Phase 4 remediation/evidence rebinding advanced through **The Rotten Dog of Nouvelle Vague (385–389)**.
+
+- remediation chapters complete: **203 / 273**;
+- remediation chapters remaining: **70**;
+- affected families complete: **75**;
+- manuscript edits: **202**;
+- Chapters **386, 387, 389** repaired and rebound;
+- Chapters **385, 388** complete-family revalidated unchanged;
+- next affected family: **The Worst Torture (390–395)**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-27 — Cycle 2 Phase 4 — advanced through The Servant
 
 Phase 4 remediation/evidence rebinding is authoritative through **The Servant (369–370)**.
