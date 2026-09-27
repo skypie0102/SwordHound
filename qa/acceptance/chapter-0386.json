@@ -2,8 +2,8 @@
   "chapter": 386,
   "title": "The Rotten Dog of Nouvelle Vague (2)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Rotten Dog of Nouvelle Vague",
     "range": [
@@ -11,8 +11,8 @@
       389
     ],
     "family_qa_path": "qa/families/rotten-dog-0385-0389.md",
-    "family_qa_sha": "d10f2ad9895b49c51666e0e974439e9f178deb2a",
-    "status": "pass"
+    "family_qa_sha": "61be6e660024c17e9564680ee47b82689b723af2",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/385.txt",
@@ -20,15 +20,22 @@
     "english_reference_path": "source/chapters/chapter-384.xhtml",
     "english_reference_sha": "8cc1558e7758df6b37efdaec347b37d71dc69a9c",
     "draft_path": "manuscript/drafts/chapter-0386.md",
-    "draft_sha": "ef5a9550af00ba946abb5d1d010e4e4109959b78",
+    "draft_sha": "0beafacf09b5c6d8fb4bc7b5347848711a13b9d0",
     "qa_path": "qa/chapter-0386.md",
-    "qa_sha": "fc37f37c358569498ed18279189f4c4ff039d870",
+    "qa_sha": "74e853af5a71ffbca93c876275a086f65b9929f7",
     "provenance_path": "editorial/provenance/chapter-0386.json",
-    "provenance_sha": "7b830e60e57b3ed1b38d18bc6417a1d45b4c11c3"
+    "provenance_sha": "5f477b4dbaaade3cf009afe16d66e6ecd411237a"
   },
   "documented_limits": [
     "No The Worst Torture material from target390 is imported.",
     "Pal Euspear remains source-local/aligned-witness spelling because no accessible designated-Fandom entry was found."
   ],
-  "continuity_guard": "Local Basilisk regeneration wording does not overwrite Immortality — Gargoyle (S)."
+  "continuity_guard": "Local Basilisk regeneration wording does not overwrite Immortality — Gargoyle (S).",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored Dog Who Eats Shit / shit-eating dog degradation"
+  }
 }
