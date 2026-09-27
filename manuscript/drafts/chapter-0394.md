@@ -532,11 +532,9 @@ From the moment Vikir learned Sakkuth had helped unleash Red Death on innocent p
 
 there had never been a plan to save him.
 
-Even if Sakkuth survived interrogation—
+Even if Sakkuth endured torture and beatings—
 
-solitary—
-
-labor—
+and survived solitary confinement—
 
 Vikir already had another ending prepared.
 
