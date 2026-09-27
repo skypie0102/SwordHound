@@ -9,8 +9,8 @@
       263
     ],
     "family_qa_path": "qa/families/inverted-pentagram-0261-0263.md",
-    "family_qa_sha": "eeffa8cb036b72104224f4c9bc2720c161a5f0b3",
-    "status": "pass"
+    "family_qa_sha": "6cf478f6c31d186da72a6e0b74cc2835536dcc1a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/262.txt",
@@ -28,10 +28,21 @@
   },
   "qa": {
     "path": "qa/chapter-0262.md",
-    "blob_sha": "d5e4baff9ecec61a741b6c530a34d9686bc015f7",
-    "status": "pass"
+    "blob_sha": "4235ddd3ddf7cdf44339e8919580052f8bf41fc2",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and no new wiki-only forms asserted.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      261,
+      263
+    ],
+    "manuscript_changed": false,
+    "note": "reconciled stale Phase-1 omission; current draft already preserves tears and snot"
+  }
 }
