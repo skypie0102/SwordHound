@@ -30,3 +30,20 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-28  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 483 restores the source's explicit comparison of the Crown Prince's reality-disconnected, illogical speech to symptoms commonly shown by someone with schizophrenia.
+- Chapter 484 restores **over 80%** Imperial infant mortality, average human lifespan only **in the thirties**, orphanage volunteering as a **required course in noble schools**, and the **No. 7 / No. 8 chicken** growth-category example in Andras's livestock argument.
+- Chapter 485 restores the comrades' **bloody tears**, Vikir's voice compared to a groan from **rupturing intestines**, and **pungent smoke gushing from Andras's burned eyelids**.
+- Chapter 488 restores the **suffocating foul stench** from Baal's distant shadow and the later **darkness and foul stench streaming from Andras's eyes** during the renewed bargain.
+- Chapters 486, 487, and 489 were reread against their Chinese-primary sources and remain complete without manuscript changes.
+- Sanitization fidelity and completeness were rerun across Chapters 483–489 after repair.
+- Mapping remains **483→E481 through 489→E487**; target 490/E488 begins *Running Hound (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear. *Running Hound (490–493)* and the main-story ending through target 495 contain no remaining Phase-4 remediation targets; continue to **Side Story (496–500)**.
