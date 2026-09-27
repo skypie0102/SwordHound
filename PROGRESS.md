@@ -1,5 +1,18 @@
 # Reconstruction Progress
 
+## 2026-09-27 — Cycle 2 Phase 4 — Black Tongue complete
+
+Phase 4 remediation/evidence rebinding advanced through **Black Tongue (399–402)**.
+
+- remediation chapters complete: **213 / 273**;
+- remediation chapters remaining: **60**;
+- affected families complete: **78**;
+- manuscript edits: **212**;
+- Chapters **399–401** repaired and rebound;
+- Chapter **402** complete-family revalidated unchanged;
+- next affected family: **Jailbreaker (403–408)**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-27 — Cycle 2 Phase 4 — Dead Man Walking complete
 
 Phase 4 remediation/evidence rebinding advanced through **Dead Man Walking (396–398)**.
