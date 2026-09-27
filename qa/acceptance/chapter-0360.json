@@ -2,8 +2,8 @@
   "chapter": 360,
   "title": "Voluntary Escort (2)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Voluntary Escort",
     "range": [
@@ -11,8 +11,8 @@
       362
     ],
     "family_qa_path": "qa/families/voluntary-escort-0359-0362.md",
-    "family_qa_sha": "99bc680e15694db0fcb6ed22965693f3e71e34d4",
-    "status": "pass"
+    "family_qa_sha": "79a0832fe13b3a2070f883b785ddbc1ae2d25986",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/360.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-358.xhtml",
     "english_reference_sha": "a0d5f65eb217fb344ade3f0102e224e1e1760c2f",
     "draft_path": "manuscript/drafts/chapter-0360.md",
-    "draft_sha": "3c000e927d2664ac80d97baaf82821e667838c73",
+    "draft_sha": "09f7cda37d9ee347ed4d1b23a36ac56118d3660f",
     "qa_path": "qa/chapter-0360.md",
-    "qa_sha": "73dfd27c1a1c0701da24eb42130d6e1a935c33e3",
+    "qa_sha": "287c8cf99a6bba100105a9e80f6be88c376e7469",
     "provenance_path": "editorial/provenance/chapter-0360.json",
-    "provenance_sha": "72be13eea16a65d2d2a0989648958d96f4c1e2cc"
+    "provenance_sha": "2c22dea0f9de1dcaaf03288669b132a04e030f1c"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Ghost Castle material from target363 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored post-Black-Sun dismemberment state: only Isolde's and Thomas's heads and torsos remain"
+  }
 }
