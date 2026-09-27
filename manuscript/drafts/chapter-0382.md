@@ -184,7 +184,7 @@ Most of the body was water.
 
 What remained was bone and skin.
 
-Little usable meat.
+There was no meat to harvest from them.
 
 Strong fishy odor.
 
