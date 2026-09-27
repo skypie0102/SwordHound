@@ -9,8 +9,8 @@
       358
     ],
     "family_qa_path": "qa/families/crime-punishment-0356-0358.md",
-    "family_qa_sha": "d6eefec0041d3aa491cca028a89e21e4e85f2a1e",
-    "status": "pass"
+    "family_qa_sha": "6596c937109bf9ddf20085f4de48dafc701106a1",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/357.txt",
@@ -24,17 +24,28 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0357.md",
-    "blob_sha": "ed4a8273b6c232800f427ee3346e7effb00aa47c"
+    "blob_sha": "c8e22e441195e621d8a8e5c6499beb358d99fc38"
   },
   "qa": {
     "path": "qa/chapter-0357.md",
-    "blob_sha": "df20c4a2e50bffc8b84b3a3b59818e6aa80eb3a7",
-    "status": "pass"
+    "blob_sha": "515d908d2282adccb74e1f2ebfcdf18ac36d1bdf",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_corrections": [
     "Chinese local family part labels are offset by +1; production numbering follows verified E354-E356 sequence."
   ],
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      356,
+      358
+    ],
+    "manuscript_changed": true,
+    "note": "restored Nouvelle Vague as more cruel and more terrifying than the death penalty"
+  }
 }
