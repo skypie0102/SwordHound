@@ -9,8 +9,8 @@
       500
     ],
     "family_qa_path": "qa/families/side-stories-0496-0500.md",
-    "family_qa_sha": "5500ac73073602383e7359b83196e9d2e32a2cd7",
-    "status": "pass"
+    "family_qa_sha": "0a89e3efd898bf8db486b03b293a1a631102da04",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/495.txt",
@@ -25,15 +25,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0496.md",
-    "blob_sha": "7e02a98e311e7db93fd593f6926602690af6c3c8"
+    "blob_sha": "2d331e9b86f261b2d602cc42d3912e0ce391ee75"
   },
   "qa": {
     "path": "qa/chapter-0496.md",
-    "blob_sha": "cdfa47ce2f7c776a9f49c9f2a3cb9fa1b296b8c9",
-    "status": "pass"
+    "blob_sha": "88e2f191ff2b002ac3cbfde2bf54678deda5a3e9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom page access remained robots-blocked; established glossary/indexed canon and the embedded E493 witness were used for late recurring forms.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "source_exception": "Target496 uses the second segment of shared raw 495.txt and embedded E493 Side Story Chapter 1."
+  "accepted_date": "2026-09-28",
+  "source_exception": "Target496 uses the second segment of shared raw 495.txt and embedded E493 Side Story Chapter 1.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-28",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      496,
+      500
+    ],
+    "manuscript_changed": true,
+    "note": "restored omitted parallel-Camus clash, Seere shield/protest, manicure joke, and reciprocal threats"
+  }
 }
