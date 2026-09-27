@@ -16,7 +16,7 @@ Current checkpoint: **full manuscript sanitization + completeness audit — Cycl
 - Completeness-only additions beyond the Phase-1 FAIL queue: **73**
 - Combined Phase-4 remediation population: **273 unique chapters**
 - Cycle-2 boundary/alignment revalidated: **500 / 500** — **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED** across **118 / 118 families**
-- Current stage: **Phase 4 ACTIVE — 123/273 remediation chapters complete through The Inverted Pentagram (261–263); next affected family The Season of Redemption (264–267)**
+- Current stage: **Phase 4 ACTIVE — 126/273 remediation chapters complete through The Season of Redemption (264–267); next affected family The Eucharist (268–269)**
 - Active Cycle-2 plan: `qa/manuscript-sanitization-completeness-cycle2.md`
 - Phase-2 closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`
 - Historical post-500 audit record: `qa/manuscript-completeness-audit.md`
@@ -30,7 +30,7 @@ Phase 1 is complete across Chapters 1–500 at **282 PASS / 200 FAIL / 18 SAFETY
 
 Phase 3 is complete. Chapters **1–500** across **118 / 118** families are structurally resolved at **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED**, with **429 genuine new source-exception rows** after duplicate-ledger normalization and **0 manuscript edits**. Closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`. The only structural FAILs are Chapters **273 and 283**, both already in the Phase-4 remediation population.
 
-Phase 4 is active. Forty-three affected families are remediated/revalidated and rebound through **The Inverted Pentagram (261–263)**. **123 / 273** remediation chapters are complete and **150** remain; Phase 4 has made **122** manuscript edits so far. Continue with **The Season of Redemption (264–267)**, earliest remaining target Chapter **264**.
+Phase 4 is active. Forty-four affected families are remediated/revalidated and rebound through **The Season of Redemption (264–267)**. **126 / 273** remediation chapters are complete and **147** remain; Phase 4 has made **125** manuscript edits so far. Continue with **The Eucharist (268–269)**, earliest remaining target Chapter **269**.
 
 ## Current source policy
 
