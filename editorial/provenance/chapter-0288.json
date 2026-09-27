@@ -9,8 +9,8 @@
       290
     ],
     "family_qa_path": "qa/families/power-inflation-0283-0290.md",
-    "family_qa_sha": "78ddf6929302c374c314a92bce47d49d262f96b3",
-    "status": "pass"
+    "family_qa_sha": "a73a5c489bd327a448d1b07e98682677ec0445a4",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/288.txt",
@@ -24,17 +24,28 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0288.md",
-    "blob_sha": "291778fe4156e5bbaef3905d0013797079b70721"
+    "blob_sha": "b0aba5393b1831908c1acab2b08e541be09fcd41"
   },
   "qa": {
     "path": "qa/chapter-0288.md",
-    "blob_sha": "cc0bb9bbb7efb4235b94c43ace18cfc3cf54e35a",
-    "status": "pass"
+    "blob_sha": "f7920983b054d4892322eebd94b3f42212bbf454",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain pending direct access.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
+  "accepted_date": "2026-09-27",
   "documented_corrections": [
     "E286 resolves the corrupted Chinese name fragment as 'Van'; Dolores does not learn Vikir's full identity."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      283,
+      290
+    ],
+    "manuscript_changed": true,
+    "note": "restored degrading scum insult and desperate death-cry force"
+  }
 }
