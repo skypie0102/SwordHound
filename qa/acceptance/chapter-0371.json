@@ -2,8 +2,8 @@
   "chapter": 371,
   "title": "Solitary Confinement (1)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Solitary Confinement",
     "range": [
@@ -11,8 +11,8 @@
       372
     ],
     "family_qa_path": "qa/families/solitary-confinement-0371-0372.md",
-    "family_qa_sha": "3077e0ce3a79de134d23b9bf8bc80cbe4983e4bc",
-    "status": "pass"
+    "family_qa_sha": "9ea9d7e5ae7dc232b98d0edc6c2de12c40256148",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/371.txt",
@@ -20,11 +20,18 @@
     "english_reference_path": "source/chapters/chapter-369.xhtml",
     "english_reference_sha": "35df2b4ee8bf229e4f95260bf1778424da2fb6eb",
     "draft_path": "manuscript/drafts/chapter-0371.md",
-    "draft_sha": "7b1d8382b95a0827c48129a9e2036f36fc2195a5",
+    "draft_sha": "3df48aad794da452b8f6e78a24e828e71c7d1cc6",
     "qa_path": "qa/chapter-0371.md",
-    "qa_sha": "d50e49d4643b1aad7522c464f52312244d63049e",
+    "qa_sha": "84eb7bc31f883d3900fcd2bfe0a2de4939e46dd3",
     "provenance_path": "editorial/provenance/chapter-0371.json",
-    "provenance_sha": "f4abb2e010a47c922ded1b5c94b0101d3c068a0d"
+    "provenance_sha": "3fe453d4ad21e46f605ba43f0fe4b7a81a143118"
   },
-  "reveal_guard": "Angajuman true identity is not stated; no later name is imported."
+  "reveal_guard": "Angajuman true identity is not stated; no later name is imported.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored Souaré's sexy-mustache wording and seductive delivery"
+  }
 }
