@@ -7,7 +7,7 @@
 
 - Primary semantic source: `source/chinese/chapters/008.txt` — `d62d365170a0107c5c726c9da1901d996d2d508d`
 - Aligned English reference: `source/chapters/chapter-008.xhtml` — `1ec6b7bff255d7ea718dcca063e5ded4ee5ba523`
-- Reviewed draft: `manuscript/drafts/chapter-0008.md` — `33ead486847f4fdb3cff95e00778d85dddc69315`
+- Reviewed draft: `manuscript/drafts/chapter-0008.md` — `6423fcaf83a46f2cb31426bc2a355a222a7e5bf1`
 - Boundary witness: Chinese Chapter 7 ends with Vikir taking raw Bloody Beans; Chinese Chapter 8 begins the practical-exam setup at Le Rouge et Le Noir Mountain.
 
 ## Alignment
@@ -37,7 +37,7 @@ Target Chapter 8 → recovered English Chapter 8 is **verified**, not assumed, b
 1. Restored the full mountain name **Le Rouge et Le Noir Mountain** instead of the MTL’s shortened/unstable `Le Rouge` / `Le Rogue` forms.
 2. Restored the source’s training details, including small monster cubs used during sleep acclimatization.
 3. Rebuilt the haggis/field-ration explanation without the MTL’s corrupted ingredient wording.
-4. Restored the scoring rubric from Chinese. In particular, 50 points concerns abandoning the other children and surviving alone; it is not rewritten as a generic kill/elimination score.
+4. Restored the scoring rubric from Chinese. In particular, **30 points requires survival without being injured**, and 50 points concerns abandoning the other children and surviving alone; neither condition is weakened or rewritten.
 5. Preserved the 90-point condition without conflating it with an invented 100-point tier.
 6. Preserved Hugo’s rule that there is **no 100-point score** because complacency kills a swordsman, while death is always zero.
 7. Restored Guide Dogs as the boundary supervisors and **Pavlov Van Baskerville** as the instructor who rings the start bell.
@@ -50,3 +50,12 @@ Applicable English Fandom terminology had already been retrieved earlier in the 
 ## Decision
 
 **PASS at chapter level.** No semantic, coverage, terminology, explicitness, formatting, or boundary blocker remains. Final acceptance requires the 8–11 family QA to pass.
+
+
+## Cycle-2 Phase 5 independent verification
+
+**Reviewed 2026-09-28.** Restored the 30-point condition exactly: survive without being injured, not merely without serious/crippling injury.
+
+The complete Chinese source and complete post-remediation manuscript were reread line/sentence/paragraph-wise, including dialogue, narration, thoughts, information-window rows, mechanics/numbers, scene transitions, and the chapter endpoint.
+
+**Phase-5 decision:** PASS after independent verification and repair.
