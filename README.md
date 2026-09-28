@@ -6,7 +6,7 @@ Recovered source, reference, reconstruction, QA, and EPUB-preparation material f
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **full manuscript sanitization + completeness audit — Cycle 2, Phase 4 COMPLETE; Phase 5 NEXT**.
+Current checkpoint: **full manuscript sanitization + completeness audit — Cycle 2, Phase 5 ACTIVE**.
 
 - Target manuscript files present: **500 / 500**
 - Historical accepted state entering Cycle 2: **500 / 500**
@@ -16,7 +16,7 @@ Current checkpoint: **full manuscript sanitization + completeness audit — Cycl
 - Completeness-only additions beyond the Phase-1 FAIL queue: **73**
 - Combined Phase-4 remediation population: **273 unique chapters**
 - Cycle-2 boundary/alignment revalidated: **500 / 500** — **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED** across **118 / 118 families**
-- Current stage: **Phase 4 COMPLETE — 273/273 remediation chapters across 95 affected families; Phase 5 independent residual verification next**
+- Current stage: **Phase 5 ACTIVE — 0/500 chapters independently reverified against the post-remediation corpus; next family Hellhound (1–3)**
 - Active Cycle-2 plan: `qa/manuscript-sanitization-completeness-cycle2.md`
 - Phase-2 closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`
 - Historical post-500 audit record: `qa/manuscript-completeness-audit.md`
@@ -30,7 +30,7 @@ Phase 1 is complete across Chapters 1–500 at **282 PASS / 200 FAIL / 18 SAFETY
 
 Phase 3 is complete. Chapters **1–500** across **118 / 118** families are structurally resolved at **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED**, with **429 genuine new source-exception rows** after duplicate-ledger normalization and **0 manuscript edits**. Closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`. The structural FAILs at Chapters **273 and 283** have both been resolved during Phase 4.
 
-Phase 4 is **complete**. **273 / 273** remediation chapters across **95** affected title families were resolved and rebound, with **271** manuscript edits and **0** remediation targets remaining. All **500 / 500** tracker acceptance SHAs match the live acceptance artifacts. Closure checkpoint: `qa/cycle2-phase4-checkpoint-0500.md`. Phase 5 residual verification is next; EPUB assembly remains blocked.
+Phase 4 is **complete**. **273 / 273** remediation chapters across **95** affected title families were resolved and rebound, with **271** manuscript edits and **0** remediation targets remaining. All **500 / 500** tracker acceptance SHAs match the live acceptance artifacts. Closure checkpoint: `qa/cycle2-phase4-checkpoint-0500.md`. Phase 5 is active as a second direct full-source coverage verification of all 500 chapters; EPUB assembly remains blocked.
 
 ## Current source policy
 
