@@ -2,14 +2,17 @@
   "chapter": 5,
   "title": "The Baskerville Dog (2)",
   "accepted": true,
-  "accepted_date": "2026-09-16",
-  "review_mode": "chinese_primary_fandom_canonical",
+  "accepted_date": "2026-09-28",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase5",
   "title_family": {
     "name": "The Baskerville Dog",
-    "range": [4, 7],
+    "range": [
+      4,
+      7
+    ],
     "family_qa_path": "qa/families/baskerville-dog-0004-0007.md",
-    "family_qa_sha": "be2c8b06c0fab67fe0c397cbbd600bd9176aaa36",
-    "status": "pass"
+    "family_qa_sha": "89bc23a0bdad4360031a62667f76479a0b820c92",
+    "status": "pass_after_cycle2_phase5_verification"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/005.txt",
@@ -22,7 +25,7 @@
     "qa_path": "qa/chapter-0005.md",
     "qa_sha": "c653369290a599555598e5c58f1568273cde2b17",
     "provenance_path": "editorial/provenance/chapter-0005.json",
-    "provenance_sha": "f29379417da8e5bb9e7003867a3b5b0eeb3eb3f9"
+    "provenance_sha": "2e23e4dfbdcb8d709c350630d39cb6aa92cbf0ec"
   },
   "canonical_checks": [
     "Highbro / Middlebro / Lowbro",
@@ -32,5 +35,12 @@
   "documented_limits": [
     "One Chinese wager line is locally damaged; the final line is repaired conservatively from immediate Chinese context plus the aligned English witness without changing event sequence.",
     "Child-rearing-castle naming remains descriptive because a dedicated canonical proper name is not confirmed."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-16",
+  "cycle2_phase5": {
+    "status": "accepted_after_independent_complete_source_verification",
+    "date": "2026-09-28",
+    "manuscript_changed": false,
+    "note": "independent complete-source reread passed unchanged"
+  }
 }
