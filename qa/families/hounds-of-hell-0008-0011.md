@@ -20,10 +20,10 @@ Recovered English Chapters 8–11 independently match the same title-part sequen
 
 | Target | Chinese source SHA | English reference SHA | Final draft SHA | Chapter QA |
 | --- | --- | --- | --- | --- |
-| 8 | `d62d365170a0107c5c726c9da1901d996d2d508d` | `1ec6b7bff255d7ea718dcca063e5ded4ee5ba523` | `33ead486847f4fdb3cff95e00778d85dddc69315` | PASS |
-| 9 | `316950c50ba6c3774ffbc779fb319bd1bcff8874` | `d765e36aa4083e8054c7ea179c89730cd347e398` | `e9cfd93a9030a2d1bc6c3c9e241ec780ca46c2f2` | PASS |
-| 10 | `6be1944dd10561d5246cff6ab830e6f5e39bc736` | `8c2442bf760ee8ca0c3174c5d49556dab379cdac` | `5a340ea07718a4119488d153a9f37a265ba90781` | PASS |
-| 11 | `db1c2c6ec0304cf4e19390cf88de0f5d4a8a9b44` | `26e15feb304acd8e94d8f902c82a369dc900fb7e` | `eed36a1afd207edcf761034350426ff39c1fa8db` | PASS |
+| 8 | `d62d365170a0107c5c726c9da1901d996d2d508d` | `1ec6b7bff255d7ea718dcca063e5ded4ee5ba523` | `6423fcaf83a46f2cb31426bc2a355a222a7e5bf1` | PASS |
+| 9 | `316950c50ba6c3774ffbc779fb319bd1bcff8874` | `d765e36aa4083e8054c7ea179c89730cd347e398` | `a3086f3a8898792368db9d47e28659b5664bf473` | PASS |
+| 10 | `6be1944dd10561d5246cff6ab830e6f5e39bc736` | `8c2442bf760ee8ca0c3174c5d49556dab379cdac` | `be2292aceef4465f77278cbabe2255c625798a17` | PASS |
+| 11 | `db1c2c6ec0304cf4e19390cf88de0f5d4a8a9b44` | `26e15feb304acd8e94d8f902c82a369dc900fb7e` | `bd6d7d5be27897560a6c5ccb77f7342b17b2e067` | PASS |
 
 Boundary witness Chapter 12 Chinese SHA: `9cbd4648873cda28a0e9410966d0643dda873968`.
 
@@ -98,3 +98,23 @@ Nothing is softened merely because it is violent, crude, or unpleasant; nothing 
 **PASS. Chapters 8–11 remain accepted together after the Chapter 11 canonical-terminology reopen.**
 
 No semantic, coverage, continuity, terminology, explicitness, information-window, or chapter-boundary blocker remains. The next required work is Chapters 12–13, *The Gluttonous Flies (1)–(2)*.
+
+
+## Cycle-2 Phase 5 independent complete-coverage verification
+
+**Reviewed:** 2026-09-28  
+**Result:** PASS after repair  
+**Manuscript changes:** Chapters 8–11
+
+A second complete Chinese-source-to-live-manuscript reread found residual sentence/detail discrepancies in all four chapters.
+
+- **Chapter 8:** restored the exact 30-point rubric condition: survive **without being injured**, not merely without serious/crippling injury.
+- **Chapter 9:** restored the source's intentionally uneasy blunt-blade/killing-rule wording; exact **canned food** and bed materials; Hugo's warning that a master must be prepared to be **bitten to death** by his own dog; the sky-piercing stake image; the jungle-gym forest image; and the Hellhound fire's origin in **embers deep in hell**. Removed unsupported “other small creatures” and monster-hide additions.
+- **Chapter 10:** restored the source metaphor that monster souls are **mortgaged to the Demon Realm** and the specific Bloody Mamba callback. Chinese C010's isolated High-Sword-Master current-rank label is documented as a local source corruption; aligned E10 and C011 mechanics establish **High Sword Expert**.
+- **Chapter 11:** restored the **First Ridge** location, the separate back-buckling injury sentence before the broken-ribs clarification, and the full attribution of the **Thirty-Six Stratagems** to the Leviathan family head, described as the Seven Great Clans' greatest military strategist. C011's first two rank-table labels are locally corrupted in Chinese; aligned E11 plus the table's internal progression establish **Low/Mid Sword Expert**.
+
+The complete family was reread after repair. All dialogue, narration, internal thought, source information windows, numbers/ranks, monster mechanics, violence level, scene transitions, and chapter endpoints are represented. Chapter 10's Cerberus reveal and Chapter 11's repeated Cerberus window remain source-authentic rather than accidental duplication.
+
+**Phase-5 family decision:** PASS after repair. No unresolved missed line/sentence/paragraph, unsupported addition, silent sanitization, duplication/displacement, or boundary/canonical defect remains in Chapters 8–11.
+
+**Next family:** The Gluttonous Flies (12–13).
