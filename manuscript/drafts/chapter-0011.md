@@ -44,7 +44,7 @@ Vikir remained calm.
 
 Cerberus was normally found in the high reaches of Le Rouge et Le Noir Mountain.
 
-Yet this one had descended into the lower ridges.
+Yet this one had descended into the lowlands here—the First Ridge.
 
 Something had driven it here.
 
@@ -237,6 +237,8 @@ Now he paid with his own.
 
 The claw smashed into his torso.
 
+Vikir’s back buckled with a sickening crack.
+
 The body blessed by the River Styx miraculously kept the strike from tearing through his organs, but several ribs still broke under the impact.
 
 “… A second hit like that would be bad.”
@@ -259,7 +261,9 @@ Sometimes that route led away from the enemy.
 
 “The Thirty-Six Stratagems. When everything else fails, retreat is the best strategy.”
 
-Among the military principles traditionally attributed to the Leviathan family, the final answer was often the simplest.
+The head of the Leviathan family—the greatest master of military strategy among the Seven Great Clans—was credited with devising the Thirty-Six Stratagems.
+
+The thirty-sixth was the simplest.
 
 Run.
 
