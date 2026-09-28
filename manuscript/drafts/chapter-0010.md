@@ -182,7 +182,7 @@ Crunch—
 
 He grabbed the Hellhound by the tail and began dragging it uphill.
 
-Monster corpses obeyed strange laws in the human world, their souls bound in some fashion to the Demon Realm.
+Monster corpses obeyed strange laws in the human world because their souls were mortgaged to the Demon Realm.
 
 The result was a body far heavier than its appearance suggested.
 
@@ -226,7 +226,7 @@ Could one hound recognize another?
 
 Even after surviving the destruction of the world and passing through regression, the scent of blood engraved into Vikir’s soul had not vanished.
 
-Just as the venomous snakes in his cradle had once frozen before him, the Hellhounds hesitated in front of the murderous intent he now released openly.
+Just as the Bloody Mambas in his cradle had once frozen before him, the Hellhounds hesitated in front of the murderous intent he now released openly.
 
 Vikir spoke.
 
