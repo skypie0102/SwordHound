@@ -71,7 +71,7 @@ That was Hugo’s view.
 <div class="info-window">
 <p class="info-window-title">Practical Examination Scoring</p>
 <p class="info-window-row">Survive: 10 points</p>
-<p class="info-window-row">Survive without being seriously injured or crippled: 30 points</p>
+<p class="info-window-row">Survive without being injured: 30 points</p>
 <p class="info-window-row">Abandon the other children and survive alone: 50 points</p>
 <p class="info-window-row">Kill a monster and survive: 70 points</p>
 <p class="info-window-row">Leave other children behind or kill a monster, then survive without crippling injury: 90 points</p>
