@@ -1,7 +1,7 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-28
-**Phase:** FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT — CYCLE 2 — **PHASE 4 COMPLETE / PHASE 5 NEXT**  
+**Phase:** FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT — CYCLE 2 — **PHASE 5 ACTIVE**  
 **Target manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
 **Cycle-2 sanitization reviewed:** 500 / 500 — Phase 1 COMPLETE
@@ -11,7 +11,7 @@
 **Cycle-2 completeness revalidated:** 500 / 500 — Phase 2 COMPLETE — 229 PASS / 271 FAIL
 **Cycle-2 boundary/alignment revalidated:** 500 / 500 — 53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED across 118 / 118 families  
 **Confirmed Cycle-2 failures:** 200 Phase-1 sanitization FAIL chapters plus 271 Phase-2 completeness FAIL chapters; 198 completeness failures overlap Phase-1 FAILs and 73 are additions beyond the Phase-1 FAIL queue (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499), for 273 unique remediation chapters; remediation deferred to Phase 4
-**Current audit stage:** Phase 4 COMPLETE — **273/273 remediation chapters**, **95/95 affected families**, **0 remaining**; Phase 5 independent residual verification is next
+**Current audit stage:** **Phase 5 ACTIVE — 0/500 chapters and 0/118 families independently reverified against the post-remediation corpus; next family Hellhound (1–3)**
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -25,7 +25,7 @@
 **Phase-4 integration:** PR #151 MERGED  
 **Phase-4 integration merge commit:** `7cc7f9e6c537ff25030c814ea3231948723f2db3`  
 **Phase-4 closure branch:** `audit/cycle2-phase4-remediation` — merged into `main`  
-**Phase-5 working branch:** not started
+**Phase-5 working branch:** `audit/cycle2-phase5-verification`
 
 ## Why the project focus changed
 
@@ -51,7 +51,7 @@ Boundary/alignment integrity is a third structural gate across families, combine
 - **Phase 2:** true full-corpus completeness pass, Chapters 1–500
 - **Phase 3:** corpus boundary/alignment/exception integrity pass
 - **Phase 4:** remediation and evidence rebinding
-- **Phase 5:** independent residual verification and consistency sweep
+- **Phase 5:** independent complete source-coverage verification and consistency sweep
 - **Phase 6:** closure, hash validation, and EPUB-release unblock
 
 Full criteria and exit gates are in qa/manuscript-sanitization-completeness-cycle2.md.
