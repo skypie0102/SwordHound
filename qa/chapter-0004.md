@@ -24,7 +24,7 @@
 
 1. **Sword-rank system rebuilt from Chinese.** Beginner = no sword mana; Expert = gas-like aura; Graduator = dense/liquid aura; Master = solid, shapeable aura.
 2. **`Sword Graduator` retained as the established project/Fandom form.** The recovered MTL oscillates around “graduate/graduator.”
-3. **Previous-life age corrected to sixteen.** Chinese says Vikir reached High Sword Expert at sixteen; the MTL corrupts this to age ten.
+3. **Source-internal age conflict preserved instead of silently resolved.** Chinese first says this was a realm Vikir had only barely reached in his twenties, then immediately states that before regression he reached High Sword Expert at sixteen. The live manuscript now carries both source statements; the older QA's single-age normalization is superseded.
 4. **Vikir’s current rank preserved as High Sword Expert at age eight.** No later rank is backfilled.
 5. **Triplet names normalized** to Highbro Le Baskerville, Middlebro Le Baskerville, and Lowbro Le Baskerville.
 6. **Direct-line naming distinction normalized** as `Le` for boys and `La` for girls where the source explains the particles.
@@ -39,3 +39,14 @@ Current project research prior to this QA established the rank system, triplet n
 ## Acceptance decision
 
 **PASS at chapter level.** Chapter 4 may be accepted only if the complete Chapters 4–7 title-family QA also passes.
+
+
+## Cycle-2 Phase 5 independent verification
+
+**Reviewed 2026-09-28.** Direct second source-to-manuscript reread found one residual completeness defect: the Chinese raw contains two consecutive, contradictory prior-life age statements (barely reaching this realm in his twenties; then reaching High Sword Expert at sixteen). The pre-Phase-5 manuscript retained only the sixteen-year line.
+
+**Repair:** both Chinese source statements are now represented in order. The contradiction is preserved and documented rather than silently harmonized.
+
+All other Chapter-4 source dialogue, narration, rank mechanics, triplet material, scene break, and the two-suns ending independently reverified complete.
+
+**Phase-5 decision:** PASS after repair.
