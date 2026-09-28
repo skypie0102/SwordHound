@@ -2,14 +2,17 @@
   "chapter": 9,
   "title": "Hounds of Hell (2)",
   "accepted": true,
-  "accepted_date": "2026-09-16",
-  "review_mode": "chinese_primary_fandom_canonical",
+  "accepted_date": "2026-09-28",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase5",
   "title_family": {
     "name": "Hounds of Hell",
-    "range": [8, 11],
+    "range": [
+      8,
+      11
+    ],
     "family_qa_path": "qa/families/hounds-of-hell-0008-0011.md",
-    "family_qa_sha": "a5c43f7276f0bfe5e86f12a34238abcdcc79d003",
-    "status": "pass"
+    "family_qa_sha": "fce91b968ccc255b2c3082fa629929c18ac6941f",
+    "status": "pass_after_cycle2_phase5_verification"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/009.txt",
@@ -18,11 +21,11 @@
     "english_reference_sha": "d765e36aa4083e8054c7ea179c89730cd347e398",
     "english_alignment": "verified_by_title_opening_scene_sequence_monster_windows_and_endpoint",
     "draft_path": "manuscript/drafts/chapter-0009.md",
-    "draft_sha": "e9cfd93a9030a2d1bc6c3c9e241ec780ca46c2f2",
+    "draft_sha": "a3086f3a8898792368db9d47e28659b5664bf473",
     "qa_path": "qa/chapter-0009.md",
-    "qa_sha": "1406b60bb5f13639eab798b9a946446fca526893",
+    "qa_sha": "16a5bcbf2dcdeaebad97422249b05dc0beeda9fb",
     "provenance_path": "editorial/provenance/chapter-0009.json",
-    "provenance_sha": "5654c0b34c92d41653365c07f018a1d1f33c4895"
+    "provenance_sha": "0d1fd552edebb44d8410fd94c44d388afbe6cf48"
   },
   "canonical_checks": [
     "Le Rouge et Le Noir Mountain",
@@ -34,5 +37,12 @@
   "documented_limits": [
     "A later Fandom refresh was blocked by robots rules; only earlier retrieved canonical evidence was used.",
     "The Hellhound descriptive epithet and fatal-bite warning come from Chinese source coverage and are not presented as separately Fandom-canonized names."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-16",
+  "cycle2_phase5": {
+    "status": "accepted_after_independent_complete_source_verification",
+    "date": "2026-09-28",
+    "manuscript_changed": true,
+    "note": "restored camp/rule/metaphor/forest/Hellhound-window details and removed unsupported additions"
+  }
 }
