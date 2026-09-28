@@ -7,7 +7,7 @@
 
 - Primary semantic source: `source/chinese/chapters/010.txt` — `6be1944dd10561d5246cff6ab830e6f5e39bc736`
 - Aligned English reference: `source/chapters/chapter-010.xhtml` — `8c2442bf760ee8ca0c3174c5d49556dab379cdac`
-- Reviewed draft: `manuscript/drafts/chapter-0010.md` — `5a340ea07718a4119488d153a9f37a265ba90781`
+- Reviewed draft: `manuscript/drafts/chapter-0010.md` — `be2292aceef4465f77278cbabe2255c625798a17`
 
 ## Alignment
 
@@ -53,3 +53,14 @@ Earlier active-family Fandom retrieval established the current Hellhound/Cerberu
 ## Decision
 
 **PASS at chapter level.** No semantic, coverage, terminology, explicitness, info-window, or boundary blocker remains. Final acceptance requires family QA.
+
+
+## Cycle-2 Phase 5 independent verification
+
+**Reviewed 2026-09-28.** Restored the monster corpse's soul being mortgaged to the Demon Realm and the specific Bloody Mamba callback. The isolated Chinese 'High Sword Master' rank label is documented as source corruption; aligned E10 and surrounding rank mechanics establish High Sword Expert.
+
+The complete Chinese source and complete post-remediation manuscript were reread line/sentence/paragraph-wise, including dialogue, narration, thoughts, information-window rows, mechanics/numbers, scene transitions, and the chapter endpoint.
+
+**Source-text note:** Chinese C010 contains an isolated rank-label corruption in the sentence describing eight-year-old Vikir's current level, calling it `剑术大师高级`. The aligned E10 reads **Advanced Sword Expert**, and the surrounding source mechanics in C010/C011 unambiguously define the current aura as High Sword Expert / Third Circle. The manuscript therefore retains **High Sword Expert** and records the Chinese corruption instead of propagating an internally impossible rank.
+
+**Phase-5 decision:** PASS after independent verification and repair.
