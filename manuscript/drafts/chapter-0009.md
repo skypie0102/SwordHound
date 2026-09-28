@@ -72,7 +72,7 @@ The sound of metal striking metal echoed throughout the forest.
 
 The children had been issued blunt shortswords for the examination and had begun fighting almost immediately.
 
-The edges were dulled to reduce lethal wounds.
+The edges were dulled, supposedly making lethal injuries impossible.
 
 That did not mean killing was forbidden.
 
@@ -148,13 +148,13 @@ The guardian knights outside were providing security for him without realizing i
 
 When he became thirsty, he collected dew from broad leaves hanging along the wall.
 
-When he became hungry, he caught snakes, worms, or other small creatures and roasted them.
+When he became hungry, he caught snakes or worms and roasted them.
 
-It was far tastier than the haggis and preserved rations served at the nursery castle.
+It was far tastier than the haggis or canned food served at the nursery castle.
 
 Even his bed was better.
 
-Baskerville children slept on hard, rough beds made from monster hide, shells, or thornwood.
+Baskerville children slept on hard, rough beds made from monster shells or thornwood.
 
 Here, Vikir had lined the bottom of his pit with dry grass, sawdust, and warm ash.
 
@@ -193,7 +193,7 @@ A conversation with Hugo from shortly before Vikir’s execution surfaced in his
 
 ‘No.’
 
-‘Of course not. The master has to train too—with the knowledge that one day his own hound may bite him. You never know when a blinded fang will turn on the hand that raised it.’
+‘Of course not. While training a dog, the master also has to be prepared to be bitten to death by that dog. The master needs training too, in case a blinded fang turns on the one who raised it.’
 
 Hugo understood that truth himself.
 
@@ -237,7 +237,9 @@ Wooden spears.
 
 One after another, he drove them into the floor of the pit with their points facing upward.
 
-The stakes rose densely from below like the teeth of some enormous beast waiting with its jaws open.
+Their sharpened tips rose as though trying to pierce the sky.
+
+The stakes packed the bottom of the pit like the teeth of some enormous beast waiting with its jaws open.
 
 What those teeth would eventually bite, even Vikir had not fully decided yet.
 
@@ -263,7 +265,7 @@ Before long, Vikir slipped past the line.
 
 The forbidden forest was unnaturally dense.
 
-Trunks and roots grew across one another in every direction until the entire woodland resembled a giant maze.
+Trunks and roots grew across one another in every direction until the entire woodland resembled a giant maze—a tangled jungle gym of wood.
 
 Dark tunnels wound between roots blackened by old forest fires.
 
@@ -314,7 +316,7 @@ Two yellow eyes glowing like lamps.
 <p class="info-window-row">Discovery Location: Le Rouge et Le Noir Mountain, 2nd Ridge</p>
 <p class="info-window-row">Commonly called ‘the dog that carries hell.’</p>
 <p class="info-window-row">Those who encounter one are said to suffer terrible misfortune; once bitten, there is no chance of survival.</p>
-<p class="info-window-row">Sulfuric flame pours from its eyes and mouth. That fire will not go out until the life serving as its fuel has burned away.</p>
+<p class="info-window-row">Sulfuric flame pours from its eyes and mouth, born from embers deep in hell. That fire will not go out until the life serving as its fuel has burned away.</p>
 </div>
 
 The monster encyclopedia had contained little more than that.
