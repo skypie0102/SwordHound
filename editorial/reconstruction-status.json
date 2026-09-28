@@ -1,5 +1,5 @@
 {
-  "checkpoint_date": "2026-09-26",
+  "checkpoint_date": "2026-09-28",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
   "accepted_chapters": 500,
@@ -1561,7 +1561,7 @@
         "evidence": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
       }
     ],
-    "current_phase": "phase_5_independent_residual_verification",
+    "current_phase": "phase_5_independent_complete_coverage_verification",
     "next_family": {
       "name": "Camus Morgue",
       "range": [
@@ -1688,7 +1688,22 @@
     "phase4_remediation_population": 273,
     "phase4_closure_checkpoint": "qa/cycle2-phase4-checkpoint-0500.md",
     "phase4_tracker_acceptance_sha_mismatches": 0,
-    "phase5_status": "ready",
-    "epub_assembly_status": "blocked_until_cycle2_closure"
+    "phase5_status": "active",
+    "epub_assembly_status": "blocked_until_cycle2_closure",
+    "phase5_branch": "audit/cycle2-phase5-verification",
+    "phase5_ledger": "qa/cycle2-phase5-ledger.json",
+    "phase5_chapters_verified": 0,
+    "phase5_chapters_pending": 500,
+    "phase5_families_verified": 0,
+    "phase5_families_pending": 118,
+    "phase5_next_family": {
+      "name": "Hellhound",
+      "range": [
+        1,
+        3
+      ]
+    },
+    "phase5_next_chapter": 1,
+    "phase5_standard": "Independent second complete source-to-manuscript verification for every target; diagnostics cannot independently clear a chapter."
   }
 }
