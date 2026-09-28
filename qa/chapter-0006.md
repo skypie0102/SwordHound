@@ -40,3 +40,14 @@ Prior current-family research established John Barrymore, Morgue Clan, Red Fang 
 ## Acceptance decision
 
 **PASS at chapter level.** Chapter 6 may be accepted only with a passing Chapters 4–7 family QA.
+
+
+## Cycle-2 Phase 5 independent verification
+
+**Reviewed 2026-09-28.** Direct second source-to-manuscript reread found one residual force discrepancy in Hugo's reaction to the triplets: Chinese says that within Baskerville, someone older than them is **definitely** stronger. The pre-Phase-5 manuscript softened this to **usually** stronger.
+
+**Repair:** restored the source's absolute “definitely stronger” wording.
+
+All other Chapter-6 source material independently reverified complete, including the Red Fang Mountain/Morgue report, two-suns omen, triplet injury/psychological aftermath, mana-concealment logic, and Hugo/Vikir doctrine exchange.
+
+**Phase-5 decision:** PASS after repair.
