@@ -4,12 +4,15 @@
   "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
   "title_family": {
     "name": "Hounds of Hell",
-    "range": [8, 11],
+    "range": [
+      8,
+      11
+    ],
     "boundary_status": "verified_from_chinese_headings_and_chapter_12_title_change",
     "family_qa": {
       "path": "qa/families/hounds-of-hell-0008-0011.md",
-      "blob_sha": "a5c43f7276f0bfe5e86f12a34238abcdcc79d003",
-      "status": "pass"
+      "blob_sha": "fce91b968ccc255b2c3082fa629929c18ac6941f",
+      "status": "pass_after_cycle2_phase5_verification"
     }
   },
   "primary_source": {
@@ -28,17 +31,27 @@
     {
       "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
       "page_title": "Hellhound",
-      "applies_to": ["Hellhound", "B+", "3 m", "2nd Ridge", "water/chocolate weaknesses"]
+      "applies_to": [
+        "Hellhound",
+        "B+",
+        "3 m",
+        "2nd Ridge",
+        "water/chocolate weaknesses"
+      ]
     },
     {
       "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
       "page_title": "Le Rouge et Le Noir Mountain",
-      "applies_to": ["Le Rouge et Le Noir Mountain"]
+      "applies_to": [
+        "Le Rouge et Le Noir Mountain"
+      ]
     },
     {
       "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
       "page_title": "Brown Rat / Brown Rat Norvegicus material",
-      "applies_to": ["Brown Rat ‘Norvegicus’ canonical identification only"],
+      "applies_to": [
+        "Brown Rat ‘Norvegicus’ canonical identification only"
+      ],
       "scope_note": "later skill/equipment knowledge was not imported into Chapter 9"
     }
   ],
@@ -49,12 +62,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0009.md",
-    "blob_sha": "e9cfd93a9030a2d1bc6c3c9e241ec780ca46c2f2"
+    "blob_sha": "a3086f3a8898792368db9d47e28659b5664bf473"
   },
   "qa": {
     "path": "qa/chapter-0009.md",
-    "blob_sha": "1406b60bb5f13639eab798b9a946446fca526893",
-    "status": "pass"
+    "blob_sha": "16a5bcbf2dcdeaebad97422249b05dc0beeda9fb",
+    "status": "pass_after_cycle2_phase5_verification"
   },
   "documented_decisions": [
     {
@@ -82,5 +95,16 @@
     "preserved water weakness and chocolate setup"
   ],
   "accepted": true,
-  "accepted_date": "2026-09-16"
+  "accepted_date": "2026-09-28",
+  "prior_accepted_date": "2026-09-16",
+  "cycle2_phase5": {
+    "date": "2026-09-28",
+    "status": "independently_verified_complete_source_coverage",
+    "family_reviewed": [
+      8,
+      11
+    ],
+    "manuscript_changed": true,
+    "note": "restored camp, rule, metaphor, forest, and Hellhound-window details; removed unsupported additions"
+  }
 }
