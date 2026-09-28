@@ -4,12 +4,15 @@
   "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
   "title_family": {
     "name": "Hounds of Hell",
-    "range": [8, 11],
+    "range": [
+      8,
+      11
+    ],
     "boundary_status": "verified_from_chinese_headings_and_chapter_12_title_change",
     "family_qa": {
       "path": "qa/families/hounds-of-hell-0008-0011.md",
-      "blob_sha": "81e2e1f230a38e6693bf06c01908c910cdd35eec",
-      "status": "pass"
+      "blob_sha": "fce91b968ccc255b2c3082fa629929c18ac6941f",
+      "status": "pass_after_cycle2_phase5_verification"
     }
   },
   "primary_source": {
@@ -28,22 +31,39 @@
     {
       "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
       "page_title": "Cerberus",
-      "applies_to": ["Cerberus", "Hell’s Watchdog", "A+", "7 m", "7th Ridge"]
+      "applies_to": [
+        "Cerberus",
+        "Hell’s Watchdog",
+        "A+",
+        "7 m",
+        "7th Ridge"
+      ]
     },
     {
       "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
       "page_title": "Camus Morgue",
-      "applies_to": ["Camus Morgue", "Ironblood Empress"]
+      "applies_to": [
+        "Camus Morgue",
+        "Ironblood Empress"
+      ]
     },
     {
       "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
       "page_title": "Sword Skills",
-      "applies_to": ["Baskerville Fang Sword Style", "1st Fang", "2nd Fang", "3rd Fang", "4th Fang"]
+      "applies_to": [
+        "Baskerville Fang Sword Style",
+        "1st Fang",
+        "2nd Fang",
+        "3rd Fang",
+        "4th Fang"
+      ]
     },
     {
       "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
       "page_title": "Vikir Van Baskerville / sword progression material",
-      "applies_to": ["Sword Expert / Sword Graduator / Sword Master terminology"]
+      "applies_to": [
+        "Sword Expert / Sword Graduator / Sword Master terminology"
+      ]
     }
   ],
   "canonical_reference_access": {
@@ -53,12 +73,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0011.md",
-    "blob_sha": "eed36a1afd207edcf761034350426ff39c1fa8db"
+    "blob_sha": "bd6d7d5be27897560a6c5ccb77f7342b17b2e067"
   },
   "qa": {
     "path": "qa/chapter-0011.md",
-    "blob_sha": "394d7610011f25000acda6a5d5e43bd02ac75571",
-    "status": "pass"
+    "blob_sha": "d577f29a849371528fc4f249a07174de7ca500a6",
+    "status": "pass_after_cycle2_phase5_verification"
   },
   "documented_decisions": [
     {
@@ -85,6 +105,13 @@
       "topic": "chapter endpoint",
       "final": "Cerberus collapses after exactly seven steps from Bloody Mamba venom",
       "basis": "Chinese Chapter 11; Chapter 12 begins on the collapsed Cerberus"
+    },
+    {
+      "topic": "C011 first-two rank-table source corruption",
+      "chinese": "The first two rows are mislabeled with Sword-Master low/mid terms before High Expert, Graduator tiers, and Sword Master.",
+      "aligned_reference": "E11 gives Low Expert / Mid Expert / Advanced Expert.",
+      "final": "Low Sword Expert / Mid Sword Expert / High Sword Expert",
+      "basis": "table internal progression + aligned E11 + established project rank hierarchy"
     }
   ],
   "notable_mtl_repairs": [
@@ -104,5 +131,16 @@
     "semantic_content_changed": false
   },
   "accepted": true,
-  "accepted_date": "2026-09-16"
+  "accepted_date": "2026-09-28",
+  "prior_accepted_date": "2026-09-16",
+  "cycle2_phase5": {
+    "date": "2026-09-28",
+    "status": "independently_verified_complete_source_coverage",
+    "family_reviewed": [
+      8,
+      11
+    ],
+    "manuscript_changed": true,
+    "note": "restored First Ridge, back-buckling injury line, and full Leviathan stratagem attribution; documented corrupt first two Chinese rank-table labels"
+  }
 }
