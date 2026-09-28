@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** **Phase 4 COMPLETE — 273/273 remediation chapters; Phase 5 independent residual verification next**
+**Current stage:** **Phase 5 ACTIVE — independent complete source-coverage verification; 0/500 chapters independently reverified**
 
 ## Progress
 
@@ -117,14 +117,34 @@ Rules:
 
 **Exit gate:** **SATISFIED** — remediation queue is empty; all changed families have fresh evidence chains, 0 remediation flags remain, and all 500 tracker acceptance SHAs match live acceptance blobs.
 
-## Phase 5 — Independent residual verification and consistency sweep
+## Phase 5 — Independent complete source-coverage verification and consistency sweep
 
-**Goal:** use a second method to catch misses after direct review.
+**Status:** ACTIVE  
+**Authoritative Phase-5 ledger:** `qa/cycle2-phase5-ledger.json`  
+**Post-remediation baseline:** merged Phase-4 `main` at `7d0b12f2abc6d935f1779b00636b9d246f6c04ba`
 
-Run corpus-wide diagnostics again and investigate outliers, including:
+**Goal:** independently prove that the post-remediation manuscript is a complete English translation of the entire available source corpus, not merely free of obvious residual anomalies.
+
+Phase 5 therefore requires a **second direct source-to-manuscript coverage verification for every target Chapter 1–500**. Diagnostics remain useful for prioritization and cross-checking, but **no chapter may pass Phase 5 from diagnostics, historical PASS state, byte ratios, lexical overlap, or prior evidence alone**.
+
+For every chapter, independently verify:
+
+- every source dialogue line is represented in the English manuscript;
+- every source narration sentence/paragraph is represented;
+- every description, transition, internal thought, aside, label, and chapter-ending beat is represented;
+- every information window, list, number, measurement, rank, item, skill, mechanic, and proper noun is represented correctly;
+- no source paragraph or sentence is silently summary-collapsed when the source carries distinct information;
+- no source material is duplicated, displaced into the wrong target, or imported across a chapter boundary;
+- no unsupported English material has been added;
+- no ordinary source material has been softened, euphemized, sanitized, or intensified beyond the source;
+- title-family continuity, combined/shared raw divisions, localized source gaps, shifted English witnesses, and Side Story boundaries remain correct;
+- canonical English names/terms and reveal chronology remain consistent;
+- the resulting chapter reads as natural modern English while preserving the complete source meaning and level of detail.
+
+Also rerun corpus-wide diagnostics and investigate outliers, including:
 
 - post-remediation size/paragraph anomalies;
-- unusual lexical-overlap gaps against aligned English witnesses where useful;
+- lexical-overlap gaps against aligned English witnesses where useful;
 - explicitness-sensitive term mismatches;
 - suspicious drops in dialogue/window counts;
 - chapter endings/openings that do not match neighboring continuity;
@@ -133,11 +153,9 @@ Run corpus-wide diagnostics again and investigate outliers, including:
 - information-window fragmentation;
 - scene-break misclassification.
 
-This phase is a **safety net**, not a substitute for the full manual passes in Phases 1–3.
+If any discrepancy is found, re-open the **complete title family**, repair from Chinese-primary source, rerun the Phase-5 checks for that family, and refresh every dependent QA/provenance/acceptance/family-QA/tracker binding.
 
-Re-open any family if the residual sweep produces a credible discrepancy.
-
-**Exit gate:** no unresolved residual discrepancy remains.
+**Exit gate:** **500/500 chapters and 118/118 title families independently reverified against the post-remediation manuscript, with zero unresolved missed lines/sentences/paragraphs, zero unresolved ordinary source omissions, zero unresolved duplication/displacement/addition defects, and zero unresolved consistency/boundary discrepancies.**
 
 ## Phase 6 — Closure, hash validation, and release unblock
 
@@ -181,10 +199,12 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Begin **Phase 5 — independent residual verification and consistency sweep**.
-2. Run post-remediation diagnostics for size/paragraph anomalies, explicitness-sensitive term mismatches, dialogue/window-count drops, chapter opening/ending continuity, numeric/stat/rank/item inconsistencies, canonical-name drift, information-window fragmentation, and other credible residual discrepancies.
-3. Re-open and repair any family where Phase 5 finds a credible defect, refreshing its dependent evidence chain.
-4. Keep complete-EPUB assembly blocked until Phase 5 clears and Phase 6 closure/hash validation is complete.
+1. Process Phase 5 in contiguous title-family order beginning with **Hellhound (1–3)**.
+2. Independently reread the complete Chinese source and complete live manuscript for every chapter; explicitly verify line/sentence/paragraph/dialogue/window coverage.
+3. Use post-remediation diagnostics only as a secondary cross-check, never as a chapter-clearance substitute.
+4. Re-open and repair any family with a credible discrepancy, refreshing its full dependent evidence chain.
+5. Record every chapter/family disposition in `qa/cycle2-phase5-ledger.json`.
+6. Keep complete-EPUB assembly blocked until Phase 5 reaches **500/500** and Phase 6 closure/hash validation is complete.
 
 
 ## Phase 4 closure checkpoint — 2026-09-28
