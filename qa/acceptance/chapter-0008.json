@@ -2,14 +2,17 @@
   "chapter": 8,
   "title": "Hounds of Hell (1)",
   "accepted": true,
-  "accepted_date": "2026-09-16",
-  "review_mode": "chinese_primary_fandom_canonical",
+  "accepted_date": "2026-09-28",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase5",
   "title_family": {
     "name": "Hounds of Hell",
-    "range": [8, 11],
+    "range": [
+      8,
+      11
+    ],
     "family_qa_path": "qa/families/hounds-of-hell-0008-0011.md",
-    "family_qa_sha": "a5c43f7276f0bfe5e86f12a34238abcdcc79d003",
-    "status": "pass"
+    "family_qa_sha": "fce91b968ccc255b2c3082fa629929c18ac6941f",
+    "status": "pass_after_cycle2_phase5_verification"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/008.txt",
@@ -18,11 +21,11 @@
     "english_reference_sha": "1ec6b7bff255d7ea718dcca063e5ded4ee5ba523",
     "english_alignment": "verified_by_title_opening_scene_sequence_entities_and_endpoint",
     "draft_path": "manuscript/drafts/chapter-0008.md",
-    "draft_sha": "33ead486847f4fdb3cff95e00778d85dddc69315",
+    "draft_sha": "6423fcaf83a46f2cb31426bc2a355a222a7e5bf1",
     "qa_path": "qa/chapter-0008.md",
-    "qa_sha": "c511faeada26320a8e764819051b15f570db622f",
+    "qa_sha": "4695d9e52fe531b9b65599dacc4cbd688803aef8",
     "provenance_path": "editorial/provenance/chapter-0008.json",
-    "provenance_sha": "03106e337c848627c611eec212d110be7fec0710"
+    "provenance_sha": "361386067a058c7b7072ec881ed099cddd952a09"
   },
   "canonical_checks": [
     "Le Rouge et Le Noir Mountain",
@@ -33,5 +36,12 @@
   "documented_limits": [
     "A later Fandom refresh was blocked by robots rules; only earlier retrieved canonical evidence was used.",
     "Chinese controls the practical-exam score meanings and narrative details even where the recovered English differs."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-16",
+  "cycle2_phase5": {
+    "status": "accepted_after_independent_complete_source_verification",
+    "date": "2026-09-28",
+    "manuscript_changed": true,
+    "note": "restored exact 30-point no-injury condition"
+  }
 }
