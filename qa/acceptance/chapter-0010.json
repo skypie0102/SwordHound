@@ -2,14 +2,17 @@
   "chapter": 10,
   "title": "Hounds of Hell (3)",
   "accepted": true,
-  "accepted_date": "2026-09-16",
-  "review_mode": "chinese_primary_fandom_canonical",
+  "accepted_date": "2026-09-28",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase5",
   "title_family": {
     "name": "Hounds of Hell",
-    "range": [8, 11],
+    "range": [
+      8,
+      11
+    ],
     "family_qa_path": "qa/families/hounds-of-hell-0008-0011.md",
-    "family_qa_sha": "a5c43f7276f0bfe5e86f12a34238abcdcc79d003",
-    "status": "pass"
+    "family_qa_sha": "fce91b968ccc255b2c3082fa629929c18ac6941f",
+    "status": "pass_after_cycle2_phase5_verification"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/010.txt",
@@ -18,11 +21,11 @@
     "english_reference_sha": "8c2442bf760ee8ca0c3174c5d49556dab379cdac",
     "english_alignment": "verified_by_title_chocolate_payoff_hellhound_kill_pack_sequence_and_cerberus_endpoint",
     "draft_path": "manuscript/drafts/chapter-0010.md",
-    "draft_sha": "5a340ea07718a4119488d153a9f37a265ba90781",
+    "draft_sha": "be2292aceef4465f77278cbabe2255c625798a17",
     "qa_path": "qa/chapter-0010.md",
-    "qa_sha": "ef0b10235e9dfd9b99a97abb37904bae05909e52",
+    "qa_sha": "b4c0d8fa383cad767b050beabe4dd6f717a558c1",
     "provenance_path": "editorial/provenance/chapter-0010.json",
-    "provenance_sha": "c32728ab4962a6461a77538d76d7f47159a73f69"
+    "provenance_sha": "430102f4528dbf0b02cd5b072c18893f4443237c"
   },
   "canonical_checks": [
     "Bloody Beans",
@@ -34,6 +37,14 @@
   ],
   "documented_limits": [
     "A later Fandom refresh was blocked by robots rules; only earlier retrieved canonical evidence was used.",
-    "The post-kill energy remains intentionally non-numerical because Chinese gives broad labels rather than a fixed game-stat system."
-  ]
+    "The post-kill energy remains intentionally non-numerical because Chinese gives broad labels rather than a fixed game-stat system.",
+    "C010 contains an isolated impossible High-Sword-Master current-rank label; High Sword Expert is retained from surrounding source mechanics and aligned E10."
+  ],
+  "prior_accepted_date": "2026-09-16",
+  "cycle2_phase5": {
+    "status": "accepted_after_independent_complete_source_verification",
+    "date": "2026-09-28",
+    "manuscript_changed": true,
+    "note": "restored mortgaged-soul metaphor and Bloody Mamba callback; documented Chinese rank-label corruption"
+  }
 }
