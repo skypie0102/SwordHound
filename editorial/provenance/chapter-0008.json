@@ -4,12 +4,15 @@
   "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
   "title_family": {
     "name": "Hounds of Hell",
-    "range": [8, 11],
+    "range": [
+      8,
+      11
+    ],
     "boundary_status": "verified_from_chinese_headings_and_chapter_12_title_change",
     "family_qa": {
       "path": "qa/families/hounds-of-hell-0008-0011.md",
-      "blob_sha": "a5c43f7276f0bfe5e86f12a34238abcdcc79d003",
-      "status": "pass"
+      "blob_sha": "fce91b968ccc255b2c3082fa629929c18ac6941f",
+      "status": "pass_after_cycle2_phase5_verification"
     }
   },
   "primary_source": {
@@ -28,12 +31,19 @@
     {
       "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
       "page_title": "Pavlov Van Baskerville",
-      "applies_to": ["Pavlov Van Baskerville", "Instructor", "Guide Dog"]
+      "applies_to": [
+        "Pavlov Van Baskerville",
+        "Instructor",
+        "Guide Dog"
+      ]
     },
     {
       "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
       "page_title": "Le Rouge et Le Noir Mountain",
-      "applies_to": ["Le Rouge et Le Noir Mountain", "survival-exam location"]
+      "applies_to": [
+        "Le Rouge et Le Noir Mountain",
+        "survival-exam location"
+      ]
     }
   ],
   "canonical_reference_access": {
@@ -43,12 +53,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0008.md",
-    "blob_sha": "33ead486847f4fdb3cff95e00778d85dddc69315"
+    "blob_sha": "6423fcaf83a46f2cb31426bc2a355a222a7e5bf1"
   },
   "qa": {
     "path": "qa/chapter-0008.md",
-    "blob_sha": "c511faeada26320a8e764819051b15f570db622f",
-    "status": "pass"
+    "blob_sha": "4695d9e52fe531b9b65599dacc4cbd688803aef8",
+    "status": "pass_after_cycle2_phase5_verification"
   },
   "documented_decisions": [
     {
@@ -76,5 +86,16 @@
     "preserved triplets' conspicuous silence after their earlier defeat"
   ],
   "accepted": true,
-  "accepted_date": "2026-09-16"
+  "accepted_date": "2026-09-28",
+  "prior_accepted_date": "2026-09-16",
+  "cycle2_phase5": {
+    "date": "2026-09-28",
+    "status": "independently_verified_complete_source_coverage",
+    "family_reviewed": [
+      8,
+      11
+    ],
+    "manuscript_changed": true,
+    "note": "restored exact 30-point no-injury condition"
+  }
 }
