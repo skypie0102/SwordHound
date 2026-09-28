@@ -124,7 +124,7 @@ He flipped through the report on the triplets, then muttered,
 
 “No. The conflict began with another young master.”
 
-“Idiots. In this family, if someone is older than you, they are usually stronger than you as well. Even pups should know enough to measure an opponent before they bite.”
+“Idiots. In this family, if someone is older than you, they are definitely stronger than you. Even pups should know enough to measure an opponent before they bite.”
 
 Barrymore corrected him carefully.
 
