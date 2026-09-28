@@ -2,14 +2,17 @@
   "chapter": 11,
   "title": "Hounds of Hell (4)",
   "accepted": true,
-  "accepted_date": "2026-09-16",
-  "review_mode": "chinese_primary_fandom_canonical",
+  "accepted_date": "2026-09-28",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase5",
   "title_family": {
     "name": "Hounds of Hell",
-    "range": [8, 11],
+    "range": [
+      8,
+      11
+    ],
     "family_qa_path": "qa/families/hounds-of-hell-0008-0011.md",
-    "family_qa_sha": "81e2e1f230a38e6693bf06c01908c910cdd35eec",
-    "status": "pass"
+    "family_qa_sha": "fce91b968ccc255b2c3082fa629929c18ac6941f",
+    "status": "pass_after_cycle2_phase5_verification"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/011.txt",
@@ -18,11 +21,11 @@
     "english_reference_sha": "26e15feb304acd8e94d8f902c82a369dc900fb7e",
     "english_alignment": "verified_by_title_cerberus_window_rank_table_baskerville_fangs_trap_and_seven_step_endpoint",
     "draft_path": "manuscript/drafts/chapter-0011.md",
-    "draft_sha": "eed36a1afd207edcf761034350426ff39c1fa8db",
+    "draft_sha": "bd6d7d5be27897560a6c5ccb77f7342b17b2e067",
     "qa_path": "qa/chapter-0011.md",
-    "qa_sha": "394d7610011f25000acda6a5d5e43bd02ac75571",
+    "qa_sha": "d577f29a849371528fc4f249a07174de7ca500a6",
     "provenance_path": "editorial/provenance/chapter-0011.json",
-    "provenance_sha": "d53caf5e2c825c9f2c85b399bf5c1b81ff99520c"
+    "provenance_sha": "56be00bd311c224f4055a2d9ace0e98c238f4fcc"
   },
   "canonical_checks": [
     "Cerberus",
@@ -36,12 +39,20 @@
   "documented_limits": [
     "Direct Fandom refreshes may be blocked by robots rules; the Fang correction uses a current indexed Fandom Sword Skills result rather than pretending direct-page access succeeded.",
     "Bloody Mamba remains under the previously documented recovered-English fallback limitation rather than being newly claimed as directly Fandom-canonized.",
-    "Chapter 12 events were deliberately not imported before the Chapter 11 endpoint."
+    "Chapter 12 events were deliberately not imported before the Chapter 11 endpoint.",
+    "C011's first two rank-table labels are locally corrupted; Low/Mid Sword Expert is supported by the table progression and aligned E11."
   ],
   "acceptance_reopen": {
     "date": "2026-09-16",
     "scope": "canonical terminology only",
     "reason": "stronger current canonical evidence established Fang rather than Form",
     "semantic_content_changed": false
+  },
+  "prior_accepted_date": "2026-09-16",
+  "cycle2_phase5": {
+    "status": "accepted_after_independent_complete_source_verification",
+    "date": "2026-09-28",
+    "manuscript_changed": true,
+    "note": "restored First Ridge, back injury sentence, and full Leviathan attribution; documented rank-table corruption"
   }
 }
