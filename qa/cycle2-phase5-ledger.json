@@ -22,24 +22,24 @@
     ]
   },
   "counts": {
-    "chapters_verified": 0,
-    "chapters_pass": 0,
+    "chapters_verified": 3,
+    "chapters_pass": 3,
     "chapters_fail": 0,
     "chapters_repaired": 0,
-    "chapters_pending": 500,
-    "families_verified": 0,
-    "families_pass": 0,
+    "chapters_pending": 497,
+    "families_verified": 1,
+    "families_pass": 1,
     "families_reopened": 0,
-    "families_pending": 118,
+    "families_pending": 117,
     "manuscript_edits": 0
   },
   "current": {
     "next_family": {
-      "name": "Hellhound",
-      "start": 1,
-      "end": 3
+      "name": "The Baskerville Dog",
+      "start": 4,
+      "end": 7
     },
-    "next_chapter": 1,
+    "next_chapter": 4,
     "wave": "A",
     "status": "active"
   },
@@ -56,10 +56,15 @@
       ],
       "family_qa_path": "qa/families/hellhound-0001-0003.md",
       "family_qa_sha": "3b983b37269ec586d8bf3602f7b1029e44459529",
-      "phase5_status": "pending",
-      "chapters_verified": 0,
-      "findings": [],
-      "changed_chapters": []
+      "phase5_status": "pass",
+      "chapters_verified": 3,
+      "findings": [
+        "3/3 chapters independently reverified; no residual omissions, duplicates, unsupported additions, or boundary/consistency defects."
+      ],
+      "changed_chapters": [],
+      "evidence_file": "qa/cycle2/phase5/hellhound-0001-0003.md",
+      "evidence_sha": "43a7e3dd1ba75721d8896bb7b193c3a0f5c22c2c",
+      "verified_date": "2026-09-28"
     },
     {
       "index": 2,
@@ -2223,20 +2228,23 @@
       "live_provenance_sha": "7d9ecf93f400840b888ce3949552f3a8353291e6",
       "live_acceptance_sha": "09179b9ab590d05cfc0fc7ac03bad75a8a0df272",
       "post_remediation_draft_raw_byte_ratio": 1.239911,
-      "phase5_status": "pending",
-      "phase5_method": null,
-      "source_coverage_verified": false,
-      "dialogue_coverage_verified": false,
-      "paragraph_sentence_coverage_verified": false,
-      "windows_lists_numbers_verified": false,
-      "boundary_continuity_verified": false,
-      "canonical_consistency_verified": false,
-      "unsupported_additions_checked": false,
-      "duplicates_checked": false,
-      "findings": [],
+      "phase5_status": "pass",
+      "phase5_method": "independent_complete_source_to_manuscript_reread_plus_structural_crosscheck",
+      "source_coverage_verified": true,
+      "dialogue_coverage_verified": true,
+      "paragraph_sentence_coverage_verified": true,
+      "windows_lists_numbers_verified": true,
+      "boundary_continuity_verified": true,
+      "canonical_consistency_verified": true,
+      "unsupported_additions_checked": true,
+      "duplicates_checked": true,
+      "findings": [
+        "No residual source-coverage discrepancy found in independent Phase-5 reread."
+      ],
       "manuscript_changed": false,
-      "evidence_file": null,
-      "verified_date": null
+      "evidence_file": "qa/cycle2/phase5/hellhound-0001-0003.md",
+      "verified_date": "2026-09-28",
+      "evidence_sha": "43a7e3dd1ba75721d8896bb7b193c3a0f5c22c2c"
     },
     {
       "chapter": 2,
@@ -2263,20 +2271,23 @@
       "live_provenance_sha": "27eac0959a2c93fa30ab6c98312b018d70d56076",
       "live_acceptance_sha": "4c000a493efb722128b62ed97a06ed1e57187fea",
       "post_remediation_draft_raw_byte_ratio": 1.211116,
-      "phase5_status": "pending",
-      "phase5_method": null,
-      "source_coverage_verified": false,
-      "dialogue_coverage_verified": false,
-      "paragraph_sentence_coverage_verified": false,
-      "windows_lists_numbers_verified": false,
-      "boundary_continuity_verified": false,
-      "canonical_consistency_verified": false,
-      "unsupported_additions_checked": false,
-      "duplicates_checked": false,
-      "findings": [],
+      "phase5_status": "pass",
+      "phase5_method": "independent_complete_source_to_manuscript_reread_plus_structural_crosscheck",
+      "source_coverage_verified": true,
+      "dialogue_coverage_verified": true,
+      "paragraph_sentence_coverage_verified": true,
+      "windows_lists_numbers_verified": true,
+      "boundary_continuity_verified": true,
+      "canonical_consistency_verified": true,
+      "unsupported_additions_checked": true,
+      "duplicates_checked": true,
+      "findings": [
+        "No residual source-coverage discrepancy found in independent Phase-5 reread."
+      ],
       "manuscript_changed": false,
-      "evidence_file": null,
-      "verified_date": null
+      "evidence_file": "qa/cycle2/phase5/hellhound-0001-0003.md",
+      "verified_date": "2026-09-28",
+      "evidence_sha": "43a7e3dd1ba75721d8896bb7b193c3a0f5c22c2c"
     },
     {
       "chapter": 3,
@@ -2303,20 +2314,23 @@
       "live_provenance_sha": "1febfdc33169908db0f3b8a2ca69e9fb92e351ca",
       "live_acceptance_sha": "4b82137ec8a82ea9ae1ea2510d78655276a62d20",
       "post_remediation_draft_raw_byte_ratio": 1.286815,
-      "phase5_status": "pending",
-      "phase5_method": null,
-      "source_coverage_verified": false,
-      "dialogue_coverage_verified": false,
-      "paragraph_sentence_coverage_verified": false,
-      "windows_lists_numbers_verified": false,
-      "boundary_continuity_verified": false,
-      "canonical_consistency_verified": false,
-      "unsupported_additions_checked": false,
-      "duplicates_checked": false,
-      "findings": [],
+      "phase5_status": "pass",
+      "phase5_method": "independent_complete_source_to_manuscript_reread_plus_structural_crosscheck",
+      "source_coverage_verified": true,
+      "dialogue_coverage_verified": true,
+      "paragraph_sentence_coverage_verified": true,
+      "windows_lists_numbers_verified": true,
+      "boundary_continuity_verified": true,
+      "canonical_consistency_verified": true,
+      "unsupported_additions_checked": true,
+      "duplicates_checked": true,
+      "findings": [
+        "No residual source-coverage discrepancy found in independent Phase-5 reread."
+      ],
       "manuscript_changed": false,
-      "evidence_file": null,
-      "verified_date": null
+      "evidence_file": "qa/cycle2/phase5/hellhound-0001-0003.md",
+      "verified_date": "2026-09-28",
+      "evidence_sha": "43a7e3dd1ba75721d8896bb7b193c3a0f5c22c2c"
     },
     {
       "chapter": 4,
