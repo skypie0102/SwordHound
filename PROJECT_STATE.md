@@ -12,7 +12,7 @@
 **Completeness revalidated:** 500 / 500 — COMPLETE — 229 PASS / 271 FAIL
 **Boundary/alignment revalidated:** 500 / 500 — 53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED across 118 / 118 families  
 **Confirmed new failures:** 200 Phase-1 sanitization FAIL chapters plus 271 Phase-2 completeness FAIL chapters; 73 additions beyond the Phase-1 FAIL queue (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499) raise the combined remediation population to 273 unique chapters
-**Current phase:** **Phase 5 ACTIVE — 0/500 chapters independently reverified; next family Hellhound (1–3)**
+**Current phase:** **Phase 5 ACTIVE — 7/500 chapters, 2/118 families independently reverified; 2 residual manuscript repairs; next Hounds of Hell (8–11)**
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
@@ -119,9 +119,11 @@ Phase 5 is **ACTIVE** on branch `audit/cycle2-phase5-verification`.
 
 - Post-remediation baseline: merged Phase-4 main.
 - Phase-5 ledger: `qa/cycle2-phase5-ledger.json`.
-- Independently reverified chapters: **0 / 500**.
-- Independently reverified title families: **0 / 118**.
-- Next family: **Hellhound (1–3)**.
+- Independently reverified chapters: **7 / 500**.
+- Independently reverified title families: **2 / 118**.
+- Residual manuscript repairs found by Phase 5: **2** — Chapters **4** and **6**.
+- Last completed family: **The Baskerville Dog (4–7)**.
+- Next family: **Hounds of Hell (8–11)**.
 - Required standard: direct second source-to-manuscript coverage verification for every chapter; diagnostics cannot independently clear a chapter.
 - Exit requires zero unresolved missed lines/sentences/paragraphs, ordinary omissions, duplicates/displacements, unsupported additions, or boundary/consistency discrepancies.
 - EPUB assembly remains blocked until Phase 5 and Phase 6 close.
