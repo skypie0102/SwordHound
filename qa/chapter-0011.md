@@ -7,7 +7,7 @@
 
 - Primary semantic source: `source/chinese/chapters/011.txt` — `db1c2c6ec0304cf4e19390cf88de0f5d4a8a9b44`
 - Aligned English reference: `source/chapters/chapter-011.xhtml` — `26e15feb304acd8e94d8f902c82a369dc900fb7e`
-- Reviewed draft: `manuscript/drafts/chapter-0011.md` — `eed36a1afd207edcf761034350426ff39c1fa8db`
+- Reviewed draft: `manuscript/drafts/chapter-0011.md` — `bd6d7d5be27897560a6c5ccb77f7342b17b2e067`
 - Following-boundary witness: `source/chinese/chapters/012.txt` — `9cbd4648873cda28a0e9410966d0643dda873968`
 
 ## Alignment
@@ -67,3 +67,14 @@ Earlier active-family Fandom retrieval also established the English forms for Ce
 ## Decision
 
 **PASS at chapter level after terminology reopen.** No semantic, coverage, terminology, explicitness, info-window, or boundary blocker remains. Final acceptance remains bound to family QA.
+
+
+## Cycle-2 Phase 5 independent verification
+
+**Reviewed 2026-09-28.** Restored First Ridge, the source's separate back-buckling injury sentence, and the full Leviathan-head/Thirty-Six-Stratagem attribution. The first two Chinese rank-table labels are documented source corruption normalized to Low/Mid Sword Expert by aligned E11 and the table's own progression.
+
+The complete Chinese source and complete post-remediation manuscript were reread line/sentence/paragraph-wise, including dialogue, narration, thoughts, information-window rows, mechanics/numbers, scene transitions, and the chapter endpoint.
+
+**Source-text note:** the first two rows of the Chinese C011 rank table are locally mislabeled `剑术大师初级/中级`, while row three is `专家上级` and the remaining rows progress through Graduator to Sword Master. Aligned E11 independently gives **Low Expert / Mid Expert / Advanced Expert**, confirming the intended table. The manuscript's Low/Mid/High Sword Expert normalization is therefore a source-error correction, not an omission.
+
+**Phase-5 decision:** PASS after independent verification and repair.
