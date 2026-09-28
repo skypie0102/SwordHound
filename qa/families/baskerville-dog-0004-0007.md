@@ -84,3 +84,21 @@ This is editorial/source QA only. Final EPUB visual checks—dialogue indentatio
 ## Family acceptance decision
 
 **PASS.** Chapters 4–7 form a complete, internally consistent title-family batch and are eligible for acceptance under the restarted workflow, subject to creation of hash-bound provenance/acceptance records and synchronization of tracker/status/handoff state.
+
+
+## Cycle-2 Phase 5 independent complete-coverage verification
+
+**Reviewed:** 2026-09-28  
+**Result:** PASS after two residual repairs  
+**Manuscript changes:** Chapters 4 and 6
+
+The complete Chinese raws and complete live manuscripts for Chapters 4–7 were reread independently under the strengthened Phase-5 standard.
+
+- **Chapter 4:** Phase 5 found that the Chinese raw contains two contradictory consecutive prior-life age statements: Vikir barely reached the realm in his **twenties**, then the next sentence says he reached High Sword Expert at **sixteen**. Earlier QA silently retained only sixteen. Both source statements are now represented and the source inconsistency is documented rather than normalized away.
+- **Chapter 5:** independently reverified complete with no manuscript change. The damaged/local wager line remains conservatively resolved from immediate Chinese context plus the aligned witness; all distinct source events and details are represented.
+- **Chapter 6:** Phase 5 restored Hugo's absolute source wording that an older Baskerville child would **definitely** be stronger; the prior manuscript's “usually” was an unsupported weakening.
+- **Chapter 7:** independently reverified complete with no manuscript change. The weapon metaphor, forgiveness/fratricide discussion, under-fifteen diet, chocolate reward, and Bloody Beans sequence are all represented.
+
+Family boundary continuity remains clean: 3→4 eight-year timeskip; 4→5 triplet confrontation; 5→6 administrative aftermath; 6→7 continuous Hugo interview; 7→8 transition into *Hounds of Hell*.
+
+**Phase-5 family decision:** PASS after repair. No unresolved missed line/sentence/paragraph, duplication/displacement, unsupported addition, or boundary/canonical discrepancy remains in Chapters 4–7.
