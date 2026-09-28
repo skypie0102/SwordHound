@@ -1,5 +1,19 @@
 # Reconstruction Progress
 
+## 2026-09-28 — Cycle 2 Phase 5 — 7/500 independently verified
+
+Phase 5 has independently cleared **Hellhound (1–3)** and **The Baskerville Dog (4–7)**.
+
+- chapters independently reverified: **7 / 500**;
+- title families independently reverified: **2 / 118**;
+- residual manuscript repairs found: **2**;
+- Chapter **4** restored both contradictory Chinese age statements that prior QA had silently collapsed to one;
+- Chapter **6** restored Hugo's absolute **definitely stronger** wording instead of the weakened **usually stronger**;
+- Chapters **1–3, 5, 7** passed without manuscript edits;
+- full dependent QA/provenance/acceptance/tracker bindings refreshed for the repaired family;
+- next family: **Hounds of Hell (8–11)**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-28 — Cycle 2 Phase 5 STARTED
 
 Phase 5 has started on `audit/cycle2-phase5-verification` from merged Phase-4 `main`.
