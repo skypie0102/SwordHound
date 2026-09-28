@@ -120,7 +120,9 @@ He was eight years old now.
 
 Without anyone realizing it, Vikir had already reached the High stage of Sword Expert.
 
-In his previous life, he had not managed to reach that level until he was sixteen.
+In his previous life, it was a realm he had only barely reached in his twenties.
+
+The source chronology then states that, before his regression, he had reached High Sword Expert at sixteen.
 
 Even by the standards of the outside world, that had been enough to call him an extraordinary genius.
 
