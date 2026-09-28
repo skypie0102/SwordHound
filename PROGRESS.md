@@ -1,5 +1,18 @@
 # Reconstruction Progress
 
+## 2026-09-28 — Cycle 2 Phase 5 STARTED
+
+Phase 5 has started on `audit/cycle2-phase5-verification` from merged Phase-4 `main`.
+
+- authoritative post-remediation ledger created: `qa/cycle2-phase5-ledger.json`;
+- post-remediation target inventory: **500 chapters / 118 title families**;
+- independently reverified so far: **0 / 500 chapters**, **0 / 118 families**;
+- Phase-5 standard strengthened to require a second direct complete Chinese-source-to-manuscript coverage verification for every chapter;
+- diagnostics are secondary cross-checks only and cannot clear a chapter;
+- exit requires no unresolved missed lines, sentences, paragraphs, dialogue, narration, windows, transitions, numbers/mechanics, duplicated/displaced material, unsupported additions, or boundary/canonical inconsistencies;
+- next family: **Hellhound (1–3)**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-28 — Cycle 2 Phase 4 COMPLETE
 
 Phase 4 remediation and evidence rebinding is formally complete.
