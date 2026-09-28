@@ -4,12 +4,15 @@
   "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
   "title_family": {
     "name": "The Baskerville Dog",
-    "range": [4, 7],
+    "range": [
+      4,
+      7
+    ],
     "boundary_status": "verified",
     "family_qa": {
       "path": "qa/families/baskerville-dog-0004-0007.md",
-      "blob_sha": "be2c8b06c0fab67fe0c397cbbd600bd9176aaa36",
-      "status": "pass"
+      "blob_sha": "89bc23a0bdad4360031a62667f76479a0b820c92",
+      "status": "pass_after_cycle2_phase5_verification"
     }
   },
   "primary_source": {
@@ -27,7 +30,10 @@
   "canonical_references": [
     {
       "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Baskerville_Clan",
-      "applies_to": ["Baskerville Clan", "triplet family context"]
+      "applies_to": [
+        "Baskerville Clan",
+        "triplet family context"
+      ]
     }
   ],
   "canonical_reference_access_date": "2026-09-16",
@@ -39,7 +45,7 @@
   "qa": {
     "path": "qa/chapter-0005.md",
     "blob_sha": "c653369290a599555598e5c58f1568273cde2b17",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase5_verification"
   },
   "documented_decisions": [
     {
@@ -67,5 +73,16 @@
     "preserved one-survivor dagger threat and internal Trident split"
   ],
   "accepted": true,
-  "accepted_date": "2026-09-16"
+  "accepted_date": "2026-09-28",
+  "prior_accepted_date": "2026-09-16",
+  "cycle2_phase5": {
+    "date": "2026-09-28",
+    "status": "independently_verified_complete_source_coverage",
+    "family_reviewed": [
+      4,
+      7
+    ],
+    "manuscript_changed": false,
+    "note": "independent complete-source reread passed unchanged"
+  }
 }
