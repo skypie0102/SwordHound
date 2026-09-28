@@ -4,12 +4,15 @@
   "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
   "title_family": {
     "name": "Hounds of Hell",
-    "range": [8, 11],
+    "range": [
+      8,
+      11
+    ],
     "boundary_status": "verified_from_chinese_headings_and_chapter_12_title_change",
     "family_qa": {
       "path": "qa/families/hounds-of-hell-0008-0011.md",
-      "blob_sha": "a5c43f7276f0bfe5e86f12a34238abcdcc79d003",
-      "status": "pass"
+      "blob_sha": "fce91b968ccc255b2c3082fa629929c18ac6941f",
+      "status": "pass_after_cycle2_phase5_verification"
     }
   },
   "primary_source": {
@@ -28,17 +31,28 @@
     {
       "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
       "page_title": "Hellhound",
-      "applies_to": ["Hellhound", "canine chocolate weakness"]
+      "applies_to": [
+        "Hellhound",
+        "canine chocolate weakness"
+      ]
     },
     {
       "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
       "page_title": "Cerberus",
-      "applies_to": ["Cerberus", "A+", "7 m", "7th Ridge", "Hell’s Watchdog"]
+      "applies_to": [
+        "Cerberus",
+        "A+",
+        "7 m",
+        "7th Ridge",
+        "Hell’s Watchdog"
+      ]
     },
     {
       "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
       "page_title": "Le Rouge et Le Noir Mountain",
-      "applies_to": ["Le Rouge et Le Noir Mountain"]
+      "applies_to": [
+        "Le Rouge et Le Noir Mountain"
+      ]
     }
   ],
   "canonical_reference_access": {
@@ -48,12 +62,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0010.md",
-    "blob_sha": "5a340ea07718a4119488d153a9f37a265ba90781"
+    "blob_sha": "be2292aceef4465f77278cbabe2255c625798a17"
   },
   "qa": {
     "path": "qa/chapter-0010.md",
-    "blob_sha": "ef0b10235e9dfd9b99a97abb37904bae05909e52",
-    "status": "pass"
+    "blob_sha": "b4c0d8fa383cad767b050beabe4dd6f717a558c1",
+    "status": "pass_after_cycle2_phase5_verification"
   },
   "documented_decisions": [
     {
@@ -75,6 +89,13 @@
       "topic": "Cerberus taxonomy",
       "final": "pinnacle of underworld-type monsters",
       "basis": "Chinese `幽界种怪物的极致`; corrects MTL semantic drift toward generic canine classification"
+    },
+    {
+      "topic": "C010 current-rank source corruption",
+      "chinese": "An isolated line labels eight-year-old Vikir with a High-Sword-Master term.",
+      "aligned_reference": "E10 gives Advanced Sword Expert.",
+      "final": "High Sword Expert",
+      "basis": "C010 surrounding aura description + C011 rank mechanics + aligned E10; source label is internally impossible."
     }
   ],
   "notable_mtl_repairs": [
@@ -88,5 +109,16 @@
     "rebuilt complete Cerberus window and taxonomy"
   ],
   "accepted": true,
-  "accepted_date": "2026-09-16"
+  "accepted_date": "2026-09-28",
+  "prior_accepted_date": "2026-09-16",
+  "cycle2_phase5": {
+    "date": "2026-09-28",
+    "status": "independently_verified_complete_source_coverage",
+    "family_reviewed": [
+      8,
+      11
+    ],
+    "manuscript_changed": true,
+    "note": "restored mortgaged-soul metaphor and Bloody Mamba callback; documented isolated Chinese current-rank corruption"
+  }
 }
