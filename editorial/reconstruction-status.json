@@ -1692,18 +1692,30 @@
     "epub_assembly_status": "blocked_until_cycle2_closure",
     "phase5_branch": "audit/cycle2-phase5-verification",
     "phase5_ledger": "qa/cycle2-phase5-ledger.json",
-    "phase5_chapters_verified": 0,
-    "phase5_chapters_pending": 500,
-    "phase5_families_verified": 0,
-    "phase5_families_pending": 118,
+    "phase5_chapters_verified": 7,
+    "phase5_chapters_pending": 493,
+    "phase5_families_verified": 2,
+    "phase5_families_pending": 116,
     "phase5_next_family": {
-      "name": "Hellhound",
+      "name": "Hounds of Hell",
       "range": [
-        1,
-        3
+        8,
+        11
       ]
     },
-    "phase5_next_chapter": 1,
-    "phase5_standard": "Independent second complete source-to-manuscript verification for every target; diagnostics cannot independently clear a chapter."
+    "phase5_next_chapter": 8,
+    "phase5_standard": "Independent second complete source-to-manuscript verification for every target; diagnostics cannot independently clear a chapter.",
+    "phase5_manuscript_edits": 2,
+    "phase5_chapters_repaired": [
+      4,
+      6
+    ],
+    "phase5_last_completed_family": {
+      "name": "The Baskerville Dog",
+      "range": [
+        4,
+        7
+      ]
+    }
   }
 }
