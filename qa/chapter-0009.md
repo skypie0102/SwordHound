@@ -7,7 +7,7 @@
 
 - Primary semantic source: `source/chinese/chapters/009.txt` — `316950c50ba6c3774ffbc779fb319bd1bcff8874`
 - Aligned English reference: `source/chapters/chapter-009.xhtml` — `d765e36aa4083e8054c7ea179c89730cd347e398`
-- Reviewed draft: `manuscript/drafts/chapter-0009.md` — `e9cfd93a9030a2d1bc6c3c9e241ec780ca46c2f2`
+- Reviewed draft: `manuscript/drafts/chapter-0009.md` — `a3086f3a8898792368db9d47e28659b5664bf473`
 
 ## Alignment
 
@@ -41,7 +41,7 @@ Target Chapter 9 → recovered English Chapter 9 is **verified** by matching:
 5. Kept the rat’s edible-after-cleaning/cooking note inside the information block rather than scattering it into narrative prose.
 6. Restored Vikir’s Bloody Bean camping use as a way to remove the gamey smell from meat.
 7. Restored the full stake-pit preparation and his deliberate boundary crossing for more wood.
-8. Rebuilt the Hellhound window as one block: **B+**, **3 m**, **Le Rouge et Le Noir Mountain, 2nd Ridge**, the descriptive epithet ‘the dog that carries hell’, the source warning that a bite means no survival, and the sulfuric-fire description.
+8. Rebuilt the Hellhound window as one block: **B+**, **3 m**, **Le Rouge et Le Noir Mountain, 2nd Ridge**, the descriptive epithet ‘the dog that carries hell’, the source warning that a bite means no survival, and the sulfuric fire **originating from embers deep in hell** and burning until its living fuel is exhausted.
 9. Preserved the Hellhound’s straight-line charge pattern and inability to cross even shallow water.
 10. Ends with Vikir explicitly preparing **Bloody Beans / chocolate**, avoiding premature Chapter 10 payoff.
 
@@ -52,3 +52,12 @@ Earlier active-family Fandom retrieval established the canonical English Hellhou
 ## Decision
 
 **PASS at chapter level.** No semantic, coverage, terminology, explicitness, info-window, or boundary blocker remains. Final acceptance requires family QA.
+
+
+## Cycle-2 Phase 5 independent verification
+
+**Reviewed 2026-09-28.** Restored the source's internally tense blunt-blade statement, exact camp food/bed materials, Hugo's bitten-to-death warning, sky-piercing stake image, jungle-gym forest image, and Hellhound fire-origin clause; removed unsupported small-creature/hide additions.
+
+The complete Chinese source and complete post-remediation manuscript were reread line/sentence/paragraph-wise, including dialogue, narration, thoughts, information-window rows, mechanics/numbers, scene transitions, and the chapter endpoint.
+
+**Phase-5 decision:** PASS after independent verification and repair.
