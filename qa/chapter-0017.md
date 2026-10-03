@@ -7,7 +7,7 @@
 
 - Primary semantic source: `source/chinese/chapters/017.txt` — `a06435731264acf695a613b6bffc28270bd8d3fe`
 - Aligned English reference: `source/chapters/chapter-017.xhtml` — `186f5ce33d50b654427866f735e8f223e3786b3f`
-- Reviewed draft: `manuscript/drafts/chapter-0017.md` — `217b62806c86b7d4d641276fc925a0e0723823a1`
+- Reviewed draft: `manuscript/drafts/chapter-0017.md` — `8f47218a3dbeedfaabb141cc2d2f6024b302e8e1`
 - Previous continuity witness: Chinese Chapter 16 — `66d7a6dc326cd1118d5c4c06660429db0812d0f6`
 - Following-family witness: Chinese Chapter 18 — `7c313862e83ae30acfd9270ae5e0972d82eecf65`
 
@@ -61,3 +61,16 @@ Current indexed Fandom evidence independently confirms that Vikir finds **Lurkin
 ## Decision
 
 **PASS at chapter level.** No semantic, coverage, terminology, explicitness, rank, chronology, or boundary blocker remains.
+
+
+## Cycle-2 Phase 5 independent verification
+
+**Reviewed 2026-09-28.** The complete Chinese source and complete live manuscript were independently reread directly for line/sentence/paragraph, dialogue, description, transition, internal-thought, mechanic/rank, explicitness, and chapter-ending coverage.
+
+**Residual repair:** Restored the source-specific **knife in the storage cabinet**, replaced the unsupported 'if any' rarity intensification with **only a handful**, and restored the scripture name's sinister/painful character plus its design to inflict the **greatest possible pain**.
+
+After repair, no unresolved missed source line/paragraph, unsupported addition, sanitization/intensification, duplicate/displacement, numeric/rank defect, canonical drift, or boundary discrepancy remains.
+
+## Phase-5 decision
+
+**PASS after repair.** Final family acceptance is rebound through the refreshed *Solitary (14–17)* family QA.
