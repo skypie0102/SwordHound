@@ -2,14 +2,17 @@
   "chapter": 13,
   "title": "The Gluttonous Flies (2)",
   "accepted": true,
-  "accepted_date": "2026-09-16",
-  "review_mode": "chinese_primary_fandom_canonical",
+  "accepted_date": "2026-09-28",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase5",
   "title_family": {
     "name": "The Gluttonous Flies",
-    "range": [12, 13],
+    "range": [
+      12,
+      13
+    ],
     "family_qa_path": "qa/families/gluttonous-flies-0012-0013.md",
-    "family_qa_sha": "f61b2f219cb2c6c9a2835df7cd62aeb0cd7630b4",
-    "status": "pass"
+    "family_qa_sha": "7b3cfc9b46107335b72fe61f9a3054207a60d1cc",
+    "status": "pass_after_cycle2_phase5_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/013.txt",
@@ -18,11 +21,11 @@
     "english_reference_sha": "63a478d5df24e966953d739028801391a3d09727",
     "english_alignment": "verified_by_title_beelzebub_reveal_hunger_feeding_slot_windows_rank_progression_and_10th_fang_endpoint",
     "draft_path": "manuscript/drafts/chapter-0013.md",
-    "draft_sha": "4292e992c25fd210f742648cac71de9f7b500e5a",
+    "draft_sha": "571618505789835f786e2ce4f8f2b35c1d8c190a",
     "qa_path": "qa/chapter-0013.md",
-    "qa_sha": "6ae592ec4b11fde9173ba8810d2ff6ec0746ed54",
+    "qa_sha": "fd156027239a4073bc75d52462e8d92638f4ff14",
     "provenance_path": "editorial/provenance/chapter-0013.json",
-    "provenance_sha": "c615e13f935ba10ba6b088027049f7e1dfac1dd8"
+    "provenance_sha": "158f20afd79cf1947e86bf1c4c76448d79cc80df"
   },
   "canonical_checks": [
     "Beelzebub",
@@ -38,5 +41,13 @@
     "Recovered-English paragraphs about Beelzebub custody, theft, battlefield history, and explicit hand fusion are excluded because they are absent from Chinese Chapter 13.",
     "Current canonical evidence comes from indexed Fandom results where direct page access is blocked; no failed direct refresh is represented as successful.",
     "Chapter 14 practical-exam result/report material is not imported into Chapter 13."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-16",
+  "cycle2_phase5": {
+    "status": "accepted_after_independent_complete_source_verification",
+    "date": "2026-09-28",
+    "manuscript_changed": true,
+    "evidence_file": "qa/cycle2/phase5/gluttonous-flies-0012-0013.md",
+    "note": "Phase 5 repaired residual unsupported visual/causal wording, Hemorrhage force, flesh-and-organ feeding, fur wording, Incinerate persistence, and Fang comparison."
+  }
 }
