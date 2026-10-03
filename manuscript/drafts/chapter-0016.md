@@ -48,7 +48,7 @@ The Baskerville 10th Fang.
 
 Hugo, who had already become a Sword Master with seven Fangs, could hardly ignore such a possibility.
 
-… Yet the page Vikir had found did not make the manual complete.
+… Yet even after Vikir recovered the missing page from the opening portion, the manual was still incomplete.
 
 More pages were missing from the latter half.
 
@@ -240,9 +240,7 @@ He still had more than twelve hours remaining in the 10,000 Book Library.
 
 For a Baskerville child, memorizing one thin volume in that time was hardly impossible.
 
-Half a day later, Vikir would no longer be quite the same swordsman.
-
-He continued reading.
+Half a day later, not knowing what he would become, Vikir continued reading.
 
 …
 
