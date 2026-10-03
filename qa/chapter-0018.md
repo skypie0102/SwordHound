@@ -7,7 +7,7 @@
 
 - Primary semantic source: `source/chinese/chapters/018.txt` — `7c313862e83ae30acfd9270ae5e0972d82eecf65`
 - Aligned English reference: `source/chapters/chapter-018.xhtml` — `5d58111d3a188ea82343910782f38dc22da8caea`
-- Reviewed draft: `manuscript/drafts/chapter-0018.md` — `5ec87f0e1ebd2dfd8ff4022a820f9dfb1c4c14e6`
+- Reviewed draft: `manuscript/drafts/chapter-0018.md` — `0c30c3acd069f9473e618eb56c5bfae59cb204bb`
 - Previous continuity witness: accepted `manuscript/drafts/chapter-0017.md`
 - Following-family source witness: `source/chinese/chapters/019.txt` — `bc88dc2708487354d9ff29ca8978252e8001d572`
 
@@ -78,3 +78,16 @@ A separate Fandom `Martial Skills` page uses conflicting descriptive names for s
 ## Decision
 
 **PASS at chapter level.** Final acceptance requires the complete 18–19 family QA.
+
+
+## Cycle-2 Phase 5 independent verification
+
+**Reviewed 2026-09-28.** The complete Chinese source and complete live manuscript were independently reread directly.
+
+**Residual repair:** Corrected Hemorrhage from unsupported **heavy bleeding** to the source's inevitable bleeding from wounds that normally would not bleed, and restored the source's image of Beelzebub's blade thirsting for the Orc's blood **like a fish**.
+
+All dialogue, narration, description, information-window rows, violence/explicitness beats, ability/rank mechanics, continuity, and the chapter endpoint were checked.
+
+## Phase-5 decision
+
+**PASS after repair.** Final family acceptance is rebound through the refreshed *Bared Teeth (18–19)* family QA.
