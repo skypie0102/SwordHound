@@ -56,7 +56,6 @@ Footprints.
 
 Saliva.
 
-Broken brush.
 
 He pushed through withered thorns, charred roots, and old trees collapsing into rot.
 
@@ -98,9 +97,9 @@ Beyond the entrance stretched a winding passage so dark that Vikir had to feel h
 
 Unexpectedly, the darkness did not last.
 
-The passage opened into a broad stone chamber illuminated by fist-sized chunks of raw ruby embedded in the walls.
+The passage opened into a broad stone chamber illuminated by a fist-sized chunk of raw ruby protruding from the stone.
 
-Their dim red glow stained the chamber the color of blood.
+Its dim red glow stained the chamber the color of blood.
 
 Vikir watched his long shadow stretch across the stone.
 
@@ -188,7 +187,7 @@ So only one answer remained.
 
 One of us had to kill the other.’
 
-Encouraging rivalry among siblings was an old Baskerville tradition.
+Encouraging rivalry among brothers was an old Baskerville tradition.
 
 The two brothers had begun a long battle.
 
@@ -266,7 +265,7 @@ His own shadow.
 
 Vikir clenched his fist.
 
-Then he smashed the largest ruby illuminating the chamber.
+Then he smashed the ruby that illuminated the chamber.
 
 Crash!
 
@@ -308,7 +307,7 @@ Vikir carefully felt his way forward through the darkness.
 
 Fortunately, the space beyond the hidden wall was a flat, straight passage with no further traps.
 
-Cain and Abel had apparently cleared away all the monsters long ago.
+Cain and Abel had apparently cleared away all the wriggling monsters long ago.
 
 Only the dungeon’s reward remained.
 
