@@ -2,14 +2,17 @@
   "chapter": 15,
   "title": "Solitary (2)",
   "accepted": true,
-  "accepted_date": "2026-09-17",
-  "review_mode": "chinese_primary_fandom_canonical",
+  "accepted_date": "2026-09-28",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase5",
   "title_family": {
     "name": "Solitary",
-    "range": [14, 17],
+    "range": [
+      14,
+      17
+    ],
     "family_qa_path": "qa/families/solitary-0014-0017.md",
-    "family_qa_sha": "506806e1fa1da7aac61b9d54d202e3e727d14308",
-    "status": "pass"
+    "family_qa_sha": "346be3c8ac1c89484c32db10d271b92501443ad8",
+    "status": "pass_after_cycle2_phase5_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/015.txt",
@@ -18,11 +21,11 @@
     "english_reference_sha": "b081799012eb00f8ae21fc555cff817ce586cddf",
     "english_alignment": "verified_by_title_library_entry_sixth_fang_manual_miscellaneous_shelves_lurking_embedded_teeth_and_endpoint",
     "draft_path": "manuscript/drafts/chapter-0015.md",
-    "draft_sha": "6c79f7db01d40e4eb5ee823ce1007e969aca55f1",
+    "draft_sha": "e9b044d8ed815238f443331342a9d60bc4fd5c0e",
     "qa_path": "qa/chapter-0015.md",
-    "qa_sha": "f3a72f7b55976588f2eb6004fabc189f19691bf6",
+    "qa_sha": "7b3cd867d32cdc8bcdb24c3f05940c0788ce12ad",
     "provenance_path": "editorial/provenance/chapter-0015.json",
-    "provenance_sha": "3fa2a186c325647d1e200f13694a5bc4dc531cba"
+    "provenance_sha": "2f8b47483def85b99c07dddbcbbab33f8ee9b35e"
   },
   "canonical_checks": [
     "10,000 Book Library",
@@ -33,5 +36,13 @@
   "documented_limits": [
     "Fandom canonical terms do not replace Chinese mechanics or narration.",
     "The exact six-motion list follows Chinese, not the recovered English paraphrase."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-17",
+  "cycle2_phase5": {
+    "status": "accepted_after_independent_complete_source_verification",
+    "date": "2026-09-28",
+    "manuscript_changed": true,
+    "evidence_file": "qa/cycle2/phase5/solitary-0014-0017.md",
+    "note": "restored the complete Sixth-Fang manual subtitle"
+  }
 }
