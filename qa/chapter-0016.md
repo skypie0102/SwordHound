@@ -7,7 +7,7 @@
 
 - Primary semantic source: `source/chinese/chapters/016.txt` — `66d7a6dc326cd1118d5c4c06660429db0812d0f6`
 - Aligned English reference: `source/chapters/chapter-016.xhtml` — `a585d0e5d5df242bb52e478550ab651be2d93558`
-- Reviewed draft: `manuscript/drafts/chapter-0016.md` — `a26bedbdddac060808091e7aeef8b090e504f9e9`
+- Reviewed draft: `manuscript/drafts/chapter-0016.md` — `368d266cda2d09d73d13cb3de636c5921781efbc`
 - Previous continuity witness: Chinese Chapter 15 — `d2ed35aa2f110b51c245d860dbf151c9db7f2a9f`
 - Following continuity witness: Chinese Chapter 17 — `a06435731264acf695a613b6bffc28270bd8d3fe`
 
@@ -60,3 +60,16 @@ Current indexed Fandom evidence confirms **Lurking Embedded Teeth** as the scrip
 ## Decision
 
 **PASS at chapter level.** No semantic, coverage, terminology, explicitness, chronology, or boundary blocker remains.
+
+
+## Cycle-2 Phase 5 independent verification
+
+**Reviewed 2026-09-28.** The complete Chinese source and complete live manuscript were independently reread directly for line/sentence/paragraph, dialogue, description, transition, internal-thought, mechanic/rank, explicitness, and chapter-ending coverage.
+
+**Residual repair:** Restored that Vikir's first recovered torn page was from the **opening portion** of the manual, and restored the half-day transition's uncertainty: he continued reading **not knowing what he would become**.
+
+After repair, no unresolved missed source line/paragraph, unsupported addition, sanitization/intensification, duplicate/displacement, numeric/rank defect, canonical drift, or boundary discrepancy remains.
+
+## Phase-5 decision
+
+**PASS after repair.** Final family acceptance is rebound through the refreshed *Solitary (14–17)* family QA.
