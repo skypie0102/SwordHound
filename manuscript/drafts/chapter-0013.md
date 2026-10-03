@@ -12,7 +12,7 @@ Using the faint light from shattered ruby fragments, Vikir felt along the weapon
 
 Three rounded, reddish ornaments sat around the hilt like small ruby beads.
 
-From them extended a long, narrow black blade, more like an enormous spike or awl than an ordinary sword.
+From them extended a long, narrow blade, more like an enormous spike or awl than an ordinary sword.
 
 A faint green sheen glimmered around the rough hilt.
 
@@ -64,7 +64,7 @@ The answer came immediately.
 
 Bzzzzzz—
 
-Beelzebub vibrated with a sound like a fly beating its wings.
+Beelzebub buzzed through the air toward Vikir with a sound like a fly beating its wings.
 
 Vikir’s nose twitched.
 
@@ -96,7 +96,7 @@ The hunger Beelzebub shared with him was overwhelming.
 
 The stone where Beelzebub had rested and the surrounding soil had dried and warped.
 
-For a moment, Vikir wondered whether the relic’s insane hunger might even have contributed to the lifeless, scorched condition of the surrounding mountains.
+For a moment, Vikir wondered whether this entire scorched mountain had dried up and died because of Beelzebub’s insane hunger.
 
 If so, how much would he have to feed it to satisfy that appetite?
 
@@ -149,7 +149,7 @@ The ability manifested only when Vikir willed it.
 
 Anyone wounded by Beelzebub’s stinger would suffer the Hellhound’s deadly bleeding effect.
 
-Even a shallow injury that normally would not bleed much would eventually begin pouring blood, and the bleeding would last far longer than an ordinary wound.
+Even a shallow injury that normally would not bleed would inevitably begin bleeding over time, and the bleeding would last far longer than an ordinary wound.
 
 Meanwhile—
 
@@ -201,7 +201,7 @@ Beelzebub went wild at the scent of flesh and demonic energy.
 
 The fly-wing buzzing grew louder.
 
-The relic plunged into Cerberus’s body and began greedily drawing out blood and fluids.
+The relic plunged into Cerberus’s body and began greedily devouring its flesh and internal organs.
 
 Vikir stopped it almost immediately.
 
@@ -246,7 +246,7 @@ And, absurdly, the third now contained the ability of a Brown Rat Norvegicus.
 
 Vikir glanced beneath Cerberus’s corpse.
 
-Scattered bones and scraps of rat hide lay underneath it—the remains of something Cerberus had eaten earlier.
+Scattered bones and rat fur lay underneath it—the remains of something Cerberus had eaten earlier.
 
 Apparently, feeding Beelzebub stronger monsters could displace weaker abilities already stored inside it.
 
@@ -262,7 +262,7 @@ Anyone pierced by Beelzebub’s black fang could now be afflicted by the hellfir
 
 The resulting burn would not naturally heal.
 
-Once struck, the victim would have to endure searing pain until death unless some other means removed or overcame the effect.
+Once struck, the victim would have to endure searing pain until death.
 
 And burning pain was among the worst agony a human being could experience.
 
@@ -304,7 +304,7 @@ The Baskerville 9th Fang.
 
 Swordsmanship of that level was passed only within the clan’s privileged direct line—to the legitimate eldest son who would inherit the house and to selected illegitimate sons meant to support him.
 
-Compared with it, the four-Fang swordsmanship Vikir had learned in his first life was crude and incomplete.
+Compared with that highly refined swordsmanship, the four-Fang swordsmanship Vikir had learned in his first life was worlds apart.
 
 But this time things would be different.
 
