@@ -7,7 +7,7 @@
 
 - Primary semantic source: `source/chinese/chapters/015.txt` — `d2ed35aa2f110b51c245d860dbf151c9db7f2a9f`
 - Aligned English reference: `source/chapters/chapter-015.xhtml` — `b081799012eb00f8ae21fc555cff817ce586cddf`
-- Reviewed draft: `manuscript/drafts/chapter-0015.md` — `6c79f7db01d40e4eb5ee823ce1007e969aca55f1`
+- Reviewed draft: `manuscript/drafts/chapter-0015.md` — `e9b044d8ed815238f443331342a9d60bc4fd5c0e`
 - Previous continuity witness: Chinese Chapter 14 — `6985275ffc44d7d6cb13674567aeb7b4eb2abe57`
 - Following continuity witness: Chinese Chapter 16 — `66d7a6dc326cd1118d5c4c06660429db0812d0f6`
 
@@ -56,3 +56,16 @@ Current indexed Fandom evidence explicitly identifies **10,000 Book Library**, t
 ## Decision
 
 **PASS at chapter level.** No semantic, coverage, terminology, explicitness, continuity, or boundary blocker remains.
+
+
+## Cycle-2 Phase 5 independent verification
+
+**Reviewed 2026-09-28.** The complete Chinese source and complete live manuscript were independently reread directly for line/sentence/paragraph, dialogue, description, transition, internal-thought, mechanic/rank, explicitness, and chapter-ending coverage.
+
+**Residual repair:** Restored the complete source label for Hugo's recommended manual: **Baskerville Sixth Fang — Double Impaling Snaggletooth Swordsmanship**.
+
+After repair, no unresolved missed source line/paragraph, unsupported addition, sanitization/intensification, duplicate/displacement, numeric/rank defect, canonical drift, or boundary discrepancy remains.
+
+## Phase-5 decision
+
+**PASS after repair.** Final family acceptance is rebound through the refreshed *Solitary (14–17)* family QA.
