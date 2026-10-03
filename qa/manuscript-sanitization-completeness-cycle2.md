@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** **Phase 5 ACTIVE — 7/500 chapters and 2/118 families independently reverified; 2 residual repairs; next Hounds of Hell (8–11)**
+**Current stage:** **Phase 5 ACTIVE — 13/500 chapters and 4/118 families independently reverified; 8 residual repairs; next Solitary (14–17)**
 
 ## Progress
 
