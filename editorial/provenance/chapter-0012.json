@@ -4,12 +4,15 @@
   "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
   "title_family": {
     "name": "The Gluttonous Flies",
-    "range": [12, 13],
+    "range": [
+      12,
+      13
+    ],
     "boundary_status": "verified_from_chinese_headings_and_chapter_14_title_change",
     "family_qa": {
       "path": "qa/families/gluttonous-flies-0012-0013.md",
-      "blob_sha": "f61b2f219cb2c6c9a2835df7cd62aeb0cd7630b4",
-      "status": "pass"
+      "blob_sha": "7b3cfc9b46107335b72fe61f9a3054207a60d1cc",
+      "status": "pass_after_cycle2_phase5_revalidation"
     }
   },
   "primary_source": {
@@ -29,29 +32,41 @@
       "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
       "page_title": "Cain Baskerville",
       "access_mode": "indexed_current_result",
-      "applies_to": ["Cain Baskerville", "Abel Baskerville twin relationship", "ancient dungeon context"]
+      "applies_to": [
+        "Cain Baskerville",
+        "Abel Baskerville twin relationship",
+        "ancient dungeon context"
+      ]
     },
     {
       "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
       "page_title": "Abel Baskerville",
       "access_mode": "indexed_current_result",
-      "applies_to": ["Abel Baskerville", "younger twin", "killed by Cain after riddle misunderstanding"]
+      "applies_to": [
+        "Abel Baskerville",
+        "younger twin",
+        "killed by Cain after riddle misunderstanding"
+      ]
     },
     {
       "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
       "page_title": "Dungeon",
       "access_mode": "indexed_current_result",
-      "applies_to": ["Red Fang Mountain", "Le Rouge et Le Noir Mountain connection", "Beelzebub dungeon identity"]
+      "applies_to": [
+        "Red Fang Mountain",
+        "Le Rouge et Le Noir Mountain connection",
+        "Beelzebub dungeon identity"
+      ]
     }
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0012.md",
-    "blob_sha": "22efa5f1cd7e2fd78dfb708bd2f0590a74d67b32"
+    "blob_sha": "596f7fc4b03d505b60011f05609a7298b7a433f3"
   },
   "qa": {
     "path": "qa/chapter-0012.md",
-    "blob_sha": "689cb3d7d13c0de8386a86c89f5391633e98562a",
-    "status": "pass"
+    "blob_sha": "3974ba0bb7473fcabd16984e37313948154c08ea",
+    "status": "pass_after_cycle2_phase5_revalidation"
   },
   "boundary_witnesses": [
     {
@@ -102,5 +117,17 @@
     "preserved source-authentic 12→13 relic overlap"
   ],
   "accepted": true,
-  "accepted_date": "2026-09-16"
+  "accepted_date": "2026-09-28",
+  "prior_accepted_date": "2026-09-16",
+  "cycle2_phase5": {
+    "date": "2026-09-28",
+    "status": "pass_after_independent_complete_source_verification",
+    "family_reviewed": [
+      12,
+      13
+    ],
+    "manuscript_changed": true,
+    "evidence_file": "qa/cycle2/phase5/gluttonous-flies-0012-0013.md",
+    "note": "Phase 5 repaired the single-ruby riddle mechanics and removed/restored small residual unsupported/omitted details."
+  }
 }
