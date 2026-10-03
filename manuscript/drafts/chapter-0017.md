@@ -72,7 +72,7 @@ The fifth Fang had begun to grow.
 
 If he had possessed a blade, he would have poured aura into it immediately and tested the result.
 
-Naturally, there was no weapon lying around the library.
+Naturally, there was no knife in the storage cabinet.
 
 And drawing Beelzebub from the blood vessel in his wrist was absolutely out of the question in a place like this.
 
@@ -134,7 +134,7 @@ For many swordsmen, Sword Graduator was a dream they would never reach in an ent
 
 By a mage’s scale, Vikir’s current state roughly corresponded to the Fourth Circle.
 
-Among the Baskervilles of the last century, there could not have been many—if any—who had reached such a level at his age.
+Among the Baskervilles of the last century, only a handful could have reached such a level at his age.
 
 “… And the character of the swordsmanship itself has changed.”
 
@@ -154,13 +154,13 @@ In other words, it was ideal swordsmanship for hounds expected to be used as dis
 
 What Vikir had learned from *Lurking Embedded Teeth* was different.
 
-Its very nature was concealed and vicious.
+The very name carried a sense of sinister intent and pain.
 
 The sword moved slowly without openly displaying its power.
 
 At first glance, the technique could even look graceful and dignified.
 
-Beneath that calm surface, however, lay deliberate cruelty.
+Beneath that calm surface, however, lay a malicious design to inflict the greatest possible pain.
 
 Once a strike landed, the following sequence relentlessly compounded the wound until the victim might begin to think death preferable to enduring the pain.
 
