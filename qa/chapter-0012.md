@@ -7,7 +7,7 @@
 
 - Primary semantic source: `source/chinese/chapters/012.txt` — `9cbd4648873cda28a0e9410966d0643dda873968`
 - Aligned English reference: `source/chapters/chapter-012.xhtml` — `594ce3566f95cc8983e1298a593967f41ab73c3f`
-- Reviewed draft: `manuscript/drafts/chapter-0012.md` — `22efa5f1cd7e2fd78dfb708bd2f0590a74d67b32`
+- Reviewed draft: `manuscript/drafts/chapter-0012.md` — `596f7fc4b03d505b60011f05609a7298b7a433f3`
 - Previous-boundary witness: accepted Chapter 11 ends with Cerberus collapsed after seven steps.
 - Following-family witness: Chinese Chapter 13 continues the Beelzebub inscription/relic reveal.
 
@@ -55,3 +55,16 @@ Current indexed Fandom evidence establishes **Cain Baskerville**, **Abel Baskerv
 ## Decision
 
 **PASS at chapter level.** Final acceptance requires the 12–13 family QA.
+
+
+## Cycle-2 Phase 5 independent verification
+
+**Reviewed 2026-09-28.** The complete Chinese source and complete live manuscript were independently reread line-by-line / sentence-by-sentence rather than accepted from prior PASS evidence.
+
+**Residual repair:** Corrected the riddle chamber from unsupported plural rubies to the source's single fist-sized ruby that lights the chamber, removed unsupported “broken brush,” restored brother-specific rivalry wording, and restored the source's “wriggling monsters” detail.
+
+After repair, direct coverage verification found no remaining missed source line, paragraph, dialogue beat, information-window row, number/mechanic, unsupported addition, sanitization/intensification defect, duplicate/displacement, or chapter-boundary discrepancy.
+
+## Phase-5 decision
+
+**PASS after repair.** Final family acceptance is rebound through the refreshed *The Gluttonous Flies (12–13)* family QA.
