@@ -4,12 +4,15 @@
   "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
   "title_family": {
     "name": "Solitary",
-    "range": [14, 17],
+    "range": [
+      14,
+      17
+    ],
     "boundary_status": "verified_from_chinese_and_recovered_english_headings",
     "family_qa": {
       "path": "qa/families/solitary-0014-0017.md",
-      "blob_sha": "506806e1fa1da7aac61b9d54d202e3e727d14308",
-      "status": "pass"
+      "blob_sha": "346be3c8ac1c89484c32db10d271b92501443ad8",
+      "status": "pass_after_cycle2_phase5_revalidation"
     }
   },
   "primary_source": {
@@ -28,22 +31,30 @@
     {
       "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
       "page_title": "Vikir Van Baskerville/Synopsis",
-      "applies_to": ["Lurking Embedded Teeth", "Fifth Fang breakthrough", "book burning", "subsequent Hugo summons"]
+      "applies_to": [
+        "Lurking Embedded Teeth",
+        "Fifth Fang breakthrough",
+        "book burning",
+        "subsequent Hugo summons"
+      ]
     },
     {
       "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
       "page_title": "Sword Skills",
-      "applies_to": ["Baskerville Fang Sword Style", "numbered Fangs"]
+      "applies_to": [
+        "Baskerville Fang Sword Style",
+        "numbered Fangs"
+      ]
     }
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0017.md",
-    "blob_sha": "217b62806c86b7d4d641276fc925a0e0723823a1"
+    "blob_sha": "8f47218a3dbeedfaabb141cc2d2f6024b302e8e1"
   },
   "qa": {
     "path": "qa/chapter-0017.md",
-    "blob_sha": "1ca241417fbc048ce4745ef71c47b4c9ab86dbe6",
-    "status": "pass"
+    "blob_sha": "35cd10debdef356afec87f6ce4a92f7d5ab19875",
+    "status": "pass_after_cycle2_phase5_revalidation"
   },
   "documented_decisions": [
     {
@@ -82,5 +93,17 @@
     "stopped before Chapter 18 Hugo test scene"
   ],
   "accepted": true,
-  "accepted_date": "2026-09-17"
+  "accepted_date": "2026-09-28",
+  "prior_accepted_date": "2026-09-17",
+  "cycle2_phase5": {
+    "date": "2026-09-28",
+    "status": "pass_after_independent_complete_source_verification",
+    "family_reviewed": [
+      14,
+      17
+    ],
+    "manuscript_changed": true,
+    "evidence_file": "qa/cycle2/phase5/solitary-0014-0017.md",
+    "note": "restored storage-cabinet knife detail, century rarity force, and maximum-pain scripture characterization"
+  }
 }
