@@ -7,7 +7,7 @@
 
 - Primary semantic source: `source/chinese/chapters/013.txt` — `9187c6e887445ee9cd416f323939e7165f0ada4b`
 - Aligned English reference: `source/chapters/chapter-013.xhtml` — `63a478d5df24e966953d739028801391a3d09727`
-- Reviewed draft: `manuscript/drafts/chapter-0013.md` — `4292e992c25fd210f742648cac71de9f7b500e5a`
+- Reviewed draft: `manuscript/drafts/chapter-0013.md` — `571618505789835f786e2ce4f8f2b35c1d8c190a`
 - Following-family witness: `source/chinese/chapters/014.txt` — `6985275ffc44d7d6cb13674567aeb7b4eb2abe57`
 - Recovered English Chapter 14 title witness: `source/chapters/chapter-014.xhtml` — `1f9904992e6d0354590d923fcab450f7ab60fa14`
 
@@ -69,3 +69,16 @@ Wiki summaries are not used to restore narrative paragraphs absent from Chinese.
 ## Decision
 
 **PASS at chapter level.** Final acceptance requires family QA.
+
+
+## Cycle-2 Phase 5 independent verification
+
+**Reviewed 2026-09-28.** The complete Chinese source and complete live manuscript were independently reread line-by-line / sentence-by-sentence rather than accepted from prior PASS evidence.
+
+**Residual repair:** Removed unsupported black-blade color, restored Beelzebub's buzzing movement toward Vikir, strengthened the mountain-desiccation speculation to source force, corrected the Hemorrhage description from unsupported “pouring” to inevitable bleeding, restored flesh/internal-organ feeding, corrected rat hide to fur, removed an unsupported exception to Incinerate's until-death pain, and normalized the four-Fang comparison to the source's “worlds apart” wording.
+
+After repair, direct coverage verification found no remaining missed source line, paragraph, dialogue beat, information-window row, number/mechanic, unsupported addition, sanitization/intensification defect, duplicate/displacement, or chapter-boundary discrepancy.
+
+## Phase-5 decision
+
+**PASS after repair.** Final family acceptance is rebound through the refreshed *The Gluttonous Flies (12–13)* family QA.
