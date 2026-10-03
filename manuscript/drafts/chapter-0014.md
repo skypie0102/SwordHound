@@ -106,7 +106,7 @@ Barrymore was reminded once again of just how merciless Baskerville family custo
 
 Hugo’s tone remained flat.
 
-“I do not worship bloodline the way the previous patriarch did. Good blood produces failures. Low blood produces excellence. I do not care whether a son was born from an imperial princess or a street prostitute. Talent and nerve are what matter.”
+“I do not worship bloodline the way the previous patriarch did. Good blood produces failures. Low blood produces excellence. I do not care whether a son was born to an imperial woman or a prostitute. Talent and nerve are what matter.”
 
 His gaze drifted through the window toward a distant tower.
 
@@ -228,7 +228,7 @@ Hugo’s eyes narrowed.
 
 The 10,000 Book Library lay deep within the Baskerville Clan’s main castle.
 
-It was one of the largest libraries in the empire, vast enough to be compared with the great library of the Morgue Clan.
+It was one of the largest libraries in the world, vast enough to be compared with the great library of the Morgue Clan.
 
 Hugo rubbed his chin and fell briefly into thought—an unusually long hesitation for him.
 
@@ -305,6 +305,8 @@ Yet Hugo was allowing Vikir to read it, even if only briefly.
 The present Hugo could draw seven Fangs.
 
 The Hugo Vikir remembered from before his regression had eventually reached nine.
+
+Considering that, allowing Vikir even temporary access to the Sixth Fang was truly exceptional treatment.
 
 Compared with the four-Fang swordsmanship Vikir had been allowed to learn in his first life, the Sixth Fang belonged to an entirely different level.
 
