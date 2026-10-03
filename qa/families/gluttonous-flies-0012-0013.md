@@ -18,8 +18,8 @@ Recovered English Chapters 12–13 independently match the dungeon / Beelzebub /
 
 | Target | Chinese source SHA | English reference SHA | Final draft SHA | Chapter QA SHA | Status |
 | --- | --- | --- | --- | --- | --- |
-| 12 | `9cbd4648873cda28a0e9410966d0643dda873968` | `594ce3566f95cc8983e1298a593967f41ab73c3f` | `22efa5f1cd7e2fd78dfb708bd2f0590a74d67b32` | `689cb3d7d13c0de8386a86c89f5391633e98562a` | PASS |
-| 13 | `9187c6e887445ee9cd416f323939e7165f0ada4b` | `63a478d5df24e966953d739028801391a3d09727` | `4292e992c25fd210f742648cac71de9f7b500e5a` | `6ae592ec4b11fde9173ba8810d2ff6ec0746ed54` | PASS |
+| 12 | `9cbd4648873cda28a0e9410966d0643dda873968` | `594ce3566f95cc8983e1298a593967f41ab73c3f` | `596f7fc4b03d505b60011f05609a7298b7a433f3` | `3974ba0bb7473fcabd16984e37313948154c08ea` | PASS |
+| 13 | `9187c6e887445ee9cd416f323939e7165f0ada4b` | `63a478d5df24e966953d739028801391a3d09727` | `571618505789835f786e2ce4f8f2b35c1d8c190a` | `fd156027239a4073bc75d52462e8d92638f4ff14` | PASS |
 
 Following-family witnesses:
 - Chinese Chapter 14 — `6985275ffc44d7d6cb13674567aeb7b4eb2abe57`
@@ -110,3 +110,17 @@ No slot row is left outside its window.
 **PASS. Chapters 12–13 may be accepted together.**
 
 No semantic, coverage, continuity, terminology, explicitness, information-window, or family-boundary blocker remains.
+
+
+## Cycle-2 Phase 5 independent verification
+
+**Reviewed:** 2026-09-28  
+**Family result:** **PASS after repair — 2/2 independently source-verified**
+
+- Chapter 12: corrected the riddle chamber to the source's **single ruby** rather than unsupported plural rubies, removed unsupported “broken brush,” restored brother-specific rivalry wording, and restored the “wriggling monsters” detail.
+- Chapter 13: removed unsupported black-blade color; restored Beelzebub's buzzing movement, the full mountain-desiccation speculation, inevitable-but-not-“pouring” Hemorrhage wording, explicit flesh/internal-organ feeding, rat **fur**, source-level Incinerate persistence, and the source's “worlds apart” four-Fang comparison.
+- Every source dialogue line, narration beat, description, transition, internal thought, information-window row, number/rank/mechanic, and chapter ending was independently checked after repair.
+- No unresolved omission, unsupported addition, softening/intensification, duplicate/displacement, canonical drift, or boundary defect remains.
+- The source-authentic 12→13 relic-inscription overlap remains intentional; target 14 begins *Solitary (1)*.
+
+**Phase-5 disposition:** family clear; continue to **Solitary (14–17)**.
