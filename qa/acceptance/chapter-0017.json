@@ -2,14 +2,17 @@
   "chapter": 17,
   "title": "Solitary (4)",
   "accepted": true,
-  "accepted_date": "2026-09-17",
-  "review_mode": "chinese_primary_fandom_canonical",
+  "accepted_date": "2026-09-28",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase5",
   "title_family": {
     "name": "Solitary",
-    "range": [14, 17],
+    "range": [
+      14,
+      17
+    ],
     "family_qa_path": "qa/families/solitary-0014-0017.md",
-    "family_qa_sha": "506806e1fa1da7aac61b9d54d202e3e727d14308",
-    "status": "pass"
+    "family_qa_sha": "346be3c8ac1c89484c32db10d271b92501443ad8",
+    "status": "pass_after_cycle2_phase5_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/017.txt",
@@ -18,11 +21,11 @@
     "english_reference_sha": "186f5ce33d50b654427866f735e8f223e3786b3f",
     "english_alignment": "verified_by_title_fifth_fang_low_graduator_beelzebub_power_estimate_book_burning_servants_and_hugo_summons_endpoint",
     "draft_path": "manuscript/drafts/chapter-0017.md",
-    "draft_sha": "217b62806c86b7d4d641276fc925a0e0723823a1",
+    "draft_sha": "8f47218a3dbeedfaabb141cc2d2f6024b302e8e1",
     "qa_path": "qa/chapter-0017.md",
-    "qa_sha": "1ca241417fbc048ce4745ef71c47b4c9ab86dbe6",
+    "qa_sha": "35cd10debdef356afec87f6ce4a92f7d5ab19875",
     "provenance_path": "editorial/provenance/chapter-0017.json",
-    "provenance_sha": "4e4d7953c27785e5aa347148ac777644622db2d8"
+    "provenance_sha": "3d4878a46dafe9b7604a1749026942dd42537d36"
   },
   "canonical_checks": [
     "Lurking Embedded Teeth",
@@ -36,5 +39,13 @@
   "documented_limits": [
     "Vikir's 100% assassination / approximately 50% frontal-combat figures are preserved as his own estimate, not presented as an objective universal probability.",
     "Chapter 18's Hugo test scene is not imported before the Solitary family endpoint."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-17",
+  "cycle2_phase5": {
+    "status": "accepted_after_independent_complete_source_verification",
+    "date": "2026-09-28",
+    "manuscript_changed": true,
+    "evidence_file": "qa/cycle2/phase5/solitary-0014-0017.md",
+    "note": "restored storage-cabinet knife detail, century rarity force, and maximum-pain scripture characterization"
+  }
 }
