@@ -1,5 +1,18 @@
 # Reconstruction Progress
 
+## 2026-09-28 — Cycle 2 Phase 5 — 13/500 independently verified
+
+Phase 5 has independently cleared **Hellhound (1–3)**, **The Baskerville Dog (4–7)**, **Hounds of Hell (8–11)**, and **The Gluttonous Flies (12–13)**.
+
+- chapters independently reverified: **13 / 500**;
+- title families independently reverified: **4 / 118**;
+- residual manuscript repairs found: **8**;
+- Chapters **8–13** all required residual repairs after direct source reread;
+- The Gluttonous Flies repairs corrected the single-ruby riddle mechanics plus residual Beelzebub/Hemorrhage/feeding/Incinerate/Fang details;
+- full dependent QA/provenance/acceptance/tracker bindings refreshed through Chapter **13**;
+- next family: **Solitary (14–17)**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-28 — Cycle 2 Phase 5 — 7/500 independently verified
 
 Phase 5 has independently cleared **Hellhound (1–3)** and **The Baskerville Dog (4–7)**.
