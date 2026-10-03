@@ -18,8 +18,8 @@ Recovered English Chapters 18–20 independently match the same title-family tra
 
 | Target | Chinese source SHA | English reference SHA | Final draft SHA | Chapter QA SHA | Status |
 | --- | --- | --- | --- | --- | --- |
-| 18 | `7c313862e83ae30acfd9270ae5e0972d82eecf65` | `5d58111d3a188ea82343910782f38dc22da8caea` | `5ec87f0e1ebd2dfd8ff4022a820f9dfb1c4c14e6` | `73d94ecad060606f77111fec4ee3c9fabac857ec` | PASS |
-| 19 | `bc88dc2708487354d9ff29ca8978252e8001d572` | `bdaa1abc7dfe521570a9998c43099c576da16d37` | `9ce9bca35ff2b02ac8362d408d256ea42e47194e` | `8c392cd67005b44826ab58e927996efd06efcc92` | PASS |
+| 18 | `7c313862e83ae30acfd9270ae5e0972d82eecf65` | `5d58111d3a188ea82343910782f38dc22da8caea` | `0c30c3acd069f9473e618eb56c5bfae59cb204bb` | `88310e8b950e5e74cf216c7ff6a23cbecaae663d` | PASS |
+| 19 | `bc88dc2708487354d9ff29ca8978252e8001d572` | `bdaa1abc7dfe521570a9998c43099c576da16d37` | `9ce9bca35ff2b02ac8362d408d256ea42e47194e` | `7b650156a4e5f39333eee607928f5f8c94cc8259` | PASS |
 
 Boundary witness Chapter 20 Chinese SHA: `b4b2011e2c0ab569f7ee420c05608498970d2dd8`.
 
@@ -92,3 +92,17 @@ Nothing is softened for palatability and nothing is intensified beyond the Chine
 **PASS. Chapters 18–19 may be accepted together.**
 
 No semantic, coverage, continuity, terminology, explicitness, information-window, reveal-chronology, or chapter-boundary blocker remains. The next required family begins at Chapter 20, *Camus Morgue (1)*.
+
+
+## Cycle-2 Phase 5 independent verification
+
+**Reviewed:** 2026-09-28  
+**Family result:** **PASS after repair — 2/2 independently source-verified**
+
+- Chapter 18: corrected Hemorrhage from unsupported **heavy bleeding** to the source's inevitable bleeding from wounds that normally would not bleed, and restored the image of Beelzebub's blade thirsting for the Orc's blood **like a fish**.
+- Chapter 19: complete direct source-to-manuscript reread passed unchanged. Troll selection, starvation/restraints, stamina-drain logic, first Fang failure, Hemorrhage fallback, restraint release, aura-density increase, two-Fang kill, Mid Sword Expert public reveal, and decapitation endpoint all match the Chinese.
+- The documented Chapter-18 isolated fifteen-year age contradiction remains correctly resolved by surrounding source evidence: Vikir is eight and publicly demonstrates the level normally reached around fifteen.
+- No unresolved omission, unsupported addition, softening/intensification, duplicate/displacement, rank/mechanic defect, canonical drift, or boundary issue remains.
+- Chapter 19 still ends before Chapter 20's Troll-derived Beelzebub slot update.
+
+**Phase-5 disposition:** family clear; continue to **Camus Morgue (20–25)**.
