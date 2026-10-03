@@ -2,14 +2,17 @@
   "chapter": 12,
   "title": "The Gluttonous Flies (1)",
   "accepted": true,
-  "accepted_date": "2026-09-16",
-  "review_mode": "chinese_primary_fandom_canonical",
+  "accepted_date": "2026-09-28",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase5",
   "title_family": {
     "name": "The Gluttonous Flies",
-    "range": [12, 13],
+    "range": [
+      12,
+      13
+    ],
     "family_qa_path": "qa/families/gluttonous-flies-0012-0013.md",
-    "family_qa_sha": "f61b2f219cb2c6c9a2835df7cd62aeb0cd7630b4",
-    "status": "pass"
+    "family_qa_sha": "7b3cfc9b46107335b72fe61f9a3054207a60d1cc",
+    "status": "pass_after_cycle2_phase5_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/012.txt",
@@ -18,11 +21,11 @@
     "english_reference_sha": "594ce3566f95cc8983e1298a593967f41ab73c3f",
     "english_alignment": "verified_by_title_collapsed_cerberus_dungeon_cain_abel_shadow_riddle_ruby_solution_and_relic_endpoint",
     "draft_path": "manuscript/drafts/chapter-0012.md",
-    "draft_sha": "22efa5f1cd7e2fd78dfb708bd2f0590a74d67b32",
+    "draft_sha": "596f7fc4b03d505b60011f05609a7298b7a433f3",
     "qa_path": "qa/chapter-0012.md",
-    "qa_sha": "689cb3d7d13c0de8386a86c89f5391633e98562a",
+    "qa_sha": "3974ba0bb7473fcabd16984e37313948154c08ea",
     "provenance_path": "editorial/provenance/chapter-0012.json",
-    "provenance_sha": "016eedb297eab1b67bfcee2e1c27c3f947b6ce6e"
+    "provenance_sha": "4964516014b7633ced9e996833ce773bf6cfbad4"
   },
   "canonical_checks": [
     "Cain Baskerville",
@@ -34,5 +37,13 @@
   "documented_limits": [
     "Fandom evidence is used for canonical English naming only; Chinese controls the note, riddle, one-skeleton detail, and chapter reveal sequence.",
     "Chapter 13 Beelzebub mechanics are deliberately not imported before the Chapter 12 endpoint."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-16",
+  "cycle2_phase5": {
+    "status": "accepted_after_independent_complete_source_verification",
+    "date": "2026-09-28",
+    "manuscript_changed": true,
+    "evidence_file": "qa/cycle2/phase5/gluttonous-flies-0012-0013.md",
+    "note": "Phase 5 repaired the single-ruby riddle mechanics and residual unsupported/omitted details."
+  }
 }
