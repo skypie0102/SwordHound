@@ -272,7 +272,7 @@ The Hellhound’s **Hemorrhage** overwhelmed the Orc’s High-Speed Regeneration
 
 Now the Orc would experience the full lethality of a Hellhound’s bite.
 
-Even a shallow wound that would normally shed little blood would begin bleeding heavily with time, and the bleeding would persist far longer than an ordinary injury.
+Even a shallow wound that normally would not bleed would inevitably begin bleeding over time, and the bleeding would persist far longer than an ordinary injury.
 
 A severed wrist and ankle were far worse.
 
@@ -280,7 +280,7 @@ Gulp… gulp… gulp…
 
 The blood staining Vikir’s shortsword slowly vanished.
 
-The blade, carrying Beelzebub’s power, drank the Orc’s blood greedily while the creature could do nothing but continue supplying it.
+The blade, carrying Beelzebub’s power, thirsted for the Orc’s blood like a fish, while the creature could do nothing but continue supplying it.
 
 Then—
 
