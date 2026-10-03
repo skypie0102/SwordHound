@@ -7,7 +7,7 @@
 
 - Primary semantic source: `source/chinese/chapters/014.txt` — `6985275ffc44d7d6cb13674567aeb7b4eb2abe57`
 - Aligned English reference: `source/chapters/chapter-014.xhtml` — `1f9904992e6d0354590d923fcab450f7ab60fa14`
-- Reviewed draft: `manuscript/drafts/chapter-0014.md` — `556a0e1ff32eb251b35b71f4222b208e04b1f1ae`
+- Reviewed draft: `manuscript/drafts/chapter-0014.md` — `a8c768f668c49fd5a84db07382efb39fc82b714d`
 - Previous-family witness: Chinese Chapter 13 — `9187c6e887445ee9cd416f323939e7165f0ada4b`
 - Following-family continuity: Chinese Chapter 15 — `d2ed35aa2f110b51c245d860dbf151c9db7f2a9f`
 
@@ -56,3 +56,16 @@ Current indexed Fandom evidence independently identifies the **10,000 Book Libra
 ## Decision
 
 **PASS at chapter level.** No semantic, coverage, terminology, explicitness, continuity, or boundary blocker remains.
+
+
+## Cycle-2 Phase 5 independent verification
+
+**Reviewed 2026-09-28.** The complete Chinese source and complete live manuscript were independently reread directly for line/sentence/paragraph, dialogue, description, transition, internal-thought, mechanic/rank, explicitness, and chapter-ending coverage.
+
+**Residual repair:** Restored Hugo's source-level bloodline example as **an imperial woman or a prostitute**, restored the 10,000 Book Library as one of the largest libraries **in the world**, and restored the explicit statement that temporary Sixth-Fang access was extraordinary treatment.
+
+After repair, no unresolved missed source line/paragraph, unsupported addition, sanitization/intensification, duplicate/displacement, numeric/rank defect, canonical drift, or boundary discrepancy remains.
+
+## Phase-5 decision
+
+**PASS after repair.** Final family acceptance is rebound through the refreshed *Solitary (14–17)* family QA.
