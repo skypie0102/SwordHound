@@ -108,7 +108,7 @@ The case opened.
 
 Inside rested the manual Hugo had recommended.
 
-**Baskerville Sixth Fang.**
+**Baskerville Sixth Fang — Double Impaling Snaggletooth Swordsmanship.**
 
 Swordsmanship of a level Vikir had never been allowed to dream of in his previous life.
 
