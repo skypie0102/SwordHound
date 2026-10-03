@@ -4,12 +4,15 @@
   "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
   "title_family": {
     "name": "The Gluttonous Flies",
-    "range": [12, 13],
+    "range": [
+      12,
+      13
+    ],
     "boundary_status": "verified_from_chinese_headings_and_chapter_14_title_change",
     "family_qa": {
       "path": "qa/families/gluttonous-flies-0012-0013.md",
-      "blob_sha": "f61b2f219cb2c6c9a2835df7cd62aeb0cd7630b4",
-      "status": "pass"
+      "blob_sha": "7b3cfc9b46107335b72fe61f9a3054207a60d1cc",
+      "status": "pass_after_cycle2_phase5_revalidation"
     }
   },
   "primary_source": {
@@ -29,25 +32,41 @@
       "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
       "page_title": "Beelzebub",
       "access_mode": "indexed_current_result",
-      "applies_to": ["Beelzebub", "The Fly of Gluttony", "Gluttonous Blade", "three-slot absorption concept"]
+      "applies_to": [
+        "Beelzebub",
+        "The Fly of Gluttony",
+        "Gluttonous Blade",
+        "three-slot absorption concept"
+      ]
     },
     {
       "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
       "page_title": "Vikir Van Baskerville/Equipment",
       "access_mode": "indexed_current_result",
-      "applies_to": ["Hemorrhage — Hellhound (B+)", "Incinerate — Cerberus (A+)", "Rapid Regeneration — Brown Rat Norvegicus (F)"]
+      "applies_to": [
+        "Hemorrhage — Hellhound (B+)",
+        "Incinerate — Cerberus (A+)",
+        "Rapid Regeneration — Brown Rat Norvegicus (F)"
+      ]
     },
     {
       "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
       "page_title": "Baskerville Clan/Swordsmanship",
       "access_mode": "indexed_current_result",
-      "applies_to": ["Baskerville Fang Sword Style", "numbered Fangs", "Sword Expert", "Sword Graduator"]
+      "applies_to": [
+        "Baskerville Fang Sword Style",
+        "numbered Fangs",
+        "Sword Expert",
+        "Sword Graduator"
+      ]
     },
     {
       "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
       "page_title": "Sword Skills",
       "access_mode": "indexed_current_result",
-      "applies_to": ["1st–10th Fang naming"]
+      "applies_to": [
+        "1st–10th Fang naming"
+      ]
     }
   ],
   "canonical_reference_access": {
@@ -57,12 +76,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0013.md",
-    "blob_sha": "4292e992c25fd210f742648cac71de9f7b500e5a"
+    "blob_sha": "571618505789835f786e2ce4f8f2b35c1d8c190a"
   },
   "qa": {
     "path": "qa/chapter-0013.md",
-    "blob_sha": "6ae592ec4b11fde9173ba8810d2ff6ec0746ed54",
-    "status": "pass"
+    "blob_sha": "fd156027239a4073bc75d52462e8d92638f4ff14",
+    "status": "pass_after_cycle2_phase5_revalidation"
   },
   "boundary_witnesses": [
     {
@@ -122,5 +141,17 @@
     "preserved unhealing Incinerate burn pain and corpse-feeding details"
   ],
   "accepted": true,
-  "accepted_date": "2026-09-16"
+  "accepted_date": "2026-09-28",
+  "prior_accepted_date": "2026-09-16",
+  "cycle2_phase5": {
+    "date": "2026-09-28",
+    "status": "pass_after_independent_complete_source_verification",
+    "family_reviewed": [
+      12,
+      13
+    ],
+    "manuscript_changed": true,
+    "evidence_file": "qa/cycle2/phase5/gluttonous-flies-0012-0013.md",
+    "note": "Phase 5 repaired residual unsupported visual/causal wording, Hemorrhage force, flesh-and-organ feeding, fur wording, Incinerate persistence, and Fang comparison."
+  }
 }
